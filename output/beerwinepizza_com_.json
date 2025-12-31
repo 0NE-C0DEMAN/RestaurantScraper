@@ -1,0 +1,830 @@
+[
+  {
+    "name": "Buffalo Cauliflower",
+    "description": "(Blue Cheese)",
+    "price": "$11",
+    "menu_type": "SNACKS & APPS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cheddar Bites",
+    "description": "(Panko Encrusted, Cheese Curds, BWP Sauce)",
+    "price": "$11",
+    "menu_type": "SNACKS & APPS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "The Springs Pretzel",
+    "description": "(Jumbo Bavarian, Beer Cheese Sauce)",
+    "price": "$12",
+    "menu_type": "SNACKS & APPS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Blue Knights Chips & Dips",
+    "description": "(Seasoned Corn Chips, Salsa, Queso, Guacamole)",
+    "price": "$11",
+    "menu_type": "SNACKS & APPS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Blue Streaks Nachos",
+    "description": "(Corn Chips, Shredded Seasoned Cheese, Queso, Jalapeños, Salsa, Black Olives, Lettuce, Tomato, Sour Cream). Add Chicken, Chili, Or Pulled Pork For 3 | Add Guacamole 3",
+    "price": "$14",
+    "menu_type": "SNACKS & APPS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Trifecta Sliders",
+    "description": "(Swiss Mushroom Burger, Blue Burger, Pulled Pork). 3 for 15",
+    "price": "$6",
+    "menu_type": "SNACKS & APPS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Spinach Artichoke Dip",
+    "description": "(Corn Chips)",
+    "price": "$12",
+    "menu_type": "SNACKS & APPS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Jumbo Buffalo Wings",
+    "description": "Add Celery & Blue Cheese Or Ranch 2",
+    "price": "6/$12 | 12/$21 | 18/$30",
+    "menu_type": "SNACKS & APPS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Panko Encrusted Chicken Fingers",
+    "description": "",
+    "price": "$13",
+    "menu_type": "SNACKS & APPS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Boneless Chicken Bites",
+    "description": "",
+    "price": "$12",
+    "menu_type": "SNACKS & APPS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "BWP Cheese",
+    "description": "",
+    "price": "$14",
+    "menu_type": "HAND TOSSED WOODSTONE PIZZA",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Neapolitan",
+    "description": "(Fresh Mozzarella, Basil, House Red, EVOO)",
+    "price": "$16",
+    "menu_type": "HAND TOSSED WOODSTONE PIZZA",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "2West Pepperoni",
+    "description": "(Mozzarella, House Red, Jalapeños, Honey Sriracha)",
+    "price": "$16",
+    "menu_type": "HAND TOSSED WOODSTONE PIZZA",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Buffalo",
+    "description": "(Shredded Chicken, Mozzarella, RedHot, Blue Cheese, Diced Celery)",
+    "price": "$16",
+    "menu_type": "HAND TOSSED WOODSTONE PIZZA",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Meat Lovers",
+    "description": "(Sausage, Bacon, Pepperoni, Mozzarella, Red Sauce)",
+    "price": "$17",
+    "menu_type": "HAND TOSSED WOODSTONE PIZZA",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Veggie White",
+    "description": "(Mushrooms, Peppers, Onion, Tomatoes, Spinach, Garlic Oil)",
+    "price": "$18",
+    "menu_type": "HAND TOSSED WOODSTONE PIZZA",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "BWP",
+    "description": "(LTO, BWP Sauce). add cheese +2",
+    "price": "$15",
+    "menu_type": "STEAK BURGERS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Bourbon BBQ",
+    "description": "(Cheddar Cheese, Bacon, Onion Ring, BBQ Glaze)",
+    "price": "$17",
+    "menu_type": "STEAK BURGERS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Swiss Mushroom",
+    "description": "(with LTO )",
+    "price": "$16",
+    "menu_type": "STEAK BURGERS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Blue",
+    "description": "(Bacon, Blue Cheese Crumbles, LTO)",
+    "price": "$17",
+    "menu_type": "STEAK BURGERS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Guac",
+    "description": "(Beyond Burger, Spinach, Tomato, Topped with Guacamole, Lime Aioli)",
+    "price": "$18",
+    "menu_type": "STEAK BURGERS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fishwich",
+    "description": "(Toasted Brioche Bun, Fried Fish, Lettuce, Tomato, Tartar Sauce)",
+    "price": "$16",
+    "menu_type": "HANDHELDS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cajun Grilled Chicken",
+    "description": "(Blackened Grilled Chicken, Toasted Bun with Pico, Lettuce, Chipotle Aioli)",
+    "price": "$18",
+    "menu_type": "HANDHELDS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pulled Pork",
+    "description": "(Brioche Bun, Coleslaw, BBQ)",
+    "price": "$17",
+    "menu_type": "HANDHELDS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Turkey Club",
+    "description": "(Toasted White Bread, Turkey, Mayo, Romaine, Sliced Tomato, Bacon)",
+    "price": "$17",
+    "menu_type": "HANDHELDS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "House",
+    "description": "(Mixed Greens, Tomato, Cucumber, Carrot ). Add Grilled Chicken 3 | Pulled Pork 3 | Shrimp 6",
+    "price": "$13",
+    "menu_type": "SALADS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Buffalo",
+    "description": "(Shredded Chicken, Mixed Greens, Tomato, Cucumber, Blue Cheese Crumbles)",
+    "price": "$16",
+    "menu_type": "SALADS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Caesar",
+    "description": "(Romaine, Grated Parmesan Cheese, Croutons )",
+    "price": "$17",
+    "menu_type": "SALADS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cobb",
+    "description": "(Grilled Chicken, Mixed Greens, Cucumber, Tomato, Bacon Bits, Egg, Blue Cheese Crumbles)",
+    "price": "$18",
+    "menu_type": "SALADS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fish",
+    "description": "(Crispy Mahi Mahi, Lettuce, Pico De Gallo, Garlic Lime Aioli)",
+    "price": "$16",
+    "menu_type": "TACOS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Buffalo",
+    "description": "(Shredded Chicken, Lettuce, Blue Cheese Sauce, RedHot Drizzle)",
+    "price": "$16",
+    "menu_type": "TACOS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "BBQ",
+    "description": "(Pulled Pork, Cabbage Slaw, Crispy Onion, Blueberry BBQ Glaze)",
+    "price": "$16",
+    "menu_type": "TACOS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Shrimp",
+    "description": "(Sautéed Shrimp, Lettuce, Poblano Corn, Chipotle Aioli)",
+    "price": "$17",
+    "menu_type": "TACOS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Salad",
+    "description": "",
+    "price": "$6",
+    "menu_type": "SIDES",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Coleslaw",
+    "description": "",
+    "price": "$4",
+    "menu_type": "SIDES",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Vegetables",
+    "description": "",
+    "price": "$5",
+    "menu_type": "SIDES",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sweet Potato Fries",
+    "description": "",
+    "price": "$6",
+    "menu_type": "SIDES",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Onion Rings",
+    "description": "",
+    "price": "$7",
+    "menu_type": "SIDES",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cheese Pizza",
+    "description": "",
+    "price": "$8",
+    "menu_type": "KIDS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sliders, 2 Mini Cheeseburgers",
+    "description": "",
+    "price": "$8",
+    "menu_type": "KIDS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Grilled Cheese",
+    "description": "",
+    "price": "$8",
+    "menu_type": "KIDS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Fingers",
+    "description": "",
+    "price": "$8",
+    "menu_type": "KIDS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Side Salad with Grilled Chicken",
+    "description": "",
+    "price": "$8",
+    "menu_type": "KIDS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "“Big Bopper” Chipwich",
+    "description": "",
+    "price": "",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Triple Layer Rainbow Sprinkle Cake",
+    "description": "",
+    "price": "",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Smores Lava Cake",
+    "description": "(Smoked Chocolate Ganache, Graham Cracker, Toasted Marshmallow)",
+    "price": "",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Dark Chocolate Flourless Decadent Tarte",
+    "description": "",
+    "price": "",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Black Satin Three Layer Cake",
+    "description": "",
+    "price": "",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Vanilla",
+    "description": "",
+    "price": "",
+    "menu_type": "MUG MILKSHAKES",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chocolate",
+    "description": "",
+    "price": "",
+    "menu_type": "MUG MILKSHAKES",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Caramel",
+    "description": "",
+    "price": "",
+    "menu_type": "MUG MILKSHAKES",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cookies & Cream",
+    "description": "",
+    "price": "",
+    "menu_type": "MUG MILKSHAKES",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Craft Beer Tasting Flight",
+    "description": "Sample 4 Of Our Local Crafts",
+    "price": "$8",
+    "menu_type": "LOCAL CRAFT",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Blue Point Toasted Lager",
+    "description": "(Long Island, NY)",
+    "price": "",
+    "menu_type": "LOCAL CRAFT",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Ommegang Rare Vos",
+    "description": "(Amber Ale, Cooperstown, NY)",
+    "price": "",
+    "menu_type": "LOCAL CRAFT",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Frog Alley Mango Slushy Sour",
+    "description": "(Schenectady, NY)",
+    "price": "",
+    "menu_type": "LOCAL CRAFT",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Northway Session IPA",
+    "description": "(Glens Falls, NY)",
+    "price": "",
+    "menu_type": "LOCAL CRAFT",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fiddlehead IPA",
+    "description": "(Shelburne, VT)",
+    "price": "",
+    "menu_type": "LOCAL CRAFT",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sloop Juice Bomb",
+    "description": "(Hazy IPA, Fishkill, NY)",
+    "price": "",
+    "menu_type": "LOCAL CRAFT",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Brown’s Oatmeal Stout",
+    "description": "(Troy, NY)",
+    "price": "",
+    "menu_type": "LOCAL CRAFT",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Citizen Cider",
+    "description": "(Burlington, VT)",
+    "price": "",
+    "menu_type": "LOCAL CRAFT",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Coors Light",
+    "description": "(Lager, Golden, Colorado)",
+    "price": "",
+    "menu_type": "DRAFT",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Stella Artois",
+    "description": "(Pale Lager, Belgium)",
+    "price": "",
+    "menu_type": "DRAFT",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Blue Moon",
+    "description": "(Belgium White, Denver, Colorado)",
+    "price": "",
+    "menu_type": "DRAFT",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Guinness",
+    "description": "(Irish Stout, Dublin, Ireland)",
+    "price": "",
+    "menu_type": "DRAFT",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Bud Light",
+    "description": "",
+    "price": "",
+    "menu_type": "BOTTLE",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Coors Light",
+    "description": "",
+    "price": "",
+    "menu_type": "BOTTLE",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Corona",
+    "description": "",
+    "price": "",
+    "menu_type": "BOTTLE",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Corona Light",
+    "description": "",
+    "price": "",
+    "menu_type": "BOTTLE",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Michelob Ultra",
+    "description": "",
+    "price": "",
+    "menu_type": "BOTTLE",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Miller Lite",
+    "description": "",
+    "price": "",
+    "menu_type": "BOTTLE",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Heineken",
+    "description": "",
+    "price": "",
+    "menu_type": "BOTTLE",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Heineken Light",
+    "description": "",
+    "price": "",
+    "menu_type": "BOTTLE",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Heineken N/A",
+    "description": "",
+    "price": "",
+    "menu_type": "BOTTLE",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "PBR 16oz",
+    "description": "",
+    "price": "",
+    "menu_type": "CANS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Down East Cider",
+    "description": "",
+    "price": "",
+    "menu_type": "CANS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Black Cherry White Claw",
+    "description": "",
+    "price": "",
+    "menu_type": "CANS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Peach White Claw Vodka Soda",
+    "description": "",
+    "price": "",
+    "menu_type": "CANS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "1911 Hard Cider",
+    "description": "",
+    "price": "",
+    "menu_type": "CANS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Truly Lime Tequila Soda",
+    "description": "",
+    "price": "",
+    "menu_type": "CANS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Athletic Brewing Co. NA",
+    "description": "",
+    "price": "",
+    "menu_type": "CANS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Red",
+    "description": "",
+    "price": "",
+    "menu_type": "SANGRIAS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "White",
+    "description": "",
+    "price": "",
+    "menu_type": "SANGRIAS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Peach",
+    "description": "",
+    "price": "",
+    "menu_type": "SANGRIAS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "White/Rosé",
+    "description": "Rose, Pinot Grigio, Sauvignon Blanc, Chardonnay, White Zin",
+    "price": "",
+    "menu_type": "WINES",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Red",
+    "description": "Pinot Noir, Shiraz, Malbec, Merlot, Cabernet Sauvignon, Zinfandel",
+    "price": "",
+    "menu_type": "WINES",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sparkling",
+    "description": "Moscato, Prosecco",
+    "price": "",
+    "menu_type": "WINES",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "BWP Grande Margarita",
+    "description": "(Tequila, Agave, Triple Sec, Simple Syrup, Lime)",
+    "price": "",
+    "menu_type": "COCKTAILS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Classic Bloody Mary",
+    "description": "(Zing Zang, Vodka, Olives, Lime)",
+    "price": "",
+    "menu_type": "COCKTAILS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Root Beer",
+    "description": "",
+    "price": "",
+    "menu_type": "NY LOCAL SARANAC BOTTLE SODAS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Ginger Beer",
+    "description": "",
+    "price": "",
+    "menu_type": "NY LOCAL SARANAC BOTTLE SODAS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Orange Cream",
+    "description": "",
+    "price": "",
+    "menu_type": "NY LOCAL SARANAC BOTTLE SODAS",
+    "restaurant_name": "Beer Wine Pizza",
+    "restaurant_url": "https://beerwinepizza.com/",
+    "menu_name": "Menu"
+  }
+]
