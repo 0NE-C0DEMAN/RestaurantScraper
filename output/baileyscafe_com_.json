@@ -1,0 +1,946 @@
+[
+  {
+    "name": "QUESADILLA",
+    "description": "Grilled flour tortilla, cheddar cheese, house taco seasoning, side of sour cream & salsa. Add guacamole $3, Add grilled chicken $5, Add pork carnitas $5, Add shaved steak $6, Add jerk chicken $6, Add veggies $4, Add taco seasoned beef $5",
+    "price": "$14",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "WINGS",
+    "description": "bone-in (ten) Buffalo | Garlic-Parm | Honey-Sriracha | Thai Chili | Jerk Rubbed Blazing Hot | BBQ, served with carrots, celery & blue cheese",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BONELESS WINGS",
+    "description": "Buffalo | Garlic-Parm | Honey-Sriracha | Thai Chili | Jerk Rubbed Blazing Hot | BBQ, served with carrots, celery & blue cheese",
+    "price": "$15",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BAILEY'S NACHOS",
+    "description": "Tortilla chips, queso, chopped tomatoes, lettuce, onions, jalapenos, corn & black bean salsa, peppers. Add guacamole $3, Add grilled chicken $5, Add pork carnitas $5, Add jerk chicken $6, Add taco seasoned beef $5",
+    "price": "$15",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BAILEY'S TRIO APP",
+    "description": "(1/2 rack) BBQ ribs, (five) chicken wings (choose your wing sauce), loaded fries with bacon, onions, jalapenos & queso",
+    "price": "$28",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "HOT PRETZELS",
+    "description": "Bavarian pretzel bites, queso",
+    "price": "$13",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CRAB DIP",
+    "description": "Lump crab, creamy cheese blend, tortilla chips",
+    "price": "$16",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BUFFALO CHICKEN DIP",
+    "description": "Marinated Buffalo chicken, cream cheese, blue cheese, tortilla chips",
+    "price": "$16",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "JERK CHICKEN TACOS",
+    "description": "choose corn or flour tortillas Jerk seasoned chicken, pickled onions, cilantro, lettuce, avocado crema",
+    "price": "$16",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "FISH TACOS",
+    "description": "choose corn or flour tortillas Crispy haddock, kohlrabi slaw, jalapenos, lettuce, kickin' Bayou sauce",
+    "price": "$17",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BEEF TACOS",
+    "description": "choose corn or flour tortillas seasoned ground beef, crispy potatoes, queso, lettuce, tomatoes, cheddar jack cheese, cilantro lime creme",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GREENS MORELLE",
+    "description": "FAMOUS UTICA DISH CREATED BY JOE MORELLE, SERVED FOR GENERATIONS: greens, oreganato, cherry peppers, capicola, bread crumbs, grated cheese blend",
+    "price": "$9 (Medium) | $12 (Large)",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "LOBSTER BISQUE",
+    "description": "(House favorite)",
+    "price": "$12 (Medium) | $16 (Large)",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "FRENCH ONION SOUP",
+    "description": "crock",
+    "price": "$12",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SOUP OF THE DAY",
+    "description": "chef 's selection",
+    "price": "$8 (Medium) | $11 (Large)",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHOPPED WEDGE SALAD",
+    "description": "Blue cheese crumbles, bacon, Romaine lettuce, frizzled onion straws, heirloom grape tomatoes, blue cheese ranch dressing, balsamic drizzle",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BAILEY'S CAESAR",
+    "description": "Chopped Romaine hearts, crispy bacon, shaved parmesan cheese, garlic croutons, Caesar dressing",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GREEK SALAD",
+    "description": "Tomatoes, cucumbers, red onions, feta cheese, kalamata olives, crisp greens, house creamy feta dressing",
+    "price": "$17",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CAPRESE SALAD",
+    "description": "Fresh mozzarella, tomatoes, fresh basil, olive oil, balsamic glaze",
+    "price": "$17",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "COBB SALAD",
+    "description": "Smashed avocado, crushed bacon, blue cheese crumbles, hard-boiled egg, tomatoes, red onion, crisp greens. Add chicken $5, Add petite filet $12, Add sweet potato black bean burger $6",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "FRENCH FRIES",
+    "description": "",
+    "price": "$7",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SWEET FRIES",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SIDE SALAD",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "KOHLRABI SLAW",
+    "description": "",
+    "price": "$5",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MAC & CHEESE",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "ONION RINGS",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SAUTEED BROCCOLI",
+    "description": "",
+    "price": "$5",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CRISPY CAJUN CHICKEN SANDWICH",
+    "description": "Battered & fried chicken breast, kohlrabi slaw, pickle chips, Bailey's sweet & tangy sauce, brioche bun",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BAILEY'S REUBEN",
+    "description": "Slow cooked corned beef, pickled red cabbage, melted Swiss cheese, Russian dressing, grilled rye bread",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHIPOTLE CHICKEN PANINI",
+    "description": "Grilled chicken, tomatoes, onions, melted provolone, chipotle mayo, tomato focaccia",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BAILEY'S CUBAN",
+    "description": "Pork carnitas, capicola, pickles, Swiss cheese, honey Dijon, toasted and pressed panini style on sourdough",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TURKEY AVOCADO PANINI",
+    "description": "Oven roasted turkey breast, smashed avocado, capicola, provolone cheese, lettuce, tomatoes, garlic aioli, ciabatta roll",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TURKEY CLUB PANINI",
+    "description": "Oven roasted turkey breast, bacon, cheddar, lettuce, tomatoes, apple walnut jam, wheatberry bread",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TURKEY BURGER",
+    "description": "Grilled turkey patty, Swiss cheese, braised onions, pickled slaw, garlic aioli, brioche bun",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BAILEY'S CHEESEBURGER*",
+    "description": "8oz custom ground angus beef, choice of cheese, lettuce, tomatoes, onions, brioche bun. Add bacon $2, Add caramelized onions $1, Add mushrooms $1, Add fried egg $1",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BLACKENED BLEU BURGER*",
+    "description": "Cajun seasoned 8oz custom ground angus beef, bleu cheese crumbles, crispy onion rings, lettuce, tomatoes, chipotle mayo, brioche bun. Add bacon $2",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BAILEY'S SWEET POTATO BLACK BEAN BURGER",
+    "description": "Smashed avocado, pickled onions, lettuce, tomatoes, brioche bun. Add cheese $1, Add caramelized onions $1, Add mushrooms $1",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PHILLY CHEESE STEAK",
+    "description": "Shaved steak, grilled onions & peppers, queso, hoagie roll",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "LOBSTER ROLL",
+    "description": "5oz fresh picked lobster on a buttered & grilled New England bun CHOOSE: hot buttered | chilled tarragon mayo",
+    "price": "$MKT",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MARGHERITA",
+    "description": "Sliced tomatoes, fresh mozzarella, garlic, red sauce, Italian herbs",
+    "price": "$17",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "THE ITALIAN",
+    "description": "Mozzarella, pepperoni, capicola, fresh basil, house made hot honey",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BBQ CHICKEN",
+    "description": "Grilled chicken, red onions, fresh mozzarella, BBQ sauce, red sauce",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "THE BROC",
+    "description": "Chopped broccoli, caramelized onions, ricotta cheese, garlic aioli drizzle",
+    "price": "$17",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "FRENCH ONION",
+    "description": "Braised onions, fresh mozzarella, Swiss cheese, ricotta, garlic aioli drizzle",
+    "price": "$17",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "FISH & CHIPS",
+    "description": "Crispy haddock, fries, house kohlrabi slaw, tartar sauce",
+    "price": "$21",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MAC SHACK",
+    "description": "CLASSIC MAC - shell pasta, creamy cheese sauce",
+    "price": "$15",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BUFF CHICKEN",
+    "description": "- crispy buffalo chicken, blue cheese",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GRILLED JERK CHICKEN",
+    "description": "- spicy chicken & caramelized onions",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "LOBSTER MAC",
+    "description": "- topped with fresh lobster meat",
+    "price": "$MKT",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "ST LOUIS RIBS",
+    "description": "Smoked & smothered in BBQ sauce, fries, kohlrabi slaw",
+    "price": "$22 (Medium) | $28 (Large)",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "RIGATONI ALLA VODKA",
+    "description": "House made vodka sauce, caramelized onions & crispy capicola. Add fresh lobster MKT, Add 4oz petite filet $12, Add chicken $5",
+    "price": "$18",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BAILEY'S FILET*",
+    "description": "Two (4)oz petite filet medallions, roasted garlic parm potatoes, sautéed broccoli",
+    "price": "$28",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BAILEY'S THREE-WAY PETITE FILET*",
+    "description": "Three (4)oz medallions topped with fresh lobster served with roasted garlic parm potatoes and sauteed broccoli. Add petite filet medallion $12",
+    "price": "$37",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "APEROL SPRITZ",
+    "description": "Prosecco split, Aperol, club soda.",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "THE ESPRESSO-TINI",
+    "description": "Awakened Spirit Vodka, Espresso Liqueur, Kahlua, Bailey's, finished with a shot of espresso and a dash of cream.",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "EL CALIENTE MARGARITA",
+    "description": "21 Seeds Cucumber Jalapeno Tequila, Cointreau, fresh lime juice, and simple syrup.",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BAILEY'S BLOODY MARY",
+    "description": "Our house mix with Ketel One Vodka.",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "ABSOLUT MULE",
+    "description": "Absolut Vodka, Saranac Ginger Beer, Lime juice, served in copper mug.",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "THE O.G. MUDSLIDE",
+    "description": "*Ice cream, Ketel One vodka, Baileys Irish Cream, and Kahlua",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SCREWY PEANUT BUTTER CUP SHAKE",
+    "description": "*Ice cream, peanut butter whiskey, Baileys Irish cream, chocolate syrup, and a scoop of peanut butter*",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "OREO COFFEE SHAKE",
+    "description": "*Ice cream, Awakened Spirit Vodka, Kahlua, Bailey's Irish Cream, oreos",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GOOD OLE' CHOCOLATE, VANILLA, STRAWBERRY OR COFFEE",
+    "description": "*Traditional flavored ice cream spiked shakes with vodka and Baileys Irish cream*",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Strawberry",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Mango",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Watermelon",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Raspberry",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Blackberry",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Lavender",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "The Giggle",
+    "description": "Blood orange juice, lemon juice, and ginger beer",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Faux Fizz:",
+    "description": "Pineapple, cucumber, celery, kale, zinc and sprite",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Saranac Root Beer",
+    "description": "Saranac Ginger Beer | Saranac Shirley Temple Lemonade | Unsweetened Iced Tea",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Coca Cola",
+    "description": "Diet Coke | 7-up | Ginger Ale",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Cranberry Juice",
+    "description": "Apple Juice | Orange Juice | Grapefruit Juice Pineapple Juice | 2% Milk | Chocolate Milk Assorted Polar Flavor Cans",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Michelob Ultra - 4.2%",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Miller Light - 4.2%",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Stella - 5.2%",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Guinness Stout- 4.2%",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Northway Perfect Day Pils - 4.9%",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Modelo Especial - 4.4%",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Kona Big Wave - 4.8%",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Downeast Original Cider - 5.1%",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Sloop Juice Bomb - 6.5%",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Industrial Arts Wrench - 7.1%",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Sam Adams Seasonal",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Labatt Blue Light - 4%",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Blue Moon Belgium Wheat - 5.2%",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Fiddlehead IPA - 6.2%",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Bud Light",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Budweiser",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Miller Lite",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Coors Light",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Labatt Blue Light",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Michelob Ultra",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Heineken Silver",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Corona Extra",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Corona Light",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "High Noon Sun Sips",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Surfside",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Common Roots Sour",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Nutrl",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Athletic Brewing Company N/A",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Guinness Zero",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Pacific Rim Sweet Riesling - Columbia Valley",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Brancott Estate Sauvignon Blanc - New Zealand",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Ecco Domani Pinot Grigio - Italy",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Kendall Jackson Chardonnay - California",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Mionetto Prosecco - Italy",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Josh Rosé - California",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "House Pinot Grigio",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "House Chardonnay",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "House Sauvignon Blanc",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Altos Del Plata Malbec - Argentina",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Josh Pinot Noir - Central Coast",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Rodney Strong Cabernet Sauvignon - California",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "Bogle Essential Red - California",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "House Merlot",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "House Cabernet",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "House Pinot Noir",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Bailey's Cafe",
+    "restaurant_url": "https://baileyscafe.com/",
+    "menu_type": "Menu"
+  }
+]

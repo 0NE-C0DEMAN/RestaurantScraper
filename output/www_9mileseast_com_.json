@@ -1,0 +1,634 @@
+[
+  {
+    "name": "Farmhouse Pizza",
+    "description": "Three-day sourdough crust made with Farmer Ground flour from Ithaca, local mozzarella cheese and tomato sauce made with tomatoes and herbs from 9 Miles East Farm and our friends' farms in season.",
+    "price": "$23.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Popular Items"
+  },
+  {
+    "name": "Barnyard Pizza",
+    "description": "Local Italian sausage, house tomato sauce, creamy mozzarella, three-day sourdough crust made with Farmer Ground flour from Ithaca",
+    "price": "$25.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Popular Items"
+  },
+  {
+    "name": "Pepperoni Pizza",
+    "description": "Nitrate-free pepperoni from Black River Smokehouse, house tomato sauce, creamy mozzarella, three-day sourdough crust made with Farmer Ground flour",
+    "price": "$25.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Popular Items"
+  },
+  {
+    "name": "Simple Salad",
+    "description": "Organic baby greens, farm-made herb vinaigrette, pumpkin seeds. Very simple, very healthy.",
+    "price": "$11.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Popular Items"
+  },
+  {
+    "name": "Seasons pizza: Hot Honey",
+    "description": "Farm-made tomato sauce, local mozzarella, and spicy/sweet hot honey on our three-day sourdough crust.",
+    "price": "$24.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Popular Items"
+  },
+  {
+    "name": "Seasons Pizza: Sauteed mushroom",
+    "description": "Classic mushroom pizza: freshly sauteed mushrooms, creamy mozzarella, farm-made tomato sauce\n\nThree-day sourdough crust made with Farmer Ground flour from Ithaca.",
+    "price": "$24.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Popular Items"
+  },
+  {
+    "name": "Extra Dressing",
+    "description": "House-made vinaigrettes",
+    "price": "$2.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Breakfast Hero",
+    "description": "Scrambled eggs, roasted veg, herb pesto, cheese & ham. Served on our house-baked sourdough roll.",
+    "price": "$12.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Grilled Ham Sandwich",
+    "description": "Nitrate-free ham, dijon mustard, fontina cheese, dill pickle. Served on our house-baked sourdough roll.",
+    "price": "$12.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Salmon Sunday Sandwich",
+    "description": "Cold-smoked salmon, cream cheese, tomato, red onion, capers. Served on our house sourdough pagnotelle.",
+    "price": "$18.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Turkey Sandwich",
+    "description": "House brined & roasted VT turkey breast, greens, dill pickle, fontina cheese and tomato aioli. Served on our house-baked sourdough roll.",
+    "price": "$12.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "\"Indecision\" Meal Deal",
+    "description": "One Farmhouse pizza, four pieces of grilled chicken over garlic mashed root veg, a simple salad with organic baby greens and herb vinaigrette, and two bakery desserts.",
+    "price": "$58.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Argentinian Sandwich",
+    "description": "Grilled Walden Meats chorizo sausage, chimichurri, crunchy veg. Served on our house sourdough roll.",
+    "price": "$15.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Chicken Chopped Salad",
+    "description": "Another lunchtime favorite from the cafe is now available for delivery. Grilled chicken, grilled veggies, baby greens, herb vinaigrette and pumpkin seeds. Gluten free.",
+    "price": "$15.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Vegantinian",
+    "description": "Grilled portobello mushrooms, chimichurri, crunchy veg. Served on our house sourdough roll.",
+    "price": "$14.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Piri Piri Grilled Chicken",
+    "description": "Portuguese style of spicy, bone-in chicken popular in Montreal and London. Spicy but not crazy. Served over garlic mashed root veg. Delivered hot and ready to eat. Available from 4-9pm only.",
+    "price": "$24.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Grilled Lemon Rosemary Chicken Dinner",
+    "description": "Three bone-in pieces of lemon rosemary chicken with herb pesto.  Served over garlic mashed root veg. Delivered hot and ready to eat. Available between 4 - 9pm only.",
+    "price": "$24.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Steak with Chimichurri",
+    "description": "Grilled grass-fed hanger steak over roasted root veg with chimichurri Argentinean pesto. Delivered hot and ready to eat. Gluten-free.",
+    "price": "$30.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Chirashi Bowl w/ Steelhead Salmon",
+    "description": "Chirashi bowl with local steelhead from Hudson Valley Fisheries (raw preparation), root veg, whole grain rice and maple soy glaze.",
+    "price": "$30.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Sauteed Salmon w/Lime Maple Glaze",
+    "description": "Fresh local steelhead salmon filet from Hudson Valley Fisheries, plated over garlic mashed root veg with lime maple glaze. Delivered hot and ready to eat.",
+    "price": "$30.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Mushroom Risotto",
+    "description": "Organic pearl barley, wild mushroom blend, mushroom stock, porcini, shaved parm. Ready to enjoy.",
+    "price": "$28.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Winter Salad",
+    "description": "Organic baby greens topped with roasted beets, Maplebrook feta cheese, preserved lemon, red cabbage, toasted walnuts, herb vinaigrette.",
+    "price": "$16.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Winter Salad w/chicken",
+    "description": "Organic baby greens topped with roasted beets, Maplebrook feta cheese, preserved lemon, red cabbage, toasted walnuts, herb vinaigrette. Topped with roasted chicken breast",
+    "price": "$20.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Winter Salad w/grilled steak",
+    "description": "A favorite returns! Organic baby greens topped with roasted beets, Maplebrook feta cheese, preserved lemon, red cabbage, pumpkin seeds, grilled grass-fed steak, and herb vinaigrette.",
+    "price": "$24.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Chirashi Bowl with portabella",
+    "description": "Grilled portabella mushroom, whole-grain rice and maple lime glaze. Vegan. Contains soy. Available after 4pm.",
+    "price": "$22.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Cafe Entrees"
+  },
+  {
+    "name": "Curbside (Add to Cart for Curbside Pickup)",
+    "description": "Please add car type and color in the Special Instructions box. Give us a call when you arrive.(518) 605-1004",
+    "price": "$0.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Curbside Pickup"
+  },
+  {
+    "name": "Simple Salad",
+    "description": "Organic baby greens, farm-made herb vinaigrette, pumpkin seeds. Very simple, very healthy.",
+    "price": "$11.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Salads & Sides"
+  },
+  {
+    "name": "Chicken Supersoup",
+    "description": "House chicken soup made with high-quality ingredients. We enhance the natural health benefits of bone broth with anti-inflammatory turmeric and immune-boosting garlic and cayenne. Which also happen to make the chicken soup extra-delicious.",
+    "price": "$8.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Salads & Sides"
+  },
+  {
+    "name": "Potato Leek Soup",
+    "description": "Cooked down leeks, with sauteed onions and garlic, shredded Russet potatoes cooked in vegetable stock. Then blended and finished with cream.",
+    "price": "$8.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Salads & Sides"
+  },
+  {
+    "name": "100g Chicken",
+    "description": "Enough delicious 9 Miles East roasted chicken breast to supply 100 grams of protein. Very nice to have around.",
+    "price": "$15.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Salads & Sides"
+  },
+  {
+    "name": "Stockholm GO Box Pro",
+    "description": "This delicious new GO Box features nutty farro with seasoned chickpeas, carrots, blanched green beans and green cabbage. It is topped with parsley, almonds and lingonberries to give it a pop of color. Dairy-free and soy-free. Contains nuts and gluten. Vegan. Pro version has high quality chicken.",
+    "price": "$14.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Salads & Sides"
+  },
+  {
+    "name": "Stockholm GO Box",
+    "description": "This delicious new GO Box features nutty farro with seasoned chickpeas, carrots, blanched green beans and green cabbage. It is topped with parsley, almonds and lingonberries to give it a pop of color. Dairy-free and soy-free. Contains nuts and gluten. Vegan.",
+    "price": "$11.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Salads & Sides"
+  },
+  {
+    "name": "Valencia GO Box",
+    "description": "Valencia is a sunny Spanish-style box made with carrots, roasted sweet peppers, peas, olives, chickpeas, whole-grain rice and our organic baby greens blend. The sherry vinaigrette brings it all together. Vegan and gluten-free.",
+    "price": "$11.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Salads & Sides"
+  },
+  {
+    "name": "Valencia Pro GO Box with chicken",
+    "description": "Valencia is a sunny Spanish-style box made with high-quality chicken, carrots, roasted sweet peppers, peas, mild Castelvatrano Spanish olives, chickpeas, whole-grain rice and our organic baby greens blend. The sherry vinaigrette brings it all together. Gluten-free.",
+    "price": "$14.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Salads & Sides"
+  },
+  {
+    "name": "Tzatziki",
+    "description": "House-made Greek cucumber yogurt tzatziki spread",
+    "price": "$8.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Salads & Sides"
+  },
+  {
+    "name": "\"Indecision\" Meal Deal",
+    "description": "One Farmhouse pizza, four pieces of grilled chicken over garlic mashed root veg, a simple salad with organic baby greens and herb vinaigrette, and two almond cookies (or a chia pudding)",
+    "price": "$58.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Side of tomato sauce",
+    "description": "Our house-made tomato sauce.",
+    "price": "$4.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Side of 9 Miles East hot sauce",
+    "description": "House-made probiotic hot sauce.",
+    "price": "$2.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Side of Green Magic dressing",
+    "description": "Our popular house-made salad dressing",
+    "price": "$2.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Farmhouse Pizza",
+    "description": "Three-day sourdough crust made with Farmer Ground flour from Ithaca, local mozzarella cheese and tomato sauce made with tomatoes and herbs from 9 Miles East Farm and our friends' farms in season.",
+    "price": "$23.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Seasons pizza: Hot Honey",
+    "description": "Farm-made tomato sauce, local mozzarella, and spicy/sweet hot honey on our three-day sourdough crust.",
+    "price": "$24.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Vegan Grilled Veg Pizza",
+    "description": "Grilled summer squash, sweet peppers, broccoli & cauliflower, white bean puree (because most vegan cheese is rubbery and terrible), house tomato sauce\n\nThree-day sourdough crust made with Farmer Ground flour from Ithaca.",
+    "price": "$24.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Barnyard Pizza",
+    "description": "Local Italian sausage, house tomato sauce, creamy mozzarella, three-day sourdough crust made with Farmer Ground flour from Ithaca",
+    "price": "$25.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Seasons Pizza: Sauteed mushroom",
+    "description": "Classic mushroom pizza: freshly sauteed mushrooms, creamy mozzarella, farm-made tomato sauce\n\nThree-day sourdough crust made with Farmer Ground flour from Ithaca.",
+    "price": "$24.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Vegan Farmhouse Pizza",
+    "description": "Three-day sourdough crust made with Farmer Ground flour from Ithaca, Provencal-style white bean puree in place of cheese, and house tomato sauce.\n\nNote that there is a small amount of honey in our crust to feed the sourdough culture.",
+    "price": "$24.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "San Marzano Margherita",
+    "description": "Fancy Italian tomatoes, fresh mozzarella, fresh basil.\n\nThree-day sourdough crust made with Farmer Ground flour from Ithaca.",
+    "price": "$26.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Side of hot honey",
+    "description": "House-made spicy honey.",
+    "price": "$4.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Pepperoni Pizza",
+    "description": "Nitrate-free pepperoni from Black River Smokehouse, house tomato sauce, creamy mozzarella, three-day sourdough crust made with Farmer Ground flour",
+    "price": "$25.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Grilled Vegetable Pizza",
+    "description": "Grilled summer squash, sweet peppers, broccoli & cauliflower, mozzarella, house tomato sauce\n\nThree-day sourdough crust made with Farmer Ground flour from Ithaca.",
+    "price": "$24.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Gluten free: Sauteed mushroom",
+    "description": "Sauteed mushrooms, farm-made tomato sauce, local mozzarella.\n\nGluten free crust from Saratoga Gluten Free Goods.",
+    "price": "$25.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Gluten-free Barnyard pizza",
+    "description": "Gluten-free crust from Saratoga Gluten Free Goods, plus local mozzarella, farm-made tomato sauce and crumbled local Italian sausage.",
+    "price": "$27.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Gluten-free Farmhouse pizza",
+    "description": "Gluten-free crust from Saratoga Gluten Free Goods, plus local mozzarella cheese, farm-made tomato sauce and fresh herbs sprinkled on top.",
+    "price": "$25.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Gluten-free Seasons Pizza: Margherita",
+    "description": "Pizza Margherita is a true test of ingredients and technique. The pizza is so simple that everything has to be perfect for it to work. But when it does, there's nothing so pure and delicious. Margherita starts with our 3-day, cold-fermented sourdough crust. We add farm-made tomato sauce, creamy Maplebrook Farm fresh mozzarella, and fresh basil. That's it.",
+    "price": "$27.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Gluten-Free Pepperoni Pizza",
+    "description": "",
+    "price": "$27.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Gluten-free Seasons Pizza: The Works",
+    "description": "Local Italian sausage, sweet peppers, onion & sauteed mushroom. Gluten-free crust, house tomato sauce, and local mozzarella",
+    "price": "$27.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Gluten-Free Season: Grilled Veg",
+    "description": "Charcoal-grilled fresh vegetables.\n\nGuten-free crust from Saratoga Gluten Free Goods, plus local mozzarella cheese and house tomato sauce.",
+    "price": "$27.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Seasons Pizza: The Works",
+    "description": "Local Italian sausage, sweet peppers, onion & sauteed mushroom. Three-day sourdough crust, house tomato sauce, and local mozzarella",
+    "price": "$26.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Gluten-free, dairy-free pizza",
+    "description": "Provencal-style white bean puree in place of cheese, and house tomato sauce. Please note there is egg in the GF crust.",
+    "price": "$26.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Seasons pizza: Vermont Prosciutto & fresh herbs",
+    "description": "Local prosciutto ham, fresh herbs, mozzarella, house tomato sauce, three-day cold-fermented sourdough crust.",
+    "price": "$26.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Roasted Red Pepper & Spinach Christmas Pizza",
+    "description": "It's red. It's green. Merry Christmas. Local mozzarella, house tomato sauce. Three-day naturally leavened sourdough crust made with organic Farmer Ground Flour.",
+    "price": "$25.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Pizza"
+  },
+  {
+    "name": "Sparkling Saratoga Water",
+    "description": "A liter of refreshing local water in the iconic blue glass bottle.",
+    "price": "$5.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Drinks"
+  },
+  {
+    "name": "Rosemary Polenta Cookie",
+    "description": "",
+    "price": "$4.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Bakery"
+  },
+  {
+    "name": "Almond Cookie",
+    "description": "Gluten-free almond cookie with a soft center and crunchy contrast from nuts and seeds. Vegan and gluten-free but much more delicious than that might otherwise suggest.",
+    "price": "$4.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Bakery"
+  },
+  {
+    "name": "Day-old Sourdough Loaf",
+    "description": "House-baked sourdough loaves perfect for sandwiches and toast. Local organic flour. No commercial yeast. The real deal.",
+    "price": "$4.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Bakery"
+  },
+  {
+    "name": "Sourdough Loaf",
+    "description": "House-baked sourdough loaves perfect for sandwiches and toast. Local organic flour. No commercial yeast. The real deal.",
+    "price": "$8.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Bakery"
+  },
+  {
+    "name": "Oatmeal Raisin Cookie",
+    "description": "Perfect texture",
+    "price": "$4.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Bakery"
+  },
+  {
+    "name": "Rye Chocolate Chip Cookie",
+    "description": "Grownup brown-butter version of the cookie classic.",
+    "price": "$5.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Bakery"
+  },
+  {
+    "name": "Dozen fresh local eggs",
+    "description": "From healthy pastured chickens. Great flavor, bright orange yolks.",
+    "price": "$8.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Groceries and convenience items"
+  },
+  {
+    "name": "Local wildflower honey",
+    "description": "Glass jars of pure, raw local honey.",
+    "price": "$10.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Groceries and convenience items"
+  },
+  {
+    "name": "Espresso & Cocoa Nib Granola",
+    "description": "From the farm kitchen, 9 Miles East very own granola with seeds, nuts, coconut, coffee beans, cocoa nibs, maple syrup, cinnamon and oats. GF, DF, SF. Vegan.",
+    "price": "$9.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Groceries and convenience items"
+  },
+  {
+    "name": "Sweet Italian Sausage",
+    "description": "Like our Barnyard pizza? Now you can enjoy the same great local sausage at home. One pound package of sweet Italian sausage from our friends at Grazin Acres Farm. The very best. Delivered frozen.",
+    "price": "$11.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Groceries and convenience items"
+  },
+  {
+    "name": "Butter",
+    "description": "One pound brick of fresh butter",
+    "price": "$6.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Groceries and convenience items"
+  },
+  {
+    "name": "Farm-made Sourdough Loaf",
+    "description": "Our own crusty sourdough loaves. Made with local organic flour.",
+    "price": "$8.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Groceries and convenience items"
+  },
+  {
+    "name": "100g Chicken",
+    "description": "Enough delicious 9 Miles East roasted chicken breast to supply 100 grams of protein. Very nice to have around.",
+    "price": "$15.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Groceries and convenience items"
+  },
+  {
+    "name": "Okinawa GO Basket",
+    "description": "This super delicious — and super healthy — meal features soy-glazed sweet potato, crumbled tofu, scallion, spinach and whole-grain buckwheat. Topped with soy ginger miso and sesame seeds. Gluten free and dairy free. Heat & enjoy.",
+    "price": "$12.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Dinners to GO"
+  },
+  {
+    "name": "Okinawa Go Basket Pro",
+    "description": "Okinawa-style buckwheat bowl with roasted miso-glazed sweet potatoes and antibiotic-free chicken. Designed to be heated in the microwave or on the stove top.",
+    "price": "$14.00",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Dinners to GO"
+  },
+  {
+    "name": "\"Indecision\" Meal Deal",
+    "description": "One Farmhouse pizza, four pieces of grilled chicken over garlic mashed root veg (2 piri piri, 2 lemon rosemary), a simple salad with organic baby greens and herb vinaigrette, and two house-baked desserts.",
+    "price": "$57.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Dinners to GO"
+  },
+  {
+    "name": "Blood Sugar Management Meal Bundle",
+    "description": "Five meals designed to make it easy for people with pre-diabetes and Type 2 diabetes to follow generally accepted nutrition guidelines for managing their condition. Includes, entree, salads, soups, and bowls. Weekly subscriptions available for home and workplace delivery at a discounted rate by texting A1C to 518 310-5053.",
+    "price": "$62.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Food As Medicine"
+  },
+  {
+    "name": "Heart Health Meal Bundle",
+    "description": "Five meals designed to make it easy for people to follow  American Heart Association dietary guidelines. Includes, entree, salads, soups, and bowls. Weekly subscriptions available for home and workplace delivery at a discounted rate by texting HEART to 518 310-5053.",
+    "price": "$62.50",
+    "restaurant_name": "9 Miles East Farm",
+    "restaurant_url": "https://www.9mileseast.com/",
+    "menu_type": "Food As Medicine"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "name": "WARM FRENCH BÂTARD",
+    "description": "CHIVES, GRANA PADANO, OLIVE OIL, SABA",
+    "price": "$5",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "FOIE GRAS BRATWURST",
+    "description": "SOPPRESSATA JAM, GRUYÉRE MORNAY, ONION FRILLY, BRIOCHE BUN",
+    "price": "$27",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "SHRIMP CALABRESE",
+    "description": "TOASTED GARLIC POMODORO, SAMBAL, ITALIAN LONG HOTS, TOASTED BREADCRUMB, GRILLED CROSTINI",
+    "price": "$27",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "RICOTTA GNOCCHI Á LA BOLOGNESE",
+    "description": "SHOWER OF PARMESAN, OLIVE OIL",
+    "price": "$27",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "HOISIN GLAZED PORK BELLY",
+    "description": "CRISPY OYSTERS, CHILI CRUNCH, CELERY ROOT PURÈE, SCALLION",
+    "price": "$29",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "BURRATA",
+    "description": "PORT WINE APPLE JAM, PECAN NOUGAT, BASIL, GRILLED BREAD",
+    "price": "$27",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "IMPERIAL GOLD KALUGA CAVIAR (1oz)",
+    "description": "TRADITIONAL ACCOMPANIMENTS",
+    "price": "$95",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "1/4 LB. COLOSSAL SHRIMP COCKTAIL (2)",
+    "description": "LOUIS AND COCKTAIL SAUCES",
+    "price": "$28",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "OYSTERS ON THE HALFSHELL (6)",
+    "description": "TRADITIONAL ACCOMPANIMENTS",
+    "price": "$27",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "COMPOSED OYSTERS ON THE HALFSHELL (6)",
+    "description": "CUCUMBER, YUZU, SOY, FRESH WASABI",
+    "price": "$36",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "WEDGE SALAD",
+    "description": "ROASTED TOMATOES, CRISPY ONIONS, BACON, PICKLED SHALLOTS, GORGONZOLA DRESSING",
+    "price": "$19",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "ROASTED BEETS",
+    "description": "WALNUT VINAIGRETTE, CAMBOZOLA, BACON LARDON, BAGUETTE CHIPS, FRISÈE",
+    "price": "$21",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "FALKLAND ISLAND SEA BASS",
+    "description": "MISO GLAZED SEA BASS, BOK CHOY, SHIITAKE MUSHROOMS, CRISPY WASABI",
+    "price": "$55",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "RABBIT RAGOUT",
+    "description": "BRAISED SPANISH RABBIT, CRESTE DI GALLO PASTA, LOCAL OYSTER MUSHROOM, PANCETTA, BABY SPINACH, MARSALA CREAM, TRUFFLE PECORINO",
+    "price": "$49",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "ROASTED CHICKEN",
+    "description": "SEMI-BONELESS LOCAL CHICKEN, CELERIAC PURÈE, BLUE OYSTER MUSHROOM, MARSALA PAN SAUCE, SHOESTRING POTATO",
+    "price": "$42",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "PORK CHOP SCARPARIELLO",
+    "description": "SWEET ITALIAN SAUSAGE, PROSCIUTTO, CHERRY PEPPER VINEGAR SAUCE, CRISPY ROSEMARY POTATOES, FRESH BASIL",
+    "price": "$59",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "STREET NOODLE",
+    "description": "YAKISOBA NOODLES, SHRIMP, CHAR SIU, PORK BELLY, NAPA CABBAGE, FARM EGG, PEANUTS, SRIRACHA AIOLI",
+    "price": "$42",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "PRIME FILET MIGNON",
+    "description": "GORGONZOLA BUTTER, GARLICKY SPINACH, CRISPY ONIONS, RED ONION MARMALADE, ROASTED GARLIC DEMI",
+    "price": "$79",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "12 OZ KING CUT",
+    "description": "",
+    "price": "$110",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "ROASTED SWEET POTATO",
+    "description": "PISTACHIO BUTTER, TOASTED SESAME & HAZELNUT DUKKAH",
+    "price": "$14",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "PARMESAN FRIES",
+    "description": "FANCY SAUCE, KETCHUP",
+    "price": "$14",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "BROCCOLI RABE",
+    "description": "CHERRY PEPPERS, TOASTED GARLIC",
+    "price": "$14",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "PROSECCOo Extra DRY NV, LAMBERTI",
+    "description": "(VENETO, ITALY)",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "CRÉMANT BRUT ROSÉ, GRATEIN & MEYER NV",
+    "description": "(LOIRE VALLEY, FRANCE)",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "CHAMPAGNE BRUT, MOËT CHANDON 187ML",
+    "description": "(CHAMPAGNE, FRANCE)",
+    "price": "$30",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "PINOT GRIGIO, SAND POINT",
+    "description": "(LODI, CALIFORNIA)",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "PINOT GRIGIO, SANTA MARGHERITA",
+    "description": "(ALTO-ADIGE, ITALY)",
+    "price": "$20",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "SAUVIGNON BLANC, SAINT CLAIR, DILLONS POINT",
+    "description": "(MARLBOROUGH, NEW ZEALAND)",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "SANCERRE, DOMAINE RAFFAITIN-PLANCHON",
+    "description": "(LOIRE VALLEY, FRANCE)",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "RIESLING, SILVER THREAD",
+    "description": "(FINGER LAKES, NEW YORK)",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "CHARDONNAY, MACON VILLAGES, FAMILLE VINCENT",
+    "description": "(BURGUNDY, FRANCE)",
+    "price": "$19",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "CHARDONNAY, LINDQUIST",
+    "description": "(SANTA MARIA VALLEY, CaliforNIA)",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "CHARDONNAY, SONOMA CUTRER, RUSSIAN RIVER VALLEY",
+    "description": "(NAPA VALLEY, CALIFORNIA)",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "ROSÉ, CHATEAU D'ESCLANS, THE BEACH, WHISPERING ANGEL ROSÈ",
+    "description": "(PROVENCE, FRANCE)",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "PINOT NOIR, ENVOY TWO MESSENGERS",
+    "description": "(SANTA BARBARA COUNTY, CALIFORNIA)",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "TEMPRANILLO, PIRATAS DEL EBRO, “CHATXO”",
+    "description": "(RIOJA, ALAVESA, SPAIN)",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "MONTEPULCIANO D'ABRUZZO, BARONE CORNACCHIA “VIGNA LE COSTE”",
+    "description": "(ABRUZZO, ITALY)",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "CHIANTI CLASSICO, TERRAROSA FATTORIE MELINI",
+    "description": "(TUSCANY, ITALY)",
+    "price": "$17",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "MALBEC, CLOS LA COUTALE",
+    "description": "(CAHORS, FRANCE)",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "MERLOT, DUCKHORN VINEYARDS",
+    "description": "(NAPA VALLEY, CALIFORNIA)",
+    "price": "$25",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "BORDEAUX, C7, CLOS DE LOS SIETE",
+    "description": "(MENDOZA, ARGENTINA)",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "CABERNET SAUVIGNON, CENTERED",
+    "description": "(NAPA VALLEY, CALIFORNIA)",
+    "price": "$18",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "CABERNET SAUVIGNON, CAYMUS",
+    "description": "(NAPA VALLEY, CALIFORNIA)",
+    "price": "$45",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "CABERNET SAUVIGNON, MARTIS",
+    "description": "(ALEXANDER VALLEY, SONOMA COUNTY)",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "HOUSE-MADE SANGRIA- RED OR WHITE",
+    "description": "",
+    "price": "$16",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "15 CHURCH COCKTAIL",
+    "description": "ELDERLOWER LIQUEUR, POMEGRANATE\nLIQUEUR, PROSECCO, POMEGRANATE\nARILS, CRUSHED ICE",
+    "price": "$19",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "BURKE'S LEMONADE",
+    "description": "BELVEDERE, LEMON JUICE,\nRASPBERRY SYRUP, TOPPED WITH\nSELTZER",
+    "price": "$19",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "BLOOD ORANGE MARGARITA",
+    "description": "LALO BLANCO, GIFFARD CURAÇAO, LIME\nJUICE, BLOOD ORANGE PURÉE, SALT RIM",
+    "price": "$19",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "CHAMPAGNE MOJITO",
+    "description": "EL DORADO 3YR WHITE RUM, FRESH\nMINT, LIME JUICE, SIMPLE SYRUP,\nTOPPED WITH PROSECCO",
+    "price": "$19",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "15/10 OLD FASHIONED",
+    "description": "WIDOW JANE 10 YEAR BOURBON, GREEN\nCHARTREUSE, DOLIN GENEPY, HONEY\nSYRUP, HOUSE BITTERS, MINT",
+    "price": "$20",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "NAKED & FAMOUS",
+    "description": "UNION MEZCAL, LIME JUICE, YELLOW\nCHARTREUSE, APEROL",
+    "price": "$19",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "SAZERAK",
+    "description": "BULLEIT RYE, ABSINTHE, DEMERARA\nSUGAR, PEYCHAUDES BITTERS",
+    "price": "$19",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "DON CORAJILLO",
+    "description": "DON JULIO REPOSADO, LIQUOR 43,\nESPRESSo",
+    "price": "$19",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "STRAWBERRY FIELDS",
+    "description": "KETTLE ONE VODKA, FRESH\nSTRAWBERRY PUREE, APEROL, LEMON\nJUICE, TRIPLE SEC, BASIL",
+    "price": "$19",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "GREY HORSE",
+    "description": "GREY WHALE GIN, GREEN\nCHARTREUSE, DOLIN GENEPY,\nPINEAPPLE, SIMPLE, LIME JUICE",
+    "price": "$19",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "WILEY COYOTE",
+    "description": "HENNESSEY, KALUA, COCO LOPEZ,\nAMARETTO, BAILEYS, COLA SPRITZ",
+    "price": "$19",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "VIRGIN MOJITO",
+    "description": "FRESH LIME, FRESH MINT, SIMPLE\nSYRUP,SELTZER",
+    "price": "$8",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "No VICE",
+    "description": "CRUSHED ICE, STRAWBERRY SYRUP, LIME,\nCREAM OF COCONUT, MINT",
+    "price": "$8",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "RASPBERRY LEMONADE",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "FEVER TREE GINGER BEER",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "FENTIMANS ROSE LEMONADE",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "SPRECHER ROOT BEER",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "HOUSE-MADE LIME SODA",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dinner Menu"
+  },
+  {
+    "name": "CHOCOLATE LAYER CAKE FOR Two",
+    "description": "CHOCOLATE MASCARPONE MOUSSE,\nCHOCOLATE BUTTERCREAM,\nPEANUT BRITTLE HONEYCOMB CANDY",
+    "price": "$25",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dessert Menu"
+  },
+  {
+    "name": "VANILLA CUSTARD TRIFLE",
+    "description": "HONEY PHYLLO CAKE,\nBISCOFF BROWN BUTTER CRUMBLE",
+    "price": "$15",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dessert Menu"
+  },
+  {
+    "name": "ZEPPOLES",
+    "description": "CINNAMON DUSTED RICOTTA\nDOUGHNUTS, VANILLA CUSTARD &\nSALTED CARAMEL SAUCE",
+    "price": "$15",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dessert Menu"
+  },
+  {
+    "name": "ITALIAN Butter CAKE",
+    "description": "FIOR DI LATTE GELATO, AMARENA\nCHERRY, AMARETTI COOKIE",
+    "price": "$15",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dessert Menu"
+  },
+  {
+    "name": "IRISH COFFEE",
+    "description": "BRULÉED SUGAR CUBES,\nJAMESON IRISH WHISKEY, FRESH\nCOFFEE, FRESH WHIPPED CREAM",
+    "price": "$15",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dessert Menu"
+  },
+  {
+    "name": "15 CHURCH ESPRESSO MARTINIS",
+    "description": "DARK:\nFRESH ESPRESSO, VANILLA VODKA,\nKAHLUA, GOSLING'S DARK RUM,\nDEMERARA SIMPLE, ANGOSTURA\nBITTERS\nLIGHT:\nFRESH ESPRESSO, VANILLA VODKA,\nKAHLUA, BAILEY'S IRISH CREAM",
+    "price": "$19",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dessert Menu"
+  },
+  {
+    "name": "CHOCOLATE LAYER CAKE FOR Two",
+    "description": "CHOCOLATE MASCARPONE MOUSSE,\nCHOCOLATE BUTTERCREAM,\nPEANUT BRITTLE HONEYCOMB CANDY",
+    "price": "$25",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dessert Menu"
+  },
+  {
+    "name": "VANILLA CUSTARD TRIFLE",
+    "description": "HONEY PHYLLO CAKE,\nBISCOFF BROWN BUTTER CRUMBLE",
+    "price": "$15",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dessert Menu"
+  },
+  {
+    "name": "ZEPPOLES",
+    "description": "CINNAMON DUSTED RICOTTA\nDOUGHNUTS, VANILLA CUSTARD &\nSALTED CARAMEL SAUCE",
+    "price": "$15",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dessert Menu"
+  },
+  {
+    "name": "ITALIAN Butter CAKE",
+    "description": "FIOR DI LATTE GELATO, AMARENA\nCHERRY, AMARETTI COOKIE",
+    "price": "$15",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dessert Menu"
+  },
+  {
+    "name": "IRISH COFFEE",
+    "description": "BRULÉED SUGAR CUBES,\nJAMESON IRISH WHISKEY, FRESH\nCOFFEE, FRESH WHIPPED CREAM",
+    "price": "$15",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dessert Menu"
+  },
+  {
+    "name": "15 CHURCH ESPRESSO MARTINIS",
+    "description": "DARK:\nFRESH ESPRESSO, VANILLA VODKA,\nKAHLUA, GOSLING'S DARK RUM,\nDEMERARA SIMPLE, ANGOSTURA\nBITTERS\nLIGHT:\nFRESH ESPRESSO, VANILLA VODKA,\nKAHLUA, BAILEY'S IRISH CREAM",
+    "price": "$19",
+    "restaurant_name": "15 Church Restaurant",
+    "restaurant_url": "https://www.15churchrestaurant.com/",
+    "menu_type": "Dessert Menu"
+  }
+]

@@ -1,0 +1,890 @@
+[
+  {
+    "name": "CALAMARI FRITTA",
+    "description": "Golden fried calamari with roasted poblano peppers and topped with ancho aioli",
+    "price": "$11",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Menu"
+  },
+  {
+    "name": "HOG WINGS",
+    "description": "Bone in pork tossed in Oaxacan mole and sesame seeds",
+    "price": "$9",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Menu"
+  },
+  {
+    "name": "CIABATTA FRESCO",
+    "description": "Topped with avocado. tomatoes, cilantro, re onions, jalapenos and drizzled with a balsamic reduction on a bed of arugula",
+    "price": "$8",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Menu"
+  },
+  {
+    "name": "MEXICAN ARANCINI",
+    "description": "Arborio rice with chorizo and fresh cilantro. cotija and Monteray cheeese topped with ancho aioli",
+    "price": "$7",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Menu"
+  },
+  {
+    "name": "PEI MUSSELS",
+    "description": "Tossed in a Carte Blanca sauce mixed with chorizo and cannelli beans and served with garlic ciabatta bread",
+    "price": "$11",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Menu"
+  },
+  {
+    "name": "HOUSE SALAD",
+    "description": "Mixed greens with cherry tomatoes, cucumbers, green olives, red onion and carrots, topped with crumbled queso fresco and house dressing",
+    "price": "$7",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Menu"
+  },
+  {
+    "name": "CAESAR SALAD",
+    "description": "Parmesan and cotija grilled and encrusted romaine heart topped with crisp prosciutto, chorizo, red onion and drizzled with cayenne lemon Caesar dressing",
+    "price": "$9",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Menu"
+  },
+  {
+    "name": "FUSION SALAD",
+    "description": "Arugula mixed with red onion, fresh mozzarella, avocado, cannellini beans, cherry tomatoes, lemon juice and extra virgin oil and finished with fried jalapenos",
+    "price": "$10",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Menu"
+  },
+  {
+    "name": "PENNE ALA VODKA",
+    "description": "Penne pasta with chorizo in a light pink sauce",
+    "price": "$12",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Menu"
+  },
+  {
+    "name": "BOLOGNESE",
+    "description": "Ground beef, chorizo and veal tossed in a homemade tomato sauce on rigatoni pasta",
+    "price": "$13",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Menu"
+  },
+  {
+    "name": "PORK OSSO",
+    "description": "Bone in mini shanks braised with fresh thyme and spices. Served with a spicy demi glaze and creamy polenta",
+    "price": "$14",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Menu"
+  },
+  {
+    "name": "TAQUITO",
+    "description": "Three tortillas filled with Tinga de pollo and fried. Topped with shredded lettuce. onion, queso fresco, guacamole and cream",
+    "price": "$12",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Menu"
+  },
+  {
+    "name": "ENCHILADAS",
+    "description": "Corn tortilla filled with Tinga de pollo and topped with Oaxacan mole sauce and topped with queso fresco and sesame seeds",
+    "price": "$12",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Menu"
+  },
+  {
+    "name": "MODELO ESPECIAL",
+    "description": "",
+    "price": "$5",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "DOS EQUIS",
+    "description": "",
+    "price": "$5",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "MILLER LIGHT",
+    "description": "",
+    "price": "$5",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "BLUE MOON",
+    "description": "",
+    "price": "$5",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "FIDDLEHEAD",
+    "description": "",
+    "price": "$5",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "SAMUEL ADAMS SUMMER",
+    "description": "",
+    "price": "$5",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "MEZCAL COCKTAIL",
+    "description": "Mezcal, sweet vermouth, orange bitters",
+    "price": "$10",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "FUSION SANGRIA",
+    "description": "Red wine, sweet vermouth, ginger syrup, orange juice, pomegranate molasses, club soda",
+    "price": "$10",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "OUR ANGELO AZZURRO",
+    "description": "Vodka, lemon, orange liqueur,  simple syrup, coconut rum, blue curacao",
+    "price": "$8",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "HOUSE MARGARITA",
+    "description": "Vodka, lime juice, simple syrup",
+    "price": "$7",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "MANGONEADA",
+    "description": "Vodka, mango, lime juice, simple syrup, chamoy and tajin",
+    "price": "$8",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "SPICY GIMLET",
+    "description": "Vodka, lime juice, simple syrup, jalapeno",
+    "price": "$6",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "AGUA FRESCA",
+    "description": "Tequila, orange juice, grapefruit juice, lime juice, topped with sprite and tajin",
+    "price": "$7",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "CAVAZZA PINOT GRIGIO",
+    "description": "Clean, fruit forward style, easy to enjoy",
+    "price": "$6",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "BLEND  (VIAMARE TREBBIANO)",
+    "description": "Blend-bright flavors of peaches, pears and florals on the finish",
+    "price": "$6",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "PINOT GRIGIO (A & J WINERY)",
+    "description": "Crisp and refreshing flavors of citrus and pear with a light acidity",
+    "price": "$6",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "CHARDONNAY (A & J WINERY)",
+    "description": "Medium bodied with flavors of green apple and tropical fruit with a light finish of oak and vanilla",
+    "price": "$6",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "WHITE ZINFANDEL (RAYWOOD)",
+    "description": "Balancing the sweetness with enough acidity to make it fruity, but also refreshing and crisp at the finish",
+    "price": "$6",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "ROSSO BLEND   (PALLADIO)",
+    "description": "Hints of dark cherry and red fruits, it's soft, supple tannins and a long finish",
+    "price": "$6",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "PINOT NOIR (A & J WINERY)",
+    "description": "Light to medium bodied. Soft and smooth with sweet cherry, plum and strawberry fruit flavors",
+    "price": "$6",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "MERLOT (A & J WINERY)",
+    "description": "Flavors of blackberry and raspberry with a soft oak undertones and a smooth finish",
+    "price": "$6",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "CABERNET SAUVIGNON (A & J WINERY)",
+    "description": "Full bodied with flavors of black cherry, currant and mocha with a  touch of oak and vanilla",
+    "price": "$6",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Happy Hour Drinks"
+  },
+  {
+    "name": "CHEESE RAVIOLI",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PASTA WITH MARINARA OR BUTTER",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHEESE QUESADILLA  8  ADD CHICKEN",
+    "description": "",
+    "price": "$3",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TWO TACOS WITH CHIPS",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GRILLED CHEESE WITH CHIPS",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHICKEN TENDERS WITH CHIPS",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CALAMARI FRITTA",
+    "description": "Golden fried calamari with roasted Poblano peppers, and an ancho aioli",
+    "price": "$15",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TUNA CRUDO  (GF)",
+    "description": "Ahi tuna sliced thin and mixed with a crunchy chili sauce topped with candied jalapenos, charred corn and a cilantro-lime dressing",
+    "price": "$14",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHARRED POBLANO  (GF)",
+    "description": "Stuffed with a house blend of cheese, spices and a mix of chorizo and Italian sausage",
+    "price": "$16",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CIABATTA FRESCO",
+    "description": "Topped with avocado, fresh tomatoes, cilantro, red onion, jalapenos and drizzled with a balsamic reduction on a bed of arugula",
+    "price": "$15",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MEXICAN ARANCINI",
+    "description": "Arborio rice with chorizo and fresh cilantro, cotija and melted Monterey cheese with our ancho aioli",
+    "price": "$15",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PEI MUSSELS",
+    "description": "Tossed in Carta Blanca sauce mixed with chorizo and cannellini beans and served with garlic ciabatta bread",
+    "price": "$16",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PROSCIUTTO WRAPPED SHRIMP  (GF)",
+    "description": "Tossed with white beans,peppadew peppers, roasted cherry tomatoes and drizzled with a fig balsamic glaze",
+    "price": "$16",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MEXICAN COBB",
+    "description": "Little leaf lettuce and arugula adorned with crispy chorizo, red onions, corn, spiced-toasted pepitas, black beans, kalamata olives, avocado, cherry tomatoes, queso fresco, cotija and a hard-boiled egg with zesty poblano-cilantro dressing",
+    "price": "$19",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CAESAR SALAD",
+    "description": "Parmesan and cotija grilled and encrusted romaine hearts topped with crisp prosciutto, chorizo, red onion and drizzled with cayenne-lemon Caesar dressing",
+    "price": "$16",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "QUINOA SALAD",
+    "description": "Tri-colored quinoa tossed with street corn, red onions, scallions, cilantro, cucumbers, seasoned black beans and queso fresco in a chili-lime vinaigrette over little leaf lettuce and romaine topped with diced avocado and grilled lime",
+    "price": "$19",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CAPRESE SALAD",
+    "description": "Beefsteak tomatoes, fresh mozzarella, basil, olive oil and a balsamic reduction over a bed of arugula, sprinkled with truffle salt",
+    "price": "$16",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "LA FRONTERA SALAD",
+    "description": "Arugula tossed with fresh lemon, olive oil, sea salt and mixed with peppadew peppers ,kalamata olives, white beans, black beans, red onion, toasted pepitas, queso fresco and ricottas salata",
+    "price": "$16",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SHORT RIB  (GF)",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "ROASTED VEG",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TEX MEX",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "COWBOY STEAK",
+    "description": "COWBOY STEAK    QUESADILLA 14  or  PANINI 16",
+    "price": "$14",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TACOS   (GF)",
+    "description": "Four tacos served with diced onion and cilantro with a side of salsa",
+    "price": "$20",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MEXICAN LASAGNA",
+    "description": "A trio of seasoned ground beef, chorizo and veal layered with a blend of oaxacan cheese and mozzarella between sheets of pasta with homemade tomato sauce",
+    "price": "$22",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "VONGOLE FUSION",
+    "description": "Little neck clams sauteed in a Carta-Blanca sauce with plum tomatoes, manzanilla olives and fettuccine",
+    "price": "$26",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "FRUTTI DE MARE",
+    "description": "Shrimp, little-neck clams, p.e.i. mussels and squid tossed with fettuccine in a roasted Serrano-tomato sauce",
+    "price": "$33",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GNOCCHI",
+    "description": "Potato and ricotta gnocchi tossed with sauteed chorizo, onions, peas, cremini mushrooms in a sun dried tomato pesto cream sauce",
+    "price": "$22",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHEESE RAVIOLI",
+    "description": "With sauteed vegetables in a wine sauce tossed with zucchini, cherry tomatoes and roasted poblano peppers and topped with queso fresco",
+    "price": "$22",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PENNE ALA VODKA",
+    "description": "Penne pasta with smoked chorizo in a light pink sauce",
+    "price": "$23",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "AHI TUNA  (GF)",
+    "description": "Chili encrusted tuna over tri-colored quinoa in a honey-chipolte sauce with corn, peppadew peppers, scallions and watercress drizzled with sweet mole",
+    "price": "$33",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SALMON (GF)",
+    "description": "Salmon with roasted red pepper pesto, served with roasted potatoes and veg of the day",
+    "price": "$30",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "COD (GF)",
+    "description": "Pan seared and topped with a sweet and spicy Acapulco citrus topping over risotto with corn, black beans, scallions and peppadew",
+    "price": "$28",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SHORT RIBS (GF)",
+    "description": "Baked with fresh thyme and spices. Served with a spicy demi glaze and creamy polenta",
+    "price": "$28",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHICKEN MILANESE",
+    "description": "Breaded, pan fried and served on top of pico de gallo. Paired with sauteed onions, peppadew and prosciutto",
+    "price": "$25",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "KOBE FLATIRON",
+    "description": "Grilled 8 oz. flatiron topped with our house chimichurri over a roasted street-corn and roasted poblano risotto",
+    "price": "MP",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "FILET MIGNON",
+    "description": "10 oz. tender filet perfectly seasoned and served with a peppercorn cream sauce and veg of the day",
+    "price": "$44",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GRILLED PORK CHOP",
+    "description": "A juicy chop with porcini and oyster mushrooms in a white wine and light cream sauce, served with roasted potatoes",
+    "price": "$28",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "RISOTTO POBLANO",
+    "description": "Risotto cooked with roasted poblano, garlic, onion and cotija cheese, topped with chorizo",
+    "price": "MP",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TIRAMISU",
+    "description": "Delicate lady fingers with espresso and mascarpone dusted with cocoa powder",
+    "price": "$10",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "FLAN",
+    "description": "Sweet custard with fresh vanilla beans, topped with caramel sauce",
+    "price": "$8",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHURROS",
+    "description": "Oaxacan dessert fried and dusted in cinnamon and sugar, served with chocolate sauce",
+    "price": "$8",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CANNOLI  (2)",
+    "description": "Hand made deep fried shells layered with traditional cannoli cream",
+    "price": "$9",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "VANILLA BEAN ICE CREAM",
+    "description": "Roasted Potatoes 6\nSpinach 7\nVegetable of the Day 6\nSide of Risotto 8",
+    "price": "$4",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "ROASTED POTATOES",
+    "description": "",
+    "price": "$25 (half tray) | $40 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "SPINACH",
+    "description": "",
+    "price": "$35 (half tray) | $60 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "ASPARAGUS",
+    "description": "",
+    "price": "$35 (half tray) | $60 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "GREEN BEANS",
+    "description": "",
+    "price": "$25 (half tray) | $40 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "ZUCCHINI SQUASH",
+    "description": "",
+    "price": "$25 (half tray) | $40 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "CIABATTA FRESCO",
+    "description": "Topped with avocado, fresh tomato, ciliantro, red onion, japapenos, queso fresco and drizzled with a balsamic reduction on a bed of arugula",
+    "price": "$35 (half tray) | $60 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "MEXICAN ARANCINI",
+    "description": "Arborio rice with chorizo and fresh cilantro, cotija and melted monterey cheese with our ancho aioli",
+    "price": "$60 (half tray) | $110 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "CHARRED POBLANO  (GF)",
+    "description": "Stuffed with a house blend of cheese, spices and mix of chorizo and italian sausage",
+    "price": "$55 (half tray) | $100 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "PROSCIUTTO WRAPPED SHRIMP  (GF)",
+    "description": "Tossed with white beans, peppadew peppers, spinach, roasted cherry tomatoes and drizzled with a fig balsamic glaze",
+    "price": "$80 (half tray) | $150 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "TAQUITO",
+    "description": "Tortillas filled with Tinga de pollo and fried. Topped with shredded lettuce, onion, queso fresco, guacamole and cream",
+    "price": "$35 (half tray) | $60 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "TACO  (GF)",
+    "description": "Tacos served with diced onion and cilantro with a side of salsa.",
+    "price": "$65 (half tray) | $120 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "HOUSE SALAD",
+    "description": "Mixed greens with cherry tomatoes, cucumbers, green olives, red onion and carrots. Topped with crumb;e queso fresco and house dressing",
+    "price": "$40 (half tray) | $70 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "MEXICAN COBB",
+    "description": "Little leaf lettuce and arugula adorned with crispy chorizo, red onion, corn, spiced-toasted pepitas, black beans and queso fresco, cotija and a hard=boiled egg with zesty poblano-cilantro dressing",
+    "price": "$65 (half tray) | $110 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "QUINOA SALAD",
+    "description": "Tri-colored quinoa tossed with street corn, red onions, scallions, cilantro, cucumbers, seasoned black beans and queso fresco in a chili-lime vinaigrette over little leaf lettuce and romaine topped with diced avocado and grilled lime",
+    "price": "$65 (half tray) | $110 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "CAPRESE SALAD",
+    "description": "Beefsteak tomatoes, fresh mozzarella, basil, kalamata olive, extra virgin olive oil and a balsamic reduction over a bed of arugula, sprinkled with truffle salt",
+    "price": "$50 (half tray) | $90 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "42 FUSION SALAD",
+    "description": "Arugula mixed with red onion, fresh mozzarella, avocado, cannellini beans, cherry tomatoes, lemon juice and extra virgin olive oil and finished with fried jalapenos",
+    "price": "$65 (half tray) | $110 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "LA FRONTERA SALAD",
+    "description": "Arugula tossed with fresh lemon, olive oil, sea salt and mixed with peppadew peppers, kalamata olives, white beans, black beans, red onion, toasted pepitas, queso fresco and ricotta salata",
+    "price": "$45 (half tray) | $80 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "CAESAER SALAD",
+    "description": "Parmesan and cotija grilled and encrusted romaine hearts topped with crisp proscuitto. chorizo, red onion and  drizzled with cayenne-lemon caesar dressing",
+    "price": "$45 (half tray) | $80 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "MEXICAN LASAGNA",
+    "description": "A trio of seasoned ground beef, chorizo and veal layered with a blend of oaxacan cheese and mozzarella between sheets of pasta with homemade tomato sauce",
+    "price": "$65 (half tray) | $130 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "VONGOLE FUSION",
+    "description": "Little neck clams sauteed in a Carta-Blanca sauce with plum tomatoes, manzanilla olives and fettuccini",
+    "price": "$60 (half tray) | $100 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "FRUTTI MARE",
+    "description": "Shrimp, little neck clams, p.e.i. mussels and squid tossed with fettuccini in a roasted serrano-tomato sauce",
+    "price": "$65 (half tray) | $120 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "GNOCCHI",
+    "description": "Potato and ricotta gnocchi tossed with sauteed chorizo, onions, peas, cremini mushrooms in a sun dried tomato pesto cream sauce",
+    "price": "$65 (half tray) | $110 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "CHEESE RAVIOLI",
+    "description": "With sauteed vegetables in a wine sauce tossed with zucchini, cherry tomatoes and roasted poblano peppers and topped with queso fresco",
+    "price": "$60 (half tray) | $100 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "PENNE ALA VODKA",
+    "description": "Penne pasta with smoked chorizo, tarragon in a light pink sauce",
+    "price": "$50 (half tray) | $90 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "BOLOGNESE",
+    "description": "Ground beef, chorizo and veal on tossed in a homemade tomato sauce on rigatoni pasta",
+    "price": "$50 (half tray) | $90 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "CHICKEN MILANESE",
+    "description": "Breaded, pan fried and served on top of pico de gallo. Paired with sauteed onions, peppadew and prosciutto",
+    "price": "$50 (half tray) | $90 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "CHICKEN PARMIGIANA",
+    "description": "Chicken breast with homemade marinara sauce, mozzarella, parmesan cheese",
+    "price": "$50 (half tray) | $90 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "SALMON",
+    "description": "Grilled salmon in a lemon-caper butter",
+    "price": "MP",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "AIRLINE CHICKEN",
+    "description": "Roasted chicken thigh with caramelized onion, chorizo, potatoes, peppadew, fresh herb, white wine with a demi-glaze sauce",
+    "price": "$65 (half tray) | $120 (full tray)",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "TIRAMISO",
+    "description": "Delicate lady fingers with espresso and mascarpone dusted with cocoa powder",
+    "price": "$50",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "FLAN",
+    "description": "Sweet custard with fresh vanilla beans, topped with caramel sauce",
+    "price": "$50",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "CHURROS",
+    "description": "Oaxacan dessert fried and dusted in cinnamon and sugar, served with chocolate sauce",
+    "price": "$50",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  },
+  {
+    "name": "CANNOLI",
+    "description": "Handmade, deep-fried shells layered with traditional cannoli cream",
+    "price": "$45",
+    "restaurant_name": "42 Fusion",
+    "restaurant_url": "https://42fusion.com/",
+    "menu_type": "Catering"
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "name": "STEAMED CLAMS-LITTLE NECKS",
+    "description": "Served with drawn butter",
+    "price": "$14.95",
+    "menu_type": "APPETIZERS",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "BASKET OF FRIES",
+    "description": "Heaping pile of skin-on fresh cut spuds",
+    "price": "$5.95",
+    "menu_type": "APPETIZERS",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "WAFFLE FRIES, SWEET POTATO FRIES OR ONION RINGS",
+    "description": "",
+    "price": "$5.95",
+    "menu_type": "APPETIZERS",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "MOZZARELLA WEDGES",
+    "description": "Homemade fresh Mozzarella Cheese served with Marinara or Melba Sauce",
+    "price": "$9.95",
+    "menu_type": "APPETIZERS",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "CHICKEN TENDERS",
+    "description": "Boneless tenders golden fried and served with Marinara Sauce",
+    "price": "$9.95",
+    "menu_type": "APPETIZERS",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "BONELESS CHICKEN BITES",
+    "description": "Lightly floured and deep fried. Served with Bleu Cheese and celery. MILD, MEDIUM or HOT",
+    "price": "$11.95",
+    "menu_type": "APPETIZERS",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "CHICKEN WINGS 6",
+    "description": "These are the ones you've heard about!Served with Blue Cheese and celery.MILD, MEDIUM, HOT, BBQ, CHIPOTLE or GARLIC PARMESAN.",
+    "price": "",
+    "menu_type": "APPETIZERS",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "CHICKEN WINGS 12",
+    "description": "These are the ones you've heard about!Served with Bleu Cheese and celery.MILD, MEDIUM, HOT, BBQ, CHIPOTLE or GARLIC PARMESAN.",
+    "price": "",
+    "menu_type": "APPETIZERS",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "THAI SHRIMP",
+    "description": "Fresh grilled & tossed with a sweet and spicy glaze.",
+    "price": "$15.95",
+    "menu_type": "APPETIZERS",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "CALDWELL CLAMS",
+    "description": "Little Neck Clams simmered with chopped clams, white wine, garlic and herbs. Served with garlic toast points.",
+    "price": "$17.95",
+    "menu_type": "APPETIZERS",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "STEAMED LITTLE NECKS",
+    "description": "Little Necks with drawn butter",
+    "price": "$15.95",
+    "menu_type": "APPETIZERS",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "HOUSE SALAD",
+    "description": "Mixed greens, iceberg, carrots, cucumber, onions, and cherry tomato, with garlic croutons",
+    "price": "$5.95 (Medium) | $7.95 (Large)",
+    "menu_type": "SALADS & SOUP",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "CAESAR SALAD",
+    "description": "Romaine, Parmesan, and croutons with Caesar dressing. ADD Chicken 6.95 / Salmon $10.95 Shrimp $8.95",
+    "price": "$10.95",
+    "menu_type": "SALADS & SOUP",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "NAPA SALAD",
+    "description": "Mixed greens with Gorgonzola, pistachios, sundried cranberries, grapes and strawberry vinaigrette. ADD Salmon $10.95 /Shrimp $8.95/ Chicken $6.95",
+    "price": "$14.95",
+    "menu_type": "SALADS & SOUP",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "BUFFALO CHICKEN SALAD",
+    "description": "Mixed greens with crispy Buffalo Chicken, carrots, celery and crumbly bleu cheese.",
+    "price": "$14.95",
+    "menu_type": "SALADS & SOUP",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "NEW ENGLAND CLAM CHOWDA'",
+    "description": "OR Soup of the Day",
+    "price": "$5.95 (cup) / $6.95 (bowl)",
+    "menu_type": "SALADS & SOUP",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "FRENCH ONION SOUP",
+    "description": "Homemade bubbling with swiss and provolone",
+    "price": "$5.95 (cup) / $7.95 (crock)",
+    "menu_type": "SALADS & SOUP",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "CHICKEN TENDERS",
+    "description": "With French Fries",
+    "price": "$7.95",
+    "menu_type": "KIDS CORNER",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "KIDS BURGER",
+    "description": "With French Fries",
+    "price": "$7.95",
+    "menu_type": "KIDS CORNER",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "PASTA",
+    "description": "Red Sauce with Penne Pasta. Served with garlic bread.",
+    "price": "$7.95",
+    "menu_type": "KIDS CORNER",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "GRILLED CHEESE",
+    "description": "With French Fries",
+    "price": "$7.95",
+    "menu_type": "KIDS CORNER",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "MAC N' CHEESE",
+    "description": "With Apple Sauce",
+    "price": "$9.95",
+    "menu_type": "KIDS CORNER",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "ADIRONDACK BURGER",
+    "description": "A half pound of fresh ground sirloin flame grilled with your choice of cheese on a toasted Brioche roll.",
+    "price": "$16.95",
+    "menu_type": "BURGERS & SANDWICHES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "BIG SLIDE BURGER",
+    "description": "A half pound of fresh ground sirloin grilled and topped with Applewood smoked bacon, onion rings and Bleu cheese sauce on a Brioche roll.",
+    "price": "$18.95",
+    "menu_type": "BURGERS & SANDWICHES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "PULLED PORK",
+    "description": "Smoked pulled pork simmered in our Carolina BBQ Sauce, topped with coleslaw, served on a toasted Brioche roll.",
+    "price": "$13.95",
+    "menu_type": "BURGERS & SANDWICHES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "PHELPS PHILLY",
+    "description": "Thin sliced beef sauteed with onions and peppers topped with mozzarella and served on a fresh baguette roll with a side of au jus.",
+    "price": "$15.95",
+    "menu_type": "BURGERS & SANDWICHES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "GRILLED CHICKEN BLT",
+    "description": "With vine ripened tomato, lettuce, bacon and mayo on a Brioche roll.",
+    "price": "$14.95",
+    "menu_type": "BURGERS & SANDWICHES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "FISH SANDWICH",
+    "description": "Breaded fried Haddock with lettuce, tomato on a Brioche roll, served with fresh cut fries and homemade coleslaw.",
+    "price": "$13.95",
+    "menu_type": "BURGERS & SANDWICHES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "FISH N' CHIPS",
+    "description": "Golden fried Haddock fillet served with house cut fries and coleslaw",
+    "price": "$18.95",
+    "menu_type": "ENTREES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "BAKED HADDOCK OREGONATA",
+    "description": "Fresh filet topped with garlic parmesean bread crumbs, over a bed of spinach with rice.",
+    "price": "$23.95",
+    "menu_type": "ENTREES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "'SMARTY JONES' SALMON",
+    "description": "Fresh atlantic Salmon baked with lemon and wine. Served with seasoned rice and vegetable du jour.",
+    "price": "$23.95",
+    "menu_type": "ENTREES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "NY SIRLOIN STEAK",
+    "description": "Hand cut 12 oz. Sirloin, seasoned and grilled with mashed and vegetable du jour.",
+    "price": "$32.95",
+    "menu_type": "ENTREES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "BLACK & BLUE STEAK",
+    "description": "Hand cut NY Sirloin, grilled and seasoned, topped with melted Gorgonzola and center cur bacon. Served with mashed and vegetable du jour",
+    "price": "$35.95",
+    "menu_type": "ENTREES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "PARADOX PASTA",
+    "description": "Fresh Little neck and chopped clams in a white or red sauce tossed with linguini.",
+    "price": "$24.95",
+    "menu_type": "ENTREES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "CEDAR RIVER CHICKEN PARMESAN",
+    "description": "Generous sized, breaded chicken breast topped with marinara sauce and mozzarella cheese. Served with penne pasta.",
+    "price": "$22.95",
+    "menu_type": "PASTA ENTREES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "MINERVA CHICKEN MARSALA",
+    "description": "Medallions of chicken sauteed with mushrooms and garlic. Finished in Marsala over a bed of penne pasta.",
+    "price": "$22.95",
+    "menu_type": "PASTA ENTREES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "FRIEND'S LAKE ALFREDO",
+    "description": "Fettuccini noodles tossed in our homemade Alfredo sauce. ADD Chicken & Broccoli $7.95 ADD Shrimp & Broccoli $9.95",
+    "price": "$16.95",
+    "menu_type": "PASTA ENTREES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "LONG LAKE LASAGNA",
+    "description": "Fresh ground beef, sweet Italian sausage, Ricotta, Mozzarella, Parmesan and herbs layered high with tender noodles.",
+    "price": "$23.95",
+    "menu_type": "PASTA ENTREES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "SHRIMP SCAMPI",
+    "description": "Gulf Shrimp sautéed in garlic, olive oil, white wine, and lemon with cherry tomatoes and broccoli tossed over linguini.",
+    "price": "$24.95",
+    "menu_type": "PASTA ENTREES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "WHITE VEGGIE",
+    "description": "Artichoke hearts, tomato & broccoli on a white crust.",
+    "price": "$18.95 (Medium) | $21.95 (Large)",
+    "menu_type": "GOURMET PIZZA",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "BBQ CHICKEN",
+    "description": "Grilled chicken with BBQ sauce.",
+    "price": "$18.95 (Medium) | $21.95 (Large)",
+    "menu_type": "GOURMET PIZZA",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "TUSCAN GRILLED CHICKEN",
+    "description": "Grilled chicken, roasted red peppers & mushrooms on a white crust.",
+    "price": "$18.95 (Medium) | $21.95 (Large)",
+    "menu_type": "GOURMET PIZZA",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "ITALIAN STALLION",
+    "description": "Ricotta cheese, fresh spinach, tomatoes on a white crust.",
+    "price": "$18.95 (Medium) | $21.95 (Large)",
+    "menu_type": "GOURMET PIZZA",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "BUFFALO",
+    "description": "Grilled chicken with Frank's Red Hot, choice of bleu cheese or ranch.",
+    "price": "$18.95 (Medium) | $21.95 (Large)",
+    "menu_type": "GOURMET PIZZA",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "GODFATHER",
+    "description": "Grilled chicken, roasted red peppers, prosciutto ham on white crust topped with fresh basil & balsamic glaze.",
+    "price": "$19.95 (Medium) | $23.95 (Large)",
+    "menu_type": "GOURMET PIZZA",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "CHEESE PIZZA",
+    "description": "Medium 12\" -8 cut. Toppings 1.50/each.",
+    "price": "$13.25",
+    "menu_type": "PIZZA",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "CHEESE PIZZA",
+    "description": "Large 16\" - 12 cut. Toppings 2.00/each",
+    "price": "$15.00",
+    "menu_type": "PIZZA",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "ANDY'S SPECIAL",
+    "description": "Choice of 5 Toppings",
+    "price": "$17.95 (Medium) | $20.95 (Large)",
+    "menu_type": "PIZZA",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "GLUTEN FREE FOR 12\" CRUST ONLY  ADD",
+    "description": "",
+    "price": "$2.50",
+    "menu_type": "PIZZA",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "TROPICANA LEMONADE",
+    "description": "",
+    "price": "$3.50 (Glass) | $7.95 (Pitcher)",
+    "menu_type": "BEVERAGES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "SARANAC ROOT BEER",
+    "description": "",
+    "price": "$3.75 /bottle",
+    "menu_type": "BEVERAGES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "MILK & JUICE",
+    "description": "",
+    "price": "$1.50 (Small) | $2.50 (Large)",
+    "menu_type": "BEVERAGES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "ICED TEA",
+    "description": "",
+    "price": "$2.50",
+    "menu_type": "BEVERAGES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "COFFEE",
+    "description": "",
+    "price": "$1.99",
+    "menu_type": "BEVERAGES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "TEA",
+    "description": "",
+    "price": "$1.99",
+    "menu_type": "BEVERAGES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "HOT CHOCOLATE",
+    "description": "",
+    "price": "$1.99",
+    "menu_type": "BEVERAGES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  },
+  {
+    "name": "SARATOGA WATER",
+    "description": "",
+    "price": "$5.25",
+    "menu_type": "BEVERAGES",
+    "restaurant_name": "Andy's Adirondack Grille",
+    "restaurant_url": "https://andysadkgrille.com/"
+  }
+]

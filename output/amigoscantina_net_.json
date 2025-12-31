@@ -1,0 +1,1794 @@
+[
+  {
+    "name": "GUACAMOLE & CHIPS",
+    "description": "made with onion, cilantro, lime, jalapeno",
+    "price": "",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "QUESO & CHIPS",
+    "description": "made with roasted red peppers, jalapenos, onion, garlic",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "NACHOS CLASSICO",
+    "description": "with tomatoes, scallions, olives, jalapenos, lettuce, sour cream\nADD: chicken, pork, beef +3/each refried or black beans +2/each",
+    "price": "$9 (Small) | $12 (Large)",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SMOKED CHEDDAR FUNCHI FRIES",
+    "description": "with cotija & guava-tamarind ketchup",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHILE RELLENO",
+    "description": "baked with choice of sauce, melted cheese",
+    "price": "$12 (One) | $19 (Two)",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TAMALES",
+    "description": "choice of chicken or beef, topped with guajillo-ranchero sauce,\ncorn salsa, cotija. 2 per order",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SOPA DEL DIA",
+    "description": "daily house-made soups",
+    "price": "$5 (Small) | $8.5 (Large)",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHICKEN",
+    "description": "with lettuce, pico de gallo, melted\ncheese, cotija, flour or corn tortillas\nGF with corn tortillas",
+    "price": "$4.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PORK",
+    "description": "with lettuce, pico de gallo, melted\ncheese, cotija, flour or corn tortillas\nGF with corn tortillas",
+    "price": "$4.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BEEF",
+    "description": "with lettuce, pico de gallo, melted\ncheese, cotija, flour or corn tortillas\nGF with corn tortillas",
+    "price": "$4.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "VEGGIE",
+    "description": "with lettuce, pico de gallo, melted\ncheese, cotija, flour or corn tortillas\nGF with corn tortillas",
+    "price": "$4.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHICKEN",
+    "description": "with beans, rice, corn salsa, pico de\ngallo, cotija, guajillo-ranchero sauce,\ncrema",
+    "price": "$16",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PORK",
+    "description": "with beans, rice, corn salsa, pico de\ngallo, cotija, guajillo-ranchero sauce,\ncrema",
+    "price": "$16",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BEEF",
+    "description": "with beans, rice, corn salsa, pico de\ngallo, cotija, guajillo-ranchero sauce,\ncrema",
+    "price": "$16",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "VEGGIE",
+    "description": "with beans, rice, corn salsa, pico de\ngallo, cotija, guajillo-ranchero sauce,\ncrema",
+    "price": "$15",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHICKEN",
+    "description": "with melted cheese &\nside of sour cream",
+    "price": "$15",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PORK",
+    "description": "with melted cheese &\nside of sour cream",
+    "price": "$15",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BEEF",
+    "description": "with melted cheese &\nside of sour cream",
+    "price": "$15",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SHRIMP",
+    "description": "with melted cheese &\nside of sour cream",
+    "price": "$18",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "VEGGIE",
+    "description": "with melted cheese &\nside of sour cream",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SPINACH",
+    "description": "with melted cheese &\nside of sour cream",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHEESE",
+    "description": "with melted cheese &\nside of sour cream",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHICKEN",
+    "description": "rolled with corn tortillas, GF\nchoice of sauce, melted cheese\n(two enchiladas per order)",
+    "price": "$15",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PORK",
+    "description": "rolled with corn tortillas, GF\nchoice of sauce, melted cheese\n(two enchiladas per order)",
+    "price": "$15",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BEEF",
+    "description": "rolled with corn tortillas, GF\nchoice of sauce, melted cheese\n(two enchiladas per order)",
+    "price": "$15",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SHRIMP",
+    "description": "rolled with corn tortillas, GF\nchoice of sauce, melted cheese\n(two enchiladas per order)",
+    "price": "$18",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "VEGGIE",
+    "description": "rolled with corn tortillas, GF\nchoice of sauce, melted cheese\n(two enchiladas per order)",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SPINACH",
+    "description": "rolled with corn tortillas, GF\nchoice of sauce, melted cheese\n(two enchiladas per order)",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHEESE",
+    "description": "rolled with corn tortillas, GF\nchoice of sauce, melted cheese\n(two enchiladas per order)",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SOUTHWEST SALAD",
+    "description": "mixed greens, pico de gallo, corn salsa, guacamole,\nblack beans, cotija, crispy tortilla strips",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "NORTHEAST SALAD",
+    "description": "mixed greens, cabbage, carrots, red onion,\nspiced pepitas, grape tomatoes, goat cheese",
+    "price": "$13",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHICKEN",
+    "description": "12oz of filling, deep fried in a flour\ntortilla with onion, mild green chiles,\nchoice of sauce, melted cheese",
+    "price": "$18",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PORK",
+    "description": "12oz of filling, deep fried in a flour\ntortilla with onion, mild green chiles,\nchoice of sauce, melted cheese",
+    "price": "$18",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "RICE",
+    "description": "",
+    "price": "$3",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BLACK BEANS",
+    "description": "",
+    "price": "$3.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "REFRIED BEANS",
+    "description": "",
+    "price": "$3.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SIDE SALAD",
+    "description": "",
+    "price": "$5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MADUROS",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GUACAMOLE",
+    "description": "",
+    "price": "$3.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "QUESO",
+    "description": "",
+    "price": "$3.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SOUR CREAM",
+    "description": "",
+    "price": "$1.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PICO DE GALLO",
+    "description": "",
+    "price": "$1.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CORN SALSA",
+    "description": "",
+    "price": "$1.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "ENCHILADA SAUCE",
+    "description": "",
+    "price": "$2",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "JALAPENOS",
+    "description": "",
+    "price": "$1",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "ONIONS & PEPPERS",
+    "description": "",
+    "price": "$3",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SAUTEED SPINACH",
+    "description": "",
+    "price": "$4",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SAUTEED VEGGIES",
+    "description": "",
+    "price": "$5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TORTILLAS (3)",
+    "description": "",
+    "price": "$2",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CARNE ASADA",
+    "description": "grilled 8oz marinated flat iron steak, cooked to temp,\nwith chimichurri, pico de gallo, guacamole.\nserved with refried or black beans, rice & maduros",
+    "price": "$28",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CAMARONES ASADA",
+    "description": "chile-lime glazed shrimp with chimichurri,\npico de gallo, guacamole.\nserved with refried or black beans, rice & maduros",
+    "price": "$26",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "ARROZ CON POLLO",
+    "description": "grilled 8oz marinated chicken breast baked over rice\nwith choice of sauce, melted cheese.\nserved with refried or black beans & maduros",
+    "price": "$24",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "ARROZ CON CAMARONES",
+    "description": "grilled marinated shrimp baked over rice with choice of\nsauce, melted cheese.\nserved with refried or black beans & maduros",
+    "price": "$25",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BLACKENED HADDOCK",
+    "description": "with shredded cabbage, roasted\ncorn salsa, dill-caper crema",
+    "price": "$23",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BAJA COD",
+    "description": "fried beer-battered cod with jalapeno tartar\nsauce, pico de gallo, shredded cabbage",
+    "price": "$22",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GRILLED SHRIMP",
+    "description": "with shredded cabbage, pico de gallo,\ncitrus crema, guacamole",
+    "price": "$25",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GRILLED STEAK",
+    "description": "with chipotle-lime sauce, sauteed onions &\npeppers, roasted corn salsa, cotija",
+    "price": "$23",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GRILLED CHICKEN",
+    "description": "8oz marinated breast",
+    "price": "$25",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GRILLED STEAK",
+    "description": "8oz marinated angus flat iron",
+    "price": "$28",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GRILLED SHRIMP",
+    "description": "red chile-cilantro seasoned",
+    "price": "$26",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "VEGETABLE",
+    "description": "served sizzling with onions, peppers &\ntomatoes, sides of beans, rice, pico de gallo,\ncorn salsa, sour cream, 3 tortillas",
+    "price": "$19",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "RITUAL RITA",
+    "description": "ritual zero proof, agave, sour mix",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "RITUAL PALOMA",
+    "description": "ritual zero proof, agave, grapefruit, lime, club soda",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "NOJITO",
+    "description": "muddled mint, simple syrup, lime, club soda",
+    "price": "$8",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CARIBBEAN LEMONADE",
+    "description": "orange, lemon, guava, lavender",
+    "price": "$8",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "HOUSE",
+    "description": "gold tequila, orange liqueur, sour mix",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SKINNY",
+    "description": "gold tequila, lime, agave, club soda",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SPICY",
+    "description": "tanteo jalapeno tequila, orange liqueur, sour mix, muddled jalapeno",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BLUE MOON",
+    "description": "hornitos reposado, blue curacao, chambord, sour mix",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "LIME IN THE COCONUT",
+    "description": "1800 coconut tequila, coco lopez, pineapple, sour mix",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "EL PATRON",
+    "description": "patron silver, citronge, fresh lime, agave",
+    "price": "$16",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CADILLAC",
+    "description": "herradurra anejo, grand marnier, fresh lime, agave",
+    "price": "$16",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MAKE IT FRUITY",
+    "description": "add a flavor to a margarita +1 black raspberry, mango, melon, peach, pomegranate, raspberry, strawberry, blue curacao",
+    "price": "",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "LAVENDER LIMONADA",
+    "description": "vodka, lemon, guava, lavender syrup",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MOJITO",
+    "description": "white rum, lime, muddled mint, simple syrup",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SANGRIA",
+    "description": "red or white with brandy, peach, orange, lemon, lime, guava",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PINA COLADA",
+    "description": "blended white rum, malibu rum, pineapple, coco lopez",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PAINKILLER",
+    "description": "bacardi black rum, pineapple, coco lopez, orange, nutmeg",
+    "price": "$13",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "COORS LIGHT",
+    "description": "",
+    "price": "$5.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CORONA",
+    "description": "",
+    "price": "$5.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CORONA LIGHT",
+    "description": "",
+    "price": "$5.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "DOS EQUIS LAGER",
+    "description": "",
+    "price": "$5.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "FIDDLEHEAD IPA",
+    "description": "",
+    "price": "$6.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "HARPOON IPA",
+    "description": "",
+    "price": "$5.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "HEINEKEN 0%",
+    "description": "",
+    "price": "$5.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "LANDSHARK",
+    "description": "",
+    "price": "$5.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MODELO ESPECIAL",
+    "description": "",
+    "price": "$6.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MODELO NEGRA",
+    "description": "",
+    "price": "$6.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PACIFICO",
+    "description": "",
+    "price": "$5.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "RED STRIPE",
+    "description": "",
+    "price": "$5.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SARATOGA APPLE CIDER",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TECATE",
+    "description": "",
+    "price": "$5.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CABERNET SAUVIGNON (FRONTERA)",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHARDONNAY (FRONTERA)",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MALBEC (FRONTERA)",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MERLOT (FRONTERA)",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PINOT GRIGIO (FRONTERA)",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SAUVIGNON BLANC (FRONTERA)",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SAUVIGNON BLANC (MONKEY BAY)",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SHIRAZ (FRONTERA)",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "WHITE ZINFADEL (LA TERRE)",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "1519 BLANCO",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "1800 COCONUT",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "1800 SILVER",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "21 SEED GRAPEFRUIT",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "ALACRAN BLANCO",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "AVION SILVER",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CABO WABO BLANCO",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CASAMIGOS BLANCO",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CAZADORES BLANCO",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CENOTE BLANCO",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CIELO SILVER",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CLASE AZUL PLATA",
+    "description": "",
+    "price": "$18",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CORAZON BLANCO",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CRUZ SILVER",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "DON JULIO SILVER",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "EL TORO GOLD",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "EXOTICO BLANCO",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GRAND MAYAN SILVER",
+    "description": "",
+    "price": "$16",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "HERRADURA SILVER",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "IXA SILVER*",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "JOSE CUERVO GOLD",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "JOSE CUERVO SILVER",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "KAH BLANCO",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MI CAMPO BLANCO",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MILAGRO SILVER",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "ONE WITH LIFE BLANCO*",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PARTIDA BLANCO",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PATRON SILVER",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SKELLY BLANCO",
+    "description": "",
+    "price": "$16",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SAUZA GOLD",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TANTEO HABANERO",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TRES GENERACIONES PLATA",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "YAVE JALAPENO",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "1800 REPOSADO",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "AGAVE LOCO REPOSADO",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CABEZA REPOSADO",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CABO WABO REPOSADO",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CAMARENA REPOSADO",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CASA MAESTRI REPOSADO",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CASA NOBLE REPOSADO",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CAZADORES REPOSADO",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CASAMIGOS REPOSADO",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CENTENARIO REPOSADO",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHINACO REPOSADO",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CORAZON REPOSADO",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CORRALEJO REPOSADO",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CORZO REPOSADO",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "DELEON REPOSADO",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "DON JULIO REPOSADO",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "DON ABRAHAM REPOSADO*",
+    "description": "",
+    "price": "$15",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "EL ULTIMO REPOSADO",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "ESPOLON REPOSADO",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GRAN CENTENARIO REPOSADO",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "HERRADURA REPOSADO",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "HORNITOS REPOSADO",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "HUSSONG'S REPOSADO",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "JAJA REPOSADO",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "KAH REPOSADO",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "LOBOS REPOSADO",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "LOS ARANGO REPOSADO",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MAESTRO DOBEL REPOSADO",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MILAGRO REPOSADO",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PATRON REPOSADO",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PELIGROSO REPOSADO",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "ROOSTER ROJO REPOSADO",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "1800 ANEJO",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CASAMIGOS ANEJO",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CAMPO AZUL ANEJO",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CORAZON ANEJO",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "DESTILADOR ANEJO",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "DON EDUARDO ANEJO",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "DON FELIX ANEJO",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "DON JULIO ANEJO",
+    "description": "",
+    "price": "$15",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "EL MAYOR ANEJO",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "EL TESORO ANEJO",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "EL ULTIMO ANEJO",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "HERRADURA ANEJO",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "HUSSONG'S PLATINUM",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "KAH ANEJO",
+    "description": "",
+    "price": "$15",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "LOS AZULEJOS ANEJO",
+    "description": "",
+    "price": "$18",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MAESTRO DOBEL ANEJO",
+    "description": "",
+    "price": "$15",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MILAGRO ANEJO",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "OCHO ANEJO",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PATRON ANEJO",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PELIGROSO ANEJO",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PROSPERO ANEJO",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "QUI PLATINUM",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "REVOLUCION ANEJO",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "RIAZUL ANEJO",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SAUZA ANEJO",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TIERRAS ANEJO*",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BRUXO MEZCAL",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CASAMIGOS MEZCAL",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "DOS ARMADILLO MEZCAL",
+    "description": "",
+    "price": "$15",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "EL BUHO MEZCAL",
+    "description": "",
+    "price": "$16",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "EL BURRO MEZCAL",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "LOS VECINOS MEZCAL",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MONTE ALBAN MEXCAL",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MONTE LOBOS MEZCAL",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PALOMA MEZCAL",
+    "description": "",
+    "price": "$11",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SANTO MEZQUILA",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "WAHAKA MEZCAL",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "YUU BAL MEXCAL",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "JARRITOS SODA",
+    "description": "fruit punch\ngrapefruit\nlime\nmandarin\nmango\npassionfruit\npineapple\nstrawberry",
+    "price": "$4.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "FOUNTAIN SODA",
+    "description": "pepsi, diet, twist,\nroot beer, ginger ale,\niced tea",
+    "price": "$3.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MEXICAN COKE",
+    "description": "",
+    "price": "$4",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "COKE ZERO",
+    "description": "",
+    "price": "$3.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SM SARATOGA WATER",
+    "description": "sparkling or flat",
+    "price": "$3.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "LG SARATOGA WATER",
+    "description": "sparkling or flat",
+    "price": "$5.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "AZTEC LEMONADE",
+    "description": "house-made lemonade\nwith cranberry & club",
+    "price": "$3.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "JUICE",
+    "description": "",
+    "price": "$3",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MILK",
+    "description": "",
+    "price": "$3",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHOCOLATE MILK",
+    "description": "",
+    "price": "$3.50",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "COFFEE / TEA",
+    "description": "",
+    "price": "$3",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "NACHOS",
+    "description": "baked chips with cheese",
+    "price": "$6",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BURRITO",
+    "description": "rolled with rice, beans & cheese,\nchoice of chicken, pork or beef.\nbaked with melted cheese on top",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "QUESADILLA",
+    "description": "grilled flour tortilla with cheese\nadd: chicken, pork, beef, or spinach.\nside of rice",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TACO",
+    "description": "soft flour or corn tortilla\nchoice of chicken, pork, or beef\nwith cheese, lettuce, tomato. side of rice",
+    "price": "$6",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHURROS",
+    "description": "tossed in cinnamon-sugar, served with salted caramel or dark chocolate sauce",
+    "price": "$7.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "KEY LIME PIE",
+    "description": "with graham cracker crust & whipped cream",
+    "price": "$8.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MEXICAN FLAN",
+    "description": "vanilla-caramel custard with whipped cream",
+    "price": "$7.5",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CREMA CATALANA",
+    "description": "chocolate-espresso Crème brûlée with whipped cream",
+    "price": "$9",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SUNDAE BOWL",
+    "description": "fried cinnamon-sugar tortilla with vanilla ice cream, chocolate sauce & whipped cream",
+    "price": "$6",
+    "restaurant_name": "Amigos Cantina",
+    "restaurant_url": "https://amigoscantina.net/",
+    "menu_type": "Menu"
+  }
+]

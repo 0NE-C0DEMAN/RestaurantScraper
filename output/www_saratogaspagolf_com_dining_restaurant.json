@@ -1,0 +1,314 @@
+[
+  {
+    "name": "BASKET SARATOGA CHIPS",
+    "description": "",
+    "price": "$7.73",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BASKET FRIES",
+    "description": "",
+    "price": "$7.73",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BASKET SWEET POTATO FRIES",
+    "description": "",
+    "price": "$9.27",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "ONION RINGS",
+    "description": "Served w/ Ranch",
+    "price": "$9.27",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BUFFALO WINGS",
+    "description": "Hot, Med, Mild, Honey Mustard or BBQ",
+    "price": "$16.99",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BONELESS BUFFALO WINGS W/ FRIES OR CHIPS",
+    "description": "Hot, Med, Mild, Honey Mustard or BBQ",
+    "price": "$15.45",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHICKEN TENDERS",
+    "description": "w/French Fries",
+    "price": "$14.96",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "HUMMUS & VEGGIE PLATE",
+    "description": "w/ Pita Bread Carrots, Celery, Cherry Tomatoes, Pepper Strips, Broccoli & Hummus",
+    "price": "$14.96",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "FRIED MOZZARELLA STICKS",
+    "description": "w/ Melba or Marinara",
+    "price": "$13.39",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "7” PERSONAL CHEESE FLATBREAD PIZZA",
+    "description": "Add Pepperoni $0.75",
+    "price": "$6.95",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BOWL SOUP DU JOUR",
+    "description": "Served w/ Pita Bread",
+    "price": "$9.27",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GARDEN SALAD",
+    "description": "Spring Greens, Tomatoes, Carrots, Cucumbers, Onions & Croutons. Add Grilled Chicken or Chicken Salad) $5.15",
+    "price": "$12.10",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CAESAR SALAD",
+    "description": "Hand Tossed in Creamy Caesar Dressing, Fresh Lemon Wedge & Croutons. Add Grilled Chicken or Chicken Salad) $5.15",
+    "price": "$12.10",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "COBB SALAD",
+    "description": "Grilled Chicken, Hard Boiled Egg, Bacon, Bleu Cheese Crumbles, Tomato, Cucumber & Fresh Sweet Corn",
+    "price": "$17.51",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHEF SALAD",
+    "description": "Turkey, Ham, Provolone, Cherry Tomato, Cucumber, Red Onion, Hard Boiled Egg on a Bed of Greens",
+    "price": "$17.51",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BUFFALO CHICKEN SALAD",
+    "description": "Celery, Carrots, Cherry Tomato, Cucumber, Bleu Cheese Crumbles & Crispy Tortilla Strips",
+    "price": "$17.51",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "SEAFOOD SALAD",
+    "description": "Wild Blue Crab and Jumbo Shrimp Tossed in a Mayo-Based Dressing w/ Celery & Seasoning Over a Bed of Greens Topped w/ Cherry Tomato, Cucumber, Carrots, Red Onion, Croutons & Lemon Wedge",
+    "price": "$20.60",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "ANGUS BURGER",
+    "description": "w/ Lettuce, Tomato & Onion. Add Cheese $1.29, Add Bacon $2.06",
+    "price": "$15.45",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "WESTERN BURGER",
+    "description": "w/ Lettuce & Tomato Topped w/ Onion Rings, Bacon, American Cheese & BBQ Sauce",
+    "price": "$17.77",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "58 PHILLY SANDWICH",
+    "description": "Grilled Roast Beef or Grilled Chicken, Caramelized Onions, Provolone Cheese & Horseradish Mayo",
+    "price": "$17.77",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BBQ PULLED PORK SANDWICH",
+    "description": "Topped w/ Cheddar & Homemade Coleslaw",
+    "price": "$16.48",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "FRIED CHICKEN SANDWICH",
+    "description": "Plain or Buffalo w/ Lettuce, Tomato & Onion. Add Cheese $1.29, Add Bacon $2.06",
+    "price": "$16.48",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GRILLED REUBEN OR RACHEL",
+    "description": "Grilled Corned Beef or Grilled Turkey, Sauerkraut & Swiss on Marble Rye",
+    "price": "$16.48",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GRILLED CHEESE",
+    "description": "Add Turkey or Ham $4.38, Add Bacon $3.61",
+    "price": "$11.33",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "FRENCH DIP",
+    "description": "Hot Thinly Sliced Roasted Beef, Melted Swiss, Caramelized Onions on a Grilled Buttered French Roll. Served w/ Homemade Au Jus  on the side",
+    "price": "$17.77",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "DELI SANDWICHES",
+    "description": "*Turkey, Ham, Corned Beef or Chicken Salad *White, Wheat, Rye & Wrap *Topped w/ Lettuce, Tomato & Red Onions. Add Cheese $1.29, Add Bacon $2.06, Add Roast Beef $2.06, Add Seafood Salad $5.67, Add Cheese $1.29, Add Bacon $3.86",
+    "price": "$15.45",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BLT",
+    "description": "(Apple wood Smoked Bacon, Lettuce, Tomato & Mayo",
+    "price": "$16.48",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "BUFFALO CHICKEN WRAP",
+    "description": "Boneless Buffalo wings, Tomato, Bleu Cheese Crumbles, Bleu Cheese Dressing & Mixed Greens",
+    "price": "$16.48",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "TURKEY CLUB WRAP",
+    "description": "Turkey, Bacon, Tomato, Mixed Greens & Mayo",
+    "price": "$16.48",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHICKEN CAESAR WRAP",
+    "description": "Chopped Romaine, Shredded Parmesan, Grilled Chicken and Creamy Caesar Dressing",
+    "price": "$16.48",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "VEGGIE WRAP",
+    "description": "Grilled Black Bean Garden Burger, Cucumber, Red Onion, Spring Greens, green Peppers, Hummus & Balsamic Dressing",
+    "price": "$16.48",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "HOT DOG",
+    "description": "",
+    "price": "$8.24",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "CHICKEN TENDERS",
+    "description": "",
+    "price": "$10.30",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "GRILLED CHEESE",
+    "description": "",
+    "price": "$8.24",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "PEANUT BUTTER & JELLY",
+    "description": "",
+    "price": "$8.24",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "MAC & CHEESE",
+    "description": "",
+    "price": "$8.24",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "7” PERSONAL FLATBREAD CHEESE PIZZA",
+    "description": "ADD Pepperoni $0.75",
+    "price": "$8.24",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "NEW YORK CHEESE CAKE",
+    "description": "Served Plain or w/ a Chocolate or Raspberry Drizzle",
+    "price": "$7.73",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  },
+  {
+    "name": "KEY LIME PIE",
+    "description": "",
+    "price": "$7.73",
+    "restaurant_name": "58 Roosevelt Bar & Grill",
+    "restaurant_url": "https://www.saratogaspagolf.com/dining/restaurant",
+    "menu_type": "Menu"
+  }
+]
