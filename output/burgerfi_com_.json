@@ -1,0 +1,173 @@
+[
+  {
+    "name": "BurgerFi Cheeseburger",
+    "description": "All Natural, Hormone & Antibiotic-Free Angus Beef",
+    "price": "",
+    "menu_type": "BURGERS",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Bacon Cheeseburger",
+    "description": "All Natural, Hormone & Antibiotic-Free Angus Beef",
+    "price": "",
+    "menu_type": "BURGERS",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "CEO Wagyu Burger",
+    "description": "All Natural, Hormone & Antibiotic-Free Wagyu",
+    "price": "",
+    "menu_type": "BURGERS",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Rodeo Burger",
+    "description": "All Natural, Hormone & Antibiotic-Free Angus, Charred",
+    "price": "",
+    "menu_type": "BURGERS",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Yes, Chef Burger",
+    "description": "All Natural, Hormone & Antibiotic-Free Angus Beef",
+    "price": "",
+    "menu_type": "BURGERS",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Vegi-Fi Burger",
+    "description": "Quinoa + Veggie Blend Burger",
+    "price": "",
+    "menu_type": "BURGERS",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Tenders",
+    "description": "Hand-Breaded, Antibiotic-Free Marinated Chicken",
+    "price": "",
+    "menu_type": "CHICKEN & SLIDERS",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Sliders",
+    "description": "Hand-Breaded, Antibiotic-Free Marinated",
+    "price": "",
+    "menu_type": "CHICKEN & SLIDERS",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fi-Lafel Sliders",
+    "description": "Smashed Garbanzo Beans, Naturally Seasoned. Spicy Pepper Mix, Lettuce, Tomato, Spicy Fi Sauce",
+    "price": "",
+    "menu_type": "CHICKEN & SLIDERS",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fries",
+    "description": "Made Fresh In-House.",
+    "price": "",
+    "menu_type": "FRIES + ONION RINGS",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Jumbo Onion Rings",
+    "description": "Made Fresh In-House.",
+    "price": "",
+    "menu_type": "FRIES + ONION RINGS",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cry + Fry",
+    "description": "The Best of Both Worlds!",
+    "price": "",
+    "menu_type": "FRIES + ONION RINGS",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Kid’s Burger Meal",
+    "description": "Single Cheeseburger + Small Fries",
+    "price": "",
+    "menu_type": "KIDS MEALS",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Kid’s Tenders Meal",
+    "description": "Chicken Tenders + Small FriesChoice of a Fountain Drink or Juice Box",
+    "price": "$2",
+    "menu_type": "KIDS MEALS",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Birthday Shake",
+    "description": "Vanilla Birthday Cake Custard Mixed with Rainbow Sprinkles, Topped with Whipped Cream and Rainbow Sprinkles",
+    "price": "",
+    "menu_type": "CUSTARD SHAKES",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chocolate Shake",
+    "description": "Chocolate Frozen Custard with Chocolate Syrup, Whipped Cream and Sprinkles",
+    "price": "",
+    "menu_type": "CUSTARD SHAKES",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Vanilla Shake",
+    "description": "Vanilla Frozen Custard with Whipped Cream and Rainbow Sprinkles",
+    "price": "",
+    "menu_type": "CUSTARD SHAKES",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Strawberry Shake",
+    "description": "Strawberry Frozen Custard with Whipped Cream",
+    "price": "",
+    "menu_type": "CUSTARD SHAKES",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Oreo Shake",
+    "description": "Oreo Frozen Custard with Whipped Cream and Sprinkles",
+    "price": "",
+    "menu_type": "CUSTARD SHAKES",
+    "restaurant_name": "BurgerFi",
+    "restaurant_url": "https://www.burgerfi.com/",
+    "menu_name": "Menu"
+  }
+]

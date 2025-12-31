@@ -1,0 +1,695 @@
+[
+  {
+    "name": "AMSTERDAM AUTHENTIC BITTERBALLEN",
+    "description": "Croquettes/Beef Sirloin Béchamel filling/Mustard",
+    "price": "$ 12.5",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "WING FEST BUFFALO WINGS",
+    "description": "Plain/Mild/Hot/BBQ/Honey Garlic Ginger\nw/Homemade Blue Cheese & Garni",
+    "price": "$ 18.5",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "HOMEMADE POTATO PANCAKES",
+    "description": "Sour Cream, fresh Hudson Valley Apple sauce",
+    "price": "$ 12.9",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "AUTHENTIC SWEDISH MEATBALLS",
+    "description": "Berry Compote, Spices, Sour Cream Gravy",
+    "price": "$ 14",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "EGGPLANT CAVIAR \"ZAKUSKI\"",
+    "description": "Roasted Eggplant Vegetable spread w/warm Naan bread\n*(Vegan friendly) Sub crudité (Gluten Free)",
+    "price": "$ 15",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "GREEN GODDESS CHICK PEA HUMMUS",
+    "description": "Creamy Chickpeas w/ warm Naan bread, pumpkin seeds\n*(vegan friendly) Sub crudité (Gluten -Free",
+    "price": "$ 14.5",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "GIANT BAVARIAN PRETZEL",
+    "description": "Served w/Honey Mustard Add Cheese dip $ 1.5",
+    "price": "$ 14",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "BALTIC SMOKED SALMON BOARD w trimmings",
+    "description": "",
+    "price": "$ 23.5",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "PATE DE CAMPAGNE AU POIVRE",
+    "description": "Artisanal Pork/Duck Pate, Rye Bread, Accouterments",
+    "price": "$ 18",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "APPLEWOOD BACON WRAPPED SEA SCALLOPS",
+    "description": "Skewered Nantucket Scallops, Dijon Sauce, Jasmine Rice",
+    "price": "$ 21",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "FRENCH ONION SOUP GRATINEE",
+    "description": "",
+    "price": "$ 14",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "BOWL OF DAILY SOUP DU JOUR",
+    "description": "",
+    "price": "$9",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "FINGER LAKE SALAD",
+    "description": "Wild Greens, Berries, Grapes, Blue Cheese, Walnuts, Honey Vinaigrette",
+    "price": "$ 17",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "CHATHAM FARM ICEBERG WEDGE",
+    "description": "Iceberg, Chatham Blue cheese, Bacon, Buttermilk Dressing, Tomato",
+    "price": "$ 18",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "BENELUX HOUSE SALAD",
+    "description": "",
+    "price": "$ 12",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "BEET SALAD ROQUETTE",
+    "description": "Organic Arugula, Beets, Honey Vinaigrette, Blue Cheese, Walnuts",
+    "price": "$ 17.5",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "SALMON SCANDINAVIA",
+    "description": "Faroe Isles Salmon, Lobster Crema, Summer Corn Confetti, whip Potato",
+    "price": "$ 36",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "WORLD FAMOUS JAGERSCHNITZEL",
+    "description": "Pork loin cutlet, Mushroom Sauce, Home Fries, Red Cabbage",
+    "price": "$32",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "VIENNESE VEAL WIENER SCHNITZEL",
+    "description": "Spätzle Noodles, Cucumber Salad, Lemon & Berry Compote.",
+    "price": "$ 36",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "POLISH FARM PLATE",
+    "description": "Smoked Kielbasa/Pork loin, Kraut, Hunter Cabbage, Whip Potato, Garnie",
+    "price": "$ 28",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "WILD MUSHROOM PASTA PERIGORD",
+    "description": "Wild Mushroom Cream Ragu, organic Trumpet Pasta, Truffle essence",
+    "price": "$ 29",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "MUNICH BEER GARDEN WURST PLATTER",
+    "description": "Artisanal Bratwurst, Weiss Wurst, Vienna Wurst, Sauerkraut, Home fries",
+    "price": "$ 28.5",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "CHICKEN SCHNITZEL BANK",
+    "description": "Crispy Cutlet, Home Fries, Red Cabbage",
+    "price": "$ 28.5",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "• Cordon Blue",
+    "description": "- Ham, Swiss, Dijon Sauce",
+    "price": "",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "• Berliner",
+    "description": "- Creamy Mushroom Sauce",
+    "price": "",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "ROAST DUCK NORDICA",
+    "description": "1/2 Roasted Duck, Lyon Potato, Berry Compote, Red Cabbage",
+    "price": "$ 39",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "SWEDISH MEATBALL PLATTER",
+    "description": "Sirloin blend, Cream gravy, Whip Potatoes, Red Cabbage, Berry Compote",
+    "price": "$ 24",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "SHORTRIBS LEFFE FLAMANDES",
+    "description": "Belgian beer braised short ribs, whip Potato, Crispy Onion",
+    "price": "$ 42",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "BELGIAN MOULES FRITES “Mussel pot “",
+    "description": "Organic Newfoundland Mussels, Garlic white wine, leeks, Frites",
+    "price": "$ 29.5",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "BENELUX FISH FRY",
+    "description": "Crispy Artic Cod fish, Homemade frites, Tartar, Cucumber salad",
+    "price": "$ 27.5",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "BELGIAN FRITES",
+    "description": "(Home-made)",
+    "price": "$ 8.5",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Homemade Buttered Spätzle Noodles",
+    "description": "",
+    "price": "$ 8",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Spätzle Noodles Bavaria w Mushroom Sauce",
+    "description": "",
+    "price": "$ 12",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Cucumber Dill salad",
+    "description": "",
+    "price": "$ 6.5",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Hunter Stew Bigos (Cabbage & Pork)",
+    "description": "",
+    "price": "$ 7.5",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Whipped potato",
+    "description": "",
+    "price": "$ 6",
+    "menu_type": "DINNER",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "AMSTERDAM AUTHENTIC BITTERBALLEN",
+    "description": "Famous Dutch bar snack of bite-size Croquettes/Beef Sirloin Bechamel filling/Mustard",
+    "price": "$12",
+    "menu_type": "LUNCH - SHAREABLE PLATES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "WING FEST BUFFALO WINGS",
+    "description": "Plain/ Mild/Hot/BBQ/ Honey Garlic Ginger w/Homemade Blue Cheese & Garnish",
+    "price": "$18",
+    "menu_type": "LUNCH - SHAREABLE PLATES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "HOMEMADE AUSTRIAN POTATO PANCAKES",
+    "description": "Sour Cream, fresh Hudson Valley Apple sauce",
+    "price": "$11.9",
+    "menu_type": "LUNCH - SHAREABLE PLATES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "AWARD-WINNING SWEDISH MEATBALLS",
+    "description": "GSirloin blend, Spices, Sour Cream gravy, Imported Lingonberries",
+    "price": "$12.9",
+    "menu_type": "LUNCH - SHAREABLE PLATES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "BALTIC STYLE SMOKED SALMON BOARD",
+    "description": "Catskill Smokehouse Norwegian Salmon, Organic Black Bread, Horseradish cream, Capers, Cucumber & Red Onion garnish",
+    "price": "$21",
+    "menu_type": "LUNCH - SHAREABLE PLATES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "GREEN GODDESS CHICK PEA HUMMUS",
+    "description": "Creamy Chickpeas, fresh green herbs, Chives, Roast Garlic w/Naan bread – (Vegan friendly) Sub crudité $1.5",
+    "price": "$13",
+    "menu_type": "LUNCH - SHAREABLE PLATES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "GIANT 10 OZ. IMPORTED BAVARIAN PRETZEL & GRUYERE DIP",
+    "description": "Served w Hot Gruyere Cheese Sauce",
+    "price": "$12.9",
+    "menu_type": "LUNCH - SHAREABLE PLATES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "PATé CAMPAGNA DE POIURE",
+    "description": "Artisinal Pork/Duck pate, Euro bread, Cornichons, Grain, Mustard, Olives",
+    "price": "$16.5",
+    "menu_type": "LUNCH - SHAREABLE PLATES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "BLACK FOREST BACON WRAPPED SEA SCALLOPS",
+    "description": "Skewered Nantucket Scallops, Local artisanal Juniper, low smoked Bacon, Dijon Sauce, Jasmine Rice Scallion Cake",
+    "price": "$16.9",
+    "menu_type": "LUNCH - SHAREABLE PLATES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "APPETIZER BELGIAN MUSSEL POT (1.5 QT.) * (Upon seasonal availability)",
+    "description": "Small Mussel Pot, Steamed Hollander Farmed Mussels, Garlic White Wine, Leeks, Aromatic Vegetable Mirepoix, Artisanal Bread",
+    "price": "$18",
+    "menu_type": "LUNCH - SHAREABLE PLATES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "BELGIANMOULESFRITES (2.5QT.) *(Upon seasonal availability)",
+    "description": "Large Belgian Mussel Pot steamedHollander farmed Mussels, Garlic White Wine, Leeks, Aromatic Vegetable Mirepoix, Frites, Artisanal Bread",
+    "price": "$28",
+    "menu_type": "LUNCH - SHAREABLE PLATES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "FAMOUS PINE ISLAND “FRENCH ONION” SOUP GRATINEE",
+    "description": "Local Pine Island Onions, Austrian Gruyere, Crostini",
+    "price": "$12",
+    "menu_type": "LUNCH - SOUPS",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "BOWL LOADED SARATOGA POTATO LEEK CHOWDER",
+    "description": "Applewood Bacon, Scallions, Cabot Cheddar ( available Vegetarian option)",
+    "price": "$11",
+    "menu_type": "LUNCH - SOUPS",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "HUDSON VALLEY CHATHAM FARM WEDGE",
+    "description": "Baby Iceberg, Chatham Blue, Smokehouse Bacon,Heirloom Mini Tomatoes, Ronny Brook Buttermilk Dressing",
+    "price": "$12.5",
+    "menu_type": "LUNCH - NEW YORK STATE FARM BOUNTY",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "THE FINGER LAKES SALAD",
+    "description": "Wild Greens, Organic Strawberries, Blueberries, Cabernet Franc Grapes, Chatham Blue, Toasted Walnuts, Catskill Honey Cider Vinaigrette",
+    "price": "$12.9",
+    "menu_type": "LUNCH - NEW YORK STATE FARM BOUNTY",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "BENELUX HOUSE SALAD",
+    "description": "Wild greens, Cucumber, Heirloom Baby Tomatoes, RedOnions, Carrots, Red Peppers. (choice of dressing)",
+    "price": "$9.5",
+    "menu_type": "LUNCH - NEW YORK STATE FARM BOUNTY",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "PARISIENNE “BARDOT” SALAD",
+    "description": "Cigliene fresh mozzarella, baby tomatoes, persian cucumbers, red onion, lemon dressing/olives",
+    "price": "$14",
+    "menu_type": "LUNCH - NEW YORK STATE FARM BOUNTY",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "WORLD FAMOUS JAGER SCHNITZEL",
+    "description": "Breaded thinly pounded Pork loin, Hunter Mushroom Sauce, Home Fries, Red Cabbage.",
+    "price": "$29.9",
+    "menu_type": "LUNCH - ENTREES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "VIENNESE VEAL WIENER SCHNITZEL",
+    "description": "Breaded, crispy thin Edelweiss Veal cutlet- a national dish of Austria. Served w homemade Spätzle Noodles, Cucumber Salad, Lemon& Lingonberry garnish.",
+    "price": "$32.5",
+    "menu_type": "LUNCH - ENTREES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "BLACK FOREST VEAL SCHNITZEL",
+    "description": "Breaded, crispy thin Edelweiss Veal cutlet topped w Black forest Ham, Muenster Cheese, CreamyMushroom Sauce, Served over",
+    "price": "$28.5",
+    "menu_type": "LUNCH - ENTREES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "CHOUCROUTE GARNIE BALTIC STYLE",
+    "description": "Artisanal Locally Smoked Kielbasa, Smoked Pork loin, Pork Belly, Hunter Bigos Cabbage, Home fries, Garnie",
+    "price": "$25",
+    "menu_type": "LUNCH - ENTREES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "PAPPARDELLE WILD MUSHROOM",
+    "description": "Wild Mushroom Ragu, wide Egg Noodles,White Wine, Roast Garlic, Rosemary Cream, Chives",
+    "price": "$27",
+    "menu_type": "LUNCH - ENTREES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "LEEK CONFIT CRUSTED FAROE SALMON",
+    "description": "GScottish Faroe Island Wild Salmon, Pommery Mustard Beurre Blanc, Leek Confit, whipped Potato",
+    "price": "$32",
+    "menu_type": "LUNCH - ENTREES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "MUNICH BEER GARDEN WURST PLATTER",
+    "description": "GArtisanal local Bratwurst, Weiss Wurst, Vienna Wurst, Sauerkraut, Home fries, Grain Mustard",
+    "price": "$27",
+    "menu_type": "LUNCH - ENTREES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "ZURICH BIER HALLE CHICKEN CORDON BLUE",
+    "description": "Chicken Scallopini layered w Smoked Black Forest Ham, Gruyere Cheese, Dijon Sauce, Home fries, Red Cabbage",
+    "price": "$22.5",
+    "menu_type": "LUNCH - ENTREES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "FARMERS MARKET VEGGIE BOWL (VEGAN) G",
+    "description": "Organic Spinach, Asparagus, Leeks,Wild Mushrooms, Chick Peas, Red Pepper, Garlic, Gluten F Jasmine Rice, EVO",
+    "price": "$21.5",
+    "menu_type": "LUNCH - ENTREES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "CLASSIC DUCK L’ ORANGE",
+    "description": "Long Island Jurgielewicz 1/2 duck, Lyon potatoes, red cabbage, orange triple sec sauce, lingonberries",
+    "price": "$29.9",
+    "menu_type": "LUNCH - ENTREES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "COPENHAGEN SWEDISH MEATBALL DINNER PLATTER",
+    "description": "House -made secret recipe, Sirloin blend, Spices, Sour Cream gravy, Whipped Potatoes, Red Cabbage Imported Lingonberries",
+    "price": "$20",
+    "menu_type": "LUNCH - ENTREES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "CARBONNADE FLAMANDES BEEF SHORT RIBS",
+    "description": "Flemish traditional Belgian dish of slow & tender cooked Short Ribs w/ dark Leffe Beer, Cippolini Onions/ whipped Potato",
+    "price": "$35.5",
+    "menu_type": "LUNCH - ENTREES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "SKILLET MAC & CHEESE",
+    "description": "",
+    "price": "$16.5",
+    "menu_type": "LUNCH - BURGERS & MAC’S",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "BENELUX BURGER DAKOTA",
+    "description": "Certified Angus, Brioche Roll, CabotCheddar, Bibb Lettuce /Tomato, Creole Aioli",
+    "price": "$20",
+    "menu_type": "LUNCH - BURGERS & MAC’S",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "PROVENCE COUNTRY FRIED CHICKEN SANDWICH",
+    "description": "Buttermilk Dipped crispy Cutlet, Creole Aioli, Bibb Lettuce, Sweet Pickle Chips,Brioche Roll (grilled Chicken available)",
+    "price": "$19",
+    "menu_type": "LUNCH - BURGERS & MAC’S",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "ASIAN “PULLED” MUSHROOM BURGER ( VEGAN)",
+    "description": "Grilled Savory wild mushroom blend/onions, Honey Garlic ginger BBQ Sauce,Bibb lettuce, Cucumber",
+    "price": "$19",
+    "menu_type": "LUNCH - BURGERS & MAC’S",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "NORDIC FLOUNDER BURGER",
+    "description": "Crispy Fresh Holland Flounder tartar sauce/L&T/Pickle, Baloche roll",
+    "price": "$19",
+    "menu_type": "LUNCH - BURGERS & MAC’S",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "EXTRA TOPPINGS",
+    "description": "Applewood BaconSauteed MushroomsFried eggCaramelized or Crispy fried Onions Cheddar/Gruyere/Muenster/Blue Cheese",
+    "price": "$3",
+    "menu_type": "LUNCH - BURGERS & MAC’S",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "BELGIAN FRITES",
+    "description": "HOMEMADE BUTTERED SPÄTZLE NOODLES | 6.5",
+    "price": "$7",
+    "menu_type": "LUNCH - PREMIUM SIDES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "ASPARAGUS W GARLIC BUTTER",
+    "description": "SAUTEED ORGANIC SPINACH W GARLIC EVO | 10",
+    "price": "$11",
+    "menu_type": "LUNCH - PREMIUM SIDES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "CUCUMBER DILL SALAD",
+    "description": "",
+    "price": "$6",
+    "menu_type": "LUNCH - PREMIUM SIDES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "HUNTER STEW (Cabbage & pork “Bigos”)",
+    "description": "",
+    "price": "$6",
+    "menu_type": "LUNCH - PREMIUM SIDES",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "HOEGARDEN WIT (Belgian)",
+    "description": "",
+    "price": "$5",
+    "menu_type": "LUNCH - BEER LIST – BOTTLED | CAN BEER | HARD CIDER | SELTZERS",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "VINHA DAS MARGARIDAS, MOSCATO (Portugal) 9 /",
+    "description": "",
+    "price": "$35",
+    "menu_type": "LUNCH - WINE LIST",
+    "restaurant_name": "Brasserie Benelux",
+    "restaurant_url": "https://beneluxny.com/",
+    "menu_name": "Lunch"
+  }
+]

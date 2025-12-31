@@ -1,0 +1,659 @@
+[
+  {
+    "name": "The Eddie M (V)",
+    "description": "Two fried eggs stacked with American cheese on a Kaiser roll.Add Ham, Bacon or Sausage +",
+    "price": "$3.00",
+    "menu_type": "BAKERY - SWEETS & TREATS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "The Jim Dandy",
+    "description": "Two eggs, American cheese, sausage, bacon and ham on a Kaiser Roll.",
+    "price": "$13.99",
+    "menu_type": "BAKERY - SWEETS & TREATS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "The Henry Street (V)",
+    "description": "Two eggs, cheddar cheese, hash browns, caramelized onions, and sour cream on a white wrap.Add Ham, Bacon or Sausage +",
+    "price": "$3.00",
+    "menu_type": "BAKERY - SWEETS & TREATS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Breakfast Burrito (V)",
+    "description": "Large wheat or white wrap loaded with fried eggs, hash browns, salsa, sour cream, and cheddar cheeseAdd Ham, Bacon or Sausage +",
+    "price": "$3.00",
+    "menu_type": "BAKERY - SWEETS & TREATS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Grilled Scone and Eggs",
+    "description": "Two over easy eggs served open-faced over a grilled jalapeño cheddar scone topped with crumbled bacon, cheddar and scallions.",
+    "price": "$13.99",
+    "menu_type": "BAKERY - SWEETS & TREATS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "The Rocket (V)",
+    "description": "Two fried eggs, cheddar cheese, sautéed arugula, and tomato.",
+    "price": "$10.99",
+    "menu_type": "BAKERY - SWEETS & TREATS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Avocado Toast (V)",
+    "description": "Toasted",
+    "price": "$7",
+    "menu_type": "BAKERY - SWEETS & TREATS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Cinnamon French Toast (V)",
+    "description": "Two slices of our cinnamon bread with maple syrup and butter.",
+    "price": "$12.99",
+    "menu_type": "BAKERY - SWEETS & TREATS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "The Congress Park",
+    "description": "Cranberry walnut chicken salad with iceberg lettuce.",
+    "price": "$14.99",
+    "menu_type": "BAKERY - COLD SANDWICHES",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "The Hathorn",
+    "description": "Bacon with lettuce and tomato and fresh avocado.Add turkey +",
+    "price": "$2.50",
+    "menu_type": "BAKERY - COLD SANDWICHES",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "The Broadway",
+    "description": "Roasted turkey, cheddar cheese, sliced apples, arugula, and cranberry spread.",
+    "price": "$14.99",
+    "menu_type": "BAKERY - COLD SANDWICHES",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "The Thoroughbred",
+    "description": "Grilled chicken with mozzarella cheese, roasted red peppers, and garlic mayonnaise.",
+    "price": "$14.99",
+    "menu_type": "BAKERY - GRILLED SANDWICHES",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "The Yaddo",
+    "description": "Turkey, bacon, cheddar cheese, spinach, chipotle ranch.",
+    "price": "$14.99",
+    "menu_type": "BAKERY - GRILLED SANDWICHES",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "The Rachel",
+    "description": "Turkey, Swiss cheese, Russian dressing and house-made coleslaw on grilled sourdough.",
+    "price": "$14.99",
+    "menu_type": "BAKERY - GRILLED SANDWICHES",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "The Union",
+    "description": "Ham, cheddar cheese, apples, caramelized onions, cranberry mayo.",
+    "price": "$14.99",
+    "menu_type": "BAKERY - GRILLED SANDWICHES",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "The Whitney (V)",
+    "description": "Fresh mozzarella, tomato, spinach, pesto, balsamic reduction, on grilled sourdough.",
+    "price": "$14.99",
+    "menu_type": "BAKERY - GRILLED SANDWICHES",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Four-Cheese Grilled Cheese (V)",
+    "description": "Gouda, gruyere, fontina and parmesan.Add tomato +",
+    "price": "$0.99",
+    "menu_type": "BAKERY - GRILLED SANDWICHES",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Chicken Lisa",
+    "description": "Our cranberry walnut chicken salad on top of a bed of greens sprinkled with toasted walnuts, dried cranberries and balsamic drizzle.",
+    "price": "$14.99",
+    "menu_type": "BAKERY - SALAD",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Harvest Salad (V)",
+    "description": "Spring mix, tomatoes, cucumbers, apples, dried cranberries, toasted walnuts balsamic vinaigrette.Add grilled chicken +",
+    "price": "$3.99",
+    "menu_type": "BAKERY - SALAD",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Hot Coffee",
+    "description": "",
+    "price": "$3.00",
+    "menu_type": "BAKERY - COFFEE",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Iced Coffee",
+    "description": "",
+    "price": "$3.75",
+    "menu_type": "BAKERY - COFFEE",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Cappuccino",
+    "description": "",
+    "price": "$5.25",
+    "menu_type": "BAKERY - COFFEE",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Americano",
+    "description": "",
+    "price": "$3.25",
+    "menu_type": "BAKERY - COFFEE",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Cortado",
+    "description": "",
+    "price": "$3.50",
+    "menu_type": "BAKERY - COFFEE",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Espresso Shot",
+    "description": "",
+    "price": "$2.75",
+    "menu_type": "BAKERY - COFFEE",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Traditional",
+    "description": "",
+    "price": "$5.25",
+    "menu_type": "BAKERY - LATTE",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Mocha",
+    "description": "",
+    "price": "$5.75",
+    "menu_type": "BAKERY - LATTE",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Carmel",
+    "description": "",
+    "price": "$5.75",
+    "menu_type": "BAKERY - LATTE",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Chai",
+    "description": "",
+    "price": "$3.25",
+    "menu_type": "BAKERY - LATTE",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Iced Chai Latte",
+    "description": "",
+    "price": "$6.25",
+    "menu_type": "BAKERY - LATTE",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Matcha Latte",
+    "description": "",
+    "price": "$5.25",
+    "menu_type": "BAKERY - LATTE",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Iced Matcha Latte",
+    "description": "",
+    "price": "$6.25",
+    "menu_type": "BAKERY - LATTE",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Hot Tea",
+    "description": "Organic English BreakfastEarl Grey SupremeMint VerbanaDecaf CeylonCoconut Green Tea",
+    "price": "$2.25",
+    "menu_type": "BAKERY - TEA",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Bread Basket Fresh Brewed Iced Tea",
+    "description": "BlackTropical GreenRaspberry",
+    "price": "$3.99",
+    "menu_type": "BAKERY - TEA",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Two fried eggs stacked with American cheese on a Kaiser roll.Add Ham, Bacon or Sausage +$3.00",
+    "description": "",
+    "price": "$8.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Two eggs, American cheese, sausage, bacon and ham on a Kaiser Roll.",
+    "description": "",
+    "price": "$13.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Two eggs, cheddar cheese, hash browns, caramelized onions, and sour cream on a white wrap.Add Ham, Bacon or Sausage +$3.00",
+    "description": "",
+    "price": "$11.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Large wheat or white wrap loaded with fried eggs, hash browns, salsa, sour cream, and cheddar cheeseAdd Ham, Bacon or Sausage +$3.00",
+    "description": "",
+    "price": "$11.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Two over easy eggs served open-faced over a grilled jalapeño cheddar scone topped with crumbled bacon, cheddar and scallions.",
+    "description": "",
+    "price": "$13.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Two fried eggs, cheddar cheese, sautéed arugula, and tomato.",
+    "description": "",
+    "price": "$10.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Toasted 7-Grain bread with olive oil, Everything Bagel Seasoning, avocado, tomato, and cucumber.",
+    "description": "",
+    "price": "$12.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Two slices of our cinnamon bread with maple syrup and butter.",
+    "description": "",
+    "price": "$12.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Bacon, Sausage, or Ham$3.99Hash Browns$4.99Loaded Hash Browns$8.99Topped with melted cheese, bacon, scallions, sour creamPlain or Everything Bagel$2.99Add cream cheese +",
+    "description": "",
+    "price": "$1.00",
+    "menu_type": "BAKERY - SIDES",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Cranberry walnut chicken salad with iceberg lettuce.",
+    "description": "",
+    "price": "$14.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Bacon with lettuce and tomato and fresh avocado.Add turkey +$2.50",
+    "description": "",
+    "price": "$14.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Roasted turkey, cheddar cheese, sliced apples, arugula, and cranberry spread.",
+    "description": "",
+    "price": "$14.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Grilled chicken with mozzarella cheese, roasted red peppers, and garlic mayonnaise.",
+    "description": "",
+    "price": "$14.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Turkey, bacon, cheddar cheese, spinach, chipotle ranch.",
+    "description": "",
+    "price": "$14.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Turkey, Swiss cheese, Russian dressing and house-made coleslaw on grilled sourdough.",
+    "description": "",
+    "price": "$14.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Ham, cheddar cheese, apples, caramelized onions, cranberry mayo.",
+    "description": "",
+    "price": "$14.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Fresh mozzarella, tomato, spinach, pesto, balsamic reduction, on grilled sourdough.",
+    "description": "",
+    "price": "$14.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Gouda, gruyere, fontina and parmesan.Add tomato +$0.99Add bacon +$1.99Add grilled chicken or turkey +$2.99",
+    "description": "",
+    "price": "$12.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Our cranberry walnut chicken salad on top of a bed of greens sprinkled with toasted walnuts, dried cranberries and balsamic drizzle.",
+    "description": "",
+    "price": "$14.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Spring mix, tomatoes, cucumbers, apples, dried cranberries, toasted walnuts balsamic vinaigrette.Add grilled chicken +$3.99Add chicken salad +$3.99",
+    "description": "",
+    "price": "$12.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "We have many housemade and hearty soups to enjoy.Our soups change daily, so come back and try something new!Bowl $6.99Quarts $13.99Add soup to any sandwich or salad +",
+    "description": "",
+    "price": "$4.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Add flavor shot +$0.50Substitute non-dairy milk +",
+    "description": "",
+    "price": "$0.75",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "$3.00 /",
+    "description": "",
+    "price": "$3.50",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "$5.25 /",
+    "description": "",
+    "price": "$6.25",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "$3.25 /",
+    "description": "",
+    "price": "$4.00",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "$3.50 /",
+    "description": "",
+    "price": "$5.50",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "$5.75 /",
+    "description": "",
+    "price": "$6.75",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Organic English BreakfastEarl Grey SupremeMint VerbanaDecaf CeylonCoconut Green Tea$2.25 /",
+    "description": "",
+    "price": "$3.00",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "BlackTropical GreenRaspberry",
+    "description": "",
+    "price": "$3.99",
+    "menu_type": "BAKERY - BAKERY",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Bakery"
+  },
+  {
+    "name": "Round and Frosted with American Buttercream",
+    "description": "6\" Double layer $45 | *GF $55\nServes 6-10",
+    "price": "$45",
+    "menu_type": "CAKE ORDERS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Cake Orders"
+  },
+  {
+    "name": "Round and Frosted with American Buttercream",
+    "description": "8\" Double Layer $60 | *GF $70\nServes 12-16",
+    "price": "$60",
+    "menu_type": "CAKE ORDERS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Cake Orders"
+  },
+  {
+    "name": "Round and Frosted with American Buttercream",
+    "description": "10\" Double Layer $80 | *GF $90\nServes 20-30",
+    "price": "$80",
+    "menu_type": "CAKE ORDERS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Cake Orders"
+  },
+  {
+    "name": "Rectangular and Frosted with American Buttercream",
+    "description": "Please allow one week notice when\nordering sheet cakes.\n¼ Sheet | Double Layer $125 | *GF $135\nServes 35-50",
+    "price": "$125",
+    "menu_type": "CAKE ORDERS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Cake Orders"
+  },
+  {
+    "name": "Rectangular and Frosted with American Buttercream",
+    "description": "½ Sheet | Double Layer $180 | *GF $200\nServes 60-95",
+    "price": "$180",
+    "menu_type": "CAKE ORDERS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Cake Orders"
+  },
+  {
+    "name": "Cake Flavors",
+    "description": "Chocolate*, Vanilla*, Carrot, Funfetti, Lemon,\nRed Velvet\n*Gluten free cakes available in vanilla and\nchocolate only.",
+    "price": "",
+    "menu_type": "CAKE ORDERS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Cake Orders"
+  },
+  {
+    "name": "Buttercream Fillings & Flavors",
+    "description": "Chocolate, Vanilla, Raspberry, Strawberry,\nAlmond, Coffee, Cream Cheese, Lemon, Mocha,\nPeanut Butter",
+    "price": "",
+    "menu_type": "CAKE ORDERS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Cake Orders"
+  },
+  {
+    "name": "Specialty Fillings +$5",
+    "description": "Chocolate Ganache, Chocolate Mousse,\nCoffee Mousse, Lemon Preserves,\nMocha Mousse, Raspberry Mousse,\nRaspberry Preserves, Strawberry Mousse,\nStrawberry Preserves, Vanilla Pastry Cream,\nWhite Chocolate Mousse",
+    "price": "",
+    "menu_type": "CAKE ORDERS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Cake Orders"
+  },
+  {
+    "name": "CUPCAKES",
+    "description": "Minimum of (6) cupcakes per flavor",
+    "price": "$3.50",
+    "menu_type": "CAKE ORDERS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Cake Orders"
+  },
+  {
+    "name": "CUPCAKE FLAVORS",
+    "description": "Chocolate*, Vanilla*, Carrot, Funfetti, Lemon,\nRed Velvet\n*Gluten free cupcakes available in vanilla\nand chocolate only.",
+    "price": "",
+    "menu_type": "CAKE ORDERS",
+    "restaurant_name": "Bread Basket Bakery",
+    "restaurant_url": "https://saratogabreadbasket.com/",
+    "menu_name": "Cake Orders"
+  }
+]
