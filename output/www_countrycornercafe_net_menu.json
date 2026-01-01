@@ -1,0 +1,830 @@
+[
+  {
+    "name": "Breakfast Meat",
+    "description": "Ham, Bacon, Turkey Sausage, Pork Patties, Maple Links, Canadian Bacon and Corned Beef Hash",
+    "price": "$4.00 - $4.75",
+    "menu_type": "Items",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Garden Salad",
+    "description": "Mixed Greens with Grape Tomatotes, Cucumber and choice of dressing",
+    "price": "$8.00 - $12.50",
+    "menu_type": "Farm Fresh Salads",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fruit cup",
+    "description": "Cantaloupe Melon with Grapes, Blueberries, Strawberries, Apple Slices",
+    "price": "$5.00",
+    "menu_type": "On the Lighter Side",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Bacon",
+    "description": "",
+    "price": "$4.00",
+    "menu_type": "Sides",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pork Sausage",
+    "description": "",
+    "price": "$4.00",
+    "menu_type": "Sides",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Turkey Sausage",
+    "description": "",
+    "price": "$4.00",
+    "menu_type": "Sides",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Canadian Bacon",
+    "description": "",
+    "price": "$4.00",
+    "menu_type": "Sides",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Maple links",
+    "description": "",
+    "price": "$4.00",
+    "menu_type": "Sides",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Old Fashioned Milkshake",
+    "description": "",
+    "price": "$7.00 - $7.50",
+    "menu_type": "Old Fashioned Milkshakes",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Potato Pancakes",
+    "description": "Shredded potatoes in seasoned egg batter, grilled & served with maple sausage links. 2 eggs (any style) and side of sour cream or homemade applesauce.",
+    "price": "$13.00 - $14.00",
+    "menu_type": "Country Corner Breakfast Specialties",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Country Corner Cafe Sampler",
+    "description": "Choice of short stack of buttermilk pancakes or french toast with 2 eggs (any style), and choice of ham, bacon or sausage.",
+    "price": "$13.00 - $14.00",
+    "menu_type": "Country Corner Breakfast Specialties",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Southern Benedict",
+    "description": "2 Poached eggs with spicy turkey sausage patties, fried green tomatoes and hollandaise sauce on a buttermilk biscuit. Served with choice of tater tots or home fries.",
+    "price": "$14.00",
+    "menu_type": "Friends With Bennies",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Benny",
+    "description": "Toasted English muffin with Canadian bacon, poached eggs and hollandaise sauce. Served with choice of fried tater tots or home fries.",
+    "price": "$12.75 - $14.00",
+    "menu_type": "Friends With Bennies",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Huevos Rancheros",
+    "description": "2 over easy eggs layered on top of a whole wheat tortilla, with refried beans, cheddar cheese and scallions and avocado. Served with a side of sour cream, fresh salsa and choice of tater tots for home fries.",
+    "price": "$13.00",
+    "menu_type": "Country Corner Breakfast Specialties",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sunrise Benedict",
+    "description": "2 grilled potato pancakes stacked with poached egg, roasted red peppers, scallions and hollandaise sauce. (no english muffin) Served with choice of fried tater tots or home fries.",
+    "price": "$14.00",
+    "menu_type": "Friends With Bennies",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Greek Omelette",
+    "description": "With spinach, slivered red onion, feta cheese and diced tomato. Choice of country white, whole wheat, marble rye or English muffin and choice of home fries or tater tots.",
+    "price": "$13.75",
+    "menu_type": "Country Corner Three Egg Omelettes",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Veggie Omelette",
+    "description": "With spinach, broccoli, tomato, mushroom. Choice of country white, whole wheat, marble rye or English muffin and choice of home fries or tater tots. Add cheese for an additional charge.",
+    "price": "$13.75",
+    "menu_type": "Country Corner Three Egg Omelettes",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Western Omelette",
+    "description": "A classic with diced onions, green peppers, ham and cheddar cheese. Choice of country white, whole wheat, marble rye or English muffin and choice of home fries or tater tots.",
+    "price": "$13.75",
+    "menu_type": "Country Corner Three Egg Omelettes",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fiesta Omelette",
+    "description": "Parillo’s crumbled sausage, onions, peppers and jalapeno pepper jack cheese. Choice of country white, whole wheat, marble rye or English muffin and choice of home fries or tater tots. Served with a side of salsa and sour cream.",
+    "price": "$14.00",
+    "menu_type": "Country Corner Three Egg Omelettes",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Irish Omelette",
+    "description": "Homemade corned beef hash and cheddar cheese. Choice of country white, whole wheat, marble rye or English muffin and choice of home fries or tater tots.",
+    "price": "$14.00",
+    "menu_type": "Country Corner Three Egg Omelettes",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Oatmeal or Grits",
+    "description": "Add Fruit, Raisins or Nuts for additional charge",
+    "price": "$3.50 - $5.00",
+    "menu_type": "On the Lighter Side",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Bagel & Lox",
+    "description": "Choice of plain or everything bagel with marinated red onion, tomato, capers, smoked salmon and cream cheese. Choice of home fries or tater tots",
+    "price": "$12.50",
+    "menu_type": "Breakfast Sammies",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Greek Salad",
+    "description": "Crisp romaine lettuce with slivered marinated red onion, kalamata olives, tomatoes, cucumbers and feta cheese. Served with pita and greek vinaigrette. Add sliced turkey, tuna or crispy chicken for an additional charge.",
+    "price": "$9.00 - $13.50",
+    "menu_type": "Farm Fresh Salads",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Cranberry Pecan Salad",
+    "description": "Mixed greens with fried chicken strips, dried cranberries, maple glazed pecans feta cheese, pita bread and a lite raspberry vinaigrette.",
+    "price": "$13.50",
+    "menu_type": "Farm Fresh Salads",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "French Toast Sticks",
+    "description": "Our own Cinnamon Egg Battered Texas Toast, grilled an cut into dipping sticks, served with pancakes syrup 2 oz. Pure Maple Syrup available for +$1.50",
+    "price": "$6.00",
+    "menu_type": "Kids Menu",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Silver Dollar Pancakes",
+    "description": "4 \"Silver Dollar\" (small size) Pancakes served with pancake syrup 2 oz. Pure Maple Syrup available +$1.50",
+    "price": "$6.00",
+    "menu_type": "Kids Menu",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Barnyard Breakfast",
+    "description": "Two silver dollar pancakes served with one egg any style and choice of bacon or sausage. Served with butter and syrup. 2oz. Pure Maple Syrup available for an additional $1.50",
+    "price": "$6.00",
+    "menu_type": "Kids Menu",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Kids Chicken Tenders",
+    "description": "Crispy chicken tenders with choice of fruit or french fries.",
+    "price": "$6.00",
+    "menu_type": "Kids Menu",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Grilled Cheese Deluxe",
+    "description": "Grilled American Cheese on Texas Toast w/ French Fries , and a cup of tomato soup",
+    "price": "$11.50",
+    "menu_type": "Hand Held Favorites",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "PBJ",
+    "description": "CCC Homemade Strawberry Jam and Peanut Butter on Texas Toast. A match made in heaven!",
+    "price": "$5.00",
+    "menu_type": "Kids Menu",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Homemade Applesauce",
+    "description": "Housemade Applesauce with a touch of Cinnamon and Sugar",
+    "price": "$3.00",
+    "menu_type": "Sides",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "PBJ Cristo",
+    "description": "Peanut Butter and Our Own Homemade Strawberry Jam with Sliced Bananas on Egg Battered Texas Toast (GF Bread add $1.50) and side of fresh fruit",
+    "price": "$8.00 - $9.00",
+    "menu_type": "Breakfast Sammies",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pint Size parfait",
+    "description": "Pint-sized low fat yoplait vanilla yogurt served with sliced bananas, chocolate chips & granola",
+    "price": "$5.00",
+    "menu_type": "Kids Menu",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Kids Fries",
+    "description": "",
+    "price": "$3.00",
+    "menu_type": "Kids Menu",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Plain Omelette",
+    "description": "3 Egg Omelette with choice of toast and home fries or tater tots. Add any ingredient listed for an additional charge each.",
+    "price": "$9.00 - $10.00",
+    "menu_type": "Items",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "French Toast",
+    "description": "Made with Texas Toast in our own Cinnamon Egg Batter (dairy-free) served with butter and syrup. 2 oz. Pure Maple Syrup available +$1.50",
+    "price": "$3.00 - $8.00",
+    "menu_type": "Flapjacks and Such",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Yogurt Parfait",
+    "description": "Low Fat Yoplait Vanilla Yogurt Served with Sliced Bananas, Chocolate Chips and Granola.",
+    "price": "$7.75",
+    "menu_type": "On the Lighter Side",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Apple Juice",
+    "description": "",
+    "price": "$2.50 - $3.00",
+    "menu_type": "Juices",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cranberry Juice",
+    "description": "",
+    "price": "$2.50 - $3.00",
+    "menu_type": "Juices",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tomato Juice",
+    "description": "",
+    "price": "$2.50 - $3.00",
+    "menu_type": "Juices",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Iced Coffee",
+    "description": "",
+    "price": "$3.25",
+    "menu_type": "Cold Beverages",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Turkey Club",
+    "description": "Thin sliced turkey, bacon, lettuce, tomato and mayo on choice of Country White, Wheat or Marble Rye Toast, Served with a side of Cole slaw and pickle spear.",
+    "price": "$13.50",
+    "menu_type": "Hand Held Favorites",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Siracha BLT",
+    "description": "Choice of Country White, Wheatberry, or Marble Rye Toast with Bacon, Lettuce and Friend Green Tomato, roasted peppers and spicy sriracha mayo. Served with a side of Cole slaw and a pickle.",
+    "price": "$13.50",
+    "menu_type": "Hand Held Favorites",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "CMS",
+    "description": "2 Eggs, any style with a choice of ham, bacon, or sausage. Served with choice of toast and home fries or tater tots.",
+    "price": "$12.00",
+    "menu_type": "Country Corner Breakfast Specialties",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Eye Opener",
+    "description": "Homemade corned beef hash topped with poached eggs and choice of toast. Choice of country white, whole wheat, marble rye or English muffin and choice of home fries or tater tots.",
+    "price": "$13.50",
+    "menu_type": "Country Corner Breakfast Specialties",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sausage Gravy & Biscuits",
+    "description": "Buttermilk biscuit, smothered with sausage gravy, 2 eggs any style served with fried tater tots.",
+    "price": "$13.50",
+    "menu_type": "Your Good Ol' Favorites",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Kids Breakfast Sandwich",
+    "description": "1 egg, cheese and meat on choice of bread.",
+    "price": "$6.00",
+    "menu_type": "Breakfast Sammies",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pancakes",
+    "description": "A Country Corner Cafe staple...Our light and fluffy Buttermilk Pancakes are sure to please! Try a Stack (3) if you dare, Short Stack (2) or a Single",
+    "price": "$3.50 - $10.00",
+    "menu_type": "Flapjacks and Such",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cheese Omelette",
+    "description": "Choice of american, swiss, cheddar, feta or jalapeno pepper jack . Choice of country white, whole wheat, marble rye or English muffin and choice of home fries or tater tots.",
+    "price": "$11.50",
+    "menu_type": "Country Corner Three Egg Omelettes",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fruit Bowl",
+    "description": "Luscious medley of fresh fruit with a honey yogurt sauce and crunchy granola served on the side with your choice of a homemade muffin or scone.",
+    "price": "$11.00",
+    "menu_type": "On the Lighter Side",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Iced Tea-unsweetened",
+    "description": "",
+    "price": "$3.00",
+    "menu_type": "Cold Beverages",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Toast",
+    "description": "",
+    "price": "$1.00 - $1.50",
+    "menu_type": "Sides",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Muffins",
+    "description": "",
+    "price": "$4.00",
+    "menu_type": "Items",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Snapple (Assorted flavors)",
+    "description": "",
+    "price": "$3.00",
+    "menu_type": "Bottled Beverages",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "IDA's Pancakes",
+    "description": "Swedish Oatmeal Pancakes",
+    "price": "$4.00 - $11.50",
+    "menu_type": "Flapjacks and Such",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Vegan Delight",
+    "description": "Curried Tofu Scramble with broccoli and spinach served with home fries and fresh fruit",
+    "price": "$13.50",
+    "menu_type": "Vegan Specialties",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Waffle",
+    "description": "Belgian Waffle- PLAIN",
+    "price": "$10.00",
+    "menu_type": "Items",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tuna melt",
+    "description": "American, Swiss or jalapeno pepper jack cheese with our homemade tuna salad. Served with a side of Cole slaw and pickle spear.",
+    "price": "$13.50",
+    "menu_type": "Hand Held Favorites",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hot Chocolate",
+    "description": "",
+    "price": "$2.75",
+    "menu_type": "Hot Beverages",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken 'N Waffles",
+    "description": "A Fluffy Belgian Waffle topped with Crispy Fried Chicken Tenders & a side of hot honey cinnamon butter, powdered sugar and maple syrup",
+    "price": "$13.25",
+    "menu_type": "Your Good Ol' Favorites",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "\"Cali\" Benedict",
+    "description": "Eggs Benedict with fresh avocado and tomato. Served with choice of tater tots or home fries.",
+    "price": "$13.00",
+    "menu_type": "Friends With Bennies",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "To Go Coffee",
+    "description": "",
+    "price": "$3.25",
+    "menu_type": "Hot Beverages",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Breakfast Bowl",
+    "description": "two Eggs scrambled with Scallions, Cumbled Bacon, Tomato & Cheddar Cheese on a bed of Grilled Home Fries, served with a Buttermilk Biscuit",
+    "price": "$13.00",
+    "menu_type": "Country Corner Breakfast Specialties",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Vegan Sausage Sandwich",
+    "description": "Vegan Sausage on a Vegan/GF Bun with Avocado & Tomato and side of fruit.",
+    "price": "$8.00",
+    "menu_type": "Vegan Specialties",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Saratoga Chop",
+    "description": "Chopped romaine, tomato, bacon, tuna tossed together. Side of pita bread and choice of salad dressing",
+    "price": "$13.50",
+    "menu_type": "Farm Fresh Salads",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Saratoga Country Corner Biscuit",
+    "description": "Crispy Chicken, Meat, Egg, and Cheese on a biscuit. Choice of tater tots or home fries. Side of homemade sausage gravy",
+    "price": "$13.50",
+    "menu_type": "Breakfast Sammies",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Breakfast Sandwich",
+    "description": "2 eggs, cheese, and choice of meat on a brioche roll. Served with choice of tater tots or home fries.",
+    "price": "$9.50",
+    "menu_type": "Breakfast Sammies",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fountain Drink",
+    "description": "Fountain drink",
+    "price": "$3.00",
+    "menu_type": "Cold Beverages",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Battenkill White Milk",
+    "description": "",
+    "price": "$2.25 - $3.00",
+    "menu_type": "Cold Beverages",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "_______________",
+    "description": "",
+    "price": "",
+    "menu_type": "Items",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "CCC Jammin Burger",
+    "description": "1/2 lb Angus Burger served on a Brioche with jalapeño jack cheese, housemade strawberry jam, and 2 slices of fried green tomato and Applewood smoked bacon. Served with a side of Brew City Fries, and pickle spear",
+    "price": "$13.50",
+    "menu_type": "Meat Lovers Corner",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "CCC Burger",
+    "description": "1/2 Pound Angus Burger served on a brioche bun w/lettuce and tomato. Add mushroom, onion or egg for an additional charge.",
+    "price": "$10.50",
+    "menu_type": "Meat Lovers Corner",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "O'Canada",
+    "description": "1/2 pound Angus Burger, seasoned with Montreal garlic pepper, cheddar cheese, and Brew City Onion Rings on an everything bagel. Served with Brew City Fries and pickle spear.",
+    "price": "$13.50",
+    "menu_type": "Meat Lovers Corner",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Kids Fountain",
+    "description": "",
+    "price": "$1.50",
+    "menu_type": "Items",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cinnamon Rolls",
+    "description": "",
+    "price": "$4.00",
+    "menu_type": "Items",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Saratoga Peanut Butter",
+    "description": "",
+    "price": "$8.00",
+    "menu_type": "Items",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cheese Blintzes",
+    "description": "",
+    "price": "$7.50 - $14.00",
+    "menu_type": "Items",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Blue Moon",
+    "description": "",
+    "price": "$6.00",
+    "menu_type": "Items",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "IPA",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "Items",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Avocado Toast",
+    "description": "Ripe avocado and tomato on a plain or everything bagel with everything bagel seasoning. Choice of home fries or tater tots. Add bacon bits or eggs to make it your own style.",
+    "price": "$10.50",
+    "menu_type": "Hand Held Favorites",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cup of soup",
+    "description": "",
+    "price": "$4.50",
+    "menu_type": "Sides",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Bowl of soup",
+    "description": "",
+    "price": "$5.00",
+    "menu_type": "Sides",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Bagel",
+    "description": "",
+    "price": "$2.50 - $4.00",
+    "menu_type": "Sides",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Orange Juice",
+    "description": "",
+    "price": "$3.50",
+    "menu_type": "Juices",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Saratoga Bottled Spring Water",
+    "description": "",
+    "price": "$2.50",
+    "menu_type": "Bottled Beverages",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Saratoga Sparkling Water",
+    "description": "",
+    "price": "$3.00",
+    "menu_type": "Cold Beverages",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pabst Blue Ribbon",
+    "description": "Valid Photo ID to be presented at time of pick-up",
+    "price": "$5.00",
+    "menu_type": "Items",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Nine Pin",
+    "description": "Valid Photo ID to be presented at time of pick-up",
+    "price": "$6.00",
+    "menu_type": "Items",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tater tots",
+    "description": "",
+    "price": "$4.00",
+    "menu_type": "Sides",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sweet Potato Fries",
+    "description": "",
+    "price": "$4.50",
+    "menu_type": "Sides",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Brew City French Fries",
+    "description": "",
+    "price": "$4.50",
+    "menu_type": "Sides",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Beer Battered Onion rings",
+    "description": "",
+    "price": "$4.75",
+    "menu_type": "Sides",
+    "restaurant_name": "The Country Corner Cafe",
+    "restaurant_url": "https://countrycornercafe.square.site/?location=F3XRZCTN550JM#7G4IXI7W77PAMRTYKFLU7UJF",
+    "menu_name": "Menu"
+  }
+]
