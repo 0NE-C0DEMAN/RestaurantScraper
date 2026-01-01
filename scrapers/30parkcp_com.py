@@ -280,6 +280,10 @@ def scrape_30park_menu():
     
     # Create output filename based on URL
     url_safe = url.replace('https://', '').replace('http://', '').replace('/', '_').replace('.', '_')
+    # Remove 'www_' prefix and 'menu' if present
+    if url_safe.startswith('www_'):
+        url_safe = url_safe[4:]
+    url_safe = url_safe.replace('_menu', '')
     output_json = Path(__file__).parent.parent / 'output' / f'{url_safe}.json'
     
     print(f"Scraping: {url}")

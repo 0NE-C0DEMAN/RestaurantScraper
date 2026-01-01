@@ -159,6 +159,10 @@ def scrape_thecocknbull_menu(url: str) -> List[Dict]:
     output_dir.mkdir(parents=True, exist_ok=True)
     
     url_safe = url.replace('https://', '').replace('http://', '').replace('/', '_').replace('.', '_')
+    # Remove 'www_' prefix and 'menu' if present
+    if url_safe.startswith('www_'):
+        url_safe = url_safe[4:]
+    url_safe = url_safe.replace('_menu', '')
     output_json = output_dir / f'{url_safe}.json'
     print(f"Output file: {output_json}\n")
     

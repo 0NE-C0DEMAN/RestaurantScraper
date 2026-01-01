@@ -225,7 +225,7 @@ def scrape_countrycornercafe_menu(url: str = None) -> List[Dict]:
     output_dir.mkdir(parents=True, exist_ok=True)
     
     # Create output filename
-    output_json = output_dir / 'www_countrycornercafe_net_menu.json'
+    output_json = output_dir / 'countrycornercafe_net.json'
     print(f"Output file: {output_json}\n")
     
     # Get store configuration

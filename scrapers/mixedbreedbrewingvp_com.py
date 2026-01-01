@@ -365,7 +365,7 @@ def scrape_mixedbreedbrewingvp_menu(base_url: str = None) -> List[Dict]:
     output_dir.mkdir(parents=True, exist_ok=True)
     
     # Use a consistent output filename
-    output_json = output_dir / 'www_mixedbreedbrewingvp_com_menu.json'
+    output_json = output_dir / 'mixedbreedbrewingvp_com.json'
     print(f"Output file: {output_json}\n")
     
     headers = {

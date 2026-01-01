@@ -676,8 +676,10 @@ def scrape_druthersbrewing_menu():
     print(f"============================================================\n")
     
     url_safe = url.replace('https://', '').replace('http://', '').replace('/', '_').replace('.', '_')
-    # Remove trailing underscores and 'menu' if present
+    # Remove trailing underscores, 'menu', and 'www_' prefix if present
     url_safe = url_safe.rstrip('_').replace('_menu', '')
+    if url_safe.startswith('www_'):
+        url_safe = url_safe[4:]
     output_json = output_dir / f'{url_safe}.json'
     print(f"Output file: {output_json}\n")
     

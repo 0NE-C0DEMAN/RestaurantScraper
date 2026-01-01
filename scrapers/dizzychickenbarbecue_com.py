@@ -556,7 +556,7 @@ def scrape_dizzychickenbarbecue_menu() -> List[Dict]:
     output_dir = Path(__file__).parent.parent / 'output'
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    output_json = output_dir / 'www_dizzychickenbarbecue_com_menu.json'
+    output_json = output_dir / 'dizzychickenbarbecue_com.json'
     print(f"Output file: {output_json}\n")
     
     all_items = []
