@@ -1,0 +1,362 @@
+[
+  {
+    "name": "FIRE LAKE OYSTERS",
+    "description": "salted huckleberries, trout roe, elderflower mignonette",
+    "price": "$27",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BREAD & BUTTER",
+    "description": "bakery suzanne country loaf, caramel pumpkin butter",
+    "price": "$9",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CHEESE CURDS",
+    "description": "cider batter, warm pepper jelly",
+    "price": "$15",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "DUCK FAT FRENCH FRIES",
+    "description": "fresh herbs, grana padano, garlic aioli",
+    "price": "$8/$15",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "MUSHROOM PÂTÉ",
+    "description": "pickled green beans, honey mustard, bakery suzanne baguette",
+    "price": "$18",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "SALMON CARPACCIO",
+    "description": "black olive, makrut lime, puffed rice",
+    "price": "$19",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "FOIE GRAS TART",
+    "description": "hazelnut, black mission figs, maple gelée",
+    "price": "$21",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BEEF TATAKI",
+    "description": "horseradish, jimmy nardello peppers, truffle ponzu",
+    "price": "$23",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CARROTS",
+    "description": "whipped chèvre, walnut dukkah, pomegranate cheong",
+    "price": "$13",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "COUS COUS SALAD",
+    "description": "pomegranate, pistachios, gold beet hummus",
+    "price": "$15",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "LITTLE FIELD FARM GREENS",
+    "description": "blueberries, lovage, piave vecchio, balsamic vinaigrette",
+    "price": "$16",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "HONEYNUT SQUASH SALAD",
+    "description": "baby kale, lady fuji apple, chèvre, roast shallot vinaigrette",
+    "price": "$16",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "SQUASH TIKA MASALA",
+    "description": "carrots, cilantro chutney, tika masala sauce",
+    "price": "$33",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "DAN’S SQUID INK FAZZOLETTI",
+    "description": "mussels, lemon ricotta, sauce crème",
+    "price": "$35",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "FAROE ISLAND SALMON",
+    "description": "radicchio, fennel, walnut salmorejo",
+    "price": "$38",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "SHRIMP AND GRITS",
+    "description": "linguica sausage, grafton cheddar, jalapeno bechamel",
+    "price": "$36",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "GRASS FED SIRLOIN STEAK",
+    "description": "mashed rutabaga, local mushroom, horseradish jus",
+    "price": "$48",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "DOUBLE CHEESEBURGER",
+    "description": "st. croix farm beef, melted onions, fries or side salad | Add-ons: bacon $2.5, avocado $3, fried egg $2, mushrooms $2.5, duck fat fries $2.5, GF bun $3",
+    "price": "$25",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "COCONUT RICE PUDDING",
+    "description": "blackberries, coconut brittle, blackberry sabayon",
+    "price": "$13",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "COFFEE BAVAROIS",
+    "description": "hazelnuts, coffee caramel, chantilly cream",
+    "price": "$15",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "MILLE FEUILE",
+    "description": "caramelized puff pastry, muscat grape jelly, peanut butter cremeaux",
+    "price": "$15",
+    "menu_type": "DINNER",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "GIN-GIN FIZZ",
+    "description": "-",
+    "price": "$17",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "QUEEN’S KNIT",
+    "description": "-",
+    "price": "$18",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "SEASONAL PROOF",
+    "description": "-",
+    "price": "$17",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "CURE",
+    "description": "#2 -",
+    "price": "$17",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "OLIVE BRANCH",
+    "description": "-",
+    "price": "$17",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "UBE MILK PUNCH",
+    "description": "-",
+    "price": "$18",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "THYME TRAVELER",
+    "description": "-",
+    "price": "$17",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "CORN STAR COLADA",
+    "description": "-",
+    "price": "$18",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "SAINT’S PEAR",
+    "description": "-",
+    "price": "$18",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "RESERVE RUM OLD FASHIONED",
+    "description": "-",
+    "price": "$27",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "FREEZER VESPER",
+    "description": "-",
+    "price": "$20",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "HOUSE ESPRESSO MARTINI",
+    "description": "-",
+    "price": "$20",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "FENNEL MARTINI",
+    "description": "-",
+    "price": "$20",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "DIRTY VODKA MARTINI",
+    "description": "-",
+    "price": "$20",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "FALL COLLINS",
+    "description": "-",
+    "price": "$11",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "SILK SHORTS",
+    "description": "-",
+    "price": "$11",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "DAYDREAMER",
+    "description": "-",
+    "price": "$11",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "BENGALI SOUR",
+    "description": "-",
+    "price": "$11",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  },
+  {
+    "name": "SOFT VOLTAGE",
+    "description": "-",
+    "price": "$11",
+    "menu_type": "Beverage",
+    "restaurant_name": "Hamlet & Ghost",
+    "restaurant_url": "http://www.hamletandghost.com/",
+    "menu_name": "Beverage Menu"
+  }
+]

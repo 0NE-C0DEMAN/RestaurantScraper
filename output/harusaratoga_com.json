@@ -1,0 +1,2315 @@
+[
+  {
+    "name": "Hot & Sour Shrimp Soup",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hot & Sour Chicken Soup",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hot & Sour Beef Soup",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tom Yum Shrimp Soup",
+    "description": "Lemongrass, organic vegetable in spicy shrimp broth",
+    "price": "$11.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tom Yum Seafood Soup",
+    "description": "Lemongrass, organic vegetable in spicy shrimp broth",
+    "price": "$11.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tom Yum Veg Tofu Soup",
+    "description": "Lemongrass, organic vegetable in spicy shrimp broth",
+    "price": "$11.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Miso Tofu Soup",
+    "description": "",
+    "price": "$3.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Seaweed Salad",
+    "description": "",
+    "price": "$6.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Mango Kani Salad",
+    "description": "",
+    "price": "$8.25",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Avocado Salad",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Wonton Soup",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sashimi Salad",
+    "description": "Seared salmon & pepper tuna sashimi on top of mix greens with spicy mayo & ponzu sauce on the side.",
+    "price": "$15.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Citron Sal Carpaccio",
+    "description": "Seared salmon wrapped with crunch spicy crabmeat and jalapeno, serve with soy mustard sauce",
+    "price": "$13.95",
+    "menu_type": "COLD APPETIZER",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Seafood Martini",
+    "description": "Diced tuna, salmon, white tuna, white fish, and onions with soy mustard sauce.",
+    "price": "$16.95",
+    "menu_type": "COLD APPETIZER",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Truffle White Tuna",
+    "description": "Seared super white tuna with citron yuzu sauce, topped with black caviar, fried look and truffle olive oil.",
+    "price": "$13.95",
+    "menu_type": "COLD APPETIZER",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sushi App",
+    "description": "4pcs of chef's choice assorted fish.",
+    "price": "$12.95",
+    "menu_type": "COLD APPETIZER",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sashimi App",
+    "description": "Chef's choice of assorted fish.",
+    "price": "$13.95",
+    "menu_type": "COLD APPETIZER",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sunomono",
+    "description": "Variety of seafood in vinegar sauce.",
+    "price": "$13.95",
+    "menu_type": "COLD APPETIZER",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Filet Mignon Tataki",
+    "description": "Seared thin sliced of beef served w. chef's special sauce.",
+    "price": "$17.95",
+    "menu_type": "COLD APPETIZER",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pepper Tuna Tataki",
+    "description": "Thin slices of tuna served w. ponzu sauce.",
+    "price": "$14.95",
+    "menu_type": "COLD APPETIZER",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tuna Basket",
+    "description": "Crabmeat, mango wrapped w. thinly sliced tuna & chef's special sauce.",
+    "price": "$14.95",
+    "menu_type": "COLD APPETIZER",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Yellowtail Jalapeno",
+    "description": "6pcs of yellawtail w. jalapeno pepper & tobiko w. special sauce.",
+    "price": "$13.95",
+    "menu_type": "COLD APPETIZER",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Seaweed salad, Alaska king crab meat, jumbo shrimp w. cocktail sauce.",
+    "description": "Seaweed salad, Alaska king crab meat, jumbo shrimp w. cocktail sauce.",
+    "price": "$18.95",
+    "menu_type": "COLD APPETIZER",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Garden of Eden",
+    "description": "Tuna wrapped in crabmeat, avocado, radish sprout, and drizzled w. soy mustard sauce.",
+    "price": "$13.95",
+    "menu_type": "COLD APPETIZER",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Mike Special",
+    "description": "Sliced pepper tuna wrapped with spicy kani and mango, mango sauce on top.",
+    "price": "$13.95",
+    "menu_type": "COLD APPETIZER",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pork Xiao Long Bao",
+    "description": "",
+    "price": "$8.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fried Yasai Gyoza",
+    "description": "Japanese vegetable fried dumplings.",
+    "price": "$6.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Rock Shrimp",
+    "description": "Crispy popcorn shrimp in house special cream sauce.",
+    "price": "$9.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Haki Haki Scallops",
+    "description": "Gently grilled succulent fresh jumbo sea scallops glazed with sweet and spicy chef's special sauce.",
+    "price": "$13.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sauteed Spinach",
+    "description": "",
+    "price": "$9.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Soft Shell Crab App",
+    "description": "Gently Fried soft shell crab w. special sauce.",
+    "price": "$10.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fried Mozzarella Sticks",
+    "description": "",
+    "price": "$8.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fried Calamari",
+    "description": "",
+    "price": "$10.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Japanese vegetable spring roll.",
+    "description": "",
+    "price": "$5.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Edamame",
+    "description": "",
+    "price": "$6.25",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Age Tofu",
+    "description": "",
+    "price": "$6.00",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Ebi Shumai",
+    "description": "Steamed shrimp dumplings.",
+    "price": "$6.25",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Garlic Broccoli",
+    "description": "Steamed crunchy broccoli w. light brawn garlic sauce on the side.",
+    "price": "$7.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Gyoza",
+    "description": "Japanese pan-fried shrimp dumplings.",
+    "price": "$6.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Steam Yasai Gyoza",
+    "description": "Japanese vegetable steamed dumplings.",
+    "price": "$6.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Beef Negimaki",
+    "description": "Rolled beef stuffed w. scallions.",
+    "price": "$10.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Negimaki",
+    "description": "Fried rolled chicken stuffed w, scallions, creamy cheese & bread.",
+    "price": "$10.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Shrimp  App",
+    "description": "",
+    "price": "$10.50",
+    "menu_type": "TEMPURA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken  App",
+    "description": "",
+    "price": "$10.50",
+    "menu_type": "TEMPURA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Vegetable  App",
+    "description": "",
+    "price": "$10.50",
+    "menu_type": "TEMPURA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Satay",
+    "description": "Traditional Thai marinated skewers served w. Thai curry dipping sauce.",
+    "price": "$8.95",
+    "menu_type": "TEMPURA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Beef Satay",
+    "description": "Traditional Thai marinated skewers served w. Thai curry dipping sauce.",
+    "price": "$8.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Wings",
+    "description": "Marinated fried chicken wings",
+    "price": "$9.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Coconut Shrimp",
+    "description": "",
+    "price": "$12.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chilean Sea Bass App",
+    "description": "Grilled Chilean sea bass with coconut black rice.",
+    "price": "$18.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Oyster",
+    "description": "Fried oyster topped with spicy tuna and jalapeno.",
+    "price": "$14.95",
+    "menu_type": "TEMPURA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Crab Rangoon",
+    "description": "",
+    "price": "$8.50",
+    "menu_type": "TEMPURA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Salmon",
+    "description": "",
+    "price": "$7.25",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tuna",
+    "description": "",
+    "price": "$7.75",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fluke",
+    "description": "",
+    "price": "$6.50",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Egg Cake",
+    "description": "",
+    "price": "$5.50",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Salmon Roe",
+    "description": "",
+    "price": "$7.75",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Red Clam",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "White Tuna",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Yellowtail",
+    "description": "",
+    "price": "$7.50",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Shrimp",
+    "description": "",
+    "price": "$6.50",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Squid",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "(Unagi)",
+    "description": "",
+    "price": "$8.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Crab Stick",
+    "description": "",
+    "price": "$6.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Scallop",
+    "description": "",
+    "price": "$8.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Octopus",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Salmon Toro",
+    "description": "",
+    "price": "$10.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Striped Bass",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Smoked Salmon",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Black Caviar",
+    "description": "",
+    "price": "$8.50",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Wasabi Caviar",
+    "description": "",
+    "price": "$8.50",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Mackerel",
+    "description": "",
+    "price": "$6.50",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tuna",
+    "description": "",
+    "price": "$6.00",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Salmon",
+    "description": "",
+    "price": "$5.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Yellowtail w. Scallion",
+    "description": "",
+    "price": "$7.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Spicy Tuna",
+    "description": "",
+    "price": "$7.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Spicy Salmon",
+    "description": "",
+    "price": "$7.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Salmon Avocado",
+    "description": "",
+    "price": "$6.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Alaskan",
+    "description": "Salmon w. avocado, crabmeat, cucumber.",
+    "price": "$8.25",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sky Beauty",
+    "description": "Tuna, yellowtail, tobiko, tempura flake w. special spicy sauce.",
+    "price": "$8.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Spicy Scallop",
+    "description": "",
+    "price": "$8.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tuna Avocado",
+    "description": "",
+    "price": "$6.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "California",
+    "description": "",
+    "price": "$6.25",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Philadelphia",
+    "description": "Smoked salmon, cream cheese & cucumber.",
+    "price": "$6.75",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Eel",
+    "description": "",
+    "price": "$6.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Shrimp Avocado",
+    "description": "",
+    "price": "$7.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Dragon",
+    "description": "Shrimp tempura & crabmeat inside topped w. eel, avocado & w. eel sauce.",
+    "price": "$14.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Shrimp",
+    "description": "",
+    "price": "$9.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Futo Maki",
+    "description": "Crabmeat, tobiko, egg cake, kampyo, cucumber,oshinko & carrot.",
+    "price": "$7.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Salmon Skin",
+    "description": "With cucumber & scallions.",
+    "price": "$6.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Boston",
+    "description": "Shrimp, cucumber crabmeat & lettuce.",
+    "price": "$8.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Spider",
+    "description": "Gently fried soft shell crab wrapped in avocado,cucumber & masago.",
+    "price": "$12.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Avocado",
+    "description": "",
+    "price": "$5.00",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cucumber",
+    "description": "",
+    "price": "$4.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Avocado & Cucumber",
+    "description": "",
+    "price": "$5.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sweet Potato",
+    "description": "",
+    "price": "$5.50",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "A.A.C",
+    "description": "",
+    "price": "$6.25",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Vegetable Green Dragon",
+    "description": "Fried sweet potatoes & cucumber inside topped w. avocado.",
+    "price": "$12.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Zen",
+    "description": "Avocado, asparagas & cucumber inside, topped with mango, rolled with brown rice.",
+    "price": "$12.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Crispy lobster,eel, cucumber, avocado, tobiko.",
+    "description": "Crispy lobster,eel, cucumber, avocado, tobiko.",
+    "price": "$19.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Wilton",
+    "description": "Lobster tempura, mango, avocado wrapped with soy paper. top with tuna, jalapeno,w. spicy sauce.",
+    "price": "$18.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Skidmore",
+    "description": "Inside blue crabmeat, avocado, Shrimp Tempura, top with seared beef, with soy mustards sauce.",
+    "price": "$18.95",
+    "menu_type": "TEMPURA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fantasy",
+    "description": "Tuna, salmon, yellowtail, avocado & tempura flake w. caviar & special sauce outside.",
+    "price": "$12.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Valentine",
+    "description": "Crunchy spicy tuna, avocado inside, tuna on top in heart shape.",
+    "price": "$14.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Double Punch",
+    "description": "Spicy tuna, asparagus inside w. topped w fatty tuna & avocado.",
+    "price": "$20.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tiger",
+    "description": "Spicy crab salads w. cucumber & tempura flakes inside, topped w. salmon, avocado & black tobiko.",
+    "price": "$15.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Snow Mountain",
+    "description": "Shrimp tempura w. cucumber inside, topped w. crab salad.",
+    "price": "$14.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Passionate Tuna",
+    "description": "Pepper tuna, cucumber & asparagus inside. Topped w. tuna, spicy tuna, and tempura flakes Drizzled w.eel and spicy mayo.",
+    "price": "$15.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Buddy",
+    "description": "Shrimp tempura, spicy tuna inside. Topped w. crawfish salad, eel, avocado, tempura flakes. drizzled w. spicy mayo and eel sauce.",
+    "price": "$15.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Salmon on the Beach",
+    "description": "Avocado, cucumber mango inside, topped w. salmon and special mango sauce",
+    "price": "$14.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Ninja",
+    "description": "Fried roll spicy tuna, white fish, cream cheese, avocado,with spicy mayo sauce and tobiko.",
+    "price": "$13.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Avatar",
+    "description": "Shrimp tempura, spring mix, avocado, asparagus & Alaskan king crab meat wrapped w. soybean paper. Drizzled w. eel and wasabi sauce.",
+    "price": "$19.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Transformer",
+    "description": "Shrimp tempura, spicy crabmeat inside, topped with avocado, black caviar with black rice.",
+    "price": "$15.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Manhattan",
+    "description": "",
+    "price": "$17.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Mango Tango",
+    "description": "Alaskan king crab, mango, cucumber inside topped with sliced avocado and mango.served with mango sauce.",
+    "price": "$19.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Autumn",
+    "description": "Lobster salad, crunchy yellowtail, and asperagus inside,Topped with spicy tuna and avocado with chef's sauce",
+    "price": "$16.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pink Lady",
+    "description": "Salmon, shrimp tempura, cucumber, avocado masago inside wapped w. soybean paper.Topped w. spicy & eel sauce.",
+    "price": "$15.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Godzilla",
+    "description": "Lobster & crabmeat inside wrapped w. soybean paper.",
+    "price": "$14.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sex on the Beach",
+    "description": "Shrimp tempura & spicy tuna inside, top of white tuna, avocado & caviar.",
+    "price": "$15.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Prince",
+    "description": "Chilean sea bass, avocado, asparagus & radish sprouts. Topped w. seared scallop & gamished w. scallion, tobiko along w. eel & spicy mayo sauce.",
+    "price": "$19.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Naruto",
+    "description": "Tuna & salmon w. avocado wrapped in cucumber.",
+    "price": "$13.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Angel",
+    "description": "Pepper tuna radish, sprouts & cucurmber inside.salmon, white tuna, avocado, tempura flake & fish egg outside, served in three special sauces.",
+    "price": "$16.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Rainbow",
+    "description": "Crabmeat cucumber & masago wrapped w. variety of tuna, salmon, fluke & avocado.",
+    "price": "$13.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fairy",
+    "description": "Salmon & cucumber inside topped w. scallion masago & avocado w. spicy sauce.",
+    "price": "$13.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Spicy Blue Crab",
+    "description": "Spicy crunch blue crab and avocado inside, topped with spicy crunch tuna with spicy sauce.",
+    "price": "$15.95",
+    "menu_type": "ROLL",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Lobster",
+    "description": "Tempura lobster, cucumber & mayo.",
+    "price": "$16.95",
+    "menu_type": "TEMPURA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken",
+    "description": "",
+    "price": "$16.95",
+    "menu_type": "TEMPURA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Shrimp",
+    "description": "",
+    "price": "$16.95",
+    "menu_type": "TEMPURA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Vegetable",
+    "description": "",
+    "price": "$16.95",
+    "menu_type": "TEMPURA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken",
+    "description": "",
+    "price": "$19.95",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Salmon",
+    "description": "",
+    "price": "$21.95",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tofu",
+    "description": "",
+    "price": "$18.95",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Shrimp",
+    "description": "",
+    "price": "$21.95",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Filet Mignon",
+    "description": "",
+    "price": "$28.95",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Steak",
+    "description": "",
+    "price": "$24.95",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Scallop",
+    "description": "",
+    "price": "$26.95",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken  Noodle",
+    "description": "",
+    "price": "$14.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Shrimp  Noodle",
+    "description": "",
+    "price": "$14.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Yaki",
+    "description": "Stirfried noodles w. vegetable.",
+    "price": "$15.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Shrimp Yaki",
+    "description": "Stirfried noodles w. vegetable.",
+    "price": "$15.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Garlic Noodle",
+    "description": "Shrimps, scallops w. mushrooms & scallions in light cream, garlic butter sauce over noodles",
+    "price": "$18.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Nabeyaki",
+    "description": "Noodles w shrimp tempura, chicken, egg & vegetable in a hot pot dish.",
+    "price": "$15.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "description": "",
+    "price": "$13.95",
+    "menu_type": "JAPANESE FRIED RICE",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Mixed Veg Fried Rice",
+    "description": "",
+    "price": "$13.95",
+    "menu_type": "JAPANESE FRIED RICE",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Beef Fried Rice",
+    "description": "",
+    "price": "$13.95",
+    "menu_type": "JAPANESE FRIED RICE",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Shrimp Fried Rice",
+    "description": "",
+    "price": "$13.95",
+    "menu_type": "JAPANESE FRIED RICE",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pineapple Fried Rice",
+    "description": "Thai style fried rice with chicken and shrimp",
+    "price": "$15.95",
+    "menu_type": "JAPANESE FRIED RICE",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken  Bento",
+    "description": "",
+    "price": "$24.90",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Shrimp  Bento",
+    "description": "",
+    "price": "$24.90",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Steak  Bento",
+    "description": "",
+    "price": "$24.90",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Salmon  Bento",
+    "description": "",
+    "price": "$24.90",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "General Tso's Chicken Bento",
+    "description": "",
+    "price": "$24.90",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sesame Chicken Bento",
+    "description": "",
+    "price": "$24.90",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Miso Black Cod",
+    "description": "Asparagus, miso glaze sauce and soba noodle in chef's special sauce.",
+    "price": "$25.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Grill Salmon",
+    "description": "Tomato honey glaze with three pieces of assorted cute sushi.",
+    "price": "$25.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Katsu",
+    "description": "Panko Bread Crumbs and oshinko, with chicken breast.",
+    "price": "$18.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Red Curry Chicken",
+    "description": "Red curry served w organic vegetables smothered in coconut milk.",
+    "price": "$20.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Red Curry Shrimp",
+    "description": "Red curry served w organic vegetables smothered in coconut milk.",
+    "price": "$20.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Red Curry Beef",
+    "description": "Red curry served w organic vegetables smothered in coconut milk.",
+    "price": "$20.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tom Yum Shrimp  Noodle Soup",
+    "description": "Lemongrass w. organic vegetables in spicy shrimp broth.",
+    "price": "$18.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tom Yum Chicken  Noodle Soup",
+    "description": "Lemongrass w. organic vegetables in spicy shrimp broth.",
+    "price": "$18.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tom Yum Beef  Noodle Soup",
+    "description": "Lemongrass w. organic vegetables in spicy shrimp broth.",
+    "price": "$18.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tom Yum Seafood  Noodle Soup",
+    "description": "Lemongrass w. organic vegetables in spicy shrimp broth.",
+    "price": "$25.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "General Tso's Chicken",
+    "description": "Sweet and slightly spicy deep-fried high quality white breast with a kick from garlic.",
+    "price": "$19.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sesame Chicken",
+    "description": "All white chicken battered & fried to perfection. then tossed in our Sweet & light sesame sauce w. broccoli.",
+    "price": "$19.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Crispy Snapper",
+    "description": "Aromatic sweet, sour & spicy glaze served along w. fresh dicemango, green & red pepper to tamethis wild sauce.",
+    "price": "$22.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Grilled Filet Mignon w. Sauteed Seasonal Vegetable",
+    "description": "Grilled Filet Mignon w. Sauteed Seasonal Vegetable",
+    "price": "$29.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Pad Thai",
+    "description": "Thai rice noodles stir fried w. egg, ground peanut, bean sprouts & scallion.",
+    "price": "$15.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Shrimp Pad Thai",
+    "description": "Thai rice noodles stir fried w. egg, ground peanut, bean sprouts & scallion.",
+    "price": "$15.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Beef Pad Thai",
+    "description": "Thai rice noodles stir fried w. egg, ground peanut, bean sprouts & scallion.",
+    "price": "$15.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Vegetable Pad Thai",
+    "description": "Thai rice noodles stir fried w. egg, ground peanut, bean sprouts & scallion.",
+    "price": "$15.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Mango Chicken",
+    "description": "Young chicken breast, fresh mango, red peppers, snow peas and red onions.",
+    "price": "$22.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Mango Shrimp",
+    "description": "Shrimp, fresh mango, red peppers, snow peas and red onions.",
+    "price": "$22.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sauteed Seafood",
+    "description": "Lobster tail, prawn w. scallops, mushroom, organic vegetables & udon noodles.",
+    "price": "$27.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Ginger Chicken",
+    "description": "Young chicken breast cooked in Japanese ginger sauce w. snow peas, zucchini and asparagus.",
+    "price": "$23.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Ginger Shrimp",
+    "description": "Shrimp cooked in Japanese ginger sauce w. snow peas, zucchini and asparagus",
+    "price": "$23.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pineapple Duck",
+    "description": "Roast duck braised in port red wine & chef's special pineapple sauce.",
+    "price": "$29.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Grilled Chilean Sea Bass",
+    "description": "Chilean sea bass lightly grilled w special miso anti cucho sauce.",
+    "price": "$32.95",
+    "menu_type": "UDON",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "H. Veg",
+    "description": "",
+    "price": "$22.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "H. Calamari",
+    "description": "",
+    "price": "$27.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "H. Chicken",
+    "description": "",
+    "price": "$24.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "H. Shrimp",
+    "description": "",
+    "price": "$26.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "H. Salmon",
+    "description": "",
+    "price": "$26.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "H. Steak",
+    "description": "",
+    "price": "$29.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "H. Fresh Sea Scallops",
+    "description": "",
+    "price": "$32.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "H. Filet Mignon",
+    "description": "",
+    "price": "$33.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "H. Chilean Seabass",
+    "description": "",
+    "price": "$35.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "H. Lamb Chop",
+    "description": "",
+    "price": "$38.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "H. Twin Lobster Tail",
+    "description": "",
+    "price": "$36.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "H Sword Fish",
+    "description": "",
+    "price": "$28.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Emperor Deluxe",
+    "description": "Filet Mignon, lobster tail, shrimp and scallops.",
+    "price": "$58.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "H. Pick Two",
+    "description": "",
+    "price": "$29.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "H. Pick  Three",
+    "description": "",
+    "price": "$37.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Side Chicken",
+    "description": "",
+    "price": "$9.95",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Side Filet Mignon",
+    "description": "",
+    "price": "$13.95",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Side Lobster",
+    "description": "",
+    "price": "$16.95",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Side Salmon",
+    "description": "",
+    "price": "$11.95",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Side Scallops",
+    "description": "",
+    "price": "$12.95",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Side Shrimp",
+    "description": "",
+    "price": "$10.95",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Side Steak",
+    "description": "",
+    "price": "$13.00",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Side Fried Rice",
+    "description": "",
+    "price": "$5.25",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Side Noodle",
+    "description": "",
+    "price": "$5.25",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Side Veg",
+    "description": "",
+    "price": "$6.75",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sushi Rice",
+    "description": "",
+    "price": "$3.75",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "White Rice",
+    "description": "",
+    "price": "$3.50",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Brown Rice",
+    "description": "",
+    "price": "$3.50",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "S/O Eel Sauce",
+    "description": "",
+    "price": "$0.75",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "S/O Spicy Mayo",
+    "description": "",
+    "price": "$0.75",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "S/O Mustard Sauce",
+    "description": "",
+    "price": "$0.75",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "S/O  Sauce",
+    "description": "",
+    "price": "$0.75",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "S/O Giner Sauce",
+    "description": "",
+    "price": "$0.75",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "S/O Ginger Dressing",
+    "description": "",
+    "price": "$0.75",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "S/O Goyza Sauce",
+    "description": "",
+    "price": "$0.75",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "S/O Sriracha",
+    "description": "",
+    "price": "$1.00",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "S/O Chili Oil",
+    "description": "",
+    "price": "$0.75",
+    "menu_type": "TERIYAKI",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Kid Vegetable",
+    "description": "",
+    "price": "$16.50",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Kid Chicken",
+    "description": "",
+    "price": "$16.50",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Kid Steak",
+    "description": "",
+    "price": "$16.50",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Kid Shrimp",
+    "description": "",
+    "price": "$16.50",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Kid Salmon",
+    "description": "",
+    "price": "$16.50",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Kid Filet Mingon",
+    "description": "",
+    "price": "$20.00",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sushi Deluxe",
+    "description": "8pcs of sushi, 1 tuna roll or 1 California roll.",
+    "price": "$25.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sashimi Deluxe",
+    "description": "Our chef's special assorted sashimi",
+    "price": "$28.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sushi & Sashimi Combo",
+    "description": "4pcs sushi, 9pcs sashimi & 1 California roll.",
+    "price": "$30.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Maki Combo",
+    "description": "Choice of any three roll,California roll, tuna roll, salmon roll, yellowtail roll,spicy tuna roll, spicy salmon roll, phili roll, Alaskan roll, & futo maki",
+    "price": "$19.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sushi Trio",
+    "description": "3 slices of each: tuna, salmon, yellowtail topped on spicy crunched tuna roll.",
+    "price": "$28.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tekka Don",
+    "description": "Sliced tuna on a bed of sushi rice.",
+    "price": "$26.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Unagi Don",
+    "description": "",
+    "price": "$26.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chirashi",
+    "description": "Assorted sliced raw fishes & vegetable over sushi rice.",
+    "price": "$28.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Love Boat 2",
+    "description": "2pcs of tuna, salmon, fluke & yellowtail sashimi of each.2pcs of tuna, salmon, yellowtall, fluke, shimp & crabmeat sushi of each. Two chef's choice roll.",
+    "price": "$69.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Love Boat 3",
+    "description": "3pcs of tuna salmon, fluke & yellowtail sashimi of each.3pcs of tuna, salmon, fluke, shrimp, yellowtail & crabmeat of each. Three chef's choice roll.",
+    "price": "$104.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Love Boat  4",
+    "description": "4pcs of tuna salmon, yellowtail fluke, octopus, white tuna & red snapper sashimi of each. 4 pcs of tuna, salmon, yellowtail, fluke, smoked salmon sushi of each. Four chef's choice roll.",
+    "price": "$139.95",
+    "menu_type": "SOUP & SALAD",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hot Tea",
+    "description": "",
+    "price": "$3.00",
+    "menu_type": "NON ALCOHOLIC DRINKS",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Apple Juice",
+    "description": "",
+    "price": "$3.25",
+    "menu_type": "NON ALCOHOLIC DRINKS",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Japanese Soda",
+    "description": "",
+    "price": "$4.50",
+    "menu_type": "NON ALCOHOLIC DRINKS",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Strawberry Daiquiri Virgin",
+    "description": "",
+    "price": "$6.95",
+    "menu_type": "NON ALCOHOLIC DRINKS",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Banana Daiquiri Virgin",
+    "description": "",
+    "price": "$6.95",
+    "menu_type": "NON ALCOHOLIC DRINKS",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pina Colada Virgin",
+    "description": "",
+    "price": "$7.50",
+    "menu_type": "NON ALCOHOLIC DRINKS",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Shirley Temple",
+    "description": "",
+    "price": "$3.75",
+    "menu_type": "NON ALCOHOLIC DRINKS",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Soda",
+    "description": "",
+    "price": "$2.95",
+    "menu_type": "NON ALCOHOLIC DRINKS",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Milk",
+    "description": "",
+    "price": "$2.95",
+    "menu_type": "NON ALCOHOLIC DRINKS",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Saratoga Sparkling Water",
+    "description": "",
+    "price": "$3.75",
+    "menu_type": "NON ALCOHOLIC DRINKS",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Saratoga Natural Spring Water",
+    "description": "",
+    "price": "$3.75",
+    "menu_type": "NON ALCOHOLIC DRINKS",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cranberry Juice",
+    "description": "",
+    "price": "$3.25",
+    "menu_type": "NON ALCOHOLIC DRINKS",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Orange Juice",
+    "description": "",
+    "price": "$3.25",
+    "menu_type": "NON ALCOHOLIC DRINKS",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pineapple Juice",
+    "description": "",
+    "price": "$3.25",
+    "menu_type": "NON ALCOHOLIC DRINKS",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Classic Milk Tea",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "BUBBLE MILK TEA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Brown Sugar Milk",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "BUBBLE MILK TEA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Taro Milk Tea",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "BUBBLE MILK TEA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Vanilla Milk Tea",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "BUBBLE MILK TEA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Mocha Milk Tea",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "BUBBLE MILK TEA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Honeydew Milk Tea",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "BUBBLE MILK TEA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chocolate Milk Tea",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "BUBBLE MILK TEA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Strawberry Milk Tea",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "BUBBLE MILK TEA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Mango Milk Tea",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "BUBBLE MILK TEA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Matcha Milk Tea",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "BUBBLE MILK TEA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Thai Milk Tea",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "BUBBLE MILK TEA",
+    "restaurant_name": "Haru",
+    "restaurant_url": "http://harusaratoga.com/",
+    "menu_name": "Menu"
+  }
+]

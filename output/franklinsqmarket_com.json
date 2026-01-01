@@ -1,0 +1,794 @@
+[
+  {
+    "name": "MARKET BLT",
+    "description": "crispy bacon, shredded lettuce, beefsteak tomatoes, mayo, sourdough",
+    "price": "$14",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "CONGRESS PARK CAPRESE (VG)",
+    "description": "sliced fresh mozzarella cheese, sliced tomato, arugula, pesto aioli, balsamic glaze, sourdough",
+    "price": "$14",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "TURKEY CLUB",
+    "description": "oven roasted turkey, sharp cheddar, lettuce, tomato, bacon, mayo, sourdough",
+    "price": "$14",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "THE LAKE",
+    "description": "house-roasted turkey breast, sharp cheddar, crispy bacon, coleslaw, cranberry mayo, arugula, seeded baguette",
+    "price": "$15",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "THE UNION",
+    "description": "grilled chicken cutlets, sliced mozzarella, roasted red peppers, arugula, basil aioli, seeded baguette",
+    "price": "$15",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "ITALIANO",
+    "description": "soppressata, salami, capicola, provolone, shredded lettuce, tomato, red onion, oil & vinegar, oregano, seeded baguette",
+    "price": "$16",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "CHIPOTLE CHICKEN",
+    "description": "shredded chicken, chipotle aioli, bacon, cheddar cheese, seeded baguette",
+    "price": "$16",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "BIG PARM",
+    "description": "breaded chicken cutlets. house marinara. fresh mozzarella, romano cheese, seeded baguette",
+    "price": "$16",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "CHICKEN BACON RANCH",
+    "description": "shredded chicken, house ranch, crispy bacon, sharp cheddar, seeded baguette",
+    "price": "$16",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "FRENCH ONION BEEF",
+    "description": "roast beef, demi caramelized onions, swiss cheese, horseradish aioli, seeded baguette",
+    "price": "$15",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "BUFFALO CHICKEN",
+    "description": "shredded chicken, buffalo cheese spread, buffalo sauce, blue cheese dressing, scallions, griddled sourdough",
+    "price": "$13",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "TURKEY RACHEL",
+    "description": "roasted turkey, swiss cheese, coleslaw, thousand island dressing, griddled rye bread",
+    "price": "$16",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "REUBEN",
+    "description": "sliced pastrami, swiss, sauerkraut, thousand island, griddled rye bread",
+    "price": "$15",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "SUB PLATTERS WITH CHIPS & DIP",
+    "description": "TURKEY, LAKE, UNION, ITALIANO",
+    "price": "$29.99",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "DAILY FOOD BARS: BUILD YOUR OWN SALAD, GRAIN BOWL AND HOT BAR:",
+    "description": "",
+    "price": "$12.49/LB",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "DAILY SOUPS:",
+    "description": "80Z",
+    "price": "$3.99",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "DAILY SOUPS:",
+    "description": "12OZ",
+    "price": "$5.49",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "DAILY SOUPS:",
+    "description": "160Z",
+    "price": "$6.99",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "MARKET",
+    "description": "spring mix, shredded carrots, black olives, grape tomatoes, radishes, cucumbers, house croutons, white balsamic vinaigrette",
+    "price": "$12.99",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "CAPRESE",
+    "description": "arugula, beefsteak tomatoes, fresh mozzarella, torn basil, balsamic glaze, olive oil",
+    "price": "$14.99",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "FRUIT & NUT",
+    "description": "spring mix, pickled red onions, candied walnuts, diced apples, dried cranberries, feta, strawberry vinaigrette",
+    "price": "$15.99",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "CHOPPED ANTIPASTO",
+    "description": "romaine, banana peppers, marinated artichokes, red onions, grape tomatoes, cucumbers, provolone, capicola, salami, parsley, white balsamic vinaigrette",
+    "price": "$16.99",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "BIANCO",
+    "description": "mushrooms, fresh mozzarella, basil, roasted onion, garlic, pecorino",
+    "price": "$6/slice",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "BIANCO",
+    "description": "mushrooms, fresh mozzarella, basil, roasted onion, garlic, pecorino",
+    "price": "$32/full",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "MEAT LOVERS",
+    "description": "tomato sauce, mozzarella, pepperoni, sweet sausage, soppersatta, basil, pecorino",
+    "price": "$6/slice",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "MEAT LOVERS",
+    "description": "tomato sauce, mozzarella, pepperoni, sweet sausage, soppersatta, basil, pecorino",
+    "price": "$32/full",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "MARGHERITA",
+    "description": "tomato sauce, tomato, fresh mozzarella, basil, pecorino",
+    "price": "$5/slice",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "MARGHERITA",
+    "description": "tomato sauce, tomato, fresh mozzarella, basil, pecorino",
+    "price": "$28/full",
+    "menu_type": "Deli",
+    "restaurant_name": "Franklin Square Market",
+    "restaurant_url": "http://www.franklinsqmarket.com/",
+    "menu_name": "Deli Menu"
+  },
+  {
+    "name": "Ballpark franks",
+    "description": "(2) all beef hotdog, mustard, ketchup, onion, bun",
+    "price": "$6",
+    "menu_type": "HAPPY HOUR MENU [3-5pm]",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "HAPPY HOUR MENU [3-5pm]"
+  },
+  {
+    "name": "FISH TACOS",
+    "description": "baja seasoned white fish, spicy slaw, pickled onion, chipotle aioli, lime",
+    "price": "$6",
+    "menu_type": "HAPPY HOUR MENU [3-5pm]",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "HAPPY HOUR MENU [3-5pm]"
+  },
+  {
+    "name": "pretzel nuggets",
+    "description": "salted pretzels bites, beer cheese",
+    "price": "$6",
+    "menu_type": "HAPPY HOUR MENU [3-5pm]",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "HAPPY HOUR MENU [3-5pm]"
+  },
+  {
+    "name": "sangria",
+    "description": "red, white, sweater weather",
+    "price": "$6",
+    "menu_type": "HAPPY HOUR MENU [3-5pm]",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "HAPPY HOUR MENU [3-5pm]"
+  },
+  {
+    "name": "draft beer",
+    "description": "",
+    "price": "$6",
+    "menu_type": "HAPPY HOUR MENU [3-5pm]",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "HAPPY HOUR MENU [3-5pm]"
+  },
+  {
+    "name": "draft wine",
+    "description": "",
+    "price": "$6",
+    "menu_type": "HAPPY HOUR MENU [3-5pm]",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "HAPPY HOUR MENU [3-5pm]"
+  },
+  {
+    "name": "Half shell oysters",
+    "description": "burnt pineapple mignonette, peppery cocktail, lemon",
+    "price": "$18 / half dozen $34 / dozen",
+    "menu_type": "LIGHT BAR MENU [3-9pm]",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "LIGHT BAR MENU [3-9pm]"
+  },
+  {
+    "name": "broiled oysters",
+    "description": "pancetta chili garlic butter, parsley pisto, pecorino (gf)",
+    "price": "$21",
+    "menu_type": "LIGHT BAR MENU [3-9pm]",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "LIGHT BAR MENU [3-9pm]"
+  },
+  {
+    "name": "margherita pinsa pizze",
+    "description": "san marzano tomato, fresh mozzarella, basil",
+    "price": "$15",
+    "menu_type": "LIGHT BAR MENU [3-9pm]",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "LIGHT BAR MENU [3-9pm]"
+  },
+  {
+    "name": "bianco pinsa pizze",
+    "description": "local mushroom misti, fresh mozzarella, basil, thyme, cippolini onion",
+    "price": "$18",
+    "menu_type": "LIGHT BAR MENU [3-9pm]",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "LIGHT BAR MENU [3-9pm]"
+  },
+  {
+    "name": "black olive frites",
+    "description": "stone milled, kalamata olive polenta fries, roasted garlic aioli, pecorino",
+    "price": "$12",
+    "menu_type": "LIGHT BAR MENU [3-9pm]",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "LIGHT BAR MENU [3-9pm]"
+  },
+  {
+    "name": "PRESSED CHEESEburger",
+    "description": "double beef patties, american cheese, skillet onions, thick cut bacon, special sauce, everything spice bun, pickle, rosemary parmesan fries",
+    "price": "$24",
+    "menu_type": "LIGHT BAR MENU [3-9pm]",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "LIGHT BAR MENU [3-9pm]"
+  },
+  {
+    "name": "poached shrimp",
+    "description": "(5) white shrimp, peppery cocktail, chili remoulade, lemon (gf)",
+    "price": "$21",
+    "menu_type": "LIGHT BAR MENU [3-9pm]",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "LIGHT BAR MENU [3-9pm]"
+  },
+  {
+    "name": "arthur ave. sausage sliders",
+    "description": "(3) basil, provolone and garlic spiked Greco Brother's sweet Italian sausage, asiago, caramelized peppers and onion, rosemary sea salt focaccia roll, parmesan fries, garlic aioli",
+    "price": "$16",
+    "menu_type": "LIGHT BAR MENU [3-9pm]",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "LIGHT BAR MENU [3-9pm]"
+  },
+  {
+    "name": "cheesteak eggrolls",
+    "description": "(2) house-shaved seared steak, cheese, bell pepper, onion, horseradish ranch",
+    "price": "$12",
+    "menu_type": "LIGHT BAR MENU [3-9pm]",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "LIGHT BAR MENU [3-9pm]"
+  },
+  {
+    "name": "market focaccia",
+    "description": "house baked, garlic, rosemary, sea salt, whipped ricotta, olive tapenada, olive oil",
+    "price": "$10",
+    "menu_type": "smalls",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "smalls"
+  },
+  {
+    "name": "Yellowtail Tuna Tartare",
+    "description": "furikake basmati rice, avocado pico de gallo, sriracha ponzu aioli, black garlic caramel, crispy egg roll skin crackers, puff rice",
+    "price": "$32",
+    "menu_type": "smalls",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "smalls"
+  },
+  {
+    "name": "crab gnudi",
+    "description": "ricotta dumplings, blue crab, lemon mascarpone crema, chives, pangrattato",
+    "price": "$25",
+    "menu_type": "smalls",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "smalls"
+  },
+  {
+    "name": "SPINACH BUTTERNUT ROTOLO",
+    "description": "semolina pasta tubes, mascarpone ricotta filling, tomato basil passata, taleggio fundido, toasted walnuts",
+    "price": "$24",
+    "menu_type": "smalls",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "smalls"
+  },
+  {
+    "name": "DUCK SPAEtZLE POUTINE",
+    "description": "thigh and leg confit, black wax cheddar, carrot thyme gravy, spaetzle herb dumplings",
+    "price": "$26",
+    "menu_type": "smalls",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "smalls"
+  },
+  {
+    "name": "SHORT RIB PIEROGIE",
+    "description": "pulled beef rib, cheddar potato, caramelized onions, horseradish garlic aioli, green onion",
+    "price": "$21",
+    "menu_type": "smalls",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "smalls"
+  },
+  {
+    "name": "Pretzel Crusted Crab Cake",
+    "description": "blue crab, chive, herb salad, dijonnaise sauce, tomato concentrato",
+    "price": "$21",
+    "menu_type": "smalls",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "smalls"
+  },
+  {
+    "name": "MUSHROOM TOASTS",
+    "description": "collar city mushrooms farm’s roasted blend, rosemary butter, grilled rustic bread, duroc apple smoked bacon, pan jus, ricotta salata",
+    "price": "$28",
+    "menu_type": "shares",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "shares"
+  },
+  {
+    "name": "Ahi Tuna Nachos",
+    "description": "wonton chips, tuna, pico de gallo, jalapeno, avocado, pickled onion, sriracha aioli, sweet soy",
+    "price": "$36",
+    "menu_type": "shares",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "shares"
+  },
+  {
+    "name": "Mediterranean Skillet",
+    "description": "grilled spanish octopus, rhode island calamari, calabrian chilis, caper herb wine garlic butter, charred toasts (gf)",
+    "price": "$26",
+    "menu_type": "shares",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "shares"
+  },
+  {
+    "name": "SORRISO PINSA POCKET",
+    "description": "chicken and spinach, meatballs, madeira pan jus, asiago, arugula, shaved onion",
+    "price": "$27",
+    "menu_type": "shares",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "shares"
+  },
+  {
+    "name": "FRIED BRUSSELS SPROUTS",
+    "description": "truffle tamari ungai, togarashi",
+    "price": "$17",
+    "menu_type": "shares",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "shares"
+  },
+  {
+    "name": "Beets and Goat Cheese",
+    "description": "sea salt roasted golden and ruby beets, mixed lettuces, agrodolce onions, spiced pistachios, whipped goat cheese (v, gf)",
+    "price": "$20",
+    "menu_type": "salads",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "salads"
+  },
+  {
+    "name": "SPINACH PORK BELLY",
+    "description": "young spinach, gorgonzola, roasted apple, charred onion, warm seared pork belly aged sherry cider vinaigrette (gf)",
+    "price": "$17",
+    "menu_type": "salads",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "salads"
+  },
+  {
+    "name": "FSM Caesar",
+    "description": "romaine, endive, parmigiano reggiano, olive oil, grilled torn focaccia, creamy dressing, egg yolk zest (v)",
+    "price": "$17",
+    "menu_type": "salads",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "salads"
+  },
+  {
+    "name": "half shell oysters",
+    "description": "pickled onion mignonette, peppery cocktail, lemon (gf)  (gf)",
+    "price": "$18 / half dozen $36 / dozen",
+    "menu_type": "seafood + raw",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "seafood + raw"
+  },
+  {
+    "name": "broiled oysters",
+    "description": "pancetta chili garlic butter, parsley pisto, pecorino (gf)",
+    "price": "$21",
+    "menu_type": "seafood + raw",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "seafood + raw"
+  },
+  {
+    "name": "poached shrimp",
+    "description": "5 white shrimp, peppery cocktail, chili remoulade, lemon (gf)",
+    "price": "$24",
+    "menu_type": "seafood + raw",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "seafood + raw"
+  },
+  {
+    "name": "crab cocktail",
+    "description": "blue lump, peppery cocktail sauce, dijonnaise, lemon (gf)",
+    "price": "$34",
+    "menu_type": "seafood + raw",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "seafood + raw"
+  },
+  {
+    "name": "the seafood tub",
+    "description": "12 oysters, 6 poached shrimp, half lb blue crab, peppery cocktail, chili remoulade (gf)",
+    "price": "$91",
+    "menu_type": "seafood + raw",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "seafood + raw"
+  },
+  {
+    "name": "PRESSED CHEESEburger",
+    "description": "double beef patties, american cheese, skillet onions, thick cut bacon, special sauce, everything spice bun, pickle, rosemary parmesan fries",
+    "price": "$24",
+    "menu_type": "mains",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "mains"
+  },
+  {
+    "name": "FAROE ISLAND SALMON",
+    "description": "pan seared, sweet and golden potato, fennel, green onion rosti, charred artichoke spinach beurre blanc  (gf)",
+    "price": "$36",
+    "menu_type": "mains",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "mains"
+  },
+  {
+    "name": "STEAK FRITES | NY STRIP (10oz) OR TENDERLOIN (6oz)",
+    "description": "green peppercorn cognac jus, rosemary parmesan fries, garlic aioli",
+    "price": "$42 / $52",
+    "menu_type": "mains",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "mains"
+  },
+  {
+    "name": "DRY AGED RIBEYE PORK CHOP",
+    "description": "cider brined, roasted apple pear marmalade, thyme jus, apple molasses, cheddar chive bacon croquettes, caramelized onion brussels (gf)",
+    "price": "$39",
+    "menu_type": "mains",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "mains"
+  },
+  {
+    "name": "icelandic cod or chicken francaise",
+    "description": "egg parmesan battered, spaghetti, lemon wine broth, parsley crumbs",
+    "price": "$35",
+    "menu_type": "mains",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "mains"
+  },
+  {
+    "name": "WHITE PRAWN SCAMPI",
+    "description": "olive oil confit tomato, garlic, parsley wine butter, lemon basil orzo",
+    "price": "$42",
+    "menu_type": "mains",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "mains"
+  },
+  {
+    "name": "BEEF SHORT RIBS",
+    "description": "slow cooked, onion balsamic pan sauce, garlic whipped potatoes, blossom honey glazed carrots (gf)",
+    "price": "$40",
+    "menu_type": "mains",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "mains"
+  },
+  {
+    "name": "TOMATO COCONUT CURRY TOFU",
+    "description": "marinated, grilled, zucchini, potato, crispy green ceci, mint cilantro, lime (v, gf, vg)",
+    "price": "$28",
+    "menu_type": "mains",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "mains"
+  },
+  {
+    "name": "peanut butter gelato bomba",
+    "description": "peanut butter gelato filled with caramel, creamy chocolate peanut crunch, caramel sauce, chocolate cake crumbs",
+    "price": "$17",
+    "menu_type": "desserts",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "desserts"
+  },
+  {
+    "name": "12-LAYER CHOCOLATE DECADANCE",
+    "description": "12 layers of rich chocolate cake and decadent chocolate ganache, served with strawberry sauce and fresh berries",
+    "price": "$16",
+    "menu_type": "desserts",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "desserts"
+  },
+  {
+    "name": "RASPBERRY TOFFEE CAKE",
+    "description": "warm sticky toffee pudding, raspberry sauce, vanilla ice cream,",
+    "price": "$12",
+    "menu_type": "desserts",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "desserts"
+  },
+  {
+    "name": "STRAWBERRY SHORTCAKE",
+    "description": "sweet biscuit, macerated strawberries, fresh whipped cream",
+    "price": "$12",
+    "menu_type": "desserts",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "desserts"
+  },
+  {
+    "name": "LEMON- BLUEBERRY POSSET",
+    "description": "lemon posset, blueberry compote, fresh whipped cream",
+    "price": "$9",
+    "menu_type": "desserts",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "desserts"
+  },
+  {
+    "name": "FACTS & FIGURES",
+    "description": "vodka, fig liqueur, cherry, lime, cinnamon",
+    "price": "$14",
+    "menu_type": "COCKTAILS",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "ROSEMARY COSMO",
+    "description": "vodka, pomegranate, vanilla, lime, rosemary",
+    "price": "$14",
+    "menu_type": "COCKTAILS",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "PUMPKIN FOAM ESPRESSO MARTINI",
+    "description": "vodka, cold brew, demerara, pumpkin cold foam",
+    "price": "$18",
+    "menu_type": "COCKTAILS",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "MEDICINE MAN",
+    "description": "gin, saffron, triple sec, simple, lemon",
+    "price": "$18",
+    "menu_type": "COCKTAILS",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "CINNAMON MULE",
+    "description": "bourbon, apple cider, lemon, cinnamon, ginger beer",
+    "price": "$18",
+    "menu_type": "COCKTAILS",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "AUTUMN SPRITZ",
+    "description": "rum, caramel apple butter, cinnamon, ginger beer",
+    "price": "$16",
+    "menu_type": "COCKTAILS",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "BRAMBLE BLAST",
+    "description": "bourbon, blackberry, lemon, ginger, cardamom bitters",
+    "price": "$16",
+    "menu_type": "COCKTAILS",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "EQUINOX MARGARITA",
+    "description": "tequila, spiced pear, apple cider, cinnamon, lemon",
+    "price": "$14",
+    "menu_type": "COCKTAILS",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "SWEET & SPICY",
+    "description": "blood orange, ginger beer, orange",
+    "price": "$8",
+    "menu_type": "MOCKTAILS",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "MOCKTAILS"
+  },
+  {
+    "name": "CARAMEL APPLE SPRITZ",
+    "description": "monin caramel apple syrup, club soda, lime",
+    "price": "$8",
+    "menu_type": "MOCKTAILS",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "MOCKTAILS"
+  },
+  {
+    "name": "ROSEMARY SOUR",
+    "description": "seedlip garden grove n/a spirit, cinnamon syrup, lemon",
+    "price": "$14",
+    "menu_type": "MOCKTAILS",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "MOCKTAILS"
+  },
+  {
+    "name": "ROOTS & TONIC",
+    "description": "roots divino n/a aperitif, tonic, orange",
+    "price": "$10",
+    "menu_type": "MOCKTAILS",
+    "restaurant_name": "Market Bar & Restaurant",
+    "restaurant_url": "https://www.marketbarandrestaurant.com/",
+    "menu_name": "MOCKTAILS"
+  }
+]
