@@ -1,0 +1,839 @@
+[
+  {
+    "name": "Industrial Arts Wrench",
+    "description": "Garnerville, NY • 6.8% • 16oz can",
+    "price": "$9",
+    "menu_type": "IPA",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "BBCO Uncanny Valley",
+    "description": "Burlington, VT • 7% • 16oz can",
+    "price": "$10",
+    "menu_type": "IPA",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Grimm Lumen",
+    "description": "Brooklyn, NY • 6.4% • 16oz can",
+    "price": "$12",
+    "menu_type": "IPA",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Drekker Never Have I Ever DBL IPA",
+    "description": "Fargo, ND • 8% • 16oz can",
+    "price": "$12",
+    "menu_type": "IPA",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Equilibrium Wavelength",
+    "description": "Middletown, NY • 6.5% • 16oz can",
+    "price": "$10",
+    "menu_type": "IPA",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "KCBC Hardcore Parkour",
+    "description": "Brooklyn, NY • 7.2% • 16oz can",
+    "price": "$10",
+    "menu_type": "IPA",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Other Half Southern Hopalistic",
+    "description": "Brooklyn, NY • 7.4% • 16oz can",
+    "price": "$12",
+    "menu_type": "IPA",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Other Half Small Strata Everything",
+    "description": "Brooklyn, NY • 6.5% • 16oz can",
+    "price": "$12",
+    "menu_type": "IPA",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Other Half Cheddar Broccoli",
+    "description": "Brooklyn, NY • 7.9% • 16oz can",
+    "price": "$12",
+    "menu_type": "IPA",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Other Half Green Diamonds DIPA",
+    "description": "Brooklyn, NY • 9.1% • 16oz can",
+    "price": "$12",
+    "menu_type": "IPA",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Nightshift Fluffy",
+    "description": "Everett, MA • 7% • 16oz can",
+    "price": "$9",
+    "menu_type": "IPA",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Marlowe Asking Kindly",
+    "description": "North Haven, CT • 7% • 16oz can",
+    "price": "$11",
+    "menu_type": "IPA",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Abomination Rotting Earth DBL IPA",
+    "description": "East Stroudsburg, PA • 9.3% • 16oz can",
+    "price": "$12",
+    "menu_type": "IPA",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Narragansett Lager",
+    "description": "Narragansett, RI • 5% • 16oz can",
+    "price": "$5",
+    "menu_type": "Lager",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Common Roots Lager",
+    "description": "South Glens Falls, NY • 5.2% • 16oz can",
+    "price": "$8",
+    "menu_type": "Lager",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Schilling Alexandr Czech Pilsner",
+    "description": "Littleton, NH • 5% • 16oz can",
+    "price": "$8",
+    "menu_type": "Lager",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Schilling Landbier Lager",
+    "description": "Littleton, NH • 4.2% • 16oz can",
+    "price": "$8",
+    "menu_type": "Lager",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Schilling Modernism Dark Lager",
+    "description": "Littleton, NH • 4.6% • 16oz can",
+    "price": "$8",
+    "menu_type": "Lager",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Schilling Paulus Helles Lager",
+    "description": "Littleton, NH • 4.7% • 16oz can",
+    "price": "$8",
+    "menu_type": "Lager",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "14th Star Brewing Valor Ale",
+    "description": "Saint Albans, VT • 5.4% • 16oz can",
+    "price": "$9",
+    "menu_type": "Lager",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Jacks Abby Post Shift Pilsner",
+    "description": "Framingham, MA • 4.7% • 16oz can",
+    "price": "$6",
+    "menu_type": "Lager",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Thin Man Minkey Boodle Sour Ale",
+    "description": "Buffalo, NY • 7% • 16oz can",
+    "price": "$9",
+    "menu_type": "Sour",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "KCBC Beach Zombie",
+    "description": "Brooklyn, NY • 3.7% • 16oz can",
+    "price": "$12",
+    "menu_type": "Sour",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Toppling Goliath Pineapple Papaya Fandango",
+    "description": "Decorah, IA • 5.1% • 16oz can",
+    "price": "$12",
+    "menu_type": "Sour",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Aslin Volcano Sauce",
+    "description": "Herndon, VA • 6% • 16oz can",
+    "price": "$11",
+    "menu_type": "Sour",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Woodstock Brewing Raspberry Gose",
+    "description": "Phoenicia, NY • 4.3% • 16oz can",
+    "price": "$9",
+    "menu_type": "Sour",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Other Half Super Fun",
+    "description": "Brooklyn, NY • 4.2% • 16oz can",
+    "price": "$10",
+    "menu_type": "Pale",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Schilling Whilom",
+    "description": "Littleton, NH • 5.2% • 16oz can",
+    "price": "$11",
+    "menu_type": "Pale",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Northway Oatbituary Stout",
+    "description": "Queensbury, NY • 5% • 16oz can",
+    "price": "$9",
+    "menu_type": "Stout / Porter",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Fiddlehead Hodad Porter",
+    "description": "Shelburne, VT • 15.5% • 16oz",
+    "price": "$10",
+    "menu_type": "Stout / Porter",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Bolton Landing English Porter",
+    "description": "Brooklyn, NY • 5.6% • 16oz can",
+    "price": "$8",
+    "menu_type": "Stout / Porter",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Nine Pin Signature Cider",
+    "description": "Albany, NY • 6.7% • 12oz can",
+    "price": "$7",
+    "menu_type": "Gluten Free",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Nine Pin Adirondack Sangria Cider",
+    "description": "Albany, NY • 5.5% • 12oz can",
+    "price": "$9",
+    "menu_type": "Gluten Free",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Northway Brewing Crimson Berry Hard Tea",
+    "description": "Queensbury, NY • 5.6% • 12oz can",
+    "price": "$8",
+    "menu_type": "Gluten Free",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Stowe Cider Summer Shandy",
+    "description": "Stowe, VT • 5.5% • 12oz can",
+    "price": "$9",
+    "menu_type": "Gluten Free",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Allagash White",
+    "description": "Portland, ME • 5.2% • 16oz can",
+    "price": "$8",
+    "menu_type": "Wheat",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Schneider Weisse",
+    "description": "Bavaria, Germany • 5.4% • 16.9oz btl",
+    "price": "$10",
+    "menu_type": "Wheat",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Jack’s Abby Blood Orange Wheat",
+    "description": "Framingham, MA • 4% • 16oz can",
+    "price": "$8",
+    "menu_type": "Wheat",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "We’re more than just beer",
+    "description": ". Finely crafted cocktails, an extensive whiskey list, and a hand-picked wine selection.",
+    "price": "",
+    "menu_type": "Wheat",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Ironweed",
+    "description": "Albany, NY / 15Buffalo TraceFrankfort, KY / 10Kopper KettleCulpepper, VA / 11Slaughter HouseNapa Valley, CA / 12BreckinridgeBreckinridge, CO / 13High West American PrairiePark City, UT / 13Basil HaydenClermont, KY / 13Four Roses Small BatchLawrenceburg, KY / 14Bardstown BourbonBardstown, KY / 15Mitchers BourbonLouisville, KY",
+    "price": "$16",
+    "menu_type": "Bourbon American Whiskey",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Cask & Crew Rye",
+    "description": "Rochester, NY / 8Sazerac RyeFrankfort, KY / 9Knob Creek RyeClermont, KY / 11High West Double RyePark City, UT / 13Ironweed RyeAlbany, NY / 15Widow Jane RyeRed Hook, NY / 15Corsair RyemageddonNashville, TN / 14Mitchers RyeLouisville, KY / 23High West Midwinter Night’s DramPark City, UT / 25High West Rendezvous RyePark City, UT",
+    "price": "$25",
+    "menu_type": "Rye",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Pendleton Canadian Whiskey",
+    "description": "Canada / 10BlackenedShoreham, VT / 11Dewars 15 Special ReserveScotland / 14Johnnie Walker BlackScotland / 14Charbay Double TwistedMendocino, CA / 13Suntory TokiJapan / 14Nikka Coffey Grain WhiskeyJapan",
+    "price": "$25",
+    "menu_type": "Blended Whiskey",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Glen Allachie 12",
+    "description": "Speyside / 14Aberlour 12Speyside / 15Ardbeg 10Islay / 15Macallan 12Speyside / 14Laphroaig 10Islay / 18Lagavulin 8Islay / 21Suntory YamazakiJapan /29Dalmore 15Alness / 38Balvenie Sherry Cask 15Speyside",
+    "price": "$43",
+    "menu_type": "Single Malt",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "The All-American",
+    "description": "Four Roses, High West American Prairie, Slaughterhouse",
+    "price": "$20",
+    "menu_type": "WHISKEY FLIGHTS",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Odds & High Ends",
+    "description": "Nikka Coffey, Blackened, Ardbeg",
+    "price": "$29",
+    "menu_type": "WHISKEY FLIGHTS",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "La Marca Prosecco",
+    "description": "Italy / 11 spltLa Vielle Ferme RoseFrance / 10,38 btl",
+    "price": "",
+    "menu_type": "Sparkling & Rose",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "2019 • Lunardi Pinot Grigio",
+    "description": "Italy / 9, 32 btl2019 • Oyster Bay ChardonnayNew Zealand / 11, 44 btl2018 • Tenuta Montagnani VernacciaItaly / 10, 38 btl2020 • Marlborough Vines Sauvignon BlancNew Zealand / 9, 32 btl",
+    "price": "",
+    "menu_type": "White Wine",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "2019 • Excelsior Cabernet",
+    "description": "South Africa / 10, 38 btl2018 • Firesteed Pinot NoirOregon / 10, 38 btl2020 • Seeker MalbecArgentina / 10, 38 btl2018 • 1000 Stories Barrel Aged Red BlendCalifornia / 11, 44 btl2016 • Pessimist BlendCalifornia / 58 btl",
+    "price": "",
+    "menu_type": "Red Wine",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "SANTA’S BOOTS",
+    "description": "hendricks gin, raspberry simple syrup, cucumber simple syrup, lime juice, egg white",
+    "price": "$15",
+    "menu_type": "Cocktails",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "BONFIRE MARGARITA",
+    "description": "union mezcal, ancho chili reyes, lime juice, apricot pepper puree, tajin tim",
+    "price": "$16",
+    "menu_type": "Cocktails",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "WALK THE PLANK",
+    "description": "white rum, sailor jerry spiced rum, lime juice, tiki bitters, simple syrup, grenadine",
+    "price": "$14",
+    "menu_type": "Cocktails",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "THE POOKIE",
+    "description": "lalo tequila, jalapeno simple syrup, grapefruit juice, lime juice",
+    "price": "$15",
+    "menu_type": "Cocktails",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "PHILOSOPHER’S SPRITZ",
+    "description": "italicus amaro, aperol, prosecco, club soda, rosemary",
+    "price": "$14",
+    "menu_type": "Cocktails",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "BLOOD MOON MARTINI",
+    "description": "vanilla vodka, triple sec, blood orange juice",
+    "price": "$14",
+    "menu_type": "Cocktails",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "B-A-N-A-N-A-S",
+    "description": "bulleit bourbon, combier banana liqueur, maple syrup, cinnamon simple syrup",
+    "price": "$15",
+    "menu_type": "Cocktails",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "TAPROOM MANHATTAN",
+    "description": "journeyman rye, carpano, rhubarb bitters",
+    "price": "$15",
+    "menu_type": "Cocktails",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "WHITE CHRISTMAS",
+    "description": "vespertino tequila cream, white hot chocolate, star anise",
+    "price": "$14",
+    "menu_type": "Cocktails",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "HENRY STREET TAPROOM",
+    "description": "86 Henry StreetSaratoga Springs, NY 12866",
+    "price": "",
+    "menu_type": "Cocktails",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "HOURSMonday",
+    "description": "ClosedTuesday4pm-10pmWednesday4pm-10pmThursday4pm-10pmFriday4pm-10pmSaturday12pm-10pmSunday12pm-9pm",
+    "price": "",
+    "menu_type": "Cocktails",
+    "menu_name": "Drink Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "SPANISH STUFFED PEPPER",
+    "description": "Spanish rice, cheddar, jalapenos, black beans, salsa roja",
+    "price": "$16",
+    "menu_type": "Snacks",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "TAPROOM WINGS",
+    "description": "Lemon – Pepper dry rub, buffalo garlic parm, apple bbq, honey chipotle | Small: $10 | Large: $18",
+    "price": "$10/$18",
+    "menu_type": "Snacks",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "CAESAR SALAD",
+    "description": "house croutons, housemade dressing, shaved parmigiano | Add grilled chicken: $5 | Add salmon: $12",
+    "price": "$16",
+    "menu_type": "Snacks",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "SCOTCH EGG",
+    "description": "Breakfast sausage, white gravy, maple syrup",
+    "price": "$13",
+    "menu_type": "Snacks",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "CRISPY BRUSSEL SPROUTS",
+    "description": "Crispy brussel sprouts, fresh garlic, grated parmesan, crispy prosciutto, fig glaze",
+    "price": "$17",
+    "menu_type": "Snacks",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "BEET SALAD",
+    "description": "Roasted red beets, gala apples, goat cheese, pistachios,onions, sweet mustard vinaigrette",
+    "price": "$19",
+    "menu_type": "Snacks",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "BORIS’ HOG WINGS",
+    "description": "Four mini pork shanks, apple cider bbq sauce, cheese grits, scallions",
+    "price": "$19",
+    "menu_type": "Snacks",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "OG FRIED CHICKEN SANDWICH",
+    "description": "shredded lettuce, house dill pickle, mayonnaise, brioche, fries",
+    "price": "$19",
+    "menu_type": "Plates",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "GRILLED CHICKEN SANDWICH",
+    "description": "Gochujang aioli, kimchi, pickled red onion, lettuce, crispy pork belly",
+    "price": "$22",
+    "menu_type": "Plates",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "TAPROOM BURGER",
+    "description": "smash burger patties, special sauce, lettuce, american cheese, chopped onion, brioche, fries | Add egg: $2 | Add bacon: $4",
+    "price": "$21",
+    "menu_type": "Plates",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "FISH & CHIPS",
+    "description": "tempura battered haddock, celery & cabbage slaw, fries",
+    "price": "$25",
+    "menu_type": "Plates",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "SEARED SALMON",
+    "description": "Pecan crusted faroe island salmon, sauteed broccolini,butternut squash puree, cajun honey",
+    "price": "$29",
+    "menu_type": "Plates",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "PORK CHOP",
+    "description": "14 oz seared pork chop, creamy sauerkraut sauce, pickled red cabbage, crispy potatoes",
+    "price": "$32",
+    "menu_type": "Plates",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "STEAK AND FRIES",
+    "description": "10 oz flat iron steak, mushroom cream sauce, blue cheese crumbles",
+    "price": "$38",
+    "menu_type": "Plates",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Griller",
+    "description": "Grilleron our pullman loaf white bread",
+    "price": "",
+    "menu_type": "Chalkboard",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Pizza",
+    "description": "Pizzahouse sourdough crust",
+    "price": "",
+    "menu_type": "Chalkboard",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Tacos",
+    "description": "Tacoscorn tortillas",
+    "price": "",
+    "menu_type": "Chalkboard",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Farm Toast",
+    "description": "Farm Toaston our famous sourdough",
+    "price": "",
+    "menu_type": "Chalkboard",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Market Salad",
+    "description": "Market Saladfarmers market vegetables",
+    "price": "",
+    "menu_type": "Chalkboard",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Oysters",
+    "description": "house cocktail and mignonette | Small: $16 | Large: $28",
+    "price": "$16/$28",
+    "menu_type": "Chalkboard",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "APPLE CAKE",
+    "description": "Cinnamon sugar icing",
+    "price": "$12",
+    "menu_type": "Desserts",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "GELATO",
+    "description": "Chocolate Ganache",
+    "price": "$10",
+    "menu_type": "Desserts",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "house-baked sour dough",
+    "description": "All cheese is served with,fresh fruitandhouse-made chutney",
+    "price": "",
+    "menu_type": "Desserts",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Mitica Leonora A Fuego • Castilla Y Leon, Spain • Goat",
+    "description": "This chevre style cheese is crafted by coating the rind with a layer of smoky Spanish pimenton before aging it. This gives a bright red hue, diverse texture and infuses the cheese with a hint of pepper.Our favorite pairing: Gose",
+    "price": "$10",
+    "menu_type": "Cheese",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Appenzeller • Appenzell, Switzerland • Cow",
+    "description": "Swiss cheesemakers wash each wheel with a secret herbal brine infused with wine, cider and a mixture of herbs, blossoms, creating a complex flavor that will make your taste buds dance.Our favorite pairing: Amber",
+    "price": "$11",
+    "menu_type": "Cheese",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Stockinghall Cheddar • Old Chatham, NY • Cow",
+    "description": "An award winning cheddar, this caveaged hard cheese embodies meaty bacon and sour cream flavors creating a robust flavor profile with a lingering pineapple scent.Our favorite pairing: Belgian",
+    "price": "$12",
+    "menu_type": "Cheese",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Brie Fermier • Northern France • Cow",
+    "description": "From the Parisian region of France, this cow’s milk Brie has a soft creaminess that is begging to be spread over our fresh sourdough toast. This farmhouse cheese offers notes of mushroom and salted butter.Our Favorite Pairing: Saison",
+    "price": "$9",
+    "menu_type": "Cheese",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Casatica Di Bufala • Northern Italy • Buffalo",
+    "description": "Barely restrained by its bloomy rind, this soft-ripened cheese is unbelievably rich and creamy, with a plump, custardy texture. There is a sweetness that delicately melts across the palate.Our favorite pairing: Pilsner",
+    "price": "$10",
+    "menu_type": "Cheese",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Herve Mons 1924 Bleu • Auverne, France • Cow-Sheep",
+    "description": "Harking back to the mixed milk flavors of 192O’s era Roquefort, this dense blue cheese has some light minerality with flavors of soft bacon and cracked black pepper.Our favorite pairing: Stout",
+    "price": "$11",
+    "menu_type": "Cheese",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Piancone Prosciutto Di Parma • Italy",
+    "description": "This beautiful meat is a labor of love for the craftsman: aged for over a year and seasoned only with salt, time, and sweet loving",
+    "price": "$11",
+    "menu_type": "Charcuterie",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Finocchiona Salami • Italy",
+    "description": "the rich aroma of fennel seeds sets this Tuscan salami apart; generously sprinkled into the meat before curing, they lend bright herbaceous notes to the creamy fat and minerally pork",
+    "price": "$11",
+    "menu_type": "Charcuterie",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "Tasso Coppa • Brooklyn, NY",
+    "description": "Combining an Italian style coppa and a Cajun style smoked ham, this gem is loaded with a variety of dried peppers and spices to create a truly addicting flavor.",
+    "price": "$10",
+    "menu_type": "Charcuterie",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "HENRY STREET TAPROOM",
+    "description": "86 Henry StreetSaratoga Springs, NY 12866",
+    "price": "",
+    "menu_type": "Large Flight",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  },
+  {
+    "name": "HOURSMonday",
+    "description": "HOURSMondayClosedTuesday4pm-10pmWednesday4pm-10pmThursday4pm-10pmFriday4pm-10pmSaturday12pm-10pmSunday12pm-9pm",
+    "price": "",
+    "menu_type": "Large Flight",
+    "menu_name": "Food Menu",
+    "restaurant_name": "Henry Street Taproom",
+    "restaurant_url": "https://www.henrystreettaproom.com/"
+  }
+]

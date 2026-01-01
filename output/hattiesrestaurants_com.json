@@ -1,0 +1,2540 @@
+[
+  {
+    "name": "DEVILED EGGS",
+    "description": "",
+    "price": "$8",
+    "menu_type": "Snacks",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BEIGNETS",
+    "description": "French market doughnut generously dusted with powdered sugar\nAdd chocolate syrup drizzle or fresh berries • 2",
+    "price": "$6",
+    "menu_type": "Snacks",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BASKET OF FRESH BISCUITS & CORN BREAD",
+    "description": "Dickinson's jam, honey butter\nMade fresh daily",
+    "price": "$12",
+    "menu_type": "Snacks",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PIMENTO CHEESE",
+    "description": "Cabot extra sharp cheddar cheese, grated\nonion, roasted pimento, toast points",
+    "price": "$10",
+    "menu_type": "Snacks",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FRESH SEASONAL FRUIT",
+    "description": "Served with honey yogurt",
+    "price": "$10",
+    "menu_type": "Light Fare",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "ICEBERG WEDGE",
+    "description": "Crunchy iceberg wedge, tomatoes, bacon, bleu cheese",
+    "price": "$16",
+    "menu_type": "Light Fare",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SOUTHERN COBB SALAD",
+    "description": "Mixed greens, sliced fried boneless chicken\nthigh, green tomatoes, candied bacon,\navocado, deviled egg, buttermilk pecan\nbleu cheese",
+    "price": "$22",
+    "menu_type": "Light Fare",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S SCRAMBLE",
+    "description": "See our Specials Menu for today's creations!\nMeat or vegetarian option available",
+    "price": "$16",
+    "menu_type": "From the Skillet",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BACK PORCH BREAKFAST",
+    "description": "Two eggs any style, home fries, Texas toast\nAdd sausage 5 | Add bacon 6 | Add ham. 6",
+    "price": "$13",
+    "menu_type": "From the Skillet",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SOUTHERN BENEDICT",
+    "description": "Poached eggs, hickory smoked ham\nserved on a Hattie's biscuit, hollandaise\nHome fries, fresh fruit",
+    "price": "$20",
+    "menu_type": "From the Skillet",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SMOKED HAM & POTATO PAN ROAST",
+    "description": "Roasted vegetables, Southern applewood\nsmoked ham, sweet potatoes, chef potatoes,\nfresh herbs",
+    "price": "$18",
+    "menu_type": "From the Skillet",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CAJUN OMELET",
+    "description": "Three egg omelet, andouille sausage,\ncaramelized onions, Cabot extra sharp\ncheddar cheese\nHome fries, Texas toast",
+    "price": "$18",
+    "menu_type": "From the Skillet",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "GUMBO & EGGS",
+    "description": "Eggs any style, andouille sausage, peppers,\nonions, garlic, celery, rice",
+    "price": "$18",
+    "menu_type": "From the Skillet",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Bottomless Brunch!",
+    "description": "24 (PER PERSON for 90 minutes)\nAvailable until 1 PM\nPITCHERS OF:\nClassic Mimosas or Spiked Southern Peach Iced Tea\n*With the purchase of one brunch entrée",
+    "price": "",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BUTTERMILK PANCAKES",
+    "description": "Single or double stack",
+    "price": "$8/11",
+    "menu_type": "From the Griddle",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BELGIAN WAFFLE",
+    "description": "",
+    "price": "$12",
+    "menu_type": "From the Griddle",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PAIN PERDU",
+    "description": "New Orleans-style French toast, rich custard with a\ntouch of orange",
+    "price": "$16",
+    "menu_type": "From the Griddle",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FRIED CHICKEN & WAFFLES",
+    "description": "Two pieces of Hattie's fried chicken served\non a Belgian waffle",
+    "price": "$24",
+    "menu_type": "House Specialties",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHICKEN FRIED STEAK & EGG",
+    "description": "Chicken fried steak smothered with\nSouthern sausage gravy, served with two\nggs any style, home fries, Texas toast",
+    "price": "$22",
+    "menu_type": "House Specialties",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S CHICKEN SANDWICH",
+    "description": "Crispy chicken, Cajun coleslaw, toasted Kaiser\nroll. Made famous at the Saratoga RaceTrack!\nAdd egg 3 | Add cheese 2 | Add bacon 6",
+    "price": "$20",
+    "menu_type": "House Specialties",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S FAMOUS FRIED CHICKEN",
+    "description": "The same award-winning recipe since 1938!\nFour pieces. Choice of home fries or grits\nNashville Hot • 2",
+    "price": "$24",
+    "menu_type": "House Specialties",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S FAMOUS FRIED CHICKEN",
+    "description": "The same award-winning recipe since 1938!\nFour pieces. Choice of home fries or grits\nNashville Hot • 2",
+    "price": "$29",
+    "menu_type": "House Specialties",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BISCUIT & GRAVY",
+    "description": "Fresh baked biscuits, Southern sausage gravy\nAdd two eggs any style . 6",
+    "price": "$18",
+    "menu_type": "House Specialties",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SAVORY SHRIMP & GRITS",
+    "description": "Wild-caught gulf shrimp, rich piquant Creole\nsauce, creamy grits, chimichurri\nAdd two eggs any style . 6",
+    "price": "$24",
+    "menu_type": "House Specialties",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "EGGS",
+    "description": "",
+    "price": "$3",
+    "menu_type": "A La Carte Sides",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SAUSAGE",
+    "description": "",
+    "price": "$5",
+    "menu_type": "A La Carte Sides",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HOME FRIES",
+    "description": "",
+    "price": "$5",
+    "menu_type": "A La Carte Sides",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BISCUIT",
+    "description": "",
+    "price": "$3",
+    "menu_type": "A La Carte Sides",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BACON",
+    "description": "",
+    "price": "$6",
+    "menu_type": "A La Carte Sides",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SAUSAGE GRAVY",
+    "description": "",
+    "price": "$6",
+    "menu_type": "A La Carte Sides",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "GRITS",
+    "description": "",
+    "price": "$4",
+    "menu_type": "A La Carte Sides",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHEESY GRITS",
+    "description": "",
+    "price": "$6",
+    "menu_type": "A La Carte Sides",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FRESH FRUIT",
+    "description": "",
+    "price": "$5",
+    "menu_type": "A La Carte Sides",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CANDIED BACON",
+    "description": "",
+    "price": "$6.50",
+    "menu_type": "A La Carte Sides",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HICKORY SMOKED HAM",
+    "description": "",
+    "price": "$6",
+    "menu_type": "A La Carte Sides",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "TEXAS TOAST",
+    "description": "",
+    "price": "$2",
+    "menu_type": "A La Carte Sides",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HONEY BUTTER",
+    "description": "",
+    "price": "$2",
+    "menu_type": "A La Carte Sides",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BUCKETS AND BEERS",
+    "description": "Bucket of fried chicken (6 pieces)",
+    "price": "$16",
+    "menu_type": "Weekly Specials",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PBR draft",
+    "description": "",
+    "price": "$3",
+    "menu_type": "Weekly Specials",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PRIME RIB",
+    "description": "Served with mashed potatoes, green beans, biscuit, au jus & horseradish creme",
+    "price": "$47",
+    "menu_type": "Weekly Specials",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "QUEEN CUT",
+    "description": "",
+    "price": "$32",
+    "menu_type": "Weekly Specials",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "KING CUT",
+    "description": "",
+    "price": "",
+    "menu_type": "Weekly Specials",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BANANA PUDDING",
+    "description": "Banana pudding, vanilla wafers, house-made whipped cream",
+    "price": "$10",
+    "menu_type": "Dessert",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHOCOLATE PEANUT BUTTER PIE",
+    "description": "Chocolate ganache & creamy peanut butter on an Oreo cookie crust, house-made whipped cream",
+    "price": "$10",
+    "menu_type": "Dessert",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "KEY LIME PIE",
+    "description": "Key lime custard, graham cracker crust, house-made whipped cream",
+    "price": "$10",
+    "menu_type": "Dessert",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PECAN PIE",
+    "description": "Ms. Hattie's original recipe, house-made whipped cream",
+    "price": "$10",
+    "menu_type": "Dessert",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S MOJITO",
+    "description": "A Hattie's favorite! Light rum, fresh muddled mint, fresh lime, simple syrup, sugar cane",
+    "price": "$15",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "THE PHILA",
+    "description": "Curamia Blanco Tequilla, Sorel Hibiscus Liqueur, raspberry syrup, fresh lime",
+    "price": "$16",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CAFE DU MONDE MARTINI",
+    "description": "Stoli Vodka, Borghetti Café Liqueur, Café du Monde",
+    "price": "$16",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BACK PORCH LEMONADE",
+    "description": "Stoli Razberi Vodka, house-made lemonade",
+    "price": "$15",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "LAVENDER FRENCH 75",
+    "description": "Champagne, Empress Gin, fresh lemon juice, lavender simple syrup",
+    "price": "$15",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SMOKED FIG MANHATTAN",
+    "description": "A classic manhattan with a smokey fig twist. Made with Bulleit Bourbon",
+    "price": "$16",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HOT TODDY",
+    "description": "Green River Bourbon, Hattie's spiced simple syrup, lemon & a cinnamon stick. Hot water or tea",
+    "price": "$16",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "WINNER'S CIRCLE",
+    "description": "Redemption Rye, St. Germain, grapefruit juice, lemon, splash of tonic",
+    "price": "$16",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PAINKILLER",
+    "description": "Rum, coco lopez, pineapple juice, hint of nutmeg",
+    "price": "$16",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S HURRICANE",
+    "description": "Light & dark rum, Hattie's special hurricane mix",
+    "price": "$16",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MINT JULEP",
+    "description": "A Southern classic served in a traditional julep cup: Woodford Reserve Bourbon, simple syrup, fresh mint",
+    "price": "$14",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SOUTHERN PEACH ΤΕΑ",
+    "description": "Woodford Reserve Bourbon, peach puree, Hattie's sweet tea",
+    "price": "$14",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CLASSIC BLOODY MARY",
+    "description": "Made with SalBaby's Bloody Mary Mix",
+    "price": "$12",
+    "menu_type": "Drinks",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S BLOODY MARY",
+    "description": "Available at Brunch only\nGarnished with Hattie's famous fried chicken wing & candied bacon",
+    "price": "$18",
+    "menu_type": "Drinks",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S MIMOSA",
+    "description": "Champagne, orange juice, St. Germain",
+    "price": "$11/46",
+    "menu_type": "Drinks",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MIMOSA FLIGHT OF 4",
+    "description": "Classic, Hattie's, Grapefruit, Seasonal Fruit",
+    "price": "$24",
+    "menu_type": "Drinks",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SANGRIA",
+    "description": "Brandy, Peach Schnapps, fresh orange juice, muddled fruit",
+    "price": "$12/50",
+    "menu_type": "Drinks",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "APEROL SPRITZ",
+    "description": "Prosecco, Aperol, splash of club soda, orange slice",
+    "price": "$14",
+    "menu_type": "Drinks",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "STRAWBERRY GINGER LIMEADE",
+    "description": "Muddled fresh strawberries & limes, simple syrup, lime juice, topped with ginger beer",
+    "price": "$10",
+    "menu_type": "Mocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MIXED BERRY & MINT NO-JITO",
+    "description": "Muddled mint, seasonal berries, lime. Topped with simple syrup garnished with sugar cane",
+    "price": "",
+    "menu_type": "Mocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "JUST PEACHY",
+    "description": "Peach pure, lemon juice, honey topped with club soda & garnished with fresh basil",
+    "price": "",
+    "menu_type": "Mocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PINEAPPLE COBBLER",
+    "description": "Pineapple juice, muddled strawberries, simple syrup & a splash of club soda",
+    "price": "",
+    "menu_type": "Mocktails",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SARATOGA SPARKLING WATER",
+    "description": "",
+    "price": "$5",
+    "menu_type": "Beverages",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "GOSLING'S GINGER BEER",
+    "description": "",
+    "price": "$5",
+    "menu_type": "Beverages",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "ROOT BEER",
+    "description": "",
+    "price": "$4",
+    "menu_type": "Beverages",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SODA",
+    "description": "",
+    "price": "$3.50",
+    "menu_type": "Beverages",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "UNSWEETENED ICED TEA",
+    "description": "",
+    "price": "$4",
+    "menu_type": "Beverages",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SOUTHERN SWEET TEA",
+    "description": "",
+    "price": "$4.50",
+    "menu_type": "Beverages",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "LEMONADE",
+    "description": "Squeezed fresh daily!",
+    "price": "$4.50",
+    "menu_type": "Beverages",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "JUICES",
+    "description": "orange, cranberry, grapefruit & pineapple",
+    "price": "$4",
+    "menu_type": "Beverages",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FRESH BREWED COFFEE",
+    "description": "",
+    "price": "$3",
+    "menu_type": "Beverages",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HARNEY & SONS TEA",
+    "description": "",
+    "price": "$3",
+    "menu_type": "Beverages",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PROSECCO, LAMBERTI FAMILY [187ML \"SPLIT\"]",
+    "description": "Veneto, Italy",
+    "price": "",
+    "menu_type": "Sparkling Wine",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PINOT GRIGIO, SANTI FAMILY",
+    "description": "Veneto Italy",
+    "price": "",
+    "menu_type": "White Wines",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SAUVIGNON BLANC, KATO",
+    "description": "Marlborough, New Zealand",
+    "price": "",
+    "menu_type": "White Wines",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHARDONNAY, HEARST FAMILY \"GLACIER RIDGE\"",
+    "description": "Monterey, California",
+    "price": "",
+    "menu_type": "White Wines",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CASTELLO MONACI \"KREOS\"",
+    "description": "Puglia, Italy",
+    "price": "",
+    "menu_type": "Rosé",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PINOT NOIR, BLOCK NINE",
+    "description": "Central Coast, California",
+    "price": "",
+    "menu_type": "Red Wines",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHIANTI, PODERI MELINI \"SAN LORENZO\"",
+    "description": "Tuscany, Italy",
+    "price": "",
+    "menu_type": "Red Wines",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CABERNET SAUVIGNON, THE ATOM",
+    "description": "North Coast, California",
+    "price": "",
+    "menu_type": "Red Wines",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FIDDLEHEAD IPA",
+    "description": "Fiddlehead Brewing Company\nShelburne, VT",
+    "price": "$9",
+    "menu_type": "Draft Beers",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BROOKLYN SEASONAL",
+    "description": "Brooklyn Brewery\nBrooklyn, NY",
+    "price": "$8",
+    "menu_type": "Draft Beers",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SARANAC SEASONAL",
+    "description": "Saranac Brewery\nUtica, NY",
+    "price": "$8",
+    "menu_type": "Draft Beers",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MILLER LITE",
+    "description": "The Miller Brewing Company\nMilwaukee, WI",
+    "price": "$6",
+    "menu_type": "Draft Beers",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PABST BLUE RIBBON",
+    "description": "Pabst Brewing Company\nSan Antonio, TX",
+    "price": "$6",
+    "menu_type": "Draft Beers",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MIRACLE ON ICE GOLDEN ALE",
+    "description": "Northway Brewing Co.\nQueensbury, NY",
+    "price": "$8",
+    "menu_type": "Draft Beers",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CITRA SESSION IPA",
+    "description": "Common Roots Brewing Company\nGlens Falls, NY",
+    "price": "$8",
+    "menu_type": "Draft Beers",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S ROTATING SEASONAL",
+    "description": "Please see your server",
+    "price": "$8",
+    "menu_type": "Draft Beers",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MODELO",
+    "description": "",
+    "price": "$8",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CORONA",
+    "description": "",
+    "price": "$8",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "RED STRIPE",
+    "description": "",
+    "price": "$8",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "COORS LIGHT",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MICHELOB ULTRA",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BUD LIGHT",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HEINEKEN 00",
+    "description": "",
+    "price": "$7",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SURFSIDE",
+    "description": "",
+    "price": "$8",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HIGH NOON",
+    "description": "",
+    "price": "$8",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "WHITE CLAW BLACK CHERRY",
+    "description": "",
+    "price": "$8",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Brunch Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SOUP DU JOUR",
+    "description": "",
+    "price": "MKT",
+    "menu_type": "Appetizers",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BASKET OF FRESH BISCUITS & CORNBREAD",
+    "description": "Dickinson's jam, honey butter\nMade fresh daily",
+    "price": "$12",
+    "menu_type": "Appetizers",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "GUMBO",
+    "description": "Andouille sausage, peppers, onions, garlic, celery, rice\nAdd chicken 3 | Add shrimp. 5",
+    "price": "$16",
+    "menu_type": "Appetizers",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SAVORY PRAWNS",
+    "description": "Wild caught Gulf shrimp in a rich piquant Creole sauce\nServed with grilled bread",
+    "price": "$16",
+    "menu_type": "Appetizers",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "GOOD 'N EVIL CHICKEN WINGS",
+    "description": "Sweet & hot, Hattie's buttermilk pecan bleu cheese\ndressing\nBuffalo style available",
+    "price": "$22",
+    "menu_type": "Appetizers",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHICKEN LIVERS",
+    "description": "Caramelized onions, smoked bacon, fresh herbs",
+    "price": "$16",
+    "menu_type": "Appetizers",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SPINACH SALAD",
+    "description": "Baby spinach, diced apple, candied pecans, dried\ncranberries, roasted fennel, roquefort cheese, lemon\nmaple vinaigrette\nAdd boneless chicken thigh 6 | Add salmon • 8",
+    "price": "$18",
+    "menu_type": "Salads",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S FAMOUS FRIED CHICKEN",
+    "description": "The same award-winning recipe since 1938\nChoice of one side\nNashville Hot. 2",
+    "price": "$24",
+    "menu_type": "Entrées",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S FAMOUS FRIED CHICKEN",
+    "description": "The same award-winning recipe since 1938\nChoice of one side\nNashville Hot. 2",
+    "price": "$29",
+    "menu_type": "Entrées",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "\"THE\" FRIED CHICKEN SANDWICH",
+    "description": "Crispy chicken, Cajun coleslaw, toasted Kaiser roll\nMade famous at the Saratoga RaceTrack!\nServed with house-made chips",
+    "price": "$20",
+    "menu_type": "Entrées",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "NASHVILLE HOT FRIED CHICKEN SANDWICH",
+    "description": "Crispy chicken, Nashville hot seasoning, lettuce,\ntomato, pickles, lemon mayonnaise\nServed with house-made chips",
+    "price": "$22",
+    "menu_type": "Entrées",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHICKEN & WAFFLES",
+    "description": "Hattie's fried chicken, Belgian waffles, spicy\nhoney-maple drizzle",
+    "price": "$24",
+    "menu_type": "Entrées",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SLOW-COOKED BBQ SPARE RIBS",
+    "description": "Southern dry rub & glazed\nChoice of one side",
+    "price": "$30",
+    "menu_type": "Entrées",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SMALL PLATE",
+    "description": "Southern dry rub & glazed\nChoice of one side",
+    "price": "$24",
+    "menu_type": "Entrées",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FRIED CHICKEN & RIBS COMBO",
+    "description": "Two pieces of Hattie's fried chicken, slow-cooked ribs\nChoice of one side",
+    "price": "$29",
+    "menu_type": "Entrées",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FRIED CATFISH",
+    "description": "Cornmeal crusted, lemon tartar sauce\nChoice of one side",
+    "price": "$28",
+    "menu_type": "Entrées",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HOUSE-MADE CHIPS & DIP",
+    "description": "Caramelized onion dip",
+    "price": "$10",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HUSH PUPPIES",
+    "description": "Honey butter",
+    "price": "$12",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CAJUN STUFFED MUSHROOMS",
+    "description": "Andouille sausage, Cabot extra sharp cheddar,\nscallions, Hattie's biscuit crumb",
+    "price": "$14",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FRIED GREEN TOMATOES",
+    "description": "House-made ranch",
+    "price": "$15",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "RAVIOLIS DU JOUR",
+    "description": "Ask your server for todays selection\nMade with fresh pasta from Mangiamo exclusively\nfor Hattie's",
+    "price": "$16",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SOUTHERN COBB SALAD",
+    "description": "Mixed greens, sliced fried boneless chicken thigh,\ngreen tomatoes, candied bacon, avocado, deviled egg,\nbuttermilk pecan bleu cheese",
+    "price": "$22",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CLASSIC CAESAR",
+    "description": "Crispy romaine, reggiano, lemon, croutons\nAdd boneless chicken thigh. 6 | Add salmon. 8",
+    "price": "$16",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "JASPER'S MAC & CHEESE",
+    "description": "Crisp and Creamy! Made with Cabot extra sharp\ncheddar and a crispy biscuit crust\nAdd andouille sausage, bacon, or Hattie's fried chicken\nbaked in 5",
+    "price": "$19",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "RED CURRY SALMON",
+    "description": "Coconut red curry, Jasmine rice, red & green bell peppers,\nshitake mushrooms",
+    "price": "$36",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SPICY CREOLE LINGUINE",
+    "description": "Chicken, shrimp & andouille sausage in a spicy\nCajun cream sauce served over locally made\nlinguine by Mangiamo",
+    "price": "$24",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "JAMBALAYA",
+    "description": "Generously seasoned tomato & rice dish with andouille\nsausage, chicken & shrimp",
+    "price": "$28",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "RED BEANS & RICE",
+    "description": "Kidney beans, Cajun trinity of pepper, onion & celery,\nCreole spices, long grain white rice\nAdd andouille sausage or one piece of fried chicken. 5",
+    "price": "$18",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BEEF & PORK RAGOUT",
+    "description": "Sous vide beef & pork in a rich red wine tomato sauce\nserved over house-made papperdelle pasta",
+    "price": "$29",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MASHED POTATOES",
+    "description": "",
+    "price": "$7",
+    "menu_type": "Sides",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "COLLARD GREENS",
+    "description": "",
+    "price": "$7",
+    "menu_type": "Sides",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "GREEN BEANS",
+    "description": "",
+    "price": "$7",
+    "menu_type": "Sides",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CAJUN COLESLAW",
+    "description": "",
+    "price": "$7",
+    "menu_type": "Sides",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CLASSIC COLESLAW",
+    "description": "",
+    "price": "$7",
+    "menu_type": "Sides",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CANDIED YAMS",
+    "description": "",
+    "price": "$7",
+    "menu_type": "Sides",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "RED BEANS & RICE",
+    "description": "",
+    "price": "$7",
+    "menu_type": "Sides",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "GRAVY",
+    "description": "",
+    "price": "$5",
+    "menu_type": "Sides",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HONEY BUTTER",
+    "description": "",
+    "price": "$2",
+    "menu_type": "Sides",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BUCKETS AND BEERS",
+    "description": "Bucket of fried chicken (6 pieces)",
+    "price": "$16",
+    "menu_type": "Weekly Specials",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PBR draft",
+    "description": "",
+    "price": "$3",
+    "menu_type": "Weekly Specials",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PRIME RIB",
+    "description": "Served with mashed potatoes, green beans, biscuit, au jus & horseradish creme",
+    "price": "$32",
+    "menu_type": "Weekly Specials",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PRIME RIB",
+    "description": "Served with mashed potatoes, green beans, biscuit, au jus & horseradish creme",
+    "price": "$47",
+    "menu_type": "Weekly Specials",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BANANA PUDDING",
+    "description": "Banana pudding, vanilla wafers, house-made whipped cream",
+    "price": "$10",
+    "menu_type": "Dessert",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHOCOLATE PEANUT BUTTER PIE",
+    "description": "Chocolate ganache & creamy peanut butter on an Oreo cookie crust, house-made whipped cream",
+    "price": "$10",
+    "menu_type": "Dessert",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "KEY LIME PIE",
+    "description": "Key lime custard, graham cracker crust, house-made whipped cream",
+    "price": "$10",
+    "menu_type": "Dessert",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PECAN PIE",
+    "description": "Ms. Hattie's original recipe, house-made whipped cream",
+    "price": "$10",
+    "menu_type": "Dessert",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S MOJITO",
+    "description": "A Hattie's favorite! Light rum, fresh muddled mint, fresh lime, simple syrup, sugar cane",
+    "price": "$15",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "THE PHILA",
+    "description": "Curamia Blanco Tequilla, Sorel Hibiscus Liqueur, raspberry syrup, fresh lime",
+    "price": "$16",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CAFE DU MONDE MARTINI",
+    "description": "Stoli Vodka, Borghetti Café Liqueur, Café du Monde",
+    "price": "$16",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BACK PORCH LEMONADE",
+    "description": "Stoli Razberi Vodka, house- made lemonade",
+    "price": "$15",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "LAVENDER FRENCH 75",
+    "description": "Champagne, Empress Gin, fresh lemon juice, lavender simple syrup",
+    "price": "$15",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SMOKED FIG MANHATTAN",
+    "description": "A classic manhattan with a smokey fig twist. Made with Bulleit Bourbon",
+    "price": "$16",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HOT TODDY",
+    "description": "Green River Bourbon, Hattie's spiced simple syrup, lemon & a cinnamon stick. Hot water or tea",
+    "price": "$16",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "WINNER'S CIRCLE",
+    "description": "Redemption Rye, St. Germain, grapefruit juice, lemon, splash of tonic",
+    "price": "$16",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PAINKILLER",
+    "description": "Rum, coco lopez, pineapple juice, hint of nutmeg",
+    "price": "$16",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S HURRICANE",
+    "description": "Light & dark rum, Hattie's special hurricane mix",
+    "price": "$16",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MINT JULEP",
+    "description": "A Southern classic served in a traditional julep cup: Woodford Reserve Bourbon, simple syrup, fresh mint",
+    "price": "$14",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SOUTHERN PEACH ΤΕΑ",
+    "description": "Woodford Reserve Bourbon, peach puree, Hattie's sweet tea",
+    "price": "$14",
+    "menu_type": "Specialty Cocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CLASSIC BLOODY MARY",
+    "description": "Made with SalBaby's Bloody Mary Mix",
+    "price": "$12",
+    "menu_type": "Drinks",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S BLOODY MARY",
+    "description": "Available at Brunch only\nGarnished with Hattie's famous fried chicken wing & candied bacon",
+    "price": "$18",
+    "menu_type": "Drinks",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S MIMOSA",
+    "description": "Champagne, orange juice, St. Germain",
+    "price": "$11/46",
+    "menu_type": "Drinks",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MIMOSA FLIGHT OF 4",
+    "description": "Classic, Hattie's, Grapefruit, Seasonal Fruit",
+    "price": "$24",
+    "menu_type": "Drinks",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SANGRIA",
+    "description": "Brandy, Peach Schnapps, fresh orange juice, muddled fruit",
+    "price": "$12/50",
+    "menu_type": "Drinks",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "APEROL SPRITZ",
+    "description": "Prosecco, Aperol, splash of club soda, orange slice",
+    "price": "$14",
+    "menu_type": "Drinks",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "STRAWBERRY GINGER LIMEADE",
+    "description": "Muddled fresh strawberries & limes, simple syrup, lime juice, topped with ginger beer",
+    "price": "",
+    "menu_type": "Mocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MIXED BERRY & MINT NO-JITO",
+    "description": "Muddled mint, seasonal berries, lime. Topped with simple syrup garnished with sugar cane",
+    "price": "",
+    "menu_type": "Mocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "JUST PEACHY",
+    "description": "Peach pure, lemon juice, honey topped with club soda & garnished with fresh basil",
+    "price": "",
+    "menu_type": "Mocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PINEAPPLE COBBLER",
+    "description": "Pineapple juice, muddled strawberries, simple syrup & a splash of club soda",
+    "price": "",
+    "menu_type": "Mocktails",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SARATOGA SPARKLING WATER",
+    "description": "",
+    "price": "$5",
+    "menu_type": "Beverages",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "GOSLING'S GINGER BEER",
+    "description": "",
+    "price": "$5",
+    "menu_type": "Beverages",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "ROOT BEER",
+    "description": "",
+    "price": "$4",
+    "menu_type": "Beverages",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SODA",
+    "description": "",
+    "price": "$3.50",
+    "menu_type": "Beverages",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "UNSWEETENED ICED TEA",
+    "description": "",
+    "price": "$4",
+    "menu_type": "Beverages",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SOUTHERN SWEET TEA",
+    "description": "",
+    "price": "$4.50",
+    "menu_type": "Beverages",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "LEMONADE",
+    "description": "Squeezed fresh daily!",
+    "price": "$4.50",
+    "menu_type": "Beverages",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "JUICES",
+    "description": "orange, cranberry, grapefruit & pineapple",
+    "price": "$4",
+    "menu_type": "Beverages",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FRESH BREWED COFFEE",
+    "description": "",
+    "price": "$3",
+    "menu_type": "Beverages",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HARNEY & SONS TEA",
+    "description": "",
+    "price": "$3",
+    "menu_type": "Beverages",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PROSECCO, LAMBERTI FAMILY [187ML \"SPLIT\"]",
+    "description": "Veneto, Italy",
+    "price": "",
+    "menu_type": "Sparkling Wine",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PINOT GRIGIO, SANTI FAMILY",
+    "description": "Veneto Italy",
+    "price": "",
+    "menu_type": "White Wines",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SAUVIGNON BLANC, KATO",
+    "description": "Marlborough, New Zealand",
+    "price": "",
+    "menu_type": "White Wines",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHARDONNAY, HEARST FAMILY \"GLACIER RIDGE\"",
+    "description": "Monterey, California",
+    "price": "",
+    "menu_type": "White Wines",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CASTELLO MONACI \"KREOS\"",
+    "description": "Puglia, Italy",
+    "price": "",
+    "menu_type": "Rosé",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PINOT NOIR, BLOCK NINE",
+    "description": "Central Coast, California",
+    "price": "",
+    "menu_type": "Red Wines",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHIANTI, PODERI MELINI \"SAN LORENZO\"",
+    "description": "Tuscany, Italy",
+    "price": "",
+    "menu_type": "Red Wines",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CABERNET SAUVIGNON, THE ATOM",
+    "description": "North Coast, California",
+    "price": "",
+    "menu_type": "Red Wines",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FIDDLEHEAD IPA",
+    "description": "Fiddlehead Brewing Company\nShelburne, VT",
+    "price": "$9",
+    "menu_type": "Draft Beers",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BROOKLYN SEASONAL",
+    "description": "Brooklyn Brewery\nBrooklyn, NY",
+    "price": "$8",
+    "menu_type": "Draft Beers",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SARANAC SEASONAL",
+    "description": "Saranac Brewery\nUtica, NY",
+    "price": "$8",
+    "menu_type": "Draft Beers",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MILLER LITE",
+    "description": "The Miller Brewing Company\nMilwaukee, WI",
+    "price": "$6",
+    "menu_type": "Draft Beers",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "PABST BLUE RIBBON",
+    "description": "Pabst Brewing Company\nSan Antonio, TX",
+    "price": "$6",
+    "menu_type": "Draft Beers",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MIRACLE ON ICE GOLDEN ALE",
+    "description": "Northway Brewing Co.\nQueensbury, NY",
+    "price": "$8",
+    "menu_type": "Draft Beers",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CITRA SESSION IPA",
+    "description": "Common Roots Brewing Company\nGlens Falls, NY",
+    "price": "$8",
+    "menu_type": "Draft Beers",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HATTIE'S ROTATING SEASONAL",
+    "description": "Please see your server",
+    "price": "$8",
+    "menu_type": "Draft Beers",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MODELO",
+    "description": "",
+    "price": "$8",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CORONA",
+    "description": "",
+    "price": "$8",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "RED STRIPE",
+    "description": "",
+    "price": "$8",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "COORS LIGHT",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MICHELOB ULTRA",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BUD LIGHT",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HEINEKEN 00",
+    "description": "",
+    "price": "$7",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SURFSIDE",
+    "description": "",
+    "price": "$8",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HIGH NOON",
+    "description": "",
+    "price": "$8",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "WHITE CLAW BLACK CHERRY",
+    "description": "",
+    "price": "$8",
+    "menu_type": "Beer & Seltzer",
+    "menu_name": "Dinner Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BIG DADDY CHICKEN SANDWICH",
+    "description": "2 fried boneless thighs on a Kaiser roll",
+    "price": "$20.89",
+    "menu_type": "Cluckin' Good Combos",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "JR CHICKEN SANDWICH",
+    "description": "1 fried boneless thigh on a Kaiser roll",
+    "price": "$17.89",
+    "menu_type": "Cluckin' Good Combos",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "GRILLED CHICKEN SANDWICH",
+    "description": "Grilled marinated chicken breast on a Kaiser roll",
+    "price": "$17.89",
+    "menu_type": "Cluckin' Good Combos",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CATFISH OR SHRIMP PO' BOY SANDWICH",
+    "description": "Fried catfish or shrimp on a hoagie roll\nChoose Hattie's or New Orleans Style",
+    "price": "$21.89",
+    "menu_type": "Cluckin' Good Combos",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "2-PIECE FRIED CHICKEN",
+    "description": "BREAST & LEG or THIGH & WING\nNo substitutions",
+    "price": "$15.89",
+    "menu_type": "Cluckin' Good Combos",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "3-PIECE FRIED CHICKEN",
+    "description": "THIGH, LEG & WING or THIGH FECTА\nNo substitutions",
+    "price": "$18.89",
+    "menu_type": "Cluckin' Good Combos",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHICKEN BIG's",
+    "description": "Gluten-Free",
+    "price": "$17.89",
+    "menu_type": "Cluckin' Good Combos",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHICKEN SALAD SANDWICH",
+    "description": "Pulled chicken, red onions, apples, cranberries, celery",
+    "price": "$15.89",
+    "menu_type": "Cluckin' Good Combos",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Buffalo",
+    "description": "",
+    "price": "$16.89",
+    "menu_type": "Cluckin' Good Combos",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Hattie's",
+    "description": "Hattie's Cajun coleslaw",
+    "price": "",
+    "menu_type": "Styles",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "New Orleans",
+    "description": "Lettuce, tomato, & ranch",
+    "price": "",
+    "menu_type": "Styles",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BBQ",
+    "description": "Dipped in BBQ sauce, topped with lettuce, onion, & pickles",
+    "price": "",
+    "menu_type": "Styles",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Nashville",
+    "description": "Dipped in Nashville hot oil, topped with lettuce, tomato, honey lemon mayo & pickle",
+    "price": "$1.00",
+    "menu_type": "Styles",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Buffalo",
+    "description": "Lettuce, tomato, blue cheese & pickle",
+    "price": "$1.00",
+    "menu_type": "Styles",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Cheese",
+    "description": "",
+    "price": "$1.00",
+    "menu_type": "Styles",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "THE FRIED CHICKEN SANDWICH",
+    "description": "The BIG Daddy (2 thighs)",
+    "price": "$15.89",
+    "menu_type": "Sandwiches",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "The JUNIOR (1 thigh)",
+    "description": "",
+    "price": "$12.89",
+    "menu_type": "Sandwiches",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MARINATED GRILLED CHICKEN SANDWICH",
+    "description": "",
+    "price": "$12.89",
+    "menu_type": "Sandwiches",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "JASPER'S PO-BOY SANDWICH",
+    "description": "Fried Catfish or Fried Shrimp\nHattie's or New Orleans Style",
+    "price": "$16.89",
+    "menu_type": "Sandwiches",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHICKEN SALAD SANDWICH",
+    "description": "Pulled chicken, red onions, apples, cranberries, celery served on Texas toast",
+    "price": "$11.89",
+    "menu_type": "Sandwiches",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Buffalo",
+    "description": "",
+    "price": "$12.89",
+    "menu_type": "Sandwiches",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Gluten-Free",
+    "description": "",
+    "price": "$19.89",
+    "menu_type": "Cluckin' Good Combos",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Regular",
+    "description": "",
+    "price": "$15.89",
+    "menu_type": "Cluckin' Good Combos",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Regular",
+    "description": "",
+    "price": "$11.89",
+    "menu_type": "Sandwiches",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "1/2 CHICKEN",
+    "description": "BREAST, LEG, WING, & THIGH",
+    "price": "$17.89",
+    "menu_type": "Hattie's Famous Fried Chicken",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Nashville Hot",
+    "description": "",
+    "price": "$19.89",
+    "menu_type": "Hattie's Famous Fried Chicken",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "*Gluten-Free",
+    "description": "",
+    "price": "$19.89",
+    "menu_type": "Hattie's Famous Fried Chicken",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "1/4 CHICKEN",
+    "description": "BREAST & LEG or WING & THIGH",
+    "price": "$10.89",
+    "menu_type": "Hattie's Famous Fried Chicken",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Nashville Hot",
+    "description": "",
+    "price": "$11.89",
+    "menu_type": "Hattie's Famous Fried Chicken",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "YOU PICK",
+    "description": "",
+    "price": "",
+    "menu_type": "Hattie's Famous Fried Chicken",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Breast",
+    "description": "",
+    "price": "$6.29",
+    "menu_type": "Hattie's Famous Fried Chicken",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Wing",
+    "description": "",
+    "price": "$4.89",
+    "menu_type": "Hattie's Famous Fried Chicken",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Thigh",
+    "description": "",
+    "price": "$5.29",
+    "menu_type": "Hattie's Famous Fried Chicken",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Leg",
+    "description": "",
+    "price": "$4.89",
+    "menu_type": "Hattie's Famous Fried Chicken",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Nashville Hot",
+    "description": "+0.50 per piece",
+    "price": "",
+    "menu_type": "Hattie's Famous Fried Chicken",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FAMILY BASKET",
+    "description": "10 pieces: 2 breasts, 2 thighs, 3 legs, 3 wings",
+    "price": "$36.89",
+    "menu_type": "Hattie's Famous Fried Chicken",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Nashville Hot",
+    "description": "",
+    "price": "$39.89",
+    "menu_type": "Hattie's Famous Fried Chicken",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FAMILY MEAL",
+    "description": "10 pieces: 2 breasts, 2 thighs, 3 legs, 3 wings + 3 sides",
+    "price": "$46.89",
+    "menu_type": "Hattie's Famous Fried Chicken",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Nashville Hot",
+    "description": "",
+    "price": "$49.89",
+    "menu_type": "Hattie's Famous Fried Chicken",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "GARDEN SALAD",
+    "description": "Mixed greens with cucumber, red onion, carrot, tomato",
+    "price": "$11.89",
+    "menu_type": "Salad",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHICKEN SALAD",
+    "description": "",
+    "price": "$15.89",
+    "menu_type": "Salad",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FRIED CHICKEN",
+    "description": "",
+    "price": "$16.69",
+    "menu_type": "Salad",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "GRILLED CHICKEN",
+    "description": "",
+    "price": "$16.69",
+    "menu_type": "Salad",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHICKEN LITTLES",
+    "description": "",
+    "price": "$16.69",
+    "menu_type": "Salad",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FRIED SHRIMP",
+    "description": "",
+    "price": "$17.69",
+    "menu_type": "Salad",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FRIED CATFISH",
+    "description": "",
+    "price": "$17.69",
+    "menu_type": "Salad",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CHICKEN LITTLES",
+    "description": "House-made chicken fingers served with your choice of sauce",
+    "price": "$12.89",
+    "menu_type": "Kids",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Nashville Hot",
+    "description": "",
+    "price": "$13.89",
+    "menu_type": "Kids",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "Gluten-Free",
+    "description": "",
+    "price": "$14.89",
+    "menu_type": "Kids",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "2-PIECE KIDS FRIED CHICKEN",
+    "description": "Leg or Wing",
+    "price": "$12.89",
+    "menu_type": "Kids",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MAC & CHEESE",
+    "description": "",
+    "price": "$12.79",
+    "menu_type": "Kids",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FRESH CUT FRIES",
+    "description": "",
+    "price": "$6.29",
+    "menu_type": "Sides",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HUSH PUPPIES",
+    "description": "",
+    "price": "",
+    "menu_type": "Sides",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CAJUN FRIES",
+    "description": "",
+    "price": "",
+    "menu_type": "Sides",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CUCUMBER SALAD",
+    "description": "",
+    "price": "",
+    "menu_type": "Sides",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "SWEET FRIES",
+    "description": "",
+    "price": "",
+    "menu_type": "Sides",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "RED BEANS & RICE",
+    "description": "",
+    "price": "",
+    "menu_type": "Sides",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "FRIED PICKLES",
+    "description": "",
+    "price": "",
+    "menu_type": "Sides",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "COLLARD GREENS",
+    "description": "",
+    "price": "",
+    "menu_type": "Sides",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "CAJUN COLESLAW",
+    "description": "",
+    "price": "",
+    "menu_type": "Sides",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MAC AND CHEESE",
+    "description": "",
+    "price": "",
+    "menu_type": "Sides",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MASHED POTATOES",
+    "description": "",
+    "price": "",
+    "menu_type": "Sides",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HOUSE VINAIGRETTE",
+    "description": "",
+    "price": "$1.69",
+    "menu_type": "Sauces & Dressing",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BUTTERMILK RANCH",
+    "description": "",
+    "price": "",
+    "menu_type": "Sauces & Dressing",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BLEU CHEESE",
+    "description": "",
+    "price": "",
+    "menu_type": "Sauces & Dressing",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "JASPER'S REMOULADE",
+    "description": "",
+    "price": "",
+    "menu_type": "Sauces & Dressing",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "MELBA SAUCE",
+    "description": "",
+    "price": "",
+    "menu_type": "Sauces & Dressing",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HONEY BUTTER",
+    "description": "",
+    "price": "",
+    "menu_type": "Sauces & Dressing",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "HONEY LEMON MAYO",
+    "description": "",
+    "price": "",
+    "menu_type": "Sauces & Dressing",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BBQ",
+    "description": "",
+    "price": "",
+    "menu_type": "Sauces & Dressing",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BUFFALO",
+    "description": "",
+    "price": "",
+    "menu_type": "Sauces & Dressing",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "GRAVY",
+    "description": "",
+    "price": "$1.99",
+    "menu_type": "Sauces & Dressing",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BEIGNETS",
+    "description": "3 per order\nSugar or Cinnamon Sugar",
+    "price": "$6.29",
+    "menu_type": "Dessert",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  },
+  {
+    "name": "BREAD BASKET COOKIES",
+    "description": "EACH",
+    "price": "$4.39",
+    "menu_type": "Dessert",
+    "menu_name": "All Day Menu",
+    "restaurant_name": "Hattie's Restaurant",
+    "restaurant_url": "https://hattiesrestaurants.com/"
+  }
+]
