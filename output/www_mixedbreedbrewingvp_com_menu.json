@@ -1,0 +1,776 @@
+[
+  {
+    "name": "Bavarian Pretzels",
+    "description": "Pretzel sticks served with house-made Mixed Breed Beer Cheese",
+    "price": "$14.49",
+    "menu_type": "Short Games",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mozzarella Sticks",
+    "description": "Jumbo breaded mozzarella sticks with your choice of Marinara or sweet raspberry Melba sauce",
+    "price": "$14.49",
+    "menu_type": "Short Games",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Cheeseburger Sliders",
+    "description": "Grilled to your liking and topped with Cooper American cheese, caramelized onions, and secret sauce. Served on Kings Hawaiian rolls",
+    "price": "$14.49",
+    "menu_type": "Short Games",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Prime Rib Sliders",
+    "description": "Thinly sliced prime rib simmered in au jus, topped with caramelized onions, cheddar and horseradish cream. Served on Kings Hawaiian rolls",
+    "price": "$15.53",
+    "menu_type": "Short Games",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fried Chicken Sliders",
+    "description": "Buttermilk marinated chicken tossed in Korean BBQ, topped with coleslaw and dill pickles. Served on Kings Hawaiian rolls",
+    "price": "$15.53",
+    "menu_type": "Short Games",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Hand Breaded Boneless - Single serve",
+    "description": "Hand-breaded and sauced your way",
+    "price": "$14",
+    "menu_type": "Short Games",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Hand Breaded Boneless - Double serve",
+    "description": "Hand-breaded and sauced your way",
+    "price": "$25",
+    "menu_type": "Short Games",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Cheese Fries",
+    "description": "Hand-cut fries topped with house-made Mixed Breed Beer",
+    "price": "$10.35 / Add Bacon $3.11 / Add Grilled Chicken $4.14 / Add Short Rib $8.28 / Add Pulled Pork $6.21",
+    "menu_type": "Short Games",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Vista Chips",
+    "description": "",
+    "price": "$7.25",
+    "menu_type": "Gimmies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Hand-Cut Fries",
+    "description": "",
+    "price": "$7.25",
+    "menu_type": "Gimmies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Sweet Potato Fries",
+    "description": "",
+    "price": "$8.28",
+    "menu_type": "Gimmies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Tater Tots",
+    "description": "",
+    "price": "$8.28",
+    "menu_type": "Gimmies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Onion Rings",
+    "description": "",
+    "price": "$10.25",
+    "menu_type": "Gimmies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Hand Breaded Chicken Tenders",
+    "description": "Buttermilk marinated tenders are dredged in seasoned flour,\nfried to golden brown perfection and served with your choice of\nwing sauce",
+    "price": "$14.49",
+    "menu_type": "Birdies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Wings - 5 Wings",
+    "description": "Bbq, Carolina gold bbq, Garlic parm, Pesto, Lemon pepper dry rub, Mild, Medium, Sweet chili, Jamaican jerk dry rub, Cajun dry rub, Garlic parm hot, Spicy pesto, Korean bbq, The mulligan (raspberry hot), Hot, Jamacan me crazy, Extra hot, Out of bounds hot",
+    "price": "$9.32",
+    "menu_type": "Birdies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Wings - 10 Wings",
+    "description": "Bbq, Carolina gold bbq, Garlic parm, Pesto, Lemon pepper dry rub, Mild, Medium, Sweet chili, Jamaican jerk dry rub, Cajun dry rub, Garlic parm hot, Spicy pesto, Korean bbq, The mulligan (raspberry hot), Hot, Jamacan me crazy, Extra hot, Out of bounds hot",
+    "price": "$18.63",
+    "menu_type": "Birdies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Wings - 20 Wings",
+    "description": "Bbq, Carolina gold bbq, Garlic parm, Pesto, Lemon pepper dry rub, Mild, Medium, Sweet chili, Jamaican jerk dry rub, Cajun dry rub, Garlic parm hot, Spicy pesto, Korean bbq, The mulligan (raspberry hot), Hot, Jamacan me crazy, Extra hot, Out of bounds hot",
+    "price": "$31.05",
+    "menu_type": "Birdies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Hand-Breaded Boneless - Single Order (12 oz)",
+    "description": "Bbq, Carolina gold bbq, Garlic parm, Pesto, Lemon pepper dry rub, Mild, Medium, Sweet chili, Jamaican jerk dry rub, Cajun dry rub, Garlic parm hot, Spicy pesto, Korean bbq, The mulligan (raspberry hot), Hot, Jamaican me crazy, Extra hot, Out of bounds hot",
+    "price": "$15.53",
+    "menu_type": "Birdies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Hand-Breaded Boneless - Double Order (24 oz)",
+    "description": "Bbq, Carolina gold bbq, Garlic parm, Pesto, Lemon pepper dry rub, Mild, Medium, Sweet chili, Jamaican jerk dry rub, Cajun dry rub, Garlic parm hot, Spicy pesto, Korean bbq, The mulligan (raspberry hot), Hot, Jamaican me crazy, Extra hot, Out of bounds hot",
+    "price": "$25.88",
+    "menu_type": "Birdies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Clam Chowda - Cup",
+    "description": "Creamy New England style Chowda with tender clams, bacon, potato and vegetables",
+    "price": "$5.18",
+    "menu_type": "Soup",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Clam Chowda - Bowl",
+    "description": "Creamy New England style Chowda with tender clams, bacon, potato and vegetables",
+    "price": "$8.28",
+    "menu_type": "Soup",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Soup du Jour - Cup",
+    "description": "Chef's daily creation",
+    "price": "$5.18",
+    "menu_type": "Soup",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Soup du Jour - Bowl",
+    "description": "Chef's daily creation",
+    "price": "$8.28",
+    "menu_type": "Soup",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "French Onion Soup - Crock",
+    "description": "Caramelized onions in a rich beef broth, topped with \nhome-made croutons and melted Swiss and Provolone cheeses. Served in a Crock",
+    "price": "$8.28",
+    "menu_type": "Soup",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Garden Salad - Small",
+    "description": "Mixed greens, shredded carrots, cucumbers and cherry tomatoes, served with your choice of dressing",
+    "price": "$6.21 / Add Bacon $3.11 / Add Crispy Chicken $6.21 / Add Grilled Chicken $7.25 / Add Salmon $8.28 / Add Balsamic Vinaigrette $1.04 / Add Blue Cheese $1.04 / Add Caesar $1.04 / Add Honey Mustard $1.04 / Add Italian $1.04 / Add Oil & Vinagar $1.04 / Add Poppyseed $1.04 / Add Ranch $1.04 / Add Thousand Island $1.04",
+    "menu_type": "From the Greens",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Garden Salad - Large",
+    "description": "Mixed greens, shredded carrots, cucumbers and cherry tomatoes, served with your choice of dressing",
+    "price": "$13.36 / Add Bacon $3.11 / Add Crispy Chicken $6.21 / Add Grilled Chicken $7.25 / Add Salmon $8.28 / Add Balsamic Vinaigrette $1.04 / Add Blue Cheese $1.04 / Add Caesar $1.04 / Add Honey Mustard $1.04 / Add Italian $1.04 / Add Oil & Vinagar $1.04 / Add Poppyseed $1.04 / Add Ranch $1.04 / Add Thousand Island $1.04",
+    "menu_type": "From the Greens",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Caesar - Small",
+    "description": "Romaine lettuce, house-made croutons, parmesan cheese and our house-made Caesar dressing",
+    "price": "$6.21 / Add Bacon $3.11 / Add Crispy Chicken $6.21 / Add Grilled Chicken $7.25 / Add Salmon $8.28 / Add Balsamic Vinaigrette $1.04 / Add Blue Cheese $1.04 / Add Caesar $1.04 / Add Honey Mustard $1.04 / Add Italian $1.04 / Add Oil & Vinagar $1.04 / Add Poppyseed $1.04 / Add Ranch $1.04 / Add Thousand Island $1.04",
+    "menu_type": "From the Greens",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Caesar - Large",
+    "description": "Romaine lettuce, house-made croutons, parmesan cheese and our house-made Caesar dressing",
+    "price": "$13.46 / Add Bacon $3.11 / Add Crispy Chicken $6.21 / Add Grilled Chicken $7.25 / Add Salmon $8.28 / Add Balsamic Vinaigrette $1.04 / Add Blue Cheese $1.04 / Add Caesar $1.04 / Add Honey Mustard $1.04 / Add Italian $1.04 / Add Oil & Vinagar $1.04 / Add Poppyseed $1.04 / Add Ranch $1.04 / Add Thousand Island $1.04",
+    "menu_type": "From the Greens",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Wedge",
+    "description": "Crisp wedges of Iceberg lettuce covered with house-made blue cheese dressing, topped with bacon, hard-boiled egg, cherry tomatoes, red onion, and blue cheese crumble",
+    "price": "$15.53 / Add Bacon $3.11 / Add Crispy Chicken $6.21 / Add Grilled Chicken $7.25 / Add Salmon $8.28 / Add Balsamic Vinaigrette $1.04 / Add Blue Cheese $1.04 / Add Caesar $1.04 / Add Honey Mustard $1.04 / Add Italian $1.04 / Add Oil & Vinagar $1.04 / Add Poppyseed $1.04 / Add Ranch $1.04 / Add Thousand Island $1.04",
+    "menu_type": "From the Greens",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chopped Salad",
+    "description": "Romaine, tomatoes, cucumbers, craisins, bacon, grilled chicken, carrots, blue cheese crumble, balsamic dressing",
+    "price": "$18.63 / Add Bacon $3.11 / Add Crispy Chicken $6.21 / Add Grilled Chicken $7.25 / Add Salmon $8.28 / Add Balsamic Vinaigrette $1.04 / Add Blue Cheese $1.04 / Add Caesar $1.04 / Add Honey Mustard $1.04 / Add Italian $1.04 / Add Oil & Vinagar $1.04 / Add Poppyseed $1.04 / Add Ranch $1.04 / Add Thousand Island $1.04",
+    "menu_type": "From the Greens",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fall Harvest Salad",
+    "description": "Spring mix and spinach topped with Granny Smith apples, sharp cheddar, craisins, candied pecans, bacon, and red onion, tossed with poppyseed dressing",
+    "price": "$16.56 / Add Bacon $3.11 / Add Crispy Chicken $6.21 / Add Grilled Chicken $7.25 / Add Salmon $8.28 / Add Balsamic Vinaigrette $1.04 / Add Blue Cheese $1.04 / Add Caesar $1.04 / Add Honey Mustard $1.04 / Add Italian $1.04 / Add Oil & Vinagar $1.04 / Add Poppyseed $1.04 / Add Ranch $1.04 / Add Thousand Island $1.04",
+    "menu_type": "From the Greens",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Grilled Rachel",
+    "description": "Grilled rye bread topped with turkey, Swiss cheese, coleslaw, and Thousand Island dressing",
+    "price": "$16.56",
+    "menu_type": "Caddies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Grilled Reuben",
+    "description": "Grilled rye bread topped with corned beef, Swiss cheese, sauerkraut, and Thousand Island dressing",
+    "price": "$16.56",
+    "menu_type": "Caddies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "The Prime Mozz",
+    "description": "Thinly sliced prime rib simmered in au jus. Topped with caramelized onions, horseradish cream, and mozzarella cheese. Served on a brioche bun",
+    "price": "$19.67",
+    "menu_type": "Caddies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Pulled Pork Sandwich",
+    "description": "Braised pork shoulder, tossed in BBQ sauce and topped with coleslaw. Served on brioche bun",
+    "price": "$16.56",
+    "menu_type": "Caddies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fried Chicken Sandwich",
+    "description": "Buttermilk marinated chicken, topped with coleslaw, dill pickles and house-made chipotle mayo. Served on a brioche bun",
+    "price": "$16.56",
+    "menu_type": "Caddies",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fish & Chips",
+    "description": "Beer-battered haddock with hand-cut fries, your choice of house-made tartar or cocktail sauce, and a lemon wedge",
+    "price": "$26.91",
+    "menu_type": "Brewery Classics",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Signature Mac N Cheese",
+    "description": "Macaroni shells baked with a blend of our house-made Mixed Breed Beer Cheese, shredded cheddar jack, parmesan cheese, and topped with crispy onions",
+    "price": "$18.63 / Add Sour Cream $1.04 / Add Crispy Onions $1.04 / Add Bacon $3.11 / Add Grilled Chicken $6.21 / Add Crispy Chicken $6.21 / Add Pulled Pork $6.21",
+    "menu_type": "Brewery Classics",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Speciality Mac N Cheese - BBQ/Carolina Gold Pulled Pork",
+    "description": "Ask your server for additional details",
+    "price": "$24.84",
+    "menu_type": "Brewery Classics",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Speciality Mac N Cheese - Buffalo Chicken",
+    "description": "Ask your server for additional details",
+    "price": "$25.88",
+    "menu_type": "Brewery Classics",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Speciality Mac N Cheese - Chicken Florentine (Spinach & Tomato)",
+    "description": "Ask your server for additional details",
+    "price": "$25.88",
+    "menu_type": "Brewery Classics",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Speciality Mac N Cheese - Philly Cheese Steak",
+    "description": "Ask your server for additional details",
+    "price": "$26.91",
+    "menu_type": "Brewery Classics",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Speciality Mac N Cheese - Short Rib & Caramelized Onion",
+    "description": "Ask your server for additional details",
+    "price": "$27.95",
+    "menu_type": "Brewery Classics",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Classic Burger",
+    "description": "Half pound burger served with lettuce, tomato, red onions, on a brioche bun",
+    "price": "$15.53 / Add Sharp Cheddar $1.04 / Add American $1.04 / Add Swiss $1.04 / Add Provolone $1.04 / Add Shredded Mozzarella $1.04 / Add Carmeleized Onions $1.04 / Add Mushrooms $1.04 / Add Jalapenos $1.04 / Add Sunny-Side-Up Egg $2.07 / Add Bacon $2.07",
+    "menu_type": "Brewery Classics",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Double Smash Burger",
+    "description": "Two 4 oz smash patties, topped with Cooper American cheese, bacon, lettuce, tomatoes, red onion and secret sauce. Served on a brioche bun",
+    "price": "$17.60",
+    "menu_type": "Brewery Classics",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "French Onion Dip Burger",
+    "description": "Our half pound burger is simmered in French Onion soup, topped with caramelized onions, Swiss and Provolone cheeses and a side of au jus for dipping. Served on a brioche bun",
+    "price": "$17.60",
+    "menu_type": "Brewery Classics",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Black N' Blue Burger",
+    "description": "Our half pound burger is seasoned with Cajun spices and topped with crumbled blue cheese, bacon, lettuce, tomato and onion, served on a brioche bun",
+    "price": "$17.60",
+    "menu_type": "Brewery Classics",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mixed Breed Beer Cheese Burger",
+    "description": "Our half pound burger is topped with bacon on a brioche bun, then covered in beer cheese and crispy onions.\n\nAsk to have it smothered for +1 knife, fork, and extra napkins recommended!",
+    "price": "$17.60",
+    "menu_type": "Brewery Classics",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mixed Breed Ultimate Nachos",
+    "description": "Corn tortilla chips piled high with house-made Mixed Breed Beer Cheese, Pico de Gallo, shredded lettuce, shredded cheese, black olives. Served with sour cream and salsa",
+    "price": "$10.35 / Add Bacon $3.11 / Add Ground Beef $4.14 / Add BBQ/Carolina Gold Pulled Pork $6.21 / Add Grilled Chicken $6.21 / Add Crispy Chicken $6.21 / Add Short Rib $8.28",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Totchos",
+    "description": "Tater Tots topped with house-made Mixed Breed Beer Cheese, Pico de Gallo, and shredded cheese",
+    "price": "$10.35 / Add Bacon $3.11 / Add Ground Beef $4.14 / Add BBQ/Carolina Gold Pulled Pork $6.21 / Add Grilled Chicken $6.21 / Add Crispy Chicken $6.21 / Add Short Rib $8.28",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Tacos - Ground Beef",
+    "description": "Served with lettuce, Pico de Gallo, shredded cheese and a cilantro-lime creme. Available on Soft Shells only",
+    "price": "$13.46",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Tacos - Grilled Chicken",
+    "description": "Served with lettuce, Pico de Gallo, shredded cheese and a cilantro-lime creme. Available on Soft Shells only",
+    "price": "$15.53",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Tacos - Crispy Chicken",
+    "description": "Served with lettuce, Pico de Gallo, shredded cheese and a cilantro-lime creme. Available on Soft Shells only",
+    "price": "$15.53",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Tacos - Short Rib",
+    "description": "Served with lettuce, Pico de Gallo, shredded cheese and a cilantro-lime creme. Available on Soft Shells only",
+    "price": "$16.56",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Shrimp Tacos",
+    "description": "Served with coleslaw, Pico de Gallo and Chipotle Aioli",
+    "price": "$16.56",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fried Fish Tacos",
+    "description": "Served with coleslaw, Pico de Gallo and Chipotle Aioli",
+    "price": "$16.56",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Pulled Pork Tacos",
+    "description": "Served with coleslaw and Pico de Gallo. Choice of BBQ or Carolina Gold BBQ sauce",
+    "price": "$14.49",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Quesadillas - Ground Beef",
+    "description": "Served with Pico de Gallo and a side of sour cream and salsa",
+    "price": "$13.46",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Quesadillas - BBQ/Carolina Gold Pulled Pork",
+    "description": "Served with Pico de Gallo and a side of sour cream and salsa",
+    "price": "$14.49",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Quesadillas - Grilled Chicken",
+    "description": "Served with Pico de Gallo and a side of sour cream and salsa",
+    "price": "$15.53",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Quesadillas - Crispy Buffalo Chicken",
+    "description": "Served with Pico de Gallo and a side of sour cream and salsa",
+    "price": "$15.53",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Quesadillas - Short Rib",
+    "description": "Served with Pico de Gallo and a side of sour cream and salsa",
+    "price": "$16.58",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Cheesesteak Quesadilla",
+    "description": "Served with sautéed peppers and onions and a side of housemade Mixed Breed Beer Cheese",
+    "price": "$16.56",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Corned Beef Reuben Quesadilla",
+    "description": "Served with thousand Island dressing, sauerkraut, Swiss and Provolone Cheese",
+    "price": "",
+    "menu_type": "Fairway Eats",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Cajun BLT Wrap",
+    "description": "Faroe Island Salmon is seasoned with Cajun spices and Pan Seared, topped with bacon, lettuce, tomato and lemon aioli. Served in a flour tortilla wrap",
+    "price": "$19.67",
+    "menu_type": "Sandwedges",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Buffalo Chicken Wrap",
+    "description": "Crispy chicken tossed in our medium buffalo sauce with lettuce, tomato and blue cheese dressing. Served in a flour tortilla",
+    "price": "$16.56",
+    "menu_type": "Sandwedges",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Grilled Cuban Wrap",
+    "description": "House smoked pulled pork and thinly shaved black forest ham, with Dill Pickles, Swiss Cheese and Carolina Gold BBQ sauce. Served in a flour tortilla wrap",
+    "price": "$16.56",
+    "menu_type": "Sandwedges",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Cold Deli Sandwich or 8-inch Sub",
+    "description": "Choice of Roast Beef, Turkey, Corned Beef or Ham. Served with lettuce, tomato, red onion, mayo and choice of a flour tortilla wrap, hoagie roll, white, wheat, or rye",
+    "price": "$16.56",
+    "menu_type": "Sandwedges",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mixed Breed Cheesesteak",
+    "description": "Thinly sliced prime rib topped with onions, peppers, and Cooper Sharp American. Served on a hoagie roll",
+    "price": "$18.63",
+    "menu_type": "Sandwedges",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mixed Breed Bruschetta Cheesesteak",
+    "description": "Grilled chicken topped with tomatoes, pesto, mozzarella, balsamic glaze. Served in a hoagie roll",
+    "price": "$18.63",
+    "menu_type": "Sandwedges",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Cajun Salmon BLT Wrap",
+    "description": "Faroe Island Salmon is seasoned with Cajun spices and Pan Seared, topped with bacon, lettuce, tomato and lemon aioli.  Served in a flour tortilla wrap",
+    "price": "$19.67",
+    "menu_type": "Sandwedges",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Holy Ale • Cream Ale",
+    "description": "Cream Ale | 5.7 % ABV | Mixed Breed Brewery | Draft | 16 oz",
+    "price": "$9.32",
+    "menu_type": "Mixed Breed Beers",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Prost",
+    "description": "Märzen | 5.2 % ABV | Mixed Breed Brewery | Draft | 16 oz",
+    "price": "$9.32",
+    "menu_type": "Mixed Breed Beers",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Not Beer - Raspberry Lime Seltzer",
+    "description": "Hard Seltzer | 4.8 % | Mixed Breed Brewery | Draft | 16 oz",
+    "price": "$9.32",
+    "menu_type": "Mixed Breed Beers",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Middle Aged Golfer",
+    "description": "IPA - New England | 7.5 % | 16 oz | Mixed Breed Brewery",
+    "price": "$9.32",
+    "menu_type": "Mixed Breed Beers",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Bennie Brown",
+    "description": "Brown Ale English | 5.9 % ABV | 16 oz | Mixed Breed Brewery",
+    "price": "$9.32",
+    "menu_type": "Mixed Breed Beers",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Boomski",
+    "description": "Hazy Double IPA | 9 % ABV | 16 oz | Mixed Breed Brewery",
+    "price": "$10.35",
+    "menu_type": "Mixed Breed Beers",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Mixed Breed IPA",
+    "description": "Indian Pale Ale | 6.5 % ABV | 16 oz | Mixed Breed Brewery",
+    "price": "$9.32",
+    "menu_type": "Mixed Breed Beers",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Toast",
+    "description": "Altbier | 4.4 % ABV | 16 oz | Mixed Breed Brewery",
+    "price": "$9.32",
+    "menu_type": "Mixed Breed Beers",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Hand-cut Ribeye",
+    "description": "Broiled to your desired temperature, served with mashed potatoes, sautéed onions, and mushrooms",
+    "price": "$40.37",
+    "menu_type": "The Back Nine Entrées",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Entrées"
+  },
+  {
+    "name": "Chicken Marsala",
+    "description": "Pan seared chicken with mushrooms, shallots, garlic simmered in marsala wine. Served with mashed potatoes and asparagus",
+    "price": "$26.91",
+    "menu_type": "The Back Nine Entrées",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Entrées"
+  },
+  {
+    "name": "Soy Ginger Glazed Salmon",
+    "description": "Pan-seared Faroe Island Salmon glazed with garlic, ginger and soy reduction. Served with broccoli and rice pilaf",
+    "price": "$29.98",
+    "menu_type": "The Back Nine Entrées",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Entrées"
+  },
+  {
+    "name": "Stuffed Sole",
+    "description": "Sole with a blend of seasoned crab and shrimp stuffing. Drizzled with a white wine and lemon-butter Beurre Blanc sauce. Served with rice pilaf and grilled asparagus",
+    "price": "$27.95",
+    "menu_type": "The Back Nine Entrées",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Entrées"
+  },
+  {
+    "name": "Short Rib Bolognese",
+    "description": "Short rib simmered with onions, celery, carrots,red wine, and marinara, tossed with pappardelle pasta",
+    "price": "$26.91",
+    "menu_type": "The Back Nine Entrées",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Entrées"
+  },
+  {
+    "name": "Cajun Ravioli Alfredo",
+    "description": "Andouille Sausage, grilled chicken, and broccoli tossed in a creamy alfredo sauce",
+    "price": "$30.02",
+    "menu_type": "The Back Nine Entrées",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Entrées"
+  },
+  {
+    "name": "Bruschetta Chicken",
+    "description": "Grilled Chicken topped with tomatoes, mozzarella, pesto, and      balsamic glaze. Served with Rice pilaf and asparagus",
+    "price": "$29.98",
+    "menu_type": "The Back Nine Entrées",
+    "restaurant_name": "Mixed Breed Brewing",
+    "restaurant_url": "https://www.vanpattengolf.com/mixed-breed-brewing",
+    "menu_name": "Entrées"
+  }
+]

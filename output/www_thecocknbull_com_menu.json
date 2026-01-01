@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Praline Bacon...",
+    "description": "thick cut Applewood smoked bacon candied with bourbon, brown sugar 'n cane syrup; finished with crushed pecans",
+    "price": "$16",
+    "menu_type": "Opening Acts...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Grilled Sweet Corn Dip...",
+    "description": "",
+    "price": "$16",
+    "menu_type": "Opening Acts...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Baked Brie...",
+    "description": "",
+    "price": "$14",
+    "menu_type": "Opening Acts...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "French Onion Soup...",
+    "description": "spent grain crouton, Provolone 'n Swiss",
+    "price": "$10",
+    "menu_type": "Opening Acts...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Wings...",
+    "description": "by the dozen... buffalo, garlic parmesan, Cajun, Jerk, BBQ, \"The Recipe\"",
+    "price": "$20",
+    "menu_type": "Opening Acts...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Farmhouse Salad...",
+    "description": "rotating seasonal pickins",
+    "price": "$12",
+    "menu_type": "SALADS...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Spinach Salad...",
+    "description": "spinach, bacon, mushrooms, sweet 'n sour vinaigrette, crumbled egg",
+    "price": "$10",
+    "menu_type": "SALADS...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Grilled Delmonico...",
+    "description": "roasted marrow butter",
+    "price": "$54",
+    "menu_type": "Main Stage...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Wild Mushroom Encrusted NY Strip Steak...",
+    "description": "brandy cream reduction",
+    "price": "$44",
+    "menu_type": "Main Stage...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sliced Sirloin...",
+    "description": "grilled Kilcoyne Farms sirloin, served over NightWorks sourdough with sizzling garlic butter",
+    "price": "$32",
+    "menu_type": "Main Stage...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Teriyaki Steak...",
+    "description": "on rice pilaf finished with mustard seed 'n horseradish teriyaki",
+    "price": "$32",
+    "menu_type": "Main Stage...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Adirondack...",
+    "description": "boneless chicken breast stuffed with ham, cheddar and green onions, finished with an apple 'n onion glaze",
+    "price": "$30",
+    "menu_type": "Main Stage...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Pot Pie...",
+    "description": "Smith's sweet corn, Carrot Barn carrots",
+    "price": "$26",
+    "menu_type": "Main Stage...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Charlton Burger...",
+    "description": "pasture raised, local Angus beef from Anderson Acres, bacon 'n sharp cheddar",
+    "price": "$20",
+    "menu_type": "Main Stage...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Enchilada...",
+    "description": "seasoned chicken, caramelized onions 'n sour cream wrapped in a flour tortilla 'n baked with a blend of Mexican cheese",
+    "price": "$19",
+    "menu_type": "Main Stage...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Barnwich...",
+    "description": "boneless chicken breast, bacon, Swiss 'n garlic basil dressing on a hard roll",
+    "price": "$17",
+    "menu_type": "Main Stage...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Grilled Tuna Steak Sandwich...",
+    "description": "with Cajun or wasabi mayo",
+    "price": "$18",
+    "menu_type": "Main Stage...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Spinach Feta Pizza...",
+    "description": "on our homemade spent grain crust",
+    "price": "$18",
+    "menu_type": "Main Stage...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Add mushrooms, onions or horseradish sauce",
+    "description": "",
+    "price": "$2",
+    "menu_type": "Main Stage...",
+    "restaurant_name": "The Cock 'n Bull",
+    "restaurant_url": "https://www.thecocknbull.com/menu",
+    "menu_name": "Menu"
+  }
+]

@@ -1,0 +1,2171 @@
+[
+  {
+    "name": "Lattughella",
+    "description": "Boston lettuce, Gorgonzola, crispy prosciutto, white balsamic vinaigrette",
+    "price": "$16.00",
+    "menu_type": "Insalate",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Cesare",
+    "description": "Wedged romaine, house-crafted Cesare dressing, crostini crumble, Grana Padano",
+    "price": "$15.00",
+    "menu_type": "Insalate",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Romana Cacio e Pepe",
+    "description": "Romaine heart, sliced Grana Padano & pecorino cheese, cracked black pepper, white balsamic vinaigrette",
+    "price": "$15.00",
+    "menu_type": "Insalate",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Rucola Carciofi e Grana",
+    "description": "Grilled artichokes, crisp arugula dressed with olive oil and lemon, shaved Grana Padano",
+    "price": "$16.00",
+    "menu_type": "Insalate",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Erbe Amare",
+    "description": "Veronese & Castelfranco radicchio, arugula, ricotta salata, citrus vinaigrette",
+    "price": "$14.00",
+    "menu_type": "Insalate",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Bruschetta Contadina",
+    "description": "Grilled and toasted housemade ciabatta bread topped with smashed oven roasted tomatoes, shaved Grana Padano",
+    "price": "$16.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Calamaretti Fritti",
+    "description": "Fried calamari, delicately spiced tomato sauce",
+    "price": "$18.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Gamberoni Al Lardo Croccante",
+    "description": "Pan-seared shrimp wrapped with crispy pancetta, cannellini beans, salmoriglio",
+    "price": "$22.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Zuppa Di Pesce",
+    "description": "Assorted seafood, delicately spiced tomato broth",
+    "price": "$28.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "B&B",
+    "description": "Whipped burrata, slow roasted beets, cilantro pesto, toasted salted pepitas",
+    "price": "$19.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Ital-Korean BBQ",
+    "description": "Chianti's own Bulgogi-style marinated beef, a la plancha, grilled polenta",
+    "price": "$23.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Bufala Caprese",
+    "description": "Imported mozzarella di bufala, heirloom tomatoes, prosciutto, basil oil",
+    "price": "$24.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Scarola, Alici e Fagioli",
+    "description": "Sautéed escarole, garlic and oil, gently salted Italian anchovies, cannellini beans, crostoni",
+    "price": "$18.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Classico",
+    "description": "Thinly sliced filet, Grana Padano, arugula, lemon, capers",
+    "price": "$22.00",
+    "menu_type": "Carpacci",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Del Chianti",
+    "description": "Thinly sliced filet, Gorgonzola fondue, truffle oil",
+    "price": "$22.00",
+    "menu_type": "Carpacci",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Michelangelo",
+    "description": "Thinly sliced pepper crusted filet over arugula, goat cheese, truffle salt",
+    "price": "$24.00",
+    "menu_type": "Carpacci",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Grande",
+    "description": "Sharing portion, choose from Del Chianti or Classico",
+    "price": "$32.00",
+    "menu_type": "Carpacci",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Capellini Alla Checca",
+    "description": "Angel hair, garlic, diced tomatoes, basil, olive oil",
+    "price": "$24.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Mezzanine Alla Vodka",
+    "description": "Penne, fresh tarragon, prosciutto, vodka pink sauce",
+    "price": "$23.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Penne Senesi",
+    "description": "Penne, sautéed spinach \"aglio e olio\", Gorgonzola, crushed red pepper flakes, breadcrumbs, toasted almonds",
+    "price": "$24.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Spaghetti Oro di Cabras",
+    "description": "Artisanal spaghetti, sautéed scallops, baby clams, white wine, garlic, and oil, a touch of spice, and \"bottarga \"seasoning",
+    "price": "$35.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Capellini Salsa Aragosta",
+    "description": "Angel hair, shrimp, lobster grappa reduction, touch of cream",
+    "price": "$28.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Orecchiette alla Norma",
+    "description": "Orechiette, sautéed eggplant, sausage, mozzarella, crushed tomato",
+    "price": "$26.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Spaghetti Ai Frutti Di Mare",
+    "description": "Thin spaghetti, assorted seafood, olive oil, garlic, lightly spiced tomato sauce",
+    "price": "$36.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Ragu Porchettato",
+    "description": "Orecchiette, handcut pork shoulder and guanciale ragu, pecorino",
+    "price": "$26.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Paccheri Calabrese",
+    "description": "Artisanal crafted Paccheri noodles, house-made sausage, spicy Calabrian 'nduja, burrata, tomato",
+    "price": "$29.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Tagliatelle Bolognese",
+    "description": "House-made fettucine, beef bolognese ragù",
+    "price": "$26.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Tomarelli Cacio e Pepe",
+    "description": "House-made spaghetti, pecorino and Grana Padano fondue, black pepper",
+    "price": "$25.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Risotto Amarone",
+    "description": "Seared scallops, Veronese style, red wine, Grana Padano, shallots, crispy prosciutto",
+    "price": "$29.00",
+    "menu_type": "Risotto",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Risotto Con Funghi",
+    "description": "Medley of oyster, porcini, honey mushrooms \"Trifolati,\" Grana Padano",
+    "price": "$28.00",
+    "menu_type": "Risotto",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Risotto De'Medici",
+    "description": "Filet mignon bites, truffle oil, Grana Padano, rosemary",
+    "price": "$29.00",
+    "menu_type": "Risotto",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Filetto",
+    "description": "Served with a seasonal selection of accompaniments",
+    "price": "$55.00",
+    "menu_type": "Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Filetto",
+    "description": "Beef tenderloin, choice of brandied green peppercorn sauce or gorgonzola fondue",
+    "price": "$55.00",
+    "menu_type": "Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Magretto All' Amarena",
+    "description": "Roasted Hudson Valley duck breast,amarena and chianti glaze",
+    "price": "$43.00",
+    "menu_type": "Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Biancostato Savoia",
+    "description": "Braised boneless beef short rib, mirepoix, red wine, Italian herbs, served with polenta & vegetable of the day",
+    "price": "$43.00",
+    "menu_type": "Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Maialino Casereccio",
+    "description": "Center-cut pork tenderloin, pan-roasted, coated with butcher spices, rosemary, sage, garlic, nutmeg, white wine glaze",
+    "price": "$38.00",
+    "menu_type": "Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Costolette di Agnello",
+    "description": "Colorado lamb chops, balsamic shallots agrodolce",
+    "price": "$52.00",
+    "menu_type": "Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Pesce Del Giorno",
+    "description": "Fresh catch of the day",
+    "price": "M. P.",
+    "menu_type": "Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Dry-Aged Chianti Select",
+    "description": "Chianti's dry-aged steaks. Check with your server for availability",
+    "price": "M. P.",
+    "menu_type": "Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Negroni",
+    "description": "Gin, Carpano Antica Vermouth, Orange Wheel, Dash of Bitters",
+    "price": "$14.00",
+    "menu_type": "The Classics",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Aperol Spritz",
+    "description": "Aperol, Lamberti Prosecco, Orange Wheel",
+    "price": "$14.00",
+    "menu_type": "The Classics",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "The Spicy Marg",
+    "description": "Cucumber Jalapeno Tequila, Lime Juice, Agave, Ancho Reyes Liqueur, Ginger Beer, Lime",
+    "price": "$15.00",
+    "menu_type": "The Classics",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "The Espresso Martini",
+    "description": "Espresso Vodka, Vanilla Vodka, Coffee Liqueur, Chocolate Liqueur, Fresh Espresso",
+    "price": "$16.00",
+    "menu_type": "The Classics",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Bold Fashioned",
+    "description": "Bulliet Bourbon, Amarena Cherry, Simple Syrup, Bitters, Orange Peel",
+    "price": "$16.00",
+    "menu_type": "The Classics",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Limon Spritz",
+    "description": "Limoncello, Prosecco, Lemon Twist",
+    "price": "$15.00",
+    "menu_type": "Champagne Cocktails",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Il Hugo",
+    "description": "Gin, Elderflower Liqueur, Prosecco, Mint",
+    "price": "$15.00",
+    "menu_type": "Champagne Cocktails",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Holiday Punch",
+    "description": "Orange Vodka, Cabernet, Dark Cherry Juice, Simple Syrup",
+    "price": "$14.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Sweet & Smokey",
+    "description": "Mezcal, Cointreau, Orange Bitters, Dark Cherry Juice",
+    "price": "$16.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Spiced Fashioned",
+    "description": "Redemption Bourbon, Orange Bitters, Gingerbread Syrup",
+    "price": "$16.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Poma-Tini",
+    "description": "Vodka, Pomegranate Liqueur, Orange Liqueur, Lemon Twist",
+    "price": "$15.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Gingernog Martini",
+    "description": "Captain Morgan, Vanilla Vodka, Irish Cream, Gingerbread Syrup",
+    "price": "$15.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Snowed In",
+    "description": "Coconut Rum, White Chocolate Liqueur, Coconut Cream, Pineapple Juice",
+    "price": "$14.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Arctic Bloom",
+    "description": "Empress Elderflower Rose Gin, White Cranberry Juice, Simple Syrup, Prosecco",
+    "price": "$15.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Italian Paloma",
+    "description": "21 Seeds Grapefruit Hibiscus Tequila, Aperol, Pineapple Juice, Club Soda",
+    "price": "$14.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Spiked Apple Pie",
+    "description": "Crown Royal Apple, Lemon Sweet & Sour, Cinnamon Sugar Rim",
+    "price": "$16.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Cherry Citrus Frost",
+    "description": "Dark Cherry Juice, Orange Juice, Choice of: Club Soda or Sprite",
+    "price": "$8.00",
+    "menu_type": "Mocktails",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Ivory Ginger Spark",
+    "description": "White Cranberry Juice, Ginger Beer, Lime Juice",
+    "price": "$8.00",
+    "menu_type": "Mocktails",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Bar"
+  },
+  {
+    "name": "Lattughella",
+    "description": "Boston lettuce, white balsamic vinaigrette, crumbled gorgonzola, crispy prosciutto",
+    "price": "$10.00",
+    "menu_type": "Bar Insalata",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Romana Cacio e Pepe",
+    "description": "Romaine heart, sliced Grana Padano & pecorino cheese, cracked black pepper, white balsamic vinaigrette",
+    "price": "$10.00",
+    "menu_type": "Bar Insalata",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Carpaccio Del Chianti",
+    "description": "Thinly sliced filet, gorgonzola fondue, truffle oil",
+    "price": "$11.00",
+    "menu_type": "Bar Carpaccio",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Carpaccio Classico",
+    "description": "Thinly sliced filet, Grana Padano, arugula, lemon, capers",
+    "price": "$11.00",
+    "menu_type": "Bar Carpaccio",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "IL Canto Del Gallo",
+    "description": "Braised short rib tips, baked egg sunny side up, cayenne & roasted garlic aioli",
+    "price": "$10.00",
+    "menu_type": "Bar Stuzzichini",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Maialino Scotatto",
+    "description": "Bites of pork tenderloin, marinated in olive oil, paprika, garlic, lemon, dash of cayenne, canellini beans",
+    "price": "$12.00",
+    "menu_type": "Bar Stuzzichini",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Mezzo Calamari",
+    "description": "Calamari rings and tentacles, spicy marinara, lemon",
+    "price": "$12.00",
+    "menu_type": "Bar Stuzzichini",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Bistecchina",
+    "description": "4oz NY Strip Steak, red wine, shallots, braised Turkish figs",
+    "price": "$13.00",
+    "menu_type": "Bar Stuzzichini",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Pizza Fritta Montanara",
+    "description": "Neapolitan traditional fried pizza, pomodoro, burrata",
+    "price": "$8.00",
+    "menu_type": "Bar Stuzzichini",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Chianti Street Tacos",
+    "description": "(2) Hand-made heirloom blue corn tortillas, braised short rib, poblano-tomatillo salsa, radicchio Chiffonade, ricotta salata",
+    "price": "$10.00",
+    "menu_type": "Bar Stuzzichini",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Mezzanine Alla Vodka",
+    "description": "Penne, fresh tarragon, prosciutto, pink sauce",
+    "price": "$12.00",
+    "menu_type": "Bar Pasta",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Spaghetti Al Pomodoro",
+    "description": "Thin spaghetti, crushed tomato sauce, basil",
+    "price": "$12.00",
+    "menu_type": "Bar Pasta",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "description": "Thin spaghetti, filet bolognese sauce",
+    "price": "$13.00",
+    "menu_type": "Bar Pasta",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Fetzer Chardonnay",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "Vini",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Melini Chianti",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "Vini",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Ca'Donini Pinot Grigio",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "Vini",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Ca'Donini Cabernet Sauvignon",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "Vini",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Cosmpolitan",
+    "description": "Vodka, triple sec, splash of cranberry juice",
+    "price": "$10.00",
+    "menu_type": "Bevande",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Margarita",
+    "description": "Tequila, cointreau, lime, agave, salted rim",
+    "price": "$10.00",
+    "menu_type": "Bevande",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Aperol Spritz",
+    "description": "Aperol, prosecco, oranges wheel, skewered olives",
+    "price": "$10.00",
+    "menu_type": "Bevande",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Raspberry Lemon Drop",
+    "description": "Raspberry Vodka, Chambord, Lemon Juice",
+    "price": "$10.00",
+    "menu_type": "Bevande",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Negroni",
+    "description": "Gin, Campari, Antica Vermouth, orange wheel, dash of bitters",
+    "price": "$11.00",
+    "menu_type": "Bevande",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Crisp Orchard Sangria",
+    "description": "Raspberry Vodka, Chambord, Lemon Juice",
+    "price": "$10.00",
+    "menu_type": "Bevande",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Spiked Apple Pie",
+    "description": "Crown Royal Apple, Lemon Sweet & Sour, Cinnamon Sugar Rim",
+    "price": "$10.00",
+    "menu_type": "Bevande",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Seasonal IPA",
+    "description": "Ask your server or bartender about our current beer selection",
+    "price": "$6.00",
+    "menu_type": "Birra",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Seasonal IPA",
+    "description": "Rotating seasonal IPA draft",
+    "price": "$6.00",
+    "menu_type": "Birra",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "RicharDZ Brew",
+    "description": "Beer with a purpose. A West Coast IPA, pale and bright with intense aromatics and hop flavor, brewed in collaboration with Wolf Hollow Brewing Company. Proceeds from this beer will benefit the Richard Bambara Memorial Fund at Albany Med",
+    "price": "$6.00",
+    "menu_type": "Birra",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Aperitivo"
+  },
+  {
+    "name": "Italiana Moderna",
+    "description": "House-made blend of arugula, radicchio, roasted quinoa, lemon juice, olive oil, shaved Ricotta Salata",
+    "price": "$60.00",
+    "menu_type": "Antipasti E Insalate",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Lattughella",
+    "description": "Boston lettuce, gorgonzola, crispy prosciutto, white balsamic vinaigrette",
+    "price": "$65.00",
+    "menu_type": "Antipasti E Insalate",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Bruschetta Contadina",
+    "description": "Grilled and toasted housemade ciabatta bread topped with smashed oven roasted tomatoes, shaved Grana Padano",
+    "price": "$60.00",
+    "menu_type": "Antipasti E Insalate",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Gamberoni Al Lardo Croccante",
+    "description": "Pan-seared shrimp wrapped with crispy pancetta, cannellini beans, salmoriglio",
+    "price": "$85.00",
+    "menu_type": "Antipasti E Insalate",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Mezzanine Alla Vodka",
+    "description": "Penne, fresh tarragon, prosciutto, vodka pink sauce",
+    "price": "$85.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Orecchiette Alla Norma",
+    "description": "Penne, sautéed eggplant, sausage, mozzarella, crushed tomato",
+    "price": "$85.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Penne Pomodoro",
+    "description": "Penne, crushed tomato, basil rustic sauce",
+    "price": "$75.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Bolognese",
+    "description": "Orecchiette, filet bolognese sauce",
+    "price": "$90.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Penne Senesi",
+    "description": "Penne, wilted spinach \"aglio e olio\", gorgonzola, crushed red pepper flakes, breadcrumbs, toasted almonds",
+    "price": "$80.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Penne Alla Checca",
+    "description": "Penne, garlic, roasted cherry tomatoes, basil, olive oil",
+    "price": "$75.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Chicken Limone",
+    "description": "Roasted lemon chicken, rosemary, shallots",
+    "price": "$90.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Ragu Porchettato",
+    "description": "Orecchiette, hand-cut pork shoulder and guanciale ragu, pecorino",
+    "price": "$90.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Penne Aragosta",
+    "description": "Penne, shrimp in a lobster grappa reduction, touch of cream",
+    "price": "$115.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Filetto",
+    "description": "Beef tenderloin, choice of brandied green peppercorn sauce or gorgonzola fondue",
+    "price": "MP",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Pesce Del Giorni",
+    "description": "Fish of the day",
+    "price": "MP",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Patate Del Giorno",
+    "description": "Potato of the day",
+    "price": "$50.00",
+    "menu_type": "Sides",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Vegetali Del Giorno",
+    "description": "Vegetables of the day",
+    "price": "$50.00",
+    "menu_type": "Sides",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Tiramisu",
+    "description": "Artisanal prepped tiramisu",
+    "price": "$60.00",
+    "menu_type": "Dolci",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "Profitteroles Al Cioccolato",
+    "description": "Puff pastry filled with vanilla cream covered in chocolate ganache",
+    "price": "$60.00",
+    "menu_type": "Dolci",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "DZ at Home"
+  },
+  {
+    "name": "'20 Dolcetto D'Alba, Pertinace",
+    "description": "Bin 151",
+    "price": "$42.00",
+    "menu_type": "Piemonte",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Nebbiolo, Podere Ruggeri Corsini",
+    "description": "Bin 160",
+    "price": "$52.00",
+    "menu_type": "Piemonte",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Barbera D'Alba, Podere Ruggeri Corsini \"Armujan\"",
+    "description": "Bin 162",
+    "price": "$65.00",
+    "menu_type": "Piemonte",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Barolo, Gianni Gagliardo",
+    "description": "Bin 164",
+    "price": "$125.00",
+    "menu_type": "Piemonte",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'20 Barbaresco, Pertinace",
+    "description": "Bin 165",
+    "price": "$94.00",
+    "menu_type": "Piemonte",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Barolo, Podere Ruggeri Corsini, \"San Pietro\"",
+    "description": "Bin 170",
+    "price": "$105.00",
+    "menu_type": "Piemonte",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'20 Barolo, Podere Ruggeri Corsini \"Bussia\"",
+    "description": "Bin 172",
+    "price": "$130.00",
+    "menu_type": "Piemonte",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Barolo, Pio Cesare",
+    "description": "Bin 180",
+    "price": "$180.00",
+    "menu_type": "Piemonte",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Barbera Del Monferrato \"Maraia\"",
+    "description": "Bin 185",
+    "price": "$45.00",
+    "menu_type": "Piemonte",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Valpolicella Ripasso, Santi Solane",
+    "description": "Bin 202",
+    "price": "$45.00",
+    "menu_type": "Veneto",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'20 Valpolicella Superiore, Santi Ventale",
+    "description": "Bin 203",
+    "price": "$48.00",
+    "menu_type": "Veneto",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Amarone della Valpolicella, Santi \"Santico\"",
+    "description": "Bin 210",
+    "price": "$92.00",
+    "menu_type": "Veneto",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Orzada \"Odfjell\", Chile",
+    "description": "Bin 213",
+    "price": "$50.00",
+    "menu_type": "Veneto",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'16 Amarone Sartori \"Corte Bra\"",
+    "description": "Bin 220",
+    "price": "$120.00",
+    "menu_type": "Veneto",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Amarone Masi \"Costasera\"",
+    "description": "Bin 224",
+    "price": "$130.00",
+    "menu_type": "Veneto",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Classico, Calvo",
+    "description": "Bin 250",
+    "price": "$39.00",
+    "menu_type": "Chianti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Superiore, Antinori \"Santa Cristina\"",
+    "description": "Bin 253",
+    "price": "$42.00",
+    "menu_type": "Chianti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'23 Superiore, Ruffino",
+    "description": "Bin 254",
+    "price": "$48.00",
+    "menu_type": "Chianti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Classico, Poderi Melini \"Granaio Vineyard\"",
+    "description": "Bin 261",
+    "price": "$50.00",
+    "menu_type": "Chianti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Classico Riserva, Tenuta Di Nozzole",
+    "description": "Bin 268",
+    "price": "$58.00",
+    "menu_type": "Chianti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Classico, Fattorie Melini \"La Selvanella\"",
+    "description": "Bin 270",
+    "price": "$68.00",
+    "menu_type": "Chianti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'20 Classico Riserva, Tenuta Di Monsanto",
+    "description": "Bin 275",
+    "price": "$70.00",
+    "menu_type": "Chianti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Classico Riserva Ruffino \"Ducale Gold\"",
+    "description": "Bin 284",
+    "price": "$110.00",
+    "menu_type": "Chianti",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'23 Rosso, Fattoria dei Barbi",
+    "description": "Bin 300",
+    "price": "$64.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'23 Rosso, Castello Banfi",
+    "description": "Bin 304",
+    "price": "$60.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Rosso, Il Poggione",
+    "description": "Bin 313",
+    "price": "$75.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'18 Brunello, Le Chiuse",
+    "description": "Bin 317",
+    "price": "$195.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Brunello, Fattoria dei Barbi",
+    "description": "Bin 318",
+    "price": "$145.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Brunello, Castello Banfi",
+    "description": "Bin 322",
+    "price": "$175.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'18 Brunello, Castelgiocondo",
+    "description": "Bin 323",
+    "price": "$170.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'17 Brunello, Il Poggione",
+    "description": "Bin 324",
+    "price": "$180.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'18 Brunello, Il Poggione",
+    "description": "Bin 326",
+    "price": "$190.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Brunello, Il Poggione",
+    "description": "Bin 327",
+    "price": "$190.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'10 Brunello, Renieri Invetro",
+    "description": "Bin 800",
+    "price": "$250.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'10 Brunello, Argiano",
+    "description": "Bin 802",
+    "price": "$300.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'10 Brunello, Il Poggione",
+    "description": "Bin 803",
+    "price": "$280.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'10 Brunello, Le Chiuse",
+    "description": "Bin 804",
+    "price": "$330.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'10 Brunello, Castello Banfi",
+    "description": "Bin 805",
+    "price": "$110.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'18 Brunello, Argiano",
+    "description": "Bin 808",
+    "price": "$185.00",
+    "menu_type": "Montalcino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'14 Barolo Del Comune di Barolo",
+    "description": "Bin 441",
+    "price": "$140.00",
+    "menu_type": "Marchesi di Barolo Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'16 Barolo Del Comune di Barolo",
+    "description": "Bin 443",
+    "price": "$160.00",
+    "menu_type": "Marchesi di Barolo Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'18/'20 Marchesi Di Barolo Tradizione",
+    "description": "Bin 166",
+    "price": "$125.00",
+    "menu_type": "Marchesi di Barolo Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Pinot Nero Glener, Castelfeder, Alto Adige",
+    "description": "Bin 244",
+    "price": "$71.00",
+    "menu_type": "Trentino",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Montepulciano, Arché",
+    "description": "Bin 336",
+    "price": "$42.00",
+    "menu_type": "Abruzzo",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Montepulciano, Barone \"Cornacchia\"",
+    "description": "Bin 338",
+    "price": "$42.00",
+    "menu_type": "Abruzzo",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Renieri Invetro",
+    "description": "Bin 360",
+    "price": "$48.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'20 Castello di Monsanto Monrosso",
+    "description": "Bin 362",
+    "price": "$48.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 La Mozza I Perazzi Sangiovese",
+    "description": "Bin 363",
+    "price": "$49.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'20 Sempre Ricordare Due Uve",
+    "description": "Bin 365",
+    "price": "$68.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Querciabella Mongrana",
+    "description": "Bin 367",
+    "price": "$66.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Castello Banfi Cum Laude",
+    "description": "Bin 368",
+    "price": "$95.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'15 Lanciola Terricci",
+    "description": "Bin 370",
+    "price": "$110.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Tenuta di Biserno \"Il Pino di Biserno\"",
+    "description": "Bin 372",
+    "price": "$120.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Castello Banfi Summus",
+    "description": "Bin 373",
+    "price": "$140.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'17 Tenuta San Guido Sassicaia",
+    "description": "Bin 385",
+    "price": "$400.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'18 Tenuta San Guido Sassicaia",
+    "description": "Bin 387",
+    "price": "$410.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Tenuta San Guido Sassicaia",
+    "description": "Bin 389",
+    "price": "$425.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'20 Tenuta San Guido Sassicaia",
+    "description": "Bin 390",
+    "price": "$425.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Tenuta San Guido Sassicaia",
+    "description": "Bin 391",
+    "price": "$450.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'98 Ornellaia",
+    "description": "Bin 392",
+    "price": "$600.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'97 Solaia Marchesi Antinori",
+    "description": "Bin 394",
+    "price": "$700.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Tignanello",
+    "description": "Bin 397",
+    "price": "$330.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Tenuta San Guido Sassicaia",
+    "description": "Bin 398",
+    "price": "$440.00",
+    "menu_type": "Toscana",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'23 Primitivo, Castello Monaci \"Piluna\"",
+    "description": "Bin 400",
+    "price": "$45.00",
+    "menu_type": "Puglia",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Cannonau, Pedres",
+    "description": "Bin 407",
+    "price": "$44.00",
+    "menu_type": "Sardegna",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'17 Red Blend, Agricola Punica \"Barrua\"",
+    "description": "Bin 408",
+    "price": "$95.00",
+    "menu_type": "Sardegna",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'20 Syrah, Rapitala \"Nadir\"",
+    "description": "Bin 409",
+    "price": "$45.00",
+    "menu_type": "Sicilia",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'23 Nero D'Avola, Rapitala \"Alto Reale\"",
+    "description": "Bin 410",
+    "price": "$50.00",
+    "menu_type": "Sicilia",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Etna Rosso, Monteleone",
+    "description": "Bin 411",
+    "price": "$62.00",
+    "menu_type": "Sicilia",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'13 Sori' Tildin, Piemonte",
+    "description": "Bin 434",
+    "price": "$950.00",
+    "menu_type": "Angelo Gaja Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'14 Sori' San Lorenzo, Piemonte",
+    "description": "Bin 435",
+    "price": "$1,000.00",
+    "menu_type": "Angelo Gaja Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 MacMurray, Central Coast, CA",
+    "description": "Bin 652",
+    "price": "$49.00",
+    "menu_type": "Pinot Noir",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Black Magnolia, Willamette Valley, OR",
+    "description": "Bin 653",
+    "price": "$53.00",
+    "menu_type": "Pinot Noir",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Laetitia Estate, Santa Barbara County, CA",
+    "description": "Bin 654",
+    "price": "$53.00",
+    "menu_type": "Pinot Noir",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'23 Hess \"Shirtail Ranches,\" Central Coast, CA",
+    "description": "Bin 655",
+    "price": "$54.00",
+    "menu_type": "Pinot Noir",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'23 J. Lohr \"Fog's Reach,\" Arroyo Seco, CA",
+    "description": "Bin 662",
+    "price": "$70.00",
+    "menu_type": "Pinot Noir",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Bethel Heights, Eola-Amily Hills, OR",
+    "description": "Bin 672",
+    "price": "$99.00",
+    "menu_type": "Pinot Noir",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'20 Las Alturas \"Belle Glos,\" Monterey, CA",
+    "description": "Bin 674",
+    "price": "$105.00",
+    "menu_type": "Pinot Noir",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Merry Edwards, Russian River Valley, CA",
+    "description": "Bin 675",
+    "price": "$130.00",
+    "menu_type": "Pinot Noir",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Lavinea, Eola-Amily Hills, OR",
+    "description": "Bin 677",
+    "price": "$100.00",
+    "menu_type": "Pinot Noir",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Belasco Llama \"Old Vine,\" Agrelo, Argentina",
+    "description": "Bin 504",
+    "price": "$39.00",
+    "menu_type": "Malbec",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'24 Cuma \"Organic,\" Salta, Argentina",
+    "description": "Bin 506",
+    "price": "$38.00",
+    "menu_type": "Malbec",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Terrazas \"Reserva,\" Mendoza, Argentina",
+    "description": "Bin 507",
+    "price": "$56.00",
+    "menu_type": "Malbec",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Hess \"Lion Tamer,\" Napa, CA",
+    "description": "Bin 478",
+    "price": "$95.00",
+    "menu_type": "Blends / Meritage",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Orin Swift \"Papillon,\" Napa, CA",
+    "description": "Bin 479",
+    "price": "$165.00",
+    "menu_type": "Blends / Meritage",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'15 Boyanci, Napa, CA",
+    "description": "Bin 481",
+    "price": "$140.00",
+    "menu_type": "Blends / Meritage",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Bordeaux Blend, Dominus \"Napanook,\" Napa, CA",
+    "description": "Bin 482",
+    "price": "$210.00",
+    "menu_type": "Blends / Meritage",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'94 Red Blend, Vega Sicilia \"Unico,\" Ribera del Duero",
+    "description": "Bin 463",
+    "price": "$500.00",
+    "menu_type": "Spain",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'23 Beaujolais Villages, Louis Jadot, Burgundy",
+    "description": "Bin 465",
+    "price": "$46.00",
+    "menu_type": "France",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Moulin A-Vent, Chateau St. Jacques, Burgundy",
+    "description": "Bin 467",
+    "price": "$70.00",
+    "menu_type": "France",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'20 Gevrey Chambertin, Dom Faiveley, Burgundy",
+    "description": "Bin 470",
+    "price": "$135.00",
+    "menu_type": "France",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'17 Domaine Faiveley Pommard 1er Cru, Les Rugiens Burgundy",
+    "description": "Bin 471",
+    "price": "$280.00",
+    "menu_type": "France",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'15 Pauillac, Chateau Lynch Bages, Bordeaux",
+    "description": "Bin 476",
+    "price": "$300.00",
+    "menu_type": "France",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Twenty Rows, North Coast, CA",
+    "description": "Bin 558",
+    "price": "$54.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Hess \"Allomi,\" Napa, CA",
+    "description": "Bin 562",
+    "price": "$85.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 The Calling, Alexander Valley, CA",
+    "description": "Bin 564",
+    "price": "$75.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Robert Mondavi, Napa, CA",
+    "description": "Bin 575",
+    "price": "$96.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Ellman \"Jemma\", Napa, CA",
+    "description": "Bin 580",
+    "price": "$480.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Sequoia Grove, Napa, CA",
+    "description": "Bin 590",
+    "price": "$120.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 O'Shaughnessy, Napa, CA",
+    "description": "Bin 595",
+    "price": "$180.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Frank Family, Napa, CA",
+    "description": "Bin 600",
+    "price": "$128.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Heitz Cellar, Napa, CA",
+    "description": "Bin 612",
+    "price": "$150.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Cakebread, Napa, CA",
+    "description": "Bin 618",
+    "price": "$165.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Caymus, Napa, CA",
+    "description": "Bin 619",
+    "price": "$210.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Chimney Rock, Napa, CA",
+    "description": "Bin 620",
+    "price": "$230.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'17 Melka, Napa, CA",
+    "description": "Bin 624",
+    "price": "$150.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Nickel & Nickel \"Branding Iron,\" Oakville, CA",
+    "description": "Bin 628",
+    "price": "$210.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Cade, Napa, CA",
+    "description": "Bin 633",
+    "price": "$275.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 PlumpJack, Napa, CA",
+    "description": "Bin 637",
+    "price": "$300.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'15 La Sirena, Napa, CA",
+    "description": "Bin 639",
+    "price": "$280.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Robert Craig \"Howell Mountain,\" Napa, CA",
+    "description": "Bin 641",
+    "price": "$230.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'18 Patrimony, Paso Robles, CA",
+    "description": "Bin 644",
+    "price": "$425.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 PlumpJack, Napa, CA",
+    "description": "Bin 647",
+    "price": "$320.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'06 Shafer \"Hillside Select,\" Stag Leap, CA",
+    "description": "Bin 648",
+    "price": "$375.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Monte Bello, Santa Cruz CA",
+    "description": "Bin 649",
+    "price": "$440.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'07 Lewis Cellars, Napa, CA",
+    "description": "Bin 650",
+    "price": "$200.00",
+    "menu_type": "Cabernet Sauvignon",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Zinfandel, The Federalist, Lodi, CA",
+    "description": "Bin 684",
+    "price": "$42.00",
+    "menu_type": "Other Reds",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'22 Zinfandel, Baca \"Double Dutch,\" Paso Robles, CA",
+    "description": "Bin 688",
+    "price": "$70.00",
+    "menu_type": "Other Reds",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Merlot, Kunde, Sonoma Valley, CA",
+    "description": "Bin 704",
+    "price": "$48.00",
+    "menu_type": "Other Reds",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'19 Merlot, Chateau St. Michelle, \"Indian Wells,\" Woodinville, WA",
+    "description": "Bin 705",
+    "price": "$56.00",
+    "menu_type": "Other Reds",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'21 Merlot, Cakebread, Napa, CA",
+    "description": "Bin 736",
+    "price": "$135.00",
+    "menu_type": "Other Reds",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'20 Syrah, Montes Alpha, Colchagua, Chile",
+    "description": "Bin 755",
+    "price": "$58.00",
+    "menu_type": "Other Reds",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'08 Chateau Montelena, Napa, CA",
+    "description": "Cabernet Sauvignon",
+    "price": "$200.00",
+    "menu_type": "The Montelena Estate",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'08 Chateau Montelena, Napa, CA",
+    "description": "Bin 900",
+    "price": "$200.00",
+    "menu_type": "The Montelena Estate",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'09 Chateau Montelena, Napa, CA",
+    "description": "Bin 901",
+    "price": "$200.00",
+    "menu_type": "The Montelena Estate",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'10 Chateau Montelena, Napa, CA",
+    "description": "Bin 902",
+    "price": "$200.00",
+    "menu_type": "The Montelena Estate",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'11 Chateau Montelena, Napa, CA",
+    "description": "Bin 903",
+    "price": "$200.00",
+    "menu_type": "The Montelena Estate",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'01 Opus One, Napa, CA",
+    "description": "Cabernet Sauvignon",
+    "price": "$485.00",
+    "menu_type": "Opus One Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'01 Opus One, Napa, CA",
+    "description": "Bin 810",
+    "price": "$485.00",
+    "menu_type": "Opus One Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'05 Opus One, Napa, CA",
+    "description": "Bin 814",
+    "price": "$420.00",
+    "menu_type": "Opus One Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'02 Joseph Phelps \"Insignia,\" Napa, CA",
+    "description": "Cabernet Sauvignon",
+    "price": "$530.00",
+    "menu_type": "Joseph Phelps Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'02 Joseph Phelps \"Insignia,\" Napa, CA",
+    "description": "Bin 818",
+    "price": "$530.00",
+    "menu_type": "Joseph Phelps Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'07 Joseph Phelps \"Insignia,\" Napa, CA",
+    "description": "Bin 820",
+    "price": "$600.00",
+    "menu_type": "Joseph Phelps Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'08 Joseph Phelps \"Insignia,\" Napa, CA",
+    "description": "Bin 822",
+    "price": "$500.00",
+    "menu_type": "Joseph Phelps Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'08 Larkmead, Napa, CA",
+    "description": "Cabernet Sauvignon",
+    "price": "$240.00",
+    "menu_type": "Larkmead Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'08 Larkmead, Napa, CA",
+    "description": "Bin 832",
+    "price": "$240.00",
+    "menu_type": "Larkmead Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'08 Larkmead \"Firebelle,\" Napa, CA",
+    "description": "Bin 834",
+    "price": "$240.00",
+    "menu_type": "Larkmead Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  },
+  {
+    "name": "'09 Larkmead, Napa, CA",
+    "description": "Bin 836",
+    "price": "$240.00",
+    "menu_type": "Larkmead Collection",
+    "restaurant_name": "Chianti Ristorante",
+    "restaurant_url": "https://chiantiristorante.com/",
+    "menu_name": "Wine"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Starbucks",
+    "description": "",
+    "price": "$2.9",
+    "menu_type": "Menu",
+    "image_url": "https://www.coffeeplanetcafe.com/file/2018/08/starbucks-2346226_1920.jpg",
+    "restaurant_name": "Coffee Planet Cafe",
+    "restaurant_url": "https://www.coffeeplanetcafe.com/menu-2/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cuban Espresso",
+    "description": "",
+    "price": "$2",
+    "menu_type": "Menu",
+    "image_url": "https://www.coffeeplanetcafe.com/file/2018/08/batten-101775_1920.jpg",
+    "restaurant_name": "Coffee Planet Cafe",
+    "restaurant_url": "https://www.coffeeplanetcafe.com/menu-2/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Wiener Melange",
+    "description": "",
+    "price": "$3.9",
+    "menu_type": "Menu",
+    "image_url": "https://www.coffeeplanetcafe.com/file/2018/08/laura-johnston-637779-unsplash.jpg",
+    "restaurant_name": "Coffee Planet Cafe",
+    "restaurant_url": "https://www.coffeeplanetcafe.com/menu-2/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Macchiato Latte",
+    "description": "",
+    "price": "$2.8",
+    "menu_type": "Menu",
+    "image_url": "https://www.coffeeplanetcafe.com/file/2018/08/coffee-late.jpg",
+    "restaurant_name": "Coffee Planet Cafe",
+    "restaurant_url": "https://www.coffeeplanetcafe.com/menu-2/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Vanilla ice coffee",
+    "description": "",
+    "price": "$3.9",
+    "menu_type": "Menu",
+    "image_url": "https://www.coffeeplanetcafe.com/file/2018/08/coffee-2156474_1920.jpg",
+    "restaurant_name": "Coffee Planet Cafe",
+    "restaurant_url": "https://www.coffeeplanetcafe.com/menu-2/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Ice Coffee",
+    "description": "",
+    "price": "$1.5",
+    "menu_type": "Menu",
+    "image_url": "https://www.coffeeplanetcafe.com/file/2018/08/iced-coffee-51051_1920.jpg",
+    "restaurant_name": "Coffee Planet Cafe",
+    "restaurant_url": "https://www.coffeeplanetcafe.com/menu-2/",
+    "menu_name": "Menu"
+  }
+]
