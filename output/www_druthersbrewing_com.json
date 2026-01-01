@@ -1,0 +1,1379 @@
+[
+  {
+    "name": "FISH AND CHIPS",
+    "description": "beer-battered haddock, fries, house tartar and cocktail sauces, lemon, scallions",
+    "price": "$21.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "STEAK FRITES (GF)",
+    "description": "eight ounce tenderloin medallions, hand-cut fries, chimichurri, garlic butter steak sauce",
+    "price": "$38.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "CHICKEN POT PIE",
+    "description": "house gravy, mixed root vegetables, crumbled cheddar-scallion biscuit topping",
+    "price": "$24.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "THE BURGER",
+    "description": "wagyu blend, double patties, double american cheese, pickles, crispy onions, burger sauce",
+    "price": "$21.00 / Add Extra Patty $4 / Add Chopped Bacon $3 / Add Fried Egg $2 / Add Candied Jalapeños $3",
+    "menu_type": "Our Burgers",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "Veggie Burger (V)",
+    "description": "house-made black bean/quinoa veggie patty, muenster, lettuce, tomato, onion, special sauce",
+    "price": "$16.00",
+    "menu_type": "Our Burgers",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "DRUTHERBIRD FRIED CHICKEN",
+    "description": "buttermilk fried chicken, muenster, dill pickle rounds, coleslaw, jalapeño ranch",
+    "price": "$18.00",
+    "menu_type": "Sandwiches",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "LOADED GRILLED CHEESE",
+    "description": "grilled chicken, crispy bacon, cheddar, muenster, carolina bbq, ranch, sourdough",
+    "price": "$18.00",
+    "menu_type": "Sandwiches",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "GOBBLER",
+    "description": "house-roasted turkey breast, stuffing, cranberry, muenster, turkey gravy, griddled baguette",
+    "price": "$19.00",
+    "menu_type": "Sandwiches",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "GRILLED CHICKEN CEASAR",
+    "description": "chopped romaine, shaved parm, parmesan crisp, house ceasar dressing, brioche bun",
+    "price": "$16.00",
+    "menu_type": "Sandwiches",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "HOUSE FRIES",
+    "description": "hand-cut fries, sea salt, special & chili aioli dipping sauces",
+    "price": "$12.00 / Add Beer Cheese $2 / Add Turkey Gravy $2",
+    "menu_type": "Sharing",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "SPINACH, ARTICHOKE & FETA HUMMUS (V)",
+    "description": "roasted carrots, toasted soft pretzel slices, roasted beets, marinated tomatoes, pepitas, pistachios",
+    "price": "$16.00",
+    "menu_type": "Sharing",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "BEER CHEESE (V)",
+    "description": "druthers cheese sauce, golden rule blonde, cherry peppers, bavarian-style pretzels, scallions",
+    "price": "$17.00",
+    "menu_type": "Sharing",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "BUFFALO CHICKEN POUTINE",
+    "description": "hand-cut fries, crispy buffalo chicken, blue cheese crumbles, hot sauce gravy, pickled red onions, jalapeño ranch drizzle",
+    "price": "$16.00",
+    "menu_type": "Sharing",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "BULGOGI BEEF NACHOS",
+    "description": "shaved ribeye, fried wonton chips, kimchi, apple/pineapple pico, chili aioli, sweet soy, scallions",
+    "price": "$17.00",
+    "menu_type": "Sharing",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "PILGRIM EGGROLLS",
+    "description": "roasted turkey, house stuffing, cranberry, muenster, turkey gravy",
+    "price": "$16.00",
+    "menu_type": "Sharing",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "CRISPY CHEESE CURDS (V)",
+    "description": "cheddar, sweet pepper jelly, melba",
+    "price": "$15.00",
+    "menu_type": "Sharing",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "BANG BANG SHRIMP",
+    "description": "tempura battered shrimp, ginger-lime slaw, house bang bang sauce",
+    "price": "$17.00",
+    "menu_type": "Sharing",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "FIESTA DEL MAR",
+    "description": "pan-seared shrimp, slaw, apple-pineapple pico, jalapeño ranch, cotija, flour tortillas",
+    "price": "$16.00",
+    "menu_type": "Tacos",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "BIRRIA-BRAISED CHICKEN",
+    "description": "grilled & braised chicken thighs, slaw, pico de gallo, cotija, avocado crema, flour tortillas",
+    "price": "$15.00",
+    "menu_type": "Tacos",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "BLACKENED BLADE",
+    "description": "blackened swordfish, slaw, pico de gallo, jalapeño ranch, flour tortillas",
+    "price": "$16.00",
+    "menu_type": "Tacos",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "K-BBQ",
+    "description": "bulgogi beef, slaw, apple-pineapple pico, chili aioli, flour tortillas",
+    "price": "$16.00",
+    "menu_type": "Tacos",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "Boneless Wings",
+    "description": "house-marinated/breaded, fried crispy",
+    "price": "$18.00",
+    "menu_type": "Wings",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "Traditional Wings",
+    "description": "bone-in wings, fried crispy",
+    "price": "$18.00",
+    "menu_type": "Wings",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "CHEESE (V)",
+    "description": "red sauce, shredded mozzarella, oregano",
+    "price": "$21.00 / Add Pepperoni $2",
+    "menu_type": "Pizza",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "BUFFALO CHICKEN",
+    "description": "creamy buffalo, crispy chicken, shredded mozzarella, scallions, jalapeño ranch drizzle",
+    "price": "$23.00",
+    "menu_type": "Pizza",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "MEATBALL",
+    "description": "red sauce, house meatballs, shredded mozzarella",
+    "price": "$23.00",
+    "menu_type": "Pizza",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "VERMUENSTER",
+    "description": "muenster cheese, granny smith apples, bacon burnt ends, caramelized onions, maple syrup drizzle",
+    "price": "$24.00",
+    "menu_type": "Pizza",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "ANGRY BEE",
+    "description": "red sauce, pepperoni, sweeties candied jalapeños, shredded mozzarella, hot honey drizzle",
+    "price": "$24.00",
+    "menu_type": "Pizza",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "ROASTED TOMATO BASIL BISQUE – GRILLED CHEESE STICKS (V)",
+    "description": "fire-roasted tomatoes, fresh basil, sourdough, muenster",
+    "price": "$14.00",
+    "menu_type": "Soups & Greens",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "SMOKED BACON & CORN CHOWDER",
+    "description": "sweet corn, applewood bacon, thyme, potatoes, toasted crostini",
+    "price": "$12.00",
+    "menu_type": "Soups & Greens",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "APPLE GORGONZOLA (V/GF)",
+    "description": "mixed greens, sliced apples, dried cranberries, gorgonzola, candied walnuts, balsamic vinaigrette",
+    "price": "$15.00",
+    "menu_type": "Soups & Greens",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "CAESAR (V)",
+    "description": "tuscan kale, focaccia croutons, shaved parmesan, red grapes, caesar dressing",
+    "price": "$15.00",
+    "menu_type": "Soups & Greens",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "WEDGE (GF)",
+    "description": "roma crunch, bacon burnt ends, pickled red onions, marinated tomatoes, house blue cheese",
+    "price": "$16.00",
+    "menu_type": "Soups & Greens",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "BURRATA AND ROASTED BEET (V/GF)",
+    "description": "arugula, roasted beets, mandarin oranges, pistachios, pepitas, maple pomegranate vinaigrette, beet puree",
+    "price": "$16.00",
+    "menu_type": "Soups & Greens",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "Druthers Mac (V)",
+    "description": "seven cheese blend, cavatappi",
+    "price": "$18.00",
+    "menu_type": "House Macaroni & Cheese",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "LOADED MAC",
+    "description": "bacon, pulled chicken, ranch/carolina bbq drizzles",
+    "price": "$24.00",
+    "menu_type": "House Macaroni & Cheese",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "BUFFALO CHICKEN MAC",
+    "description": "hot sauce gravy, crispy chicken, scallions, ranch drizzle",
+    "price": "$23.00",
+    "menu_type": "House Macaroni & Cheese",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "BACON & ONION MAC",
+    "description": "cavatappi, cheddar-ale cheese sauce, slow-cooked caramelized onions, bacon burnt ends, beer mustard cream drizzle",
+    "price": "$23.00",
+    "menu_type": "House Macaroni & Cheese",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "BBQ MAC",
+    "description": "smoked pulled pork, carolina bbq, coleslaw",
+    "price": "$22.00",
+    "menu_type": "House Macaroni & Cheese",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "MAC-N-CHEESE FLIGHT",
+    "description": "choose three 5 oz portions of any of our signature macs: Druthers Mac – Loaded Mac – Buffalo Chicken Mac – Bacon and Onion Mac – BBQ Mac",
+    "price": "$21.00",
+    "menu_type": "House Macaroni & Cheese",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "Cereal Milk",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "Milkshakes",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "Peanut Butter",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "Milkshakes",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "Flourless Chocolate Cake (GF)",
+    "description": "",
+    "price": "$12.00",
+    "menu_type": "Desserts",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "WARM CHOCOLATE CHIP COOKIE SKILLET",
+    "description": "vanilla ice cream, chocolate sauce, whipped cream",
+    "price": "$14.00",
+    "menu_type": "Desserts",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "Reese’s Pie",
+    "description": "",
+    "price": "$12.00",
+    "menu_type": "Desserts",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Brewpub Menu"
+  },
+  {
+    "name": "80 Shilling",
+    "description": "Scottish Ale | ABV: 5.2%",
+    "price": "",
+    "menu_type": "Year-Round",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "All-In IPA",
+    "description": "India Pale Ale | ABV: 6.5% | IBU: 65",
+    "price": "",
+    "menu_type": "Year-Round",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Golden Rule Blonde",
+    "description": "Blonde Ale | ABV: 4.8%",
+    "price": "",
+    "menu_type": "Year-Round",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Uncurious",
+    "description": "DDH NEIPA | ABV: 7%",
+    "price": "",
+    "menu_type": "Year-Round",
+    "restaurant_name": "Druthers Brewing Company",
+    "restaurant_url": "https://www.druthersbrewing.com/",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Lobster Roll",
+    "description": "brown butter, toasted bun, sea salt, housecoleslaw, fries",
+    "price": "$39.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Ahi Tuna Poke Bowl",
+    "description": "sushi rice, avocado, julienned carrots & cucumber, scallions, sesame seeds, garlic-sweet chili-lime dressing, chili aioli",
+    "price": "$24.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Street Market Bulgogi Bowl (GF)",
+    "description": "shaved ribeye, sushi rice, kimchi, julienned carrots & cucumber, scallions, sesame seeds, chili aioli, soy-sesame glaze",
+    "price": "$25.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fish & Chips",
+    "description": "beer-battered haddock, hand-cut fries, house tartar sauce, calabrian chili cocktail sauce, coleslaw, lemon, green onions",
+    "price": "$21.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Steak Frites (GF)",
+    "description": "eight-ounce beef tenderloin medallions, house-cut fries, chimichurri, garlic herb butter",
+    "price": "$32.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Lobster, Bacon & Onion Mac",
+    "description": "cavatappi, lobster bisque reduction, cheddar-ale sauce, fresh lobster meat, caramelized onions, pork belly burnt ends, butter-ritz crumb finish",
+    "price": "$34.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Beer Cheese (v)",
+    "description": "druthers cheese sauce, golden rule blonde, cherry peppers, bavarian-style pretzels",
+    "price": "$17.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Crispy Cheese Curds (V)",
+    "description": "cheddar, sweet pepper jelly, melba sauce",
+    "price": "$15.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Braised Short Rib Dumplings",
+    "description": "8-hour braised short rib, shredded carrots, caramelizedonions, horseradish crema, maple pomegranate apple slaw",
+    "price": "$17.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "House Fries (V/GF)",
+    "description": "hand-cut fries, sea salt, special sauce & chili aioli dipping saucesADD: Beer Cheese - 2, Turkey Gravy - 2",
+    "price": "$12.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Buffalo Chicken Poutine",
+    "description": "hand-cut fries, crispy buffalo chicken, blue cheese crumbles, hot sauce gravy, pickled red onions, jalapeño ranch drizzle",
+    "price": "$16.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Pilgrim Eggrolls",
+    "description": "roasted turkey, house stuffing, cranberry, muenster, turkey gravy",
+    "price": "$16.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Bang Bang Shrimp",
+    "description": "tempura-battered shrimp, house bang bang sauce, sesame ginger slaw",
+    "price": "$18.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Wings",
+    "description": "boneless, bone-inSAUCES: buffalo, gochujang ginger, hot honey, carolina bbq, mango habanero",
+    "price": "$18.00",
+    "menu_type": "Signature Dishes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Classic Cheese (V)",
+    "description": "Gluten-free crust available upon request",
+    "price": "$21.00",
+    "menu_type": "Signature Dishes - Sharing",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Buffalo Chicken",
+    "description": "tomato, shredded mozzarella, sicilian oregano, pecorinoADD: Pepperoni – 2",
+    "price": "$24.00",
+    "menu_type": "Signature Dishes - Sharing",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Meatball",
+    "description": "creamy buffalo sauce, shredded mozzarella, crispy chicken, green onions, blue cheese drizzle",
+    "price": "$24.00",
+    "menu_type": "Signature Dishes - Sharing",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mushroom & Onion (V)",
+    "description": "tomato, house meatballs, shredded mozzarella",
+    "price": "$23.00",
+    "menu_type": "Signature Dishes - Sharing",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Spicy Chili Honey",
+    "description": "house mozzarella, pickled onions, roasted mushrooms, black pepper, parsley",
+    "price": "$24.00",
+    "menu_type": "Signature Dishes - Sharing",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Classic Cheese (V)",
+    "description": "tomato, shredded mozzarella, sicilian oregano, pecorinoADD: Pepperoni – 2",
+    "price": "$21.00",
+    "menu_type": "Signature Dishes - Pizza",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Buffalo Chicken",
+    "description": "creamy buffalo sauce, shredded mozzarella, crispy chicken, green onions, blue cheese drizzle",
+    "price": "$24.00",
+    "menu_type": "Signature Dishes - Pizza",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Meatball",
+    "description": "tomato, house meatballs, shredded mozzarella",
+    "price": "$24.00",
+    "menu_type": "Signature Dishes - Pizza",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mushroom & Onion (V)",
+    "description": "house mozzarella, pickled onions, roasted mushrooms, black pepper, parsley",
+    "price": "$23.00",
+    "menu_type": "Signature Dishes - Pizza",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Spicy Chili Honey",
+    "description": "fra diavolo sauce, house mozzarella, candied jalapeños, soppressata, basil, honey",
+    "price": "$24.00",
+    "menu_type": "Signature Dishes - Pizza",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Lobster Bisque",
+    "description": "ADD: Grilled Chicken (GF) – 8, Blackened Shrimp (GF) – 10, Pan Seared Salmon (GF) – 12",
+    "price": "$15.00",
+    "menu_type": "Signature Dishes - Pizza",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Smoked Bacon & Corn Chowder",
+    "description": "fresh lobster meat, roasted fennel, basil oil, aged sherry vinegar, butter-ritz crumb finish, chives",
+    "price": "$11.00",
+    "menu_type": "Signature Dishes - Pizza",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Apple Gorgonzola (V/GF)",
+    "description": "sweet corn, applewood bacon, thyme, potatoes, butter-ritz crumb finish",
+    "price": "$14.00",
+    "menu_type": "Signature Dishes - Pizza",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Caesar (V)",
+    "description": "mixed greens, sliced apples, dried cranberries, gorgonzola, candied walnuts, maple-pomegranate vinaigrette",
+    "price": "$14.00",
+    "menu_type": "Signature Dishes - Pizza",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Burrata & Roasted Beet (V/GF)",
+    "description": "torn tuscan kale, focaccia croutons, shaved parmesan, red grapes, caesar dressing",
+    "price": "$16.00",
+    "menu_type": "Signature Dishes - Pizza",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Lobster Bisque",
+    "description": "fresh lobster meat, roasted fennel, basil oil, aged sherry vinegar, butter-ritz crumb finish, chives",
+    "price": "$15.00",
+    "menu_type": "Signature Dishes - SOUPS & Greens",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Smoked Bacon & Corn Chowder",
+    "description": "sweet corn, applewood bacon, thyme, potatoes, butter-ritz crumb finish",
+    "price": "$11.00",
+    "menu_type": "Signature Dishes - SOUPS & Greens",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Apple Gorgonzola (V/GF)",
+    "description": "mixed greens, sliced apples, dried cranberries, gorgonzola, candied walnuts, maple-pomegranate vinaigrette",
+    "price": "$14.00",
+    "menu_type": "Signature Dishes - SOUPS & Greens",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Caesar (V)",
+    "description": "torn tuscan kale, focaccia croutons, shaved parmesan, red grapes, caesar dressing",
+    "price": "$14.00",
+    "menu_type": "Signature Dishes - SOUPS & Greens",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Burrata & Roasted Beet (V/GF)",
+    "description": "arugula, roasted beets, pistachios, pepitas, aged sherry vinegar, maple-pomegranate vinaigrette",
+    "price": "$16.00",
+    "menu_type": "Signature Dishes - SOUPS & Greens",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Lago Smash Burger",
+    "description": "Served with a choice of fries or balsamic greens. Gluten-free preparation available on all burgers.ADD: Chopped Bacon – 3, Extra Patty – 4, Candied Jalapenos – 3",
+    "price": "$21.00",
+    "menu_type": "Signature Dishes - SOUPS & Greens",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Druthers Burger",
+    "description": "wagyu blend, double patties, pancetta & onion jam, fontina, pesto mayo",
+    "price": "$21.00",
+    "menu_type": "Signature Dishes - SOUPS & Greens",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Veggie Burger (V)",
+    "description": "wagyu blend, double patties, double american cheese, pickles, crispy onions, burger sauce",
+    "price": "$16.00",
+    "menu_type": "Signature Dishes - SOUPS & Greens",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Drutherbird Fried Chicken Sandwich",
+    "description": "house-made black bean & quinoa patty, fontina, lettuce, tomato, onion, special sauce",
+    "price": "$18.00",
+    "menu_type": "Signature Dishes - SOUPS & Greens",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Soppressata Grilled Chicken",
+    "description": "buttermilk fried chicken, fontina, dill pickle rounds, coleslaw, jalapeño ranch",
+    "price": "$18.00",
+    "menu_type": "Signature Dishes - SOUPS & Greens",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Grilled Chicken Caesar",
+    "description": "fontina, arugula, candied jalapeños, hot honey dijon mayo",
+    "price": "$16.00",
+    "menu_type": "Signature Dishes - SOUPS & Greens",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Lago Smash Burger",
+    "description": "wagyu blend, double patties, pancetta & onion jam, fontina, pesto mayo",
+    "price": "$21.00",
+    "menu_type": "Signature Dishes - On A Bun",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Druthers Burger",
+    "description": "wagyu blend, double patties, double american cheese, pickles, crispy onions, burger sauce",
+    "price": "$21.00",
+    "menu_type": "Signature Dishes - On A Bun",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Veggie Burger (V)",
+    "description": "house-made black bean & quinoa patty, fontina, lettuce, tomato, onion, special sauce",
+    "price": "$16.00",
+    "menu_type": "Signature Dishes - On A Bun",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Drutherbird Fried Chicken Sandwich",
+    "description": "buttermilk fried chicken, fontina, dill pickle rounds, coleslaw, jalapeño ranch",
+    "price": "$18.00",
+    "menu_type": "Signature Dishes - On A Bun",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Soppressata Grilled Chicken",
+    "description": "fontina, arugula, candied jalapeños, hot honey dijon mayo",
+    "price": "$18.00",
+    "menu_type": "Signature Dishes - On A Bun",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Grilled Chicken Caesar",
+    "description": "chopped romaine, shaved parmesan, parmesan crisp, house caesar dressing",
+    "price": "$16.00",
+    "menu_type": "Signature Dishes - On A Bun",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fiesta Del Mar",
+    "description": "Gluten-free tortillas available upon request",
+    "price": "$16.00",
+    "menu_type": "Signature Dishes - On A Bun",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Birria-Braised Chicken",
+    "description": "pan-seared shrimp, slaw, apple-pineapple pico, jalapeño ranch, cotija",
+    "price": "$15.00",
+    "menu_type": "Signature Dishes - On A Bun",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Blackened Blade",
+    "description": "grilled & braised chicken thighs, cabbage, pico de gallo, cotija, avocado crema, flour tortillas",
+    "price": "$16.00",
+    "menu_type": "Signature Dishes - On A Bun",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "K-BBQ",
+    "description": "blackened swordfish, cabbage, pico de gallo, jalapeño ranch",
+    "price": "$16.00",
+    "menu_type": "Signature Dishes - On A Bun",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fiesta Del Mar",
+    "description": "pan-seared shrimp, slaw, apple-pineapple pico, jalapeño ranch, cotija",
+    "price": "$16.00",
+    "menu_type": "Signature Dishes - Tacos (3)",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Birria-Braised Chicken",
+    "description": "grilled & braised chicken thighs, cabbage, pico de gallo, cotija, avocado crema, flour tortillas",
+    "price": "$15.00",
+    "menu_type": "Signature Dishes - Tacos (3)",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Blackened Blade",
+    "description": "blackened swordfish, cabbage, pico de gallo, jalapeño ranch",
+    "price": "$16.00",
+    "menu_type": "Signature Dishes - Tacos (3)",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "K-BBQ",
+    "description": "bulgogi beef, shredded cabbage, apple-pineapple pico, gochujang aioli",
+    "price": "$16.00",
+    "menu_type": "Signature Dishes - Tacos (3)",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Falling for the Captain",
+    "description": "captain morgan, rosie’s apple pie whiskey, spiced simple, pineapple, pear, lime, cranberry",
+    "price": "$14.00",
+    "menu_type": "Drinks",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Apple of My Rye",
+    "description": "sazerac rye, apple moonshine, spiced simple, lemon",
+    "price": "$15.00",
+    "menu_type": "Drinks",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pumpkin Spice Espresso Martini",
+    "description": "ketel one, coffee liquor, chocolate pumpkin liqueur, espresso, cinnamon sugar rim",
+    "price": "$18.00",
+    "menu_type": "Drinks",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Maple Old Fashion",
+    "description": "bulleit bourbon, maple syrup, bitters, orange, luxardo cherry",
+    "price": "$16.00",
+    "menu_type": "Drinks",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Gettin’ Figgy Wit It",
+    "description": "bombay saphire, spiced simple, lemon, fig jam, angostura bitters",
+    "price": "$13.00",
+    "menu_type": "Drinks",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Grapefruit Groove",
+    "description": "espolon reposado, pamplemouse, basil simple, lime, salt rim",
+    "price": "$15.00",
+    "menu_type": "Drinks",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Garden Gimlet",
+    "description": "western son cucumber vodka, basil simple, pineapple, lime",
+    "price": "$13.00",
+    "menu_type": "Drinks",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Blood Orange Margarita",
+    "description": "21 seeds valencia orange tequila, triple sec, blood orange, lime",
+    "price": "$15.00",
+    "menu_type": "Drinks",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pina Colada",
+    "description": "",
+    "price": "$15.00",
+    "menu_type": "Drinks - Cocktails",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Strawberry Daiquiri",
+    "description": "",
+    "price": "$15.00",
+    "menu_type": "Drinks - Cocktails",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Miami Vice",
+    "description": "",
+    "price": "$15.00",
+    "menu_type": "Drinks - Cocktails",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Apple Fritter",
+    "description": "rosie’s apple pie whiskey, cinnamon sugar, apple",
+    "price": "$15.00",
+    "menu_type": "Drinks - Frozen Drinks",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pump Up the Spice",
+    "description": "crop harvest pumpkin spiced vodka, chocolate pumpkin liqueur, cinnamon sugar",
+    "price": "$15.00",
+    "menu_type": "Drinks - Frozen Drinks",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Peppermint Cold Chocolate",
+    "description": "creme de minthe, creme de cacao, chocolate, peppermint",
+    "price": "$15.00",
+    "menu_type": "Drinks - Frozen Drinks",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Boozy PB Milkshake",
+    "description": "peanut butter whiskey, vanilla milkshake, peanut butter sauce & crumbles",
+    "price": "$15.00",
+    "menu_type": "Drinks - Frozen Drinks",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Sparkling Strawberry Lemonade",
+    "description": "strawberry puree, lemonade, club soda",
+    "price": "$8.00",
+    "menu_type": "Drinks - Boozy Milkshakes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Mango Tajin Margarita",
+    "description": "mango, lime, lemon, tajin",
+    "price": "$8.00",
+    "menu_type": "Drinks - Boozy Milkshakes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Harvest Nectar",
+    "description": "pear nectar, honey, ginger ale",
+    "price": "$8.00",
+    "menu_type": "Drinks - Boozy Milkshakes",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Bacio Bubbly Wine Cocktails",
+    "description": "peach or pineapple",
+    "price": "$14.00",
+    "menu_type": "Drinks - Zero Proof",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Corona Extra",
+    "description": "iced tea & lemonade or strawberry lemonade",
+    "price": "$8.00",
+    "menu_type": "Drinks - Zero Proof",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Heineken Zero",
+    "description": "iced tea & lemonade or strawberry lemonade",
+    "price": "$7.00",
+    "menu_type": "Drinks - Zero Proof",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "High Noon",
+    "description": "iced tea & lemonade or strawberry lemonade",
+    "price": "$11.00",
+    "menu_type": "Drinks - Zero Proof",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Michelob Ultra",
+    "description": "iced tea & lemonade or strawberry lemonade",
+    "price": "$8.00",
+    "menu_type": "Drinks - Zero Proof",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "N/A Brooklyn Hoppy Amber Ale",
+    "description": "iced tea & lemonade or strawberry lemonade",
+    "price": "$8.00",
+    "menu_type": "Drinks - Zero Proof",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Surfside",
+    "description": "iced tea & lemonade or strawberry lemonade",
+    "price": "$11.00",
+    "menu_type": "Drinks - Zero Proof",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Bacio Bubbly Wine Cocktails",
+    "description": "lemon or orange",
+    "price": "$14.00",
+    "menu_type": "Drinks - In A Can",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Corona Extra",
+    "description": "",
+    "price": "$8.00",
+    "menu_type": "Drinks - In A Can",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Heineken Zero",
+    "description": "(0% ABV)",
+    "price": "$7.00",
+    "menu_type": "Drinks - In A Can",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "High Noon",
+    "description": "peach or pineapple",
+    "price": "$11.00",
+    "menu_type": "Drinks - In A Can",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Michelob Ultra",
+    "description": "",
+    "price": "$8.00",
+    "menu_type": "Drinks - In A Can",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "N/A Brooklyn Hoppy Amber Ale",
+    "description": "(>0.5 ABV)",
+    "price": "$8.00",
+    "menu_type": "Drinks - In A Can",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Cuvee Brut, Zardetto",
+    "description": "straw-yellow in color with a delicate perlage, this sparkler expresses notes of pears, apples and peaches with a hint of wild flowers",
+    "price": "Glass $12.00, Bottle $42.00",
+    "menu_type": "Wines",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Prosecco Rosé, Lamberti Family",
+    "description": "brilliant rosé color, fine and persistent perlage; on the nose intense notes of white peach, citrus and wild forest strawberry, fresh and delicate on the palate, with a fruity and oral finish, persistent and lingering",
+    "price": "$14.00",
+    "menu_type": "Wines",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pinot Grigio, Santi Family",
+    "description": "this is a luxurious crisp, clean, dry white wine with subtle notes of apricot, spiced pear, and stone fruits",
+    "price": "Glass $12.00, Bottle $42.00",
+    "menu_type": "Wines - Sparkling",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pinot Blanc, Hugel Family",
+    "description": "pinot blanc is essentially the pinot noir grape in albino form, bursting with tropical fruits, gooseberry, grapefruit and green herbs",
+    "price": "Glass $14.00, Bottle $56.00",
+    "menu_type": "Wines - Sparkling",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Sauvignon Blanc, Wither Hills",
+    "description": "vibrant aromatics of lime, peach, nectarine, and passionfruit with a subtle hint of lemongrass and kaffir lime leaves that finishes dry with the perfect balance of fruit flavors, acid, and minerality",
+    "price": "Glass $12.00, Bottle $42.00",
+    "menu_type": "Wines - Sparkling",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Sancerre, Domaine Reverdy Ducroux",
+    "description": "light yellow nose of white flowers and citrus. In the mouth, the wine is fresh and round",
+    "price": "Glass $20.00, Bottle $82.00",
+    "menu_type": "Wines - Sparkling",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Chardonnay, Blue Quail",
+    "description": "this chardonnay sees no oak so you get to enjoy the flavor of the grape and is superbly-crafted, well-balanced wine exhibiting crisp tropical fruit, apple, peach and pear flavors with light floral elements",
+    "price": "Glass $13.00, Bottle $48.00",
+    "menu_type": "Wines - Sparkling",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Chardonnay, Hanging Vine",
+    "description": "lush, a nice balance of oak and acidity with ripe stone fruit with some hints of tropical fruit",
+    "price": "Glass $13.00, Bottle $48.00",
+    "menu_type": "Wines - Sparkling",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Sauvignon Blanc, Wither Hills",
+    "description": "MARLBOROUGH, NEW ZEALAND",
+    "price": "Glass $12.00, Bottle $42.00",
+    "menu_type": "Wines - White",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Sancerre, Domaine Reverdy Ducroux",
+    "description": "LOIRE VALLEY, FRANCE",
+    "price": "Glass $20.00, Bottle $82.00",
+    "menu_type": "Wines - White",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Chardonnay, Blue Quail",
+    "description": "POTTER VALLEY, CALIFORNIA",
+    "price": "Glass $13.00, Bottle $48.00",
+    "menu_type": "Wines - White",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Rosé, Chateau De Campuget",
+    "description": "RHÔNE VALLEY, FRANCE",
+    "price": "Glass $12.00, Bottle $42.00",
+    "menu_type": "Wines - White",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pinot Noir, Westmount Vineyard",
+    "description": "WILLAMETTE VALLEY, OREGON",
+    "price": "Glass $14.00, Bottle $56.00",
+    "menu_type": "Wines - ROSÉ",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Chianti, Melini \"Reserva\"",
+    "description": "highly aromatic with notes of black cherry, red currant, strawberry, vanilla, sweet spices, rose petal, and a hint of orange zest",
+    "price": "Glass $12.00, Bottle $42.00",
+    "menu_type": "Wines - ROSÉ",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Melbec, Santa Julia",
+    "description": "ripe with a medium bodied fruit-forward style for easy drinking with notes of blackberries, raspberries, and a touch of violet with a juicy and dry finish",
+    "price": "Glass $13.00, Bottle $48.00",
+    "menu_type": "Wines - ROSÉ",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Cabernet Sauvignon, Matchbook",
+    "description": "ripe with a medium bodied fruit-forward style for easy drinking with notes of blackberries, raspberries, and a touch of violet with a juicy and dry finish",
+    "price": "Glass $12.00, Bottle $42.00",
+    "menu_type": "Wines - ROSÉ",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Chianti, Melini \"Reserva\"",
+    "description": "ripe with a medium bodied fruit-forward style for easy drinking with notes of blackberries, raspberries, and a touch of violet with a juicy and dry finish",
+    "price": "Glass $12.00, Bottle $42.00",
+    "menu_type": "Wines - Red",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Melbec, Santa Julia",
+    "description": "good complexity in the nose with typical malbec aromas of ripe fruits such as figs, plums, blackberries and marmalades. Notes of vanilla, tobacco, coffee and chocolate",
+    "price": "Glass $13.00, Bottle $48.00",
+    "menu_type": "Wines - Red",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Cabernet Sauvignon, Matchbook",
+    "description": "DUNNINGAN HILLS, CALIFORNIA",
+    "price": "Glass $12.00, Bottle $42.00",
+    "menu_type": "Wines - Red",
+    "restaurant_name": "Lago By Druthers",
+    "restaurant_url": "https://lagobydruthers.com/",
+    "menu_name": "Drink Menu"
+  }
+]

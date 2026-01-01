@@ -1,0 +1,1154 @@
+[
+  {
+    "name": "Arancini",
+    "description": "House-made fried tomato rice balls, crushed tomato sauce",
+    "price": "$15.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Calamaretti Fritti",
+    "description": "Lightly floured and fried calamari, lemon, crushed tomato sauce",
+    "price": "$18.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Gamberi E Carciofi",
+    "description": "Wood-fired shrimp, blistered tomatoes, long stemmed artichokes, Tuscan white beans, balsamic reduction",
+    "price": "$20.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Involtini Di Melanzane",
+    "description": "Fried eggplant slices rolled with whipped ricotta and basil, wood-fired with mozzarella, crushed tomato sauce",
+    "price": "Appetizer $17.00 / Entrée $24.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Bruschetta",
+    "description": "Diced tomatoes, garlic, basil, extra virgin olive oil, arugula pesto, parmigiano, balsamic drizzle",
+    "price": "$16.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Burrata",
+    "description": "Scallion-whipped burrata, rosemary confit tomatoes, arugula, black garlic pesto, focaccia",
+    "price": "$20.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Polpette",
+    "description": "Hand-rolled meatballs of veal, pork and beef, wood-fired with mozzarella and parmigiano",
+    "price": "$16.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Torte di Granchio",
+    "description": "Wood-fired crab cakes, cherry pepper remoulade, honey-balsamic tomatoes",
+    "price": "$22.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Antipasto Del Forno",
+    "description": "Chef assortment of appetizers; seasonal bruschetta, arancini, calamari, grilled flatbread, salumi (serves 2-4 people).",
+    "price": "$36.00",
+    "menu_type": "Antipasti",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Casa",
+    "description": "Artisan greens, cucumber, red onion, blistered tomatoes, white balsamic lemon vinaigrette",
+    "price": "$16.00",
+    "menu_type": "Insalate",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Casa",
+    "description": "Artisan greens, cucumber, red onion, blistered tomatoes, white balsamic lemon vinaigrette | Add Grilled Chicken: $8.00 | Add Shrimp: $9.00",
+    "price": "$16.00",
+    "menu_type": "Insalate",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Inverno",
+    "description": "Arugula, shaved Brussels sprouts, gorgonzola, toasted almonds, sliced pears, cabernet raisins, pomegranate-balsamic vinaigrette",
+    "price": "$18.00",
+    "menu_type": "Insalate",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Cesare",
+    "description": "Romaine, blistered tomatoes, white anchovy, Grana Padano crisp, Cesare dressing | Add Grilled Chicken: $8.00 | Add Shrimp: $9.00",
+    "price": "$16.00",
+    "menu_type": "Insalate",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Iceberg",
+    "description": "Baby iceberg lettuce, pancetta, honey-balsamic tomatoes, onion, buttermilk-gorgonzola dressing | Add Grilled Chicken: $8.00 | Add Shrimp: $9.00",
+    "price": "$18.00",
+    "menu_type": "Insalate",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Margherita",
+    "description": "All pizzas are wood-fired, single serving, thin crust. Gluten-free cauliflower crust available (5)",
+    "price": "$16.00",
+    "menu_type": "Wood-Fired Pizza",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Margherita",
+    "description": "Crushed tomato sauce, fresh mozzarella, fresh basil",
+    "price": "$16.00",
+    "menu_type": "Wood-Fired Pizza",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Pamplona",
+    "description": "Crushed tomato sauce, mozzarella, Pamplona sausage, poblano pepper, parmigiano",
+    "price": "$17.00",
+    "menu_type": "Wood-Fired Pizza",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Gorgonzola E Prosciutto",
+    "description": "White sauce, gorgonzola, prosciutto, shallots, red wine glaze",
+    "price": "$20.00",
+    "menu_type": "Wood-Fired Pizza",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Funghi E Salsiccia",
+    "description": "Crushed tomato sauce, mozzarella, wild mushrooms, parmigiano, house-made Italian sausage",
+    "price": "$17.00",
+    "menu_type": "Wood-Fired Pizza",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "White Truffle",
+    "description": "White sauce, fontina, mushroom mix, shallots, truffle oil",
+    "price": "$18.00",
+    "menu_type": "Wood-Fired Pizza",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Capicola Picante",
+    "description": "Crushed tomato sauce, mozzarella, capicola, red onion, cherry pepper relish",
+    "price": "$18.00",
+    "menu_type": "Wood-Fired Pizza",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Calzone Quattro Formaggi",
+    "description": "Focaccia bread stuffed with fresh mozzarella, brie, parmigiano, gorgonzola, crushed tomato sauce",
+    "price": "$17.00",
+    "menu_type": "Wood-Fired Pizza",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Mezzanine Otero",
+    "description": "All pasta is served al dente. Gluten-free pasta available (3).",
+    "price": "$28.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Mezzanine Otero",
+    "description": "Penne, chicken, sun-dried tomatoes, fresh tarragon, pink sauce",
+    "price": "$28.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Penne Pomodoro",
+    "description": "Penne, crushed tomato sauce, garlic, fresh basil, extra virgin olive oil",
+    "price": "$21.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Frutti Di Mare",
+    "description": "Linguine, sautéed assorted seafood, lightly spiced tomato sauce, extra virgin olive oil",
+    "price": "$40.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Rigatoni Funghi",
+    "description": "Wild mushroom medley, braised leeks, scallions, red wine, truffle-whipped ricotta",
+    "price": "$26.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Vongole",
+    "description": "Linguine, sautéed littleneck clams, pancetta, poblano peppers, garlic, extra virgin olive oil, white wine",
+    "price": "$36.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Ravioli Anatra",
+    "description": "Mascarpone duck ravioli, sweet peas, roasted baby carrots, rosemary-demi cream",
+    "price": "$44.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Pappardelle Osso Buco",
+    "description": "Pappardelle, red wine braised pork osso buco ragu, blistered tomatoes, stracciatella, garlic, basil, crushed tomato sauce",
+    "price": "$36.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Salsiccia di Peperoncino",
+    "description": "Rigatoni, sausage, eggplant, cherry peppers, garlic, white wine, crushed tomato sauce",
+    "price": "$28.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Parmigiana Di Melanzane",
+    "description": "All entrées are served with vegetables and potatoes",
+    "price": "$26.00",
+    "menu_type": "Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Parmigiana Di Melanzane",
+    "description": "Fried eggplant, fresh mozzarella, crushed tomato sauce, basil, extra virgin olive oil",
+    "price": "$26.00",
+    "menu_type": "Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Pollo Panato",
+    "description": "Tender breaded chicken breast, melted mozzarella and fontina, prosciutto, diced tomato bruschetta, lemon, fresh herbs",
+    "price": "$28.00",
+    "menu_type": "Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Lasagna Tradizionale",
+    "description": "Traditional meat lasagna, besciamella sauce",
+    "price": "$28.00",
+    "menu_type": "Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Polpo",
+    "description": "Grilled octopus, confit tomatoes, roasted Brussels sprouts, capers, black garlic aioli, crispy shallots",
+    "price": "Appetizer $22.00 / Entrée $42.00",
+    "menu_type": "Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Braciole Alla Barolo",
+    "description": "Red wine-braised beef, baby carrots, sweet peas, red potatoes, roasted tomatoes, demi-glace, grilled focaccia",
+    "price": "$38.00",
+    "menu_type": "Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Bistecca Del Giorno",
+    "description": "Steak of the day",
+    "price": "M.P.",
+    "menu_type": "Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Pesce Del Giorno",
+    "description": "Fresh catch of the day",
+    "price": "M.P.",
+    "menu_type": "Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Prosecco, Lamberti, Veneto",
+    "description": "",
+    "price": "$12.00",
+    "menu_type": "White Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Rosé, Santi \"Infinito,\" Veneto",
+    "description": "",
+    "price": "$12.00",
+    "menu_type": "White Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Pinot Grigio, Ca' Donini, Veneto",
+    "description": "",
+    "price": "$11.00",
+    "menu_type": "White Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Pinot Grigio, Santi \"Sortesele,\" Trentino",
+    "description": "",
+    "price": "$13.00",
+    "menu_type": "White Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Sauvignon Blanc, Kato, New Zealand",
+    "description": "",
+    "price": "$13.00",
+    "menu_type": "White Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Moscato, Pellegrino \"Zebo,\" Sicilia",
+    "description": "",
+    "price": "$11.00",
+    "menu_type": "White Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Chardonnay, Antinori Bramito, Umbria",
+    "description": "",
+    "price": "$15.00",
+    "menu_type": "White Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Chardonnay, Franciscan, Monterey & Napa",
+    "description": "",
+    "price": "$13.00",
+    "menu_type": "White Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Vermentino, Picco Del Sole, Sardegna",
+    "description": "",
+    "price": "$12.00",
+    "menu_type": "White Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Pinot Noir, Saddlebred Cellars, Sicilia",
+    "description": "",
+    "price": "$12.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Cabernet Sauvignon, Ca'Donini, Veneto",
+    "description": "",
+    "price": "$11.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Cabernet Sauvignon, Sterling Vintner's, California",
+    "description": "",
+    "price": "$13.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Malbec, Amalaya, Calchaqui Valley",
+    "description": "",
+    "price": "$13.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Chianti, Melini, Toscana",
+    "description": "",
+    "price": "$11.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Super Tuscan, Poderi Melini \"Bonorli\", Tuscany",
+    "description": "",
+    "price": "$15.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Montepulciano, D'Abruzzo DOC \"Arché,\" Abruzzo",
+    "description": "",
+    "price": "$12.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Nero d'Avola, Calea, Sicilia",
+    "description": "",
+    "price": "$13.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Nebbiolo, Podere Ruggeri Corsini, Piedmont",
+    "description": "",
+    "price": "$14.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Wine List"
+  },
+  {
+    "name": "Tito-Rita",
+    "description": "Tito's Vodka, Orange Liqueur, Simple Syrup, Lime Juice",
+    "price": "$15.00",
+    "menu_type": "Forno Classics",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Creamy Espresso Martini",
+    "description": "Vodka, Kahlua, Bailey's Irish Cream, Fresh Pressed Espresso",
+    "price": "$18.00",
+    "menu_type": "Forno Classics",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Dark Espresso Martini",
+    "description": "Vodka, Kahlua, Simple Syrup, Fresh Pressed Espresso",
+    "price": "$16.00",
+    "menu_type": "Forno Classics",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Blood Orange Martini",
+    "description": "Orange Vodka, Triple Sec, Pomegranate Liqueur, Orange Liqueur, Blood Orange Purée",
+    "price": "$14.00",
+    "menu_type": "Forno Classics",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Lemon Drop Martini",
+    "description": "Vodka, Limoncello, Crème De Cassis, Lemon Juice",
+    "price": "$14.00",
+    "menu_type": "Forno Classics",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Amaro Amore",
+    "description": "Bulleit Bourbon, Carpano Antica Vermouth, Amaro, Burnt Orange Peel",
+    "price": "$16.00",
+    "menu_type": "Forno Classics",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Sangria Rosso",
+    "description": "Cabernet, Brandy, Mulled Cranberry Spiced Syrup, Orange",
+    "price": "$12.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Spiced Cranberry Daiquiri",
+    "description": "Rum, Cranberry Purée, Lemon Juice, Simple Syrup",
+    "price": "$16.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Drunken Pig",
+    "description": "Bacon Fat Washed Rye, Maple Syrup, Sweet Vermouth",
+    "price": "$18.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Ye Old Merry Mez",
+    "description": "Milagro Reposado Tequila, Mezcal, Agave Nectar, Orange Bitters",
+    "price": "$15.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Cinnful Apple",
+    "description": "Gin, Italicus Bergamot Liqueur, Earl Grey Syrup, Lemon",
+    "price": "$14.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Mall Santa",
+    "description": "Farmer's Organic Gin, Cynar, Lemon, Orange",
+    "price": "$15.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Avalanche",
+    "description": "Vodka, RumChata Peppermint, Creme de Mint",
+    "price": "$14.00",
+    "menu_type": "Specialty Cocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Cioccolata Calda",
+    "description": "Rich Italian-Style Hot Chocolate, Whipped Cream, Cocoa Dusting",
+    "price": "$8.00",
+    "menu_type": "Crafted Mocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Rosso Refresher",
+    "description": "Cherry Italian Soda, Twist of Lime",
+    "price": "$8.00",
+    "menu_type": "Crafted Mocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Festive Italian Cream Soda",
+    "description": "Club Soda, Strawberry Syrup, Cream, Whipped Cream, Sprinkles",
+    "price": "$8.00",
+    "menu_type": "Crafted Mocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Hibiscus Ginger Sipper",
+    "description": "Hibiscus Tea, Ginger Ale, Lemon Wheel",
+    "price": "$8.00",
+    "menu_type": "Crafted Mocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Velvet Hot Chocolate",
+    "description": "Rich Italian-Style Hot Chocolate, Disaronno Velvet, Whipped Cream, Cocoa Dusting",
+    "price": "$12.00",
+    "menu_type": "Winter Warmers",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Irish Coffee",
+    "description": "House-brewed Americano, Jameson & Baileys Irish Cream, Whipped Cream",
+    "price": "$12.00",
+    "menu_type": "Winter Warmers",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Hot Toddy",
+    "description": "Earl Grey Tea, Traveler Whiskey, Honey, Lemon",
+    "price": "$12.00",
+    "menu_type": "Winter Warmers",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Italiano Americano",
+    "description": "House-brewed Espresso, Amaretto",
+    "price": "$12.00",
+    "menu_type": "Winter Warmers",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "At the Bar"
+  },
+  {
+    "name": "Casa",
+    "description": "Artisan Greens, Cucumber, Red Onion, Blistered Tomatoes, White Balsamic Lemon Vinaigrette",
+    "price": "$9.00",
+    "menu_type": "Salads",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Cesare",
+    "description": "Romaine, Blistered Tomatoes, Grana Padano Crisp, Caesar Dressing",
+    "price": "$10.00",
+    "menu_type": "Salads",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Iceberg",
+    "description": "Baby Iceberg Lettuce, Honey-Balsamic Tomato Confit, Onion, Pancetta, Buttermilk-Gorgonzola Dressing",
+    "price": "$10.00",
+    "menu_type": "Salads",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "White Truffle",
+    "description": "White Sauce, Fontina, Mushroom Mix, Shallots, Truffle Oil",
+    "price": "$13.00",
+    "menu_type": "Pizza",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Margherita",
+    "description": "Crushed Tomato Sauce, Fresh Mozzarella, Fresh Basil",
+    "price": "$12.00",
+    "menu_type": "Pizza",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Panzarotti",
+    "description": "Deep Fried Calzone, Prosciutto, Basil, Whipped Ricotta, Mozzarella, Crushed Tomato Sauce",
+    "price": "$12.00",
+    "menu_type": "Pizza",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Calamaretti Fritti",
+    "description": "Fried Calamari, Crushed Tomato Sauce, Lemon",
+    "price": "$13.00",
+    "menu_type": "Small Bites",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Bruschetta",
+    "description": "Diced Tomatoes, Garlic, Basil, Olive Oil, Arugula Pesto, Parmigiano, Balsamic Drizzle",
+    "price": "$10.00",
+    "menu_type": "Small Bites",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Arancini",
+    "description": "(4) House-Made Fried Tomato Rice Balls, Crushed Tomato Sauce",
+    "price": "$10.00",
+    "menu_type": "Small Bites",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Polpette",
+    "description": "(3) Hand-Rolled Meatballs of Veal, Pork, and Beef, Wood-Fired with Mozzarella and Parmigiano",
+    "price": "$12.00",
+    "menu_type": "Small Bites",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Rigatoni Bolognese",
+    "description": "Rigatoni, Beef, Pork and Tomato Ragu, Grana Padano, Touch of Cream",
+    "price": "$12.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Cacio E Pepe",
+    "description": "Linguine, Grana Padano Cheese, Butter, Black Pepper",
+    "price": "$11.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Penne Alla Vodka",
+    "description": "Penne Pasta, Parmesan Crusted Chicken Cutlet, Vodka Pink Sauce, Crushed Red Pepper",
+    "price": "$13.00",
+    "menu_type": "Pasta",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Cavazza Pinot Grigio",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "Wine",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Silver Gate Chardonnay",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "Wine",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Ca'Donini Cabernet Sauvignon",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "Wine",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Mellini Chianti",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "Wine",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Pellegrino Zebo Moscato",
+    "description": "",
+    "price": "$7.00",
+    "menu_type": "Wine",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Sangria",
+    "description": "",
+    "price": "$8.00",
+    "menu_type": "Wine",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Cosmopolitan",
+    "description": "Vodka, Triple Sec, Fresh Lime Juice, Splash of Cranberry",
+    "price": "$10.00",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Margarita",
+    "description": "Tequila, Triple Sec, Fresh Lemon & Lime Juice, Splash of Orange Juice",
+    "price": "$10.00",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Blood Orange Martini",
+    "description": "Orange Vodka, Triple Sec, Pomegranate liqueur, Orange Liqueur, Blood Orange Purée",
+    "price": "$10.00",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Lemon Drop Martini",
+    "description": "Vodka, Limoncello, Fresh Lemon Juice",
+    "price": "$10.00",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Raspberry Lemon Drop Martini",
+    "description": "Raspberry Vodka, Crème De Cassis, Limoncello, Fresh Lemon Juice",
+    "price": "$10.00",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Forno Sour",
+    "description": "Bourbon, Pomegranate Liqueur, Fresh Lemon Juice, Simple Syrup",
+    "price": "$10.00",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Orange Spritz",
+    "description": "Prosecco, Locally Made Orangecello, Club Soda, Orange Slice",
+    "price": "$10.00",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Surfside",
+    "description": "Iced Tea & Lemonade, Vodka",
+    "price": "$6.00",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Samuel Adams Seasonal",
+    "description": "Beer with a purpose. Brewed in collaboration with Wolf Hollow Brewing Company. Each beer sold benefits a local nonprofit. Ask your server about the current brew.",
+    "price": "$6.00",
+    "menu_type": "Draft Beer",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Samuel Adams Seasonal",
+    "description": "",
+    "price": "$6.00",
+    "menu_type": "Draft Beer",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Peroni",
+    "description": "",
+    "price": "$6.00",
+    "menu_type": "Draft Beer",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Ommegang Witte",
+    "description": "",
+    "price": "$6.00",
+    "menu_type": "Draft Beer",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Miller Lite",
+    "description": "",
+    "price": "$6.00",
+    "menu_type": "Draft Beer",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Helping HanDZ",
+    "description": "Beer with a purpose. Brewed in collaboration with Wolf Hollow Brewing Company. Each beer sold benefits a local nonprofit. Ask your server about the current brew.",
+    "price": "$6.00",
+    "menu_type": "Draft Beer",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "Happy Hour"
+  },
+  {
+    "name": "Insalata Cesare",
+    "description": "Romaine hearts, caesar dressing, blistered cherry tomato, white anchovy, parmigiano crisp | Add Chicken: $15.00 | Add Shrimp: $20.00",
+    "price": "1/2 Tray $65.00",
+    "menu_type": "Antipasti E Insalate",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Insalata Della Casa",
+    "description": "Artisan greens, fresh cucumber, shaved red onion, blistered cherry tomatoes, house white balsamic lemon vinaigrette | Add Chicken: $15.00 | Add Shrimp: $20.00",
+    "price": "1/2 Tray $65.00",
+    "menu_type": "Antipasti E Insalate",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Caprese Skewers",
+    "description": "Cherry tomatoes, fresh baby mozzarella, extra virgin olive oil, sea salt, aged balsamic reduction, arugula",
+    "price": "1/2 Tray $65.00",
+    "menu_type": "Antipasti E Insalate",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Arancini",
+    "description": "Housemade tomato fried rice balls, marinara sauce",
+    "price": "1/2 Tray $65.00",
+    "menu_type": "Antipasti E Insalate",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Polpette",
+    "description": "Hand rolled meatballs of veal, pork and beef, woodfired with mozzarella and parmigiano",
+    "price": "1/2 Tray $75.00",
+    "menu_type": "Antipasti E Insalate",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Gamberi Carciofi",
+    "description": "Wood-fired roasted shrimp, stemmed artichokes, cannellini beans, roasted tomatoes, fresh thyme, extra virgin olive oil (side of balsamic reduction optional)",
+    "price": "1/2 Tray $85.00",
+    "menu_type": "Antipasti E Insalate",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Torte di Granchio",
+    "description": "Wood-fired crab cakes, cherry pepper remoulade, honey-balsamic tomatoes",
+    "price": "$100.00",
+    "menu_type": "Antipasti E Insalate",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Penne Pomodoro",
+    "description": "Penne, crushed tomato sauce, garlic, fresh basil, extra virgin olive oil",
+    "price": "1/2 Tray $75.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Lasagna Tradizionale",
+    "description": "Traditional meat and Besciamella lasagna",
+    "price": "1/2 Tray $95.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Parmigiana Di Melanzane",
+    "description": "Fried eggplant, fresh mozzarella, marinara sauce, basil, extra virgin olive oil",
+    "price": "1/2 Tray $85.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Salsiccia di Peperoncino",
+    "description": "Rigatoni pasta, sausage, eggplant, crushed red pepper flake, garlic, white wine, crushed tomato sauce",
+    "price": "1/2 Tray $90.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Mezzanine Otero",
+    "description": "Pennette, chicken, sundried tomatoes and fresh tarragon in a delicate pink sauce",
+    "price": "1/2 Tray $90.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Rigatoni Vegetali",
+    "description": "Rigatoni, shaved Brussels sprouts, butternut squash, maple-sage butter",
+    "price": "1/2 Tray $90.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Pollo Panato",
+    "description": "Tender breaded chicken breast, melted mozzarella and fontina, crispy prosciutto, bruschetta, lemon, fresh herbs",
+    "price": "1/2 Tray $95.00",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Bistecca",
+    "description": "Steak of the day",
+    "price": "1/2 Tray",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Salmone",
+    "description": "Grilled salmon in a lemon-caper butter",
+    "price": "1/2 Tray",
+    "menu_type": "Primi E Secondi",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  },
+  {
+    "name": "Cannoli",
+    "description": "House-made mini cannoli with rum and ricotta filling, chocolate shavings",
+    "price": "1/2 Tray $55.00",
+    "menu_type": "Dolci",
+    "restaurant_name": "Forno Bistro",
+    "restaurant_url": "https://www.fornobistro.com/",
+    "menu_name": "DZ At Home"
+  }
+]

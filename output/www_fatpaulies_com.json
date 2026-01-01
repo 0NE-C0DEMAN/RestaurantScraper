@@ -1,0 +1,302 @@
+[
+  {
+    "name": "SANDWICH TRAY",
+    "description": "All breakfast sandwiches come with two local fried eggs and American cheese. Choice of: - Egg and cheese - Bacon, egg and cheese - Ham, egg and cheese - Sausage, egg and cheese (Ketchup, S&P included on the side)",
+    "price": "$6.00 per person",
+    "section": "BREAKFAST",
+    "menu_type": "BREAKFAST",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "fruitplatter",
+    "description": "Includes an assortment of fresh cut seasonal fruit",
+    "price": "$6.00 per person",
+    "section": "BREAKFAST",
+    "menu_type": "BREAKFAST",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "BOXED COFFEE",
+    "description": "Serves 12, includes cups, stirrers, creamer, sugar and sugar substitute",
+    "price": "$19.95",
+    "section": "BREAKFAST",
+    "menu_type": "BREAKFAST",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "COLD HERO PLATTER",
+    "description": "House -roasted herb -rubbed turkey, house -roasted garlic and herb -rubbed roast beef, nitrate -free ham and an assortment of sliced cheeses. Heroes include lettuce, tomato, shaved red onion (on the side), Hellmann's mayo and Gulden's spicy brown mustard‍Fresh Mozz Hero with thick -sliced house -made mozzarella, pesto Genovese, lettuce and tomato also available upon request",
+    "price": "$9.95 per person | Add Italian Mix +$1.00 per person",
+    "section": "DELI PLATTERS",
+    "menu_type": "DELI PLATTERS",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "TRADITIONAL COLD CUT PLATTER",
+    "description": "Sliced house -roasted herb -rubbed turkey, house -roasted garlic and herb -rubbed roast beef and nitrate -free ham, American, provolone and havarti cheeses‍Platter includes rolls, lettuce, tomato, shaved red onion, pickles, Hellmann's mayo and Gulden's spicy brown mustard",
+    "price": "$9.95 per person",
+    "section": "DELI PLATTERS",
+    "menu_type": "DELI PLATTERS",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "ITALIAN COLD CUT PLATTER",
+    "description": "Sliced mortadella, prosciutto di Parma, Genoa salami, capicola, house -made fresh mozz, sharp provolone, roasted red peppers, artichokes and Castelvetrano olives‍Platter includes rolls, Hellmann's mayo, Gulden's spicy brown mustard and red wine vinaigretteCharcuterie Platter$11.95 per personSliced mortadella, prosciutto di Parma, Genoa salami, capicola, house -made fresh mozz, sharp provolone, roasted red peppers, artichokes and Castelvetrano olives",
+    "price": "$12.95 per person",
+    "section": "DELI PLATTERS",
+    "menu_type": "DELI PLATTERS",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "3 Foot Party Hero",
+    "description": "A fresh baked-to-order 3- or 4-foot party hero that includes a mix of our house-roasted herb-rubbed turkey, house-roasted garlic and herb-rubbed roast beef and nitrate-free ham, American cheese, lettuce, tomato, shaved red onion (on the side).IItalian Mix Upgrade - 3 Foot +$30, 4 Foot +$40A fresh baked-to-order 3- or 4-foot party hero that includes a mix of nitrate-free ham, capicola, Genoa salami, mortadella, prosciutto di Parma, sharp provolone, shaved red onion, lettuce, oregano, red wine vinaigrette‍Please note: 48-hour notice required on all Party Heroes",
+    "price": "$89.95",
+    "section": "PARTY HEROES",
+    "menu_type": "PARTY HEROES",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "4 Foot Party Hero",
+    "description": "A fresh baked-to-order 3- or 4-foot party hero that includes a mix of our house-roasted herb-rubbed turkey, house-roasted garlic and herb-rubbed roast beef and nitrate-free ham, American cheese, lettuce, tomato, shaved red onion (on the side).IItalian Mix Upgrade - 3 Foot +$30, 4 Foot +$40A fresh baked-to-order 3- or 4-foot party hero that includes a mix of nitrate-free ham, capicola, Genoa salami, mortadella, prosciutto di Parma, sharp provolone, shaved red onion, lettuce, oregano, red wine vinaigrette‍Please note: 48-hour notice required on all Party Heroes",
+    "price": "$104.95",
+    "section": "PARTY HEROES",
+    "menu_type": "PARTY HEROES",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "COLESLAW",
+    "description": "Classic deli style",
+    "price": "$5/LB",
+    "section": "DELI SALADS",
+    "menu_type": "DELI SALADS",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "MACARONI SALAD",
+    "description": "Classic Long Island sweet and sour style",
+    "price": "$6/LB",
+    "section": "DELI SALADS",
+    "menu_type": "DELI SALADS",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "BACON & SCALLION POTATO SALAD",
+    "description": "Russet potatoes, bacon, scallions, celery, red onion, capers, mayo, Dijon, parsley",
+    "price": "$6/LB",
+    "section": "DELI SALADS",
+    "menu_type": "DELI SALADS",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "SUN-DRIED TOMATO PESTO PASTA SALAD",
+    "description": "Bowtie pasta, hour -and -a -half broccoli rabe, house -made fresh mozz, pine nuts, Parmigiano -Reggiano, sun -dried tomato pesto Genovese, basil, extra -virgin olive oil",
+    "price": "$7/LB",
+    "section": "DELI SALADS",
+    "menu_type": "DELI SALADS",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "SEAFOOD SALAD",
+    "description": "Gently poached calamari and shrimp, jumbo lump crab, lemon, garlic, extra -virgin olive oil, parsley",
+    "price": "$18/LB",
+    "section": "DELI SALADS",
+    "menu_type": "DELI SALADS",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "ROASTED CAULIFLOWER SALAD",
+    "description": "Oven -roasted cauliflower florets, extra -virgin olive oil, lemon zest, capers, parsley, mint, Aleppo pepper",
+    "price": "$7/LB",
+    "section": "DELI SALADS",
+    "menu_type": "DELI SALADS",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "antipasto",
+    "description": "Escarole, radicchio, cured Italian meats, sharp provolone, chickpeas, capers, celery, shaved fennel, parsley leaf, lemon zest, red wine vinaigrette",
+    "price": "$15/LB",
+    "section": "DELI SALADS",
+    "menu_type": "DELI SALADS",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "LENTIL SALAD",
+    "description": "Le Puy green lentils simmered with onion, carrot, celery, bay leaf and thyme. Served chilled with chopped toasted walnuts, parsley and goat cheese, dressed simply with our house -made red wine vinaigrette",
+    "price": "$7/LB",
+    "section": "DELI SALADS",
+    "menu_type": "DELI SALADS",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "FARRO AND TUSCAN KALE SALAD",
+    "description": "Farro, Tuscan kale, dried cherries, toasted walnuts, cucumber, goat cheese, basil, lemon -orange vinaigrette",
+    "price": "$7/LB",
+    "section": "DELI SALADS",
+    "menu_type": "DELI SALADS",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "that good salad",
+    "description": "Leaf lettuce, shaved red onion, cucumber, grape tomato, goat cheese, garlicky croutons, basil green goddess dressing",
+    "price": "$46.95 / $79.95",
+    "section": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLE",
+    "menu_type": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLE",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "HOUSE SALAD",
+    "description": "Leaf lettuce, shaved red onion, cucumber, grape tomatoes, red wine vinaigrette",
+    "price": "$29.95 / $57.95",
+    "section": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLE",
+    "menu_type": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLE",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "BAKED ZITI",
+    "description": "",
+    "price": "$44.95 / $74.95",
+    "section": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "menu_type": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "MEAT LASAGNA",
+    "description": "",
+    "price": "$79.95 / $139.95",
+    "section": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "menu_type": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "EGGPLANT PARM",
+    "description": "",
+    "price": "$44.95 / $74.95",
+    "section": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "menu_type": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "CHICKEN PARM",
+    "description": "",
+    "price": "$74.95 / $129.95",
+    "section": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "menu_type": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "SAUSAGE AND PEPPERS",
+    "description": "",
+    "price": "$44.95 / $74.95",
+    "section": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "menu_type": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "PENNE ALLA VODKA",
+    "description": "",
+    "price": "$44.95 / $74.95",
+    "section": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "menu_type": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "HOUSE-MADE MEATBALLS & RED SAUCE",
+    "description": "",
+    "price": "$44.95 / $74.95",
+    "section": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "menu_type": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "PASTA (PENNE OR SPAGHETTI) & RED SAUCE",
+    "description": "",
+    "price": "$24.95 / $49.95",
+    "section": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "menu_type": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "BEEF SHORT RIB & BLACK BEAN CHILI",
+    "description": "",
+    "price": "$74.95 / $139.95",
+    "section": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "menu_type": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "RED WINE BRAISED BEEF BRISKET",
+    "description": "Served with buttered egg noodles and homemade horseradish sauce, both served on the side",
+    "price": "$94.95 / $154.95",
+    "section": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "menu_type": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "SUNDAY GRAVY",
+    "description": "Beef, veal and pork meatballs, pork and beef ribs and Esposito's NYC Italian sausage simmered in hand -crushed San Marzano tomatoes all day. Served with spaghetti. A house speciality!Dinner Rolls with Plugrá European Butter $1.00 each",
+    "price": "$79.95 / $139.95",
+    "section": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "menu_type": "HALF-TRAY SERVES 8-12 PEOPLEFULL-TRAY SERVES 15-20 PEOPLEAdditional Parmigiano-Reggiano, freshly grated $9.95/8 oz",
+    "restaurant_name": "Fat Paulie's Deli",
+    "restaurant_url": "https://www.fatpaulies.com/",
+    "menu_name": "Catering Menu"
+  }
+]

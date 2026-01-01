@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Housemade Chowder",
+    "description": "New England or Manhattan.",
+    "price": "",
+    "section": "Starters",
+    "menu_type": "Starters",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Lobster Bisque",
+    "description": "",
+    "price": "",
+    "section": "Starters",
+    "menu_type": "Starters",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Scallops",
+    "description": "Fried, Grilled, or Blackened.",
+    "price": "",
+    "section": "Starters",
+    "menu_type": "Starters",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Shrimp",
+    "description": "Fried Grilled or Blackened.",
+    "price": "",
+    "section": "Starters",
+    "menu_type": "Starters",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Jumbo Shrimp Cocktail",
+    "description": "",
+    "price": "",
+    "section": "Starters",
+    "menu_type": "Starters",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Calamari",
+    "description": "Lightly breaded, served with marinara.",
+    "price": "",
+    "section": "Starters",
+    "menu_type": "Starters",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Whole Belly Clams",
+    "description": "",
+    "price": "",
+    "section": "Starters",
+    "menu_type": "Starters",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Clam Strips",
+    "description": "",
+    "price": "",
+    "section": "Starters",
+    "menu_type": "Starters",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fish Fry",
+    "description": "",
+    "price": "",
+    "section": "Starters",
+    "menu_type": "Starters",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fried Oysters",
+    "description": "",
+    "price": "",
+    "section": "Starters",
+    "menu_type": "Starters",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mozzarella Sticks",
+    "description": "Served with Melba or Marinara.",
+    "price": "",
+    "section": "Starters",
+    "menu_type": "Starters",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chicken Tenders",
+    "description": "Served with Marinara, Honey Mustard, or BBQ.",
+    "price": "",
+    "section": "Starters",
+    "menu_type": "Starters",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Romaine Salad",
+    "description": "",
+    "price": "",
+    "section": "Salads",
+    "menu_type": "Salads",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Add Fried, Grilled, or Blackened Fish, Shrimp or Chicken, or Hot or Cold Lobster for an additional cost.",
+    "price": "",
+    "section": "Salads",
+    "menu_type": "Salads",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Twin Lobster Rolls",
+    "description": "Two lobster rolls, your choice of Hot with Drawn Butter or Cold with Celery & Mayo, served with Fries or Rings, and slaw.",
+    "price": "",
+    "section": "Lobster",
+    "menu_type": "Lobster",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Lobster Roll",
+    "description": "Your choice of Hot with Drawn Butter or Cold with Celery & Mayo, served with Fries or Rings, and slaw.",
+    "price": "",
+    "section": "Lobster",
+    "menu_type": "Lobster",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Lobster Mac & Cheese",
+    "description": "Enough said.",
+    "price": "",
+    "section": "Lobster",
+    "menu_type": "Lobster",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Seafood Alfredo",
+    "description": "Chunks of lobster, sea scallops, and shrimp, tossed in a rich creamy Alfredo sauce and poured over linguini. Made fresh every time.",
+    "price": "",
+    "section": "Lobster",
+    "menu_type": "Lobster",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Seafood Mac & Cheese",
+    "description": "Chunks of lobster and shrimp tossed in a rich creamy five-cheese sauce.",
+    "price": "",
+    "section": "Lobster",
+    "menu_type": "Lobster",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Lobster BLT",
+    "description": "Lobster salad with bacon, lettuce, and tomato on a New England roll, served with Fries or Rings, and slaw.",
+    "price": "",
+    "section": "Lobster",
+    "menu_type": "Lobster",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Lobster Grilled Cheese",
+    "description": "Served on thick white with Fries or Rings, and slaw.",
+    "price": "",
+    "section": "Lobster",
+    "menu_type": "Lobster",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Whole Belly Roll",
+    "description": "",
+    "price": "",
+    "section": "Rolls",
+    "menu_type": "Rolls",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Clam Strip Roll",
+    "description": "",
+    "price": "",
+    "section": "Rolls",
+    "menu_type": "Rolls",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Scallop Roll",
+    "description": "",
+    "price": "",
+    "section": "Rolls",
+    "menu_type": "Rolls",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Shrimp Roll",
+    "description": "",
+    "price": "",
+    "section": "Rolls",
+    "menu_type": "Rolls",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fish Fry",
+    "description": "Haddock battered and fried, served on a New England roll.",
+    "price": "",
+    "section": "Rolls",
+    "menu_type": "Rolls",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Double Fish Fry",
+    "description": "Two haddock fish fry’s.",
+    "price": "",
+    "section": "Rolls",
+    "menu_type": "Rolls",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fish Sandwich",
+    "description": "Haddock Grilled, Blackened, or Fried, served on a kaiser roll.",
+    "price": "",
+    "section": "Rolls",
+    "menu_type": "Rolls",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Captains",
+    "description": "Includes Ipswich whole belly clams, haddock, scallops, and shrimp.",
+    "price": "",
+    "section": "Baskets",
+    "menu_type": "Baskets",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "First Mate",
+    "description": "Your choice of two: Ipswich Whole Belly Clams or Strips, Haddock, Scallops, Calamari, Oysters, or Shrimp.",
+    "price": "",
+    "section": "Baskets",
+    "menu_type": "Baskets",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Whole Belly Clams",
+    "description": "",
+    "price": "",
+    "section": "Baskets",
+    "menu_type": "Baskets",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Clam Strips",
+    "description": "",
+    "price": "",
+    "section": "Baskets",
+    "menu_type": "Baskets",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Scallops",
+    "description": "Fried, Grilled, or Blackened.",
+    "price": "",
+    "section": "Baskets",
+    "menu_type": "Baskets",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Calamari",
+    "description": "Served with marinara sauce.",
+    "price": "",
+    "section": "Baskets",
+    "menu_type": "Baskets",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Oysters",
+    "description": "",
+    "price": "",
+    "section": "Baskets",
+    "menu_type": "Baskets",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Shrimp",
+    "description": "Fried, Grilled, or Blackened.",
+    "price": "",
+    "section": "Baskets",
+    "menu_type": "Baskets",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Haddock",
+    "description": "Fried, Grilled, or Blackened.",
+    "price": "",
+    "section": "Baskets",
+    "menu_type": "Baskets",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chicken",
+    "description": "Grilled or Blackened.",
+    "price": "",
+    "section": "Baskets",
+    "menu_type": "Baskets",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chicken Tenders",
+    "description": "",
+    "price": "",
+    "section": "Baskets",
+    "menu_type": "Baskets",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fish & Chips",
+    "description": "Haddock battered and fried, served with Fries or Rings, and slaw.",
+    "price": "",
+    "section": "Baskets",
+    "menu_type": "Baskets",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Shrimp & Scallop Marinara",
+    "description": "Saratoga Location Only",
+    "price": "",
+    "section": "Pastas",
+    "menu_type": "Pastas",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Seafood Alfredo",
+    "description": "Chunks of lobster, sea scallops, and shrimp, tossed in a rich creamy Alfredo sauce and poured over linguini. Made fresh every time.",
+    "price": "",
+    "section": "Pastas",
+    "menu_type": "Pastas",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Linguini Marinara",
+    "description": "Saratoga Location Only | Served Plain or With your choice of Meatballs or Sausage.",
+    "price": "",
+    "section": "Pastas",
+    "menu_type": "Pastas",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Lobster",
+    "description": "",
+    "price": "",
+    "section": "Mac & Cheese",
+    "menu_type": "Mac & Cheese",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Plain",
+    "description": "",
+    "price": "",
+    "section": "Mac & Cheese",
+    "menu_type": "Mac & Cheese",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Bacon or Ham",
+    "description": "Ham served at the Saratoga Location Only",
+    "price": "",
+    "section": "Mac & Cheese",
+    "menu_type": "Mac & Cheese",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Burger",
+    "description": "1/2 lb. Angus | Add Cheese, Bacon, Mushrooms, or Jalapeños for an additional cost.",
+    "price": "",
+    "section": "Burgers & Dogs",
+    "menu_type": "Burgers & Dogs",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Dog",
+    "description": "1/4 lb. served on a New England roll.",
+    "price": "",
+    "section": "Burgers & Dogs",
+    "menu_type": "Burgers & Dogs",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fillies",
+    "description": "Chicken or Steak, mushrooms, peppers, onions, and melted cheeses.",
+    "price": "",
+    "section": "Sandwiches & Subs",
+    "menu_type": "Sandwiches & Subs",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Sub Parmigiana",
+    "description": "Saratoga Location Only | Steak, Meatball, Sausage, or Chicken Tender.",
+    "price": "",
+    "section": "Sandwiches & Subs",
+    "menu_type": "Sandwiches & Subs",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Sausage",
+    "description": "Saratoga Location Only | Served with peppers and onions.",
+    "price": "",
+    "section": "Sandwiches & Subs",
+    "menu_type": "Sandwiches & Subs",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chicken",
+    "description": "Grilled, Blackened, or Salad tossed with mayo and celery on a fresh kaiser roll.",
+    "price": "",
+    "section": "Sandwiches & Subs",
+    "menu_type": "Sandwiches & Subs",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Grilled Cheese & Tomato",
+    "description": "",
+    "price": "",
+    "section": "Sandwiches & Subs",
+    "menu_type": "Sandwiches & Subs",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Sandwich or Sub",
+    "description": "Saratoga Location Only | Roast Beef, Roast Turkey, All White Tuna, BLT, Ham, or American Mix.",
+    "price": "",
+    "section": "Sandwiches & Subs",
+    "menu_type": "Sandwiches & Subs",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "French Fries",
+    "description": "",
+    "price": "",
+    "section": "Sides",
+    "menu_type": "Sides",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Onion Rings",
+    "description": "Sliced and battered fresh.",
+    "price": "",
+    "section": "Sides",
+    "menu_type": "Sides",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Coleslaw",
+    "description": "",
+    "price": "",
+    "section": "Sides",
+    "menu_type": "Sides",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Potato Salad",
+    "description": "",
+    "price": "",
+    "section": "Sides",
+    "menu_type": "Sides",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Macaroni Salad",
+    "description": "",
+    "price": "",
+    "section": "Sides",
+    "menu_type": "Sides",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Broccoli",
+    "description": "",
+    "price": "",
+    "section": "Sides",
+    "menu_type": "Sides",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "New England Brown Beans",
+    "description": "",
+    "price": "",
+    "section": "Sides",
+    "menu_type": "Sides",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Side Salad",
+    "description": "",
+    "price": "",
+    "section": "Sides",
+    "menu_type": "Sides",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Lobster Roll",
+    "description": "Served with Fries or Rings, and slaw. (Gluten Free Roll available)",
+    "price": "",
+    "section": "Specials - Wednesday",
+    "menu_type": "Specials - Wednesday",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Specials"
+  },
+  {
+    "name": "Fish Fry",
+    "description": "Served with Fries or Rings, and slaw. (Gluten Free Fried & Roll available)",
+    "price": "$12",
+    "section": "Specials - Wednesday",
+    "menu_type": "Specials - Wednesday",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Specials"
+  },
+  {
+    "name": "Fried Shrimp",
+    "description": "Served with Fries or Rings, and slaw. (Gluten Free Fried available)",
+    "price": "",
+    "section": "Specials - Thursday",
+    "menu_type": "Specials - Thursday",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Specials"
+  },
+  {
+    "name": "Shrimp Roll",
+    "description": "Served with Fries or Rings, and slaw. (Gluten Free Roll & fried option available)",
+    "price": "$12",
+    "section": "Specials - Thursday",
+    "menu_type": "Specials - Thursday",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Specials"
+  },
+  {
+    "name": "Whole Belly Eddie",
+    "description": "Served with Fries or Rings, and slaw. (Gluten Free fried option available)",
+    "price": "",
+    "section": "Specials - Monday",
+    "menu_type": "Specials - Monday",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Specials"
+  },
+  {
+    "name": "Clam Strip Roll",
+    "description": "Served with Fries or Rings, and slaw. (Gluten Free fried option available)",
+    "price": "$12",
+    "section": "Specials - Monday",
+    "menu_type": "Specials - Monday",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Specials"
+  },
+  {
+    "name": "Shrimp Roll",
+    "description": "Served with Fries or Rings, and slaw. (Gluten Free roll or fried option available)",
+    "price": "$12",
+    "section": "Specials - Tuesday",
+    "menu_type": "Specials - Tuesday",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Specials"
+  },
+  {
+    "name": "Fish & Chip",
+    "description": "Served with Fries or Rings, and slaw. (Gluten Free fried option available)",
+    "price": "",
+    "section": "Specials - Tuesday",
+    "menu_type": "Specials - Tuesday",
+    "restaurant_name": "Eddie F's New England Seafood Restaurant",
+    "restaurant_url": "https://www.eateddiefs.com/",
+    "menu_name": "Specials"
+  }
+]

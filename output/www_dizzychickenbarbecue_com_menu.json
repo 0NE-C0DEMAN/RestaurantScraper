@@ -1,0 +1,1163 @@
+[
+  {
+    "name": "Beer Battered Cheese Curd",
+    "description": "Paulaner battered | Argyle Cheese Farmer | cheddar cheese curd paired with your choice of Dizzy or Melba sauce",
+    "price": "$13.95",
+    "menu_type": "Specials",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Pork Candy",
+    "description": "Slow smoked pork belly burnt ends glazed with honey and apple infused barbecue sauce paired with arugula & shaved parmesan with extra virgin olive oil & Lemon.",
+    "price": "$16.95",
+    "menu_type": "Specials",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Prime Panini",
+    "description": "Slow smoked & Shaved herb crusted prime rib, arugula, red onion, horseradish cream sauce & Swiss.",
+    "price": "$16.95",
+    "menu_type": "Specials",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Dizzy Hawaiian Burger",
+    "description": "House ground Brisket Burger topped with grilled pineapple, House Smoked pastrami, grilled red onion, Swiss cheese, & chipotle aioli. Served with parmesan fries.",
+    "price": "$18.95",
+    "menu_type": "Specials",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Smoked Beef Back Ribs",
+    "description": "Dry rubbed and slow smoked Certified black angus beef back ribs, and 2 sides of your choice.",
+    "price": "$29.95",
+    "menu_type": "Specials",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chicken & Brisket Combo",
+    "description": "All natural antibiotic free smoke roasted chicken thighs, slow smoked certified black angus beef brisket, & 2 sides of your choice.",
+    "price": "$25.95",
+    "menu_type": "Specials",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Pulled Pork & Cheddar Sliders",
+    "description": "2 brioche sliders served with coleslaw & potato salad.",
+    "price": "$15.95",
+    "menu_type": "Specials",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Monday Night",
+    "description": "Whole Antibiotic free all natural rotisserie chicken with 2 large sides and a 2 liter of soda.",
+    "price": "$23.95",
+    "menu_type": "Specials",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Tuesday Night",
+    "description": "Order 2 entrees and receive 2 free desserts! Choose from either the homemade dark chocolate mousse or the coconut ice cream custard.",
+    "price": "$2.00",
+    "menu_type": "Specials",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Wednesday Night",
+    "description": "Wine Wednesday!!! All bottles of wine are HALF OFF!!!",
+    "price": "",
+    "menu_type": "Specials",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Thursday Night",
+    "description": "Full rack of St. Louis ribs, two large sides, and a 2 liter of soda.",
+    "price": "$31.95",
+    "menu_type": "Specials",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Smoked Prime Rib (Friday’s While it Lasts)",
+    "description": "Herb crusted 12-14 oz slow-smoked Black Angus Prime Rib paired with creamy mashed potatoes & braised red cabbage. Finished with garlic compound butter.",
+    "price": "$29.95",
+    "menu_type": "Specials",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Heirloom Caprese Salad",
+    "description": "House Made Mozzarella Cheese, Heirloom Tomatoes, fresh basil, olive oil, and balsamic reduction.",
+    "price": "$14.95 / Add Prosciutto di Parma $3.00",
+    "menu_type": "Appetizers",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Smokey Skins",
+    "description": "Crispy potato skins loaded with smoke kissed pork or chicken, cheddar, scallions, sweet BBQ & sour cream.",
+    "price": "$13.95",
+    "menu_type": "Appetizers",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Dizzy Wings",
+    "description": "Our chicken wings are slow roasted in the rotisserie and then fried crisp. | Served | : Smoked Buffalo, Sweet BBQ, Spicy BBQ, Garlic and Parmesan, or Maple Bacon($2 upcharge) | Dipping Sauce | : House Made Blue Cheese or Dizzy Sauce",
+    "price": "$17.95",
+    "menu_type": "Appetizers",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Dizzy Bites",
+    "description": "House Made herb brined bites of chicken breast dredged in our secret recipe and fried crisp, served with your choice of two house made sauces.",
+    "price": "$14.95",
+    "menu_type": "Appetizers",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Spinach & Artichoke Dip",
+    "description": "Zesty Spinach and Artichoke Dip with house made tortilla chips.",
+    "price": "$13.95",
+    "menu_type": "Appetizers",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Antipasto",
+    "description": "Grilled eggplant & zucchini, roasted red peppers, house made mozzarella, Prosciutto di Parma, Butternut Squash, & Kalamata olives. Drizzled with extra virgin olive oil and balsamic reduction. | Vegetables Only",
+    "price": "$14.95 - $8.95",
+    "menu_type": "Appetizers",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Loaded Pulled Pork Nachos",
+    "description": "House Made tortilla chips topped with pulled pork, aged cheddar, Swiss, Provolone, romaine, tomatoes & jalapenos. Served with sour cream & pico de gallo.",
+    "price": "$16.95",
+    "menu_type": "Appetizers",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chicken & Vegetable",
+    "description": "Rich chicken broth, all natural Antibiotic Free smoke roasted chicken & lots of vegetables.",
+    "price": "$7.95",
+    "menu_type": "Soup",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Buffalo Chicken Soup",
+    "description": "Award winning buffalo chicken soup made with all natural Antibiotic Free smoke roasted chicken.",
+    "price": "$7.95",
+    "menu_type": "Soup",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Soup & 1/2 Panini",
+    "description": "12oz bowl of soup with your choice of any half Panini.",
+    "price": "$15.95",
+    "menu_type": "Soup",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Award Winning House Smoked Bacon, Poblano & Roasted Corn Chowder",
+    "description": "Award winning chowder made with All Natural Nitrate Free House Made Bacon, poblanos, roasted corn, potatoes, garlic, parsley & thyme.",
+    "price": "$7.95",
+    "menu_type": "Soup",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Arugula",
+    "description": "Baby arugula, Parmesan, extra virgin olive oil, & lemon.",
+    "price": "$12.95",
+    "menu_type": "Salads",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Caesar",
+    "description": "Romaine lettuce, Parmesan, garlicky dressing & croutons. |",
+    "price": "$12.95 / Add Chicken $5.00 / Add Anchovies $3.00",
+    "menu_type": "Salads",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Dizzy Chicken Salad",
+    "description": "Pulled chicken, carrots, parsnips, celery, & lemon aioli. Served on a bed of mixed greens with Kalamata olives, roasted red peppers, red onion & balsamic vinaigrette.",
+    "price": "$15.95",
+    "menu_type": "Salads",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Southwest Cobb Salad",
+    "description": "Mixed greens tossed with House Made nitrate free bacon, roasted corn, red onion, roasted red peppers, kalamata olives, avocado, egg, tortilla strips, queso fresco, and a tangy jalapeno vinaigrette.",
+    "price": "$15.95",
+    "menu_type": "Salads",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mixed Green Salad",
+    "description": "Mixed field greens, cherry tomatoes, & red onion. Dressed with herbed balsamic vinaigrette.",
+    "price": "$11.95",
+    "menu_type": "Salads",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Roasted Beet Salad",
+    "description": "Roasted beets, butternut squash, mixed greens, toasted walnuts, red onion & Goat Cheese. Tossed with balsamic vinaigrette.",
+    "price": "$16.95",
+    "menu_type": "Salads",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Smoking Brisket",
+    "description": "Slow house smoked beef brisket, caramelized onions, aged cheddar, & horseradish cream.",
+    "price": "$16.95",
+    "menu_type": "Panini",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Caprese",
+    "description": "House made mozzarella, tomato, & basil pesto.",
+    "price": "$16.95 / Add Prosciutto di Parma $3.00",
+    "menu_type": "Panini",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Dizzy Chicken",
+    "description": "Roasted chicken, Roasted Red Pepper, Basil Pesto, & Provolone.",
+    "price": "$16.95",
+    "menu_type": "Panini",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Meatloaf Panini",
+    "description": "Meatloaf, arugula, sundried tomato spread, Swiss cheese, & Mayo.",
+    "price": "$16.95",
+    "menu_type": "Panini",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Smoked Pastrami Ruben",
+    "description": "House smoked pastrami, sauerkraut, Swiss cheese, & house made Russian dressing.",
+    "price": "$16.95",
+    "menu_type": "Panini",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Pulled Pork Panini",
+    "description": "Pulled pork, Sweet Love BBQ with Cajun spiced crispy onions and cheddar cheese.",
+    "price": "$16.95",
+    "menu_type": "Panini",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Grilled Vegetable",
+    "description": "Grilled eggplant & Zucchini, Roasted Red Pepper, sundried tomato & goat cheese.",
+    "price": "$16.95",
+    "menu_type": "Panini",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "House Smoked Pastrami",
+    "description": "Wrap | Focaccia",
+    "price": "$14.95 - $16.95",
+    "menu_type": "Cold Sandwiches: Wraps & House Made Focaccia!",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Dizzy Chicken Salad",
+    "description": "Wrap | Focaccia",
+    "price": "$14.95 - $16.95",
+    "menu_type": "Cold Sandwiches: Wraps & House Made Focaccia!",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Roasted Chicken",
+    "description": "Wrap | Focaccia",
+    "price": "$14.95 - $16.95",
+    "menu_type": "Cold Sandwiches: Wraps & House Made Focaccia!",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "House Smoked Brisket",
+    "description": "Wrap | Focaccia",
+    "price": "$14.95 - $16.95",
+    "menu_type": "Cold Sandwiches: Wraps & House Made Focaccia!",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "House Smoked Turkey",
+    "description": "Wrap | Focaccia",
+    "price": "$14.95 - $16.95",
+    "menu_type": "Cold Sandwiches: Wraps & House Made Focaccia!",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Prosciutto Caprese",
+    "description": "Wrap | Focaccia",
+    "price": "$14.95 - $16.95",
+    "menu_type": "Cold Sandwiches: Wraps & House Made Focaccia!",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Turkey Bacon",
+    "description": "Wrap | Focaccia",
+    "price": "$14.95 - $16.95",
+    "menu_type": "Cold Sandwiches: Wraps & House Made Focaccia!",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Kalamata Olives, Banana Peppers, Roasted Red Peppers, Arugula, Coleslaw",
+    "description": "",
+    "price": "$1.50",
+    "menu_type": "Additional Toppings:",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Avocado",
+    "description": "",
+    "price": "$3.00",
+    "menu_type": "Additional Toppings:",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Dizzy Chicken",
+    "description": "Our chicken is herb brined and slow roasted in our wood rotisserie until it melts in your mouth. Try with our Dizzy Sauce! | Half chicken | with 2 sides | Whole chicken | with 2 Lg Sides",
+    "price": "$19.95 - $27.95",
+    "menu_type": "Entree Selections",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "St. Louis Ribs",
+    "description": "Rubbed with our signature dry rub and smoked in our rotisserie until fall off the bone tender. Finished with a light BBQ sauce. | ¼ rack | ½ rack | Full rack",
+    "price": "$16.95 - $24.95 - $33.95",
+    "menu_type": "Entree Selections",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Smoked Meatloaf",
+    "description": "House ground pork and beef, fresh herbs, parmesan & a tomato reduction. Smoked to perfections and paired with two sides of your choice.",
+    "price": "$18.95",
+    "menu_type": "Entree Selections",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Midnight Pork",
+    "description": "Succulent pulled pork smoked overnight in our smoker and finished with a tangy BBQ sauce.",
+    "price": "$18.95",
+    "menu_type": "Entree Selections",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Angus Beef Brisket",
+    "description": "Certified black Angus beef brisket slathered with Dijon, salt & cracked pepper then slow smoked for at least 12 hours.",
+    "price": "$20.95",
+    "menu_type": "Entree Selections",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Combo Dinner for 2-4",
+    "description": "1/2 lb of Brisket, 1/2 lb pulled pork & 4 herb brined Chicken Thighs with 3 large sides.",
+    "price": "$42.95",
+    "menu_type": "Entree Selections",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Shrimp Tacos",
+    "description": "Blackened shrimp, shredded red cabbage, pineapple salsa, queso fresco, and a cilantro, jalapeno, lime aioli",
+    "price": "$18.95",
+    "menu_type": "Entree Selections",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chicken Thighs",
+    "description": "Two all natural Antibiotic Free herb brined & smoke roasted chicken thighs with 2 sides of your choice.",
+    "price": "$16.95",
+    "menu_type": "Entree Selections",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Dizzy Chicken",
+    "description": "Half | Whole",
+    "price": "$13.95 - $18.95",
+    "menu_type": "Meat Selections Á La Carte",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chicken Thighs",
+    "description": "2 Pieces | 4 Pieces",
+    "price": "$9.95 - $14.95",
+    "menu_type": "Meat Selections Á La Carte",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "St. Louis Ribs",
+    "description": "¼ | ½ | Full (12 ribs)",
+    "price": "$9.95 - $18.95 - $28.95",
+    "menu_type": "Meat Selections Á La Carte",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Midnight Pork",
+    "description": "4 oz | 8 oz",
+    "price": "$7.95 - $12.95",
+    "menu_type": "Meat Selections Á La Carte",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Angus Beef Brisket",
+    "description": "4 oz | 8 oz",
+    "price": "$10.95 - $14.95",
+    "menu_type": "Meat Selections Á La Carte",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Add Another Signature Sauce: $2.00",
+    "description": "Dizzy Sauce – cool creamy garlic sauce (made with organic yogurt) | Sweet Love BBQ | Roof Raiser BBQ",
+    "price": "Add Another Signature Sauce: $2.00",
+    "menu_type": "Meat Selections Á La Carte",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Coleslaw",
+    "description": "sm | lg",
+    "price": "$6.95 - $9.95",
+    "menu_type": "Sides",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Potato Salad",
+    "description": "sm | lg",
+    "price": "$6.95 - $9.95",
+    "menu_type": "Sides",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Braised Red Cabbage",
+    "description": "sm | lg",
+    "price": "$7.95 - $10.95",
+    "menu_type": "Sides",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mac & Cheese",
+    "description": "sm | lg",
+    "price": "$8.95 - $11.95",
+    "menu_type": "Sides",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Parmesan Fries",
+    "description": "sm | lg",
+    "price": "$7.95 - $9.95",
+    "menu_type": "Sides",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Garlic & Herb Roasted Potatoes",
+    "description": "sm | lg",
+    "price": "$7.95 - $10.95",
+    "menu_type": "Sides",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Cornbread",
+    "description": "per piece",
+    "price": "$4.25",
+    "menu_type": "Sides",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Sweet Potato Fries",
+    "description": "sm | lg",
+    "price": "$8.95 - $11.95",
+    "menu_type": "Sides",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Greens n’ Beans",
+    "description": "sm | lg",
+    "price": "$8.95 - $11.95",
+    "menu_type": "Sides",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Cheesecake “Ask for flavor of the week”",
+    "description": "",
+    "price": "$6.95",
+    "menu_type": "Dessert",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Dark Chocolate Mousse with Raspberry Coulis",
+    "description": "",
+    "price": "$6.95",
+    "menu_type": "Dessert",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Coconut Ice Cream Custard",
+    "description": "",
+    "price": "$6.95",
+    "menu_type": "Dessert",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Carrot Cake",
+    "description": "",
+    "price": "$7.95",
+    "menu_type": "Dessert",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Pepsi",
+    "description": "Bottle | 2 Liter",
+    "price": "Bottle $3.50",
+    "menu_type": "Beverages",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Diet Pepsi",
+    "description": "Bottle | 2 Liter",
+    "price": "Bottle $3.50",
+    "menu_type": "Beverages",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Ginger Ale",
+    "description": "Bottle | 2 Liter",
+    "price": "Bottle $3.50",
+    "menu_type": "Beverages",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Crush Orange",
+    "description": "Bottle",
+    "price": "Bottle $3.50",
+    "menu_type": "Beverages",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mug",
+    "description": "Bottle",
+    "price": "Bottle $3.50",
+    "menu_type": "Beverages",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Dr. Pepper",
+    "description": "Bottle",
+    "price": "Bottle $3.50",
+    "menu_type": "Beverages",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Pure Leaf Tea",
+    "description": "Bottle",
+    "price": "Bottle $3.50",
+    "menu_type": "Beverages",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Aquafina",
+    "description": "Bottle",
+    "price": "Bottle $3.50",
+    "menu_type": "Beverages",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Dizzy Margarita",
+    "description": "One With Life Tequila, Lime Juice, Simple Syrup, Chambord, Triple Sec.",
+    "price": "",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Chocolate Peanut Butter Martini",
+    "description": "Screwball, Peanut butter, Half & Half, Choc. Syrup with whipped cream & peanut butter topping",
+    "price": "",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Sparkling Sunset",
+    "description": "Prosecco, Orange Juice, Cranberry Juice with a fresh cranberry and orange Garnish",
+    "price": "",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Tequila Punch",
+    "description": "Strawberry and Blueberry Fruitful liquor, One With Life Tequila, Triple Sec, Simple Syrup, Lemon Bitter with a cherry, lime, orange garnish topped with lemon lime soda",
+    "price": "",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Cinnamon Maple Sour",
+    "description": "Bulleit Bourbon, Squeezed Lemon, maple syrup, Cinnamon, and egg whites with and cinnamon orange garnish",
+    "price": "",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Blonde Roast Espresso Martini",
+    "description": "(Top 3 in Saratoga by Saratoga Springs Eats) | Absolut Vanilla, Kahlua Blonde Roast, Death Wish Cold Brew, Egg whites, S.S. and Sprinkle Cinnamon. (Personalized)",
+    "price": "$3.00",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "The Mad Elf 11% ABV",
+    "description": "Belgium Dark Ale – Nuanced blend of sweet and tart cherries, Pennsylvania honey, chocolate malt and a hint of mischief",
+    "price": "$10.00",
+    "menu_type": "On Tap - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "St Bernardus ABT 12 10% ABV",
+    "description": "Belgium- Widely regarded as one of the best beers in the world. Mild, rounded taste and perfect balance between bitter and sweet",
+    "price": "$10.00",
+    "menu_type": "On Tap - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Wolf Hollow Amber 5.2% ABV",
+    "description": "Glenville, NY – Wolf Hollow Amber is the flagship beer of WHBC. A toasty sweet malt profile with notes of toffee, caramel and pie crust",
+    "price": "$7.00",
+    "menu_type": "On Tap - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Peroni 4.7% ABV",
+    "description": "Italy – Light, Crisp and very easy drinking",
+    "price": "$7.00",
+    "menu_type": "On Tap - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Paulaner Hefe-Weizen5.5% ABV",
+    "description": "Munich, Germany – Traditional unfiltered HefeWeizen is naturally cloudy and warm silky gold under a really strong head of foam. On the pallet, it has hints of banana, pineapple & mango",
+    "price": "$7.00",
+    "menu_type": "On Tap - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Burlington Beer Co Little Wizard I.P.A. 6% ABV",
+    "description": "Vermont Hopped with a magical trio, Little Wizard conjures an array of bright flavors and freshness",
+    "price": "$7.00",
+    "menu_type": "On Tap - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Ithaca Flower Power 7.5% ABV",
+    "description": "Ithaca, NY",
+    "price": "$6.00",
+    "menu_type": "Bottles & Cans - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Samuel Smith Collection",
+    "description": "Taddy Porter, Oatmeal Stout, Nut Brown",
+    "price": "$6.00",
+    "menu_type": "Bottles & Cans - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Hudson North Dry Cider 5% ABV",
+    "description": "Newburgh NY",
+    "price": "$6.00",
+    "menu_type": "Bottles & Cans - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Downeast Unfiltered Craft Cider 5.1% ABV",
+    "description": "East Boston, MA",
+    "price": "$6.00",
+    "menu_type": "Bottles & Cans - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "White Claw Black Cherry 5%ABV",
+    "description": "",
+    "price": "",
+    "menu_type": "Bottles & Cans - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Peach Ring Sour 6.7 % ABV",
+    "description": "Buffalo, NY",
+    "price": "$8.00",
+    "menu_type": "Bottles & Cans - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Second Fiddle Double IPA 8.2%ABV",
+    "description": "Shelburne, VT",
+    "price": "$8.00",
+    "menu_type": "Bottles & Cans - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Fiddlehead IPA 6.2 %ABV",
+    "description": "Shelburne, VT",
+    "price": "$8.00",
+    "menu_type": "Bottles & Cans - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Gnommegang Belgian-Style Blonde Ale 9.5%ABV",
+    "description": "Cooperstown, NY",
+    "price": "$8.00",
+    "menu_type": "Bottles & Cans - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Artisanal Brew Works Whole Lotta Trouble Belgian Quad 10.5% ABV",
+    "description": "Saratoga Springs, NY",
+    "price": "$9.00",
+    "menu_type": "Bottles & Cans - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Froth Juice Life IPA 16oz 6.7% ABV",
+    "description": "Buffalo, NY",
+    "price": "$8.00",
+    "menu_type": "Bottles & Cans - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Sloop Cruiser Golden Ale 4.2%ABV",
+    "description": "Hopewell Junction, NY",
+    "price": "$6.00",
+    "menu_type": "Bottles & Cans - Craft Brews",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Hudson North Dry Cider 5% ABV",
+    "description": "Newburgh NY",
+    "price": "$6.00",
+    "menu_type": "Bottles & Cans - Spiked Cider, Tea and Sletzers",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Downeast Unfiltered Craft Cider 5.1% ABV",
+    "description": "East Boston, MA",
+    "price": "$6.00",
+    "menu_type": "Bottles & Cans - Spiked Cider, Tea and Sletzers",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Downeast Pomegranate Unfiltered Craft Cider 5.1% ABV",
+    "description": "East Boston, MA",
+    "price": "$6.00",
+    "menu_type": "Bottles & Cans - Spiked Cider, Tea and Sletzers",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Adirondack Lemon Ginger Cider 16oz 5.8% ABV",
+    "description": "Lake George, NY",
+    "price": "$6.00",
+    "menu_type": "Bottles & Cans - Spiked Cider, Tea and Sletzers",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Surfside Tea ~ Surfside Tea Lemonade 4.5%",
+    "description": "Philadelphia, PA",
+    "price": "$6.00",
+    "menu_type": "Bottles & Cans - Spiked Cider, Tea and Sletzers",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "White Claw Black Cherry 5%ABV",
+    "description": "Vancouver",
+    "price": "$6.00",
+    "menu_type": "Bottles & Cans - Spiked Cider, Tea and Sletzers",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Corona",
+    "description": "",
+    "price": "$5.00",
+    "menu_type": "Bottles & Cans - Old Faithfuls",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Heineken",
+    "description": "",
+    "price": "$5.00",
+    "menu_type": "Bottles & Cans - Old Faithfuls",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Coors Light",
+    "description": "",
+    "price": "$5.00",
+    "menu_type": "Bottles & Cans - Old Faithfuls",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "PBR",
+    "description": "",
+    "price": "$5.00",
+    "menu_type": "Bottles & Cans - Old Faithfuls",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Miller Light",
+    "description": "",
+    "price": "$5.00",
+    "menu_type": "Bottles & Cans - Old Faithfuls",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Molson XXX",
+    "description": "",
+    "price": "$5.00",
+    "menu_type": "Bottles & Cans - Old Faithfuls",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Prosecco (Splits)",
+    "description": "Villa Jolanda Prosecco, Piedmont, Italy",
+    "price": "Bottle $14.00",
+    "menu_type": "White Wines",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pinot Grigio",
+    "description": "Tre Fili , Italy, ‘23",
+    "price": "Glass $9.00, Bottle $31.00",
+    "menu_type": "White Wines",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Sauvignon Blanc",
+    "description": "The Little Sheep, Marlborough 2018",
+    "price": "Glass $10.00, Bottle $33.00",
+    "menu_type": "White Wines",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Riesling",
+    "description": "Dr. Hans Von Muller, Mosel 2021",
+    "price": "Glass $9.00, Bottle $30.00",
+    "menu_type": "White Wines",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Chardonnay",
+    "description": "(Un Oaked) | Pam’s un oaked , California ’22",
+    "price": "Glass $10.00, Bottle $33.00",
+    "menu_type": "White Wines",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Rosé",
+    "description": "Les Dauphins Cotes Du Rhone, 2023",
+    "price": "Glass $9.00, Bottle $30.00",
+    "menu_type": "White Wines",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pinot Noir",
+    "description": "Spellbound, California 2022",
+    "price": "Glass $9.00, Bottle $30.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Lambrusco",
+    "description": "Grasparossa Di Castelvetro, Italy | Bottle",
+    "price": "Bottle $32.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Malbec",
+    "description": "Crios , Argentina 2022",
+    "price": "Glass $10.00, Bottle $33.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Cabernet Sauvignon",
+    "description": "Spellbound Cabernet Sauv, California 2021",
+    "price": "Glass $9.00, Bottle $30.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pinot Noir",
+    "description": "Kenwood Six Ridges, Russian River 2021 | Bottle",
+    "price": "Bottle $44.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Rioja",
+    "description": "Campo Viejo Gran Reserva, Spain 2016 | Bottle",
+    "price": "Bottle $52.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Barolo",
+    "description": "Albeisa, DOCG, Piemonte, Italy 2019 | Bottle",
+    "price": "Bottle $65.00",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Dizzy Chicken Woodfired Rotisserie",
+    "restaurant_url": "https://www.dizzychickenbarbecue.com/",
+    "menu_name": "Drink Menu"
+  }
+]
