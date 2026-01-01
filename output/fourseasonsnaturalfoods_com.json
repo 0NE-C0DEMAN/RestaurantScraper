@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Apple, Cheddar, Caramelized Onion, & Mustard",
+    "description": "Crisp apple, sharp cheddar, caramelized onions and Dijon mustard on French peasant.",
+    "price": "$9",
+    "menu_type": "VEGGIE (Lite)",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 1"
+  },
+  {
+    "name": "Caprese",
+    "description": "Basil pesto, tomato and NYS R&G mozzarella on Sourdough.",
+    "price": "$10",
+    "menu_type": "VEGGIE (Lite)",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 1"
+  },
+  {
+    "name": "Gruyere, Caramelized Onion, & Kale",
+    "description": "Gruyere, shredded kale, caramelized onion and Awesome sauce (homemade vegan aloll) on French peasant.",
+    "price": "$9",
+    "menu_type": "VEGGIE (Lite)",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 1"
+  },
+  {
+    "name": "Simple",
+    "description": "Sharp cheddar on French peasant.",
+    "price": "$7",
+    "menu_type": "VEGGIE (Lite)",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 1"
+  },
+  {
+    "name": "Horseplay",
+    "description": "Caramelized onions, tempeh, dlll plokios, shredded kale, horseradish sauce and horseradish Havarti on Rya.",
+    "price": "$11",
+    "menu_type": "VEGGIE (Hearty)",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 1"
+  },
+  {
+    "name": "Steuben",
+    "description": "Olive-brined tempeh, sauerkraut, caramelized onions, Awesome sauce, Oscar's mustard and smoked Swiss on Rye.",
+    "price": "$11",
+    "menu_type": "VEGGIE (Hearty)",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 1"
+  },
+  {
+    "name": "Smoky Goat",
+    "description": "Marinated Baked Tofu, NYS maple-chipotle chèvre, Awesome sauce, caramelized onions and shredded kale on French peasant.",
+    "price": "$11",
+    "menu_type": "VEGGIE (Hearty)",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 1"
+  },
+  {
+    "name": "BBQ Tofu",
+    "description": "Marinated bakod tofu, spicy buffalo BBQ sauce, shradded kale, celery and Awesome sauce on French peasant.",
+    "price": "$10",
+    "menu_type": "VEGAN",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 1"
+  },
+  {
+    "name": "Fugetaboutit",
+    "description": "Basli posto, baked tofu, tomato, kale and Awesome Sauce on Sourdough.",
+    "price": "$11",
+    "menu_type": "VEGAN",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 1"
+  },
+  {
+    "name": "Southwester",
+    "description": "Marinated Baked Tofu, shredded kale, caramelized ontons, banana peppers, chipotle/red pepper mayo and vegan cheese on French peasant.",
+    "price": "$11",
+    "menu_type": "VEGAN",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 1"
+  },
+  {
+    "name": "Cubanish",
+    "description": "Uncured ham, caramelized onione, Oscar's smoked Swiss cheese, dlll pickle and Oscar's mustard on French peasant.",
+    "price": "$11",
+    "menu_type": "NON-VEGGIE",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 1"
+  },
+  {
+    "name": "Franklin",
+    "description": "Roast turkey, sharp cheddar, caramelized onion, tomato and Awesome Sauce on French peasant.",
+    "price": "$11",
+    "menu_type": "NON-VEGGIE",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 1"
+  },
+  {
+    "name": "fresh carrot Julce",
+    "description": "",
+    "price": "$7",
+    "menu_type": "JUICES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "fresh apple juice",
+    "description": "",
+    "price": "$10",
+    "menu_type": "JUICES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "fresh celery Juice",
+    "description": "",
+    "price": "$10",
+    "menu_type": "JUICES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "Green Juice",
+    "description": "(a balanced blend of cucumber, celery, parsley, kale)",
+    "price": "$9",
+    "menu_type": "JUICES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "The Upbeat",
+    "description": "Apple, ginger, orange, best, cucumber, cilantro, lime",
+    "price": "$10",
+    "menu_type": "JUICES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "The Pearade",
+    "description": "Pear, apple, carrot, dilantro, Ilme",
+    "price": "$10",
+    "menu_type": "JUICES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "The Mighty O",
+    "description": "Cucumber, apple, Iime, ginger, cilantro,\nturmeric (powder when fresh n/a)",
+    "price": "$11",
+    "menu_type": "JUICES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "The Zinger",
+    "description": "Apple, lomon, turmeric, ginger and aayenno",
+    "price": "$9",
+    "menu_type": "JUICES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "GoBananael",
+    "description": "Flavor, \"mik\" & banana",
+    "price": "$8",
+    "menu_type": "SHAKES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "Ito EasyBeing Groen",
+    "description": "Greens blond, flavor, \"milk\" &\nbanana",
+    "price": "$9",
+    "menu_type": "SHAKES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "NuttyMonkey",
+    "description": "Peanut butter, \"milk\" & xtra\nbanana",
+    "price": "$8",
+    "menu_type": "SHAKES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "MochaX",
+    "description": "Coffee, chocolate protein,\nmaple syrup, \"mik\" & banana",
+    "price": "$10",
+    "menu_type": "SHAKES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "PB & J",
+    "description": "Bananas, strawberries,\nblueberries, peanut butter,\nstrawberry protein powder,\napple juice, \"milk\"",
+    "price": "$10",
+    "menu_type": "SHAKES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "Pina Coolada",
+    "description": "Bananas, mangoes, pineapple,\nvanilla protein powder,\norange julce, \"milk\"",
+    "price": "$10",
+    "menu_type": "SHAKES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "Peanut Butter Cup",
+    "description": "Bananas, peanut butter,\nchocolate protein powder,\ncacao powder, \"milk\"",
+    "price": "$10",
+    "menu_type": "SHAKES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "Berry",
+    "description": "Bananas, stranberries, blueberries, appie Julce",
+    "price": "$8.50",
+    "menu_type": "SMOOTHIES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  },
+  {
+    "name": "Troploal",
+    "description": "Bananae, pineapple, mango, orange jutco",
+    "price": "$8.50",
+    "menu_type": "SMOOTHIES",
+    "restaurant_name": "Four Seasons Natural Foods",
+    "restaurant_url": "https://www.fourseasonsnaturalfoods.com/",
+    "menu_name": "Menu 2"
+  }
+]
