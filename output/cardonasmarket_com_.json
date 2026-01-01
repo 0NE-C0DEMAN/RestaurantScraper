@@ -1,0 +1,1640 @@
+[
+  {
+    "name": "Anthony",
+    "description": "Genoa salami, sopressata, pepperoni, provolone, sundried tomatoes, hot peppers, lettuce, Italian dressing",
+    "price": "Small: $9 | Large: $13",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Augusto",
+    "description": "Imported prosciutto, fresh mozzarella, spinach, roasted red peppers, tomato, olive oil",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Big D",
+    "description": "Genoa salami, sopressata, capicola, pepperoni, cappy ham, provolone, hot peppers, L/T/O, Italian dressing",
+    "price": "Small: $9.50 | Large: $13.50",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Cardona’s Club",
+    "description": "Turkey, boiled ham, cheddar, bacon, L/T, mayo",
+    "price": "Small: $9 | Large: $13",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Irish Laddie",
+    "description": "Corned Beef, Swiss, Sauerkraut, Russian Dressing, served on toasted ciabatta bread",
+    "price": "$12",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Dottie G",
+    "description": "Fried eggplant, fresh mozzarella, fresh basil, roasted red peppers, tomato, olive oil",
+    "price": "Small: $8 | Large: $12",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Where’s The Beef",
+    "description": "Roast Beef, Horseradish, Russian, Provolone, Roasted Red Peppers, L/T/O, Salt + Pepper, served on toasted ciabatta bread",
+    "price": "$12.50",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Kailey",
+    "description": "Fresh mozzarella, roasted red peppers, green peppers, cucumbers, L/T/O, Italian dressing",
+    "price": "Small: $8 | Large: $12",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "The Turk",
+    "description": "Turkey, Bacon, Swiss, L/T/O, Honey Mustard, served on toasted ciabatta bread",
+    "price": "$12",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Pasqualie",
+    "description": "Roast beef, cheddar cheese, coleslaw, bacon, L/T/O, Russian dressing",
+    "price": "Small: $10 | Large: $14",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Queen G",
+    "description": "Turkey, provolone, roasted red peppers, Italian dressing",
+    "price": "Small: $8.50 | Large: $12.50",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Rabe C",
+    "description": "Fried Eggplant, Broccoli Rabe, Sharp Provolone, Hot Pepper Spread, Balsamic Glaze",
+    "price": "Small: $9 | Large: $13",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Chicken Meatball Parm",
+    "description": "House made chicken meatballs, tomato basil cream sauce, parmigiana cheese, melted mozzarella",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Chicken Parm",
+    "description": "House made chicken cutlets, marinara sauce, parmigiana, melted mozzarella",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Eggplant Parm",
+    "description": "House made fried eggplant, marinara sauce, parmigiana cheese, melted mozzarella",
+    "price": "Small: $10 | Large: $14",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Meatball Parm",
+    "description": "House made meatballs, marinara sauce, parmigiana cheese, melted mozzarella",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Sausage & Peppers Parm",
+    "description": "House made Italian sausage, sauteed peppers and onions, marinara sauce, parmigiana cheese, melted mozzarella",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "The Philly",
+    "description": "Thin sliced steak, peppers, onions, butter, beef au jus, melted American cheese",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Chef’s Salad",
+    "description": "",
+    "price": "Small: $10.49 | Large: $13.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Garden Salad",
+    "description": "",
+    "price": "Small: $8.99 | Large: $11.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Antipasto Salad with Greens",
+    "description": "",
+    "price": "Small: $10.49 | Large: $13.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Greek Salad",
+    "description": "",
+    "price": "Small: $9.75 | Large: $12.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Apple Nut Spring Salad",
+    "description": "",
+    "price": "Small: $10.49 | Large: $13.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Nuts & Berries Salad",
+    "description": "",
+    "price": "Small: $10.49 | Large: $13.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "",
+    "price": "Small: $8.99 | Large: $11.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "ADD: Grilled Chicken/ Chicken Cutlet/ Tuna Salad or Chicken Salad",
+    "description": "",
+    "price": "Small: $2.50 | Large: $4",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Antipasto",
+    "description": "",
+    "price": "$4.49 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Chicken Salad",
+    "description": "",
+    "price": "$4.49 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Coleslaw",
+    "description": "",
+    "price": "$2.99 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Macaroni Salad",
+    "description": "",
+    "price": "$2.99 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Mozzarella Pesto Pomodoro",
+    "description": "",
+    "price": "$4.99 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Potato Salad",
+    "description": "",
+    "price": "$2.99 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Tri-Color Tortellini Salad",
+    "description": "",
+    "price": "$4.25 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Tuna & Tuna Macaroni Salad",
+    "description": "",
+    "price": "$3.49 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Fuh-Gettabout-It",
+    "description": "Chicken cutlet, prosciutto, spinach, sage, tomato, fresh mozzarella, olive oil, served on toasted ciabatta bread",
+    "price": "$13.50",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Joe's Special",
+    "description": "Chicken Cutlet, Cheddar, Bacon, L/T/O, Mayo",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Chicken \"Bruschetta\"",
+    "description": "Chicken Cutlet, fresh mozzarella, house marinated tomato, fresh basil, roasted garlic spread",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "The Bleu Falcon",
+    "description": "Chicken Cutlet tossed in buffalo sauce, bacon, blue cheese crumbles, l/t, ranch",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "The Delaware Ave",
+    "description": "Chicken cutlet, smoked mozzarella, sundried tomato, caramelized onions, pesto",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "The K-BRAY",
+    "description": "Chicken Cutlet, Hot Soppressata, Arugula, Sharp Provolone, Hot Pepper Spread, Honey Mustard Drizzle",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Build Your Own",
+    "description": "",
+    "price": "Small: $8 | Large: $12",
+    "menu_type": "Build Your Own Sandwich",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Pasta Fagioli",
+    "description": "Pasta, beans, vegetables, tomato, Italian herbs",
+    "price": "8 oz: $3.99 | 16 oz: $6.49 | 32 oz: $10.99",
+    "menu_type": "Soup",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Soup Of The Day",
+    "description": "",
+    "price": "8 oz: $3.99 | 16 oz: $6.49 | 32 oz: $10.99",
+    "menu_type": "Soup",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Baked Ziti & Meatballs",
+    "description": "Ziti, marinara sauce, parmigiana and mozzarella cheese, house made meatballs",
+    "price": "$11",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Chicken Marsala with Penne",
+    "description": "Chicken medallions, marsala wine sauce, sauteed mushrooms, penne pasta",
+    "price": "$15",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Chicken Parmigiana with Penne",
+    "description": "Chicken cutlets, marinara sauce, parmigiana and mozzarella cheese, penne pasta",
+    "price": "$15",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Chicken Piccata with Penne",
+    "description": "Chicken medallions, lemon butter white wine sauce, capers, penne pasta",
+    "price": "$15",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Chicken Sorrento with Penne",
+    "description": "Chicken cutlets, fried eggplant, marinara sauce, parmigiana and mozzarella cheese, penne pasta",
+    "price": "$15",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Eggplant Parmigiana with Penne",
+    "description": "Fried eggplant, marinara sauce, parmigiana and mozzarella cheese, penne pasta",
+    "price": "$14",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Lasagna",
+    "description": "Layers of pasta, meatballs, marinara sauce, parmigiana and mozzarella cheese",
+    "price": "$12",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Penne in Tomato Basil Cream Sauce with Chicken Meatballs",
+    "description": "Penne pasta, house made chicken meatballs, parmigiana cheese, tomato basil cream sauce",
+    "price": "$10",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Sausage & Peppers with Penne",
+    "description": "House made sausage, sauteed peppers & onions, marinara sauce, parmigiana cheese, penne pasta",
+    "price": "$14",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Spaghetti & Meatballs",
+    "description": "Spaghetti, marinara sauce, parmigiana cheese, house made meatballs",
+    "price": "$10",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Stuffed Shells & Meatballs",
+    "description": "Cheese stuffed shells, marinara sauce, parmigiana cheese, house made meatballs",
+    "price": "$14",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Spaghetti",
+    "description": "",
+    "price": "$8.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Marinara",
+    "description": "",
+    "price": "$8.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Fra Diavolo",
+    "description": "",
+    "price": "$8.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Puttanesca",
+    "description": "",
+    "price": "$8.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Tomato Basil Cream",
+    "description": "",
+    "price": "$9.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Vodka",
+    "description": "",
+    "price": "$9.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Private Reserve Marinara",
+    "description": "",
+    "price": "$10.99",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Pizza",
+    "description": "",
+    "price": "$7.99",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Albany"
+  },
+  {
+    "name": "Big D",
+    "description": "Genoa salami, sopressata, capicola, pepperoni, cappy ham, provolone, hot peppers, L/T/O, and Italian dressing",
+    "price": "Small: $9.50 | Large: $13.50",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Queen G",
+    "description": "Turkey, provolone, roasted red peppers, and Italian dressing",
+    "price": "Small: $8.50 | Large: $12.50",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Cardona’s Club",
+    "description": "Turkey, boiled ham, cheddar, bacon, L/T, and mayo",
+    "price": "Small: $9 | Large: $13",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Pasqualie",
+    "description": "Roast beef, cheddar, bacon, coleslaw, L/T/O, and Russian dressing",
+    "price": "Small: $10 | Large: $14",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Frank B",
+    "description": "Imported prosciutto, fresh mozzarella, spinach, roasted red peppers, tomato, and olive oil",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Dottie G",
+    "description": "Fried eggplant, fresh mozzarella, fresh basil, roasted red peppers, tomato, and olive oil",
+    "price": "Small: $8 | Large: $12",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Kailey",
+    "description": "Fresh mozzarella, roasted red peppers, green peppers, cucumbers, L/T/O, and Italian dressing",
+    "price": "Small: $8 | Large: $12",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Italian Cubano",
+    "description": "Porchetta, hot sopressata, sliced fontina, spicy pickles, and spicy brown mustard",
+    "price": "Small: $10 | Large: $14",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Papa Muffaletta",
+    "description": "Mortadella, genoa salami, cappy ham, provolone, and olive salad mix",
+    "price": "Small: $8.50 | Large: $12.50",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Rabe C",
+    "description": "Fried eggplant, sharp provolone, hot pepper spread, broccoli rabe, balsamic glaze",
+    "price": "Small: $9 | Large: $13",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Chicken Meatball Parm",
+    "description": "House made chicken meatballs, tomato basil cream sauce, parmigiana cheese, melted mozzarella",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Chicken Parm",
+    "description": "House made chicken cutlets, marinara sauce, parmigiana, melted mozzarella",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Eggplant Parm",
+    "description": "House made fried eggplant, marinara sauce, parmigiana cheese, melted mozzarella",
+    "price": "Small: $10 | Large: $14",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Meatball Parm",
+    "description": "House made meatballs, marinara sauce, parmigiana cheese, melted mozzarella",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Sausage & Peppers Parm",
+    "description": "House made Italian sausage, sauteed peppers and onions, marinara sauce, parmigiana cheese, melted mozzarella",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "The Philly",
+    "description": "Thin sliced steak, peppers, onions, butter, beef au jus, melted American cheese",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Chef's Salad",
+    "description": "",
+    "price": "$13.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Garden Salad",
+    "description": "",
+    "price": "$11.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Antipasto Salad with Greens",
+    "description": "",
+    "price": "$13.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Greek Salad",
+    "description": "",
+    "price": "$12.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Apple Nut Spring Salad",
+    "description": "",
+    "price": "$13.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Nuts & Berries Salad",
+    "description": "",
+    "price": "$13.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "",
+    "price": "$11.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "ADD: Grilled Chicken/ Chicken Cutlet/ Tuna Salad or Chicken Salad",
+    "description": "",
+    "price": "$4",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Antipasto",
+    "description": "",
+    "price": "$4.49 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Chicken Salad",
+    "description": "",
+    "price": "$4.49 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Coleslaw",
+    "description": "",
+    "price": "$2.99 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Macaroni Salad",
+    "description": "",
+    "price": "$2.99 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Mozzarella, Pesto, Pomodoro",
+    "description": "",
+    "price": "$4.99 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Potato Salad",
+    "description": "",
+    "price": "$2.99 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Tri-Color Tortellini Salad",
+    "description": "",
+    "price": "$4.25 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Tuna & Tuna Macaroni Salad",
+    "description": "",
+    "price": "$3.49 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Fuh-Gettabout-It",
+    "description": "Chicken cutlet, prosciutto, fresh mozzarella, spinach, sage, tomato, and olive oil",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Joe’s Special",
+    "description": "Chicken cutlet, cheddar, bacon, L/T/O, and mayo",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Chicken “Bruschetta”",
+    "description": "Chicken cutlet, fresh mozzarella, house-marinated tomato, fresh basil, and roasted garlic spread",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "The Bleu Bison",
+    "description": "Chicken cutlet tossed in buffalo sauce, bacon, blue cheese crumbles, L/T, and ranch",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Cobbee Road",
+    "description": "Chicken cutlet, smoked mozzarella, sundried tomato, caramelized onions, and pesto",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "The K-BRAY",
+    "description": "Chicken Cutlet, Hot Soppressata, Arugula, Sharp Provolone, Hot Pepper Spread, Honey Mustard Drizzle",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Build Your Own",
+    "description": "Create a custom sandwich by choosing your own bread, proteins, cheese, toppings and condiments.",
+    "price": "Small: $8 | Large: $12",
+    "menu_type": "Build Your Own Sandwich",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Pasta Fagioli",
+    "description": "Pasta, beans, vegtables, tomato, Italian herbs",
+    "price": "8 oz: $3.99 | 16 oz: $6.49 | 32 oz: $10.99",
+    "menu_type": "Soups",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Soup of the Day",
+    "description": "",
+    "price": "8 oz: $3.99 | 16 oz: $6.49 | 32 oz: $10.99",
+    "menu_type": "Soups",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Baked Ziti & Meatballs",
+    "description": "Ziti, marinara sauce, parmigiana and mozzarella cheese, house made meatballs",
+    "price": "$11",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Chicken Marsala with Penne",
+    "description": "Chicken medallions, marsala wine sauce, sauteed mushrooms, penne pasta",
+    "price": "$15",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Chicken Parmigiana with Penne",
+    "description": "Chicken cutlets, marinara sauce, parmigiana and mozzarella cheese, penne pasta",
+    "price": "$15",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Chicken Piccata with Penne",
+    "description": "Chicken medallions, lemon butter white wine sauce, capers, penne pasta",
+    "price": "$15",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Chicken Sorrento with Penne",
+    "description": "Chicken cutlets, fried eggplant, marinara sauce, parmigiana and mozzarella cheese, penne pasta",
+    "price": "$15",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Eggplant Parmigiana with Penne",
+    "description": "Fried eggplant, marinara sauce, parmigiana and mozzarella cheese, penne pasta",
+    "price": "$14",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Lasagna",
+    "description": "Layers of pasta, meatballs, marinara sauce, parmigiana and mozzarella cheese",
+    "price": "$12",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Penne in Tomato Basil Cream Sauce with Chicken Meatballs",
+    "description": "Penne pasta, house made chicken meatballs, parmigiana cheese, tomato basil cream sauce",
+    "price": "$10",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Sausage & Peppers with Penne",
+    "description": "House made sausage, sauteed peppers & onions, marinara sauce, parmigiana cheese, penne pasta",
+    "price": "$14",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Spaghetti & Meatballs",
+    "description": "Spaghetti, marinara sauce, parmigiana cheese, house made meatballs",
+    "price": "$10",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Stuffed Shells & Meatballs",
+    "description": "Cheese stuffed shells, marinara sauce, parmigiana cheese, house made meatballs",
+    "price": "$14",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Spaghetti",
+    "description": "",
+    "price": "$8.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Marinara",
+    "description": "",
+    "price": "$8.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Fra Diavolo",
+    "description": "",
+    "price": "$8.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Puttanesca",
+    "description": "",
+    "price": "$8.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Tomato Basil Cream",
+    "description": "",
+    "price": "$9.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Vodka",
+    "description": "",
+    "price": "$9.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Private Reserve Marinara",
+    "description": "",
+    "price": "$10.99",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Pizza",
+    "description": "",
+    "price": "$7.99",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Latham"
+  },
+  {
+    "name": "Big D",
+    "description": "Genoa salami, sopressata, capicola, pepperoni, cappy ham, provolone, hot peppers, L/T/O, and Italian dressing",
+    "price": "Small: $9.50 | Large: $13.50",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Queen G",
+    "description": "Turkey, provolone, roasted red peppers, and Italian dressing",
+    "price": "Small: $8.50 | Large: $12.50",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Cardona's Club",
+    "description": "Turkey, boiled ham, cheddar, bacon, L/T, and mayo",
+    "price": "Small: $9 | Large: $13",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Pasqualie",
+    "description": "Roast beef, cheddar, bacon, coleslaw, L/T/O, and Russian dressing",
+    "price": "Small: $10 | Large: $14",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "The Colonel",
+    "description": "Imported prosciutto, fresh mozzarella, spinach, roasted red peppers, tomato, and olive oil",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Dottie G",
+    "description": "Fried eggplant, fresh mozzarella, fresh basil, roasted red peppers, tomato, and olive oil",
+    "price": "Small: $8 | Large: $12",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Kailey",
+    "description": "Fresh mozzarella, roasted red peppers, green peppers, cucumbers, L/T/O, and Italian dressing",
+    "price": "Small: $8 | Large: $12",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Italian Cubano",
+    "description": "Porchetta, hot sopressata, sliced fontina, spicy pickles, and spicy brown mustard",
+    "price": "Small: $10 | Large: $14",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Papa Muffaleta",
+    "description": "Mortadella, genoa salami, cappy ham, provolone, and olive salad mix",
+    "price": "Small: $8.50 | Large: $12.50",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Rabe C",
+    "description": "Fried eggplant, sharp provolone, hot pepper spread, broccoli rabe, balsamic glaze",
+    "price": "Small: $9 | Large: $13",
+    "menu_type": "Featured Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Chicken Meatball Parm",
+    "description": "House made chicken meatballs,tomato basil cream sauce, parmigiana cheese, melted mozzarella",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Chicken Parm",
+    "description": "House made chicken cutlets, marinara sauce, parmigiana, melted mozzarella",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Eggplant Parm",
+    "description": "House made fried eggplant, marinara sauce, parmigiana cheese, melted mozzarella",
+    "price": "Small: $10 | Large: $14",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Meatball Parm",
+    "description": "House made meatballs, marinara sauce, parmigiana cheese, melted mozzarella",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Sausage & Peppers Parm",
+    "description": "House made Italian sausage, sauteed peppers and onions, marinara sauce, parmigiana cheese, melted mozzarella",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "The Philly",
+    "description": "Thin sliced steak, peppers, onions, butter, beef au jus, melted American cheese",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Hot Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Chef's Salad",
+    "description": "",
+    "price": "$13.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Garden Salad",
+    "description": "",
+    "price": "$11.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Antipasto Salad with Greens",
+    "description": "",
+    "price": "$13.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Greek Salad",
+    "description": "",
+    "price": "$12.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Apple Nut Spring Salad",
+    "description": "",
+    "price": "$13.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Nuts & Berries Salad",
+    "description": "",
+    "price": "$13.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "",
+    "price": "$11.99",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "ADD: Grilled Chicken/ Chicken Cutlet/ Tuna Salad or Chicken Salad",
+    "description": "",
+    "price": "$4",
+    "menu_type": "Fresh Made Green Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Antipasto",
+    "description": "",
+    "price": "$4.49 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Chicken Salad",
+    "description": "",
+    "price": "$4.49 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Coleslaw",
+    "description": "",
+    "price": "$2.99 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Macaroni Salad",
+    "description": "",
+    "price": "$2.99 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Mozzarella Pesto Pomodoro",
+    "description": "",
+    "price": "$4.99 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Potato Salad",
+    "description": "",
+    "price": "$2.99 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Tri Colored Tortellini",
+    "description": "",
+    "price": "$4.25 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Tuna & Tuna Macaroni Salad",
+    "description": "",
+    "price": "$3.49 per 1/2 pint",
+    "menu_type": "Fresh Made Salads",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Fuh-Gettabout-It",
+    "description": "Chicken cutlet, prosciutto, fresh mozzarella, spinach, sage, tomato, and olive oil",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Joe's Special",
+    "description": "Chicken cutlet, cheddar, bacon, L/T/O, and mayo",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Chicken “Bruschetta”",
+    "description": "Chicken cutlet, fresh mozzarella, house-marinated tomato, fresh basil, and roasted garlic spread",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "The Bleu Streak",
+    "description": "Chicken cutlet tossed in buffalo sauce, bacon, blue cheese crumbles, L/T, and ranch",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "The Thoroughbred",
+    "description": "Chicken cutlet, smoked mozzarella, sundried tomato, caramelized onions, and pesto",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "The K-BRAY",
+    "description": "Chicken Cutlet, Hot Soppressata, Arugula, Sharp Provolone, Hot Pepper Spread, Honey Mustard Drizzle",
+    "price": "Small: $11 | Large: $15",
+    "menu_type": "Chicken Cutlet Sandwiches",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Build Your Own Sandwich",
+    "description": "Create a custom sandwich by choosing your own bread, proteins, cheese, toppings and condiments\n\n*Pricing Does Not Include Premium Add-Ons",
+    "price": "Small: $8 | Large: $12",
+    "menu_type": "Build Your Own Sandwich",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Pasta Fagioli",
+    "description": "Pasta, beans, vegetables, tomato, Italian herbs",
+    "price": "8 oz: $3.99 | 16 oz: $6.49 | 32 oz: $10.99",
+    "menu_type": "Soups",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Soup of the Day",
+    "description": "",
+    "price": "8 oz: $3.99 | 16 oz: $6.49 | 32 oz: $10.99",
+    "menu_type": "Soups",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Baked Ziti & Meatballs",
+    "description": "Ziti, marinara sauce, parmigiana and mozzarella cheese, house made meatballs",
+    "price": "$11",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Chicken Marsala with Penne",
+    "description": "Chicken medallions, marsala wine sauce, sauteed mushrooms, penne pasta",
+    "price": "$15",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Chicken Parmigiana with Penne",
+    "description": "Chicken cutlets, marinara sauce, parmigiana and mozzarella cheese, penne pasta",
+    "price": "$15",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Chicken Piccata with Penne",
+    "description": "Chicken medallions, lemon butter white wine sauce, capers, penne pasta",
+    "price": "$15",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Chicken Sorrento with Penne",
+    "description": "Chicken cutlets, fried eggplant, marinara sauce, parmigiana and mozzarella cheese, penne pasta",
+    "price": "$15",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Eggplant Parmigiana with Penne",
+    "description": "Fried eggplant, marinara sauce, parmigiana and mozzarella cheese, penne pasta",
+    "price": "$14",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Lasagna",
+    "description": "Layers of pasta, meatballs, marinara sauce, parmigiana and mozzarella cheese",
+    "price": "$12",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Penne in Tomato Basil Cream Sauce with Chicken Meatballs",
+    "description": "Penne pasta, house made chicken meatballs, parmigiana cheese, tomato basil cream sauce",
+    "price": "$10",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Sausage & Peppers with Penne",
+    "description": "House made sausage, sauteed peppers & onions, marinara sauce, parmigiana cheese, penne pasta",
+    "price": "$14",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Spaghetti & Meatballs",
+    "description": "Spaghetti, marinara sauce, parmigiana cheese, house made meatballs",
+    "price": "$10",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Stuffed Shells & Meatballs",
+    "description": "Cheese stuffed shells, marinara sauce, parmigiana cheese, house made meatballs",
+    "price": "$14",
+    "menu_type": "Prepared Meals To Go",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Spaghetti",
+    "description": "",
+    "price": "$8.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Marinara",
+    "description": "",
+    "price": "$8.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Fra Diavolo",
+    "description": "",
+    "price": "$8.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Puttanesca",
+    "description": "",
+    "price": "$8.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Tomato Basil Cream",
+    "description": "",
+    "price": "$9.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Vodka",
+    "description": "",
+    "price": "$9.69",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Private Reserve Marinara",
+    "description": "",
+    "price": "$10.99",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  },
+  {
+    "name": "Pizza",
+    "description": "",
+    "price": "$7.99",
+    "menu_type": "Homemade Sauces",
+    "restaurant_name": "Cardona's Market",
+    "restaurant_url": "https://www.cardonasmarket.com/",
+    "menu_name": "Saratoga"
+  }
+]

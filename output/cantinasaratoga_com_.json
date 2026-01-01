@@ -1,0 +1,3305 @@
+[
+  {
+    "name": "Guacamole Tradicional",
+    "description": "Hass avocado, serrano chile, tomato, onion, lime, cilantro, cotija cheese (GF) | Add Veggies: $3.00",
+    "price": "$12.95",
+    "menu_type": "Bocaditos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Smoked Chicken Tortilla Soup",
+    "description": "Mesquite smoked chicken, tomato broth, sliced avocado, queso fresco, cilantro, cotija cheese, tortilla strips (GF)",
+    "price": "$12.95",
+    "menu_type": "Bocaditos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mexican Wedding Soup",
+    "description": "Meatballs, chicken broth, kale, onion, rice, cilantro, cotija cheese",
+    "price": "$6.95 | $10.95",
+    "menu_type": "Bocaditos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "“Elote” Roasted Carrots",
+    "description": "Charred spiced carrots, jalapeños, garlic, crema, queso fresco, lime, cilantro (GF)",
+    "price": "$12.95",
+    "menu_type": "Bocaditos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Crispy Brussels Sprouts",
+    "description": "Brussels sprouts, cilantro, roasted garlic-habanero dipping sauce (GF) | Add Bacon: $2.00",
+    "price": "$14.95",
+    "menu_type": "Bocaditos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mexican Street Corn",
+    "description": "Charred corn on the cob, chipotle aioli, house fajita spice, cotija cheese, lime, cilantro (GF)",
+    "price": "$11.95",
+    "menu_type": "Bocaditos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Cantina Nachos",
+    "description": "Hand-cut corn chips, chicken tinga, sliced jalapeños, queso blanco, queso fundido, salsa verde, pico de gallo, cilantro (GF)",
+    "price": "$18.95",
+    "menu_type": "Bocaditos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Roasted Beets",
+    "description": "Arbol Roasted Beets, whipped monterey jack, chipotle candied walnuts, chili oil, cilantro (GF)",
+    "price": "$14.95",
+    "menu_type": "Bocaditos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Open Faced Quesadilla",
+    "description": "Mesquite smoked chicken, bacon, rojo sauce, corn salsa, pickled jalapeño, pickled red onion, queso blanco, jalapeño ranch",
+    "price": "$18.95",
+    "menu_type": "Bocaditos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Coco Camarones",
+    "description": "Crispy coconut shrimp, guacamole, ancho chili oil, mango-habanero purée, mango-habanero salsa",
+    "price": "$14.95",
+    "menu_type": "Bocaditos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Stuffed Jalapeños",
+    "description": "Roasted peppers, monterey jack, queso blanco, panko, diablo sauce, crema, cotija cheese, cilantro",
+    "price": "$12.95",
+    "menu_type": "Bocaditos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Queso Fundido",
+    "description": "Melted Mexican cheese blend, jalapeño, green chiles, cilantro, hand-cut blue corn chips (GF) | Add Chorizo: $2.00",
+    "price": "$12.95",
+    "menu_type": "Bocaditos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Cantina Chicken Wings",
+    "description": "Half dozen crispy wings, cotija cheese, cilantro, choice of glaze: Original Tequila-Pomegranate, SPICY Habanero, Honey Chipotle, Rojo BBQ, Garlic Picante, Chimichurri or Dry Fajita Rub (GF) | Add 2 tacos: $10.95 | Add 4 tacos: $18.95",
+    "price": "$14.95",
+    "menu_type": "Bocaditos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Taco Salad",
+    "description": "Romaine lettuce, avocado, corn salsa, black bean, jalapeño, pico de gallo, sour cream, queso blanco, chipotle ranch dressing, cotija cheese, cilantro, flour tortilla bowl",
+    "price": "$14.95",
+    "menu_type": "Ensaladas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Harvest Salad",
+    "description": "Arugula, quinoa, spiced chickpeas, corn salsa, craisins, apple salsa, goat cheese, jalapeño vinaigrette (GF)",
+    "price": "$15.95",
+    "menu_type": "Ensaladas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Crispy Chorizo Wedge",
+    "description": "Iceberg lettuce, crispy chorizo, blistered cherry tomato, spiced pepita, cotija cheese, cilantro, chipotle balsamic glaze, garlic cotija dressing (GF)",
+    "price": "$12.95",
+    "menu_type": "Ensaladas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Brussels Sprout Caesar",
+    "description": "Shaved brussels, toasted almonds, dried cranberries, grapes, brioche croutons, cotija cheese, creamy tomatillo caesar dressing",
+    "price": "$13.95",
+    "menu_type": "Ensaladas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Cobb Salad",
+    "description": "Mixed greens, hard boiled egg, avocado, bacon, squash, corn salsa, blue cheese, pepitas, citrus agave vinaigrette (GF)",
+    "price": "$15.95",
+    "menu_type": "Ensaladas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mahi Mahi",
+    "description": "Grilled Mahi Mahi, mango salsa, shredded cabbage, avocado crema, cilantro (GF)",
+    "price": "$19.95",
+    "menu_type": "Tacos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Baja Fish",
+    "description": "Modelo beer-battered white fish, chipotle aioli, shredded cabbage, pineapple salsa, cilantro",
+    "price": "$18.95",
+    "menu_type": "Tacos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Crispy Cauliflower",
+    "description": "Tempura fried chile cauliflower, avocado, cabbage, pickled red onion, chipotle aioli, cilantro (GF)",
+    "price": "$17.95",
+    "menu_type": "Tacos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Carne Asada",
+    "description": "Lime-garlic marinated steak, corn salsa, pico de gallo, queso blanco, chimichurri, cilantro (GF)",
+    "price": "$19.95",
+    "menu_type": "Tacos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chicken Tinga",
+    "description": "Adobo-braised chicken, queso blanco, pico de gallo, lettuce, cilantro (GF)",
+    "price": "$18.95",
+    "menu_type": "Tacos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Spicy Shrimp",
+    "description": "Sauteed shrimp, serrano chile, garlic, achiote butter, pico de gallo, chipotle aioli, crispy red onion, cilantro (GF)",
+    "price": "$19.95",
+    "menu_type": "Tacos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Carnitas",
+    "description": "Crispy pork, apple salsa, avo-tomatillo salsa (GF)",
+    "price": "$18.95",
+    "menu_type": "Tacos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Coconut Shrimp",
+    "description": "Crispy coconut shrimp, spicy jalapeño coleslaw, mango salsa, mango-habanero puree, ancho chili oil, scallion",
+    "price": "$19.95",
+    "menu_type": "Tacos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Ahi Tuna",
+    "description": "Sesame crusted, seared Ahi tuna, shredded cabbage, mango salsa, avo-tomatillo salsa (GF)",
+    "price": "$21.95",
+    "menu_type": "Tacos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Korean Beef",
+    "description": "Spicy ground beef, pickled veggies, shredded cabbage, sriracha aioli, cilantro, puffed rice (GF)",
+    "price": "$19.95",
+    "menu_type": "Tacos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Duck",
+    "description": "Roasted duck carnitas, cherry salsa, pickled fennel (GF)",
+    "price": "$23.95",
+    "menu_type": "Tacos",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Ahi Tuna",
+    "description": "Sesame-crusted, seared Ahi tuna, cilantro lime rice, shredded cabbage, black bean, avocado, edamame, mango salsa, habanero-mango puree, avo-tomatillo salsa (GF)",
+    "price": "$26.95",
+    "menu_type": "Bowls",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mahi Mahi",
+    "description": "Spiced Mahi Mahi, cilantro lime rice, shredded cabbage, black charro bean, avocado, mango salsa, avocado crema, cilantro-lime yogurt sauce (GF)",
+    "price": "$25.95",
+    "menu_type": "Bowls",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chicken Tinga",
+    "description": "Adobo-braised chicken, cilantro lime rice, shredded lettuce, black charro bean, avocado, jalapeño slaw, queso blanco, rojo BBQ, avocado crema (GF)",
+    "price": "$24.95",
+    "menu_type": "Bowls",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Carne Asada",
+    "description": "Fajita spiced steak, cilantro lime rice, shredded cabbage, black charro bean, charred poblano, grilled onion, pico de gallo, chimichurri, jalapeño-tomatillo salsa (GF)",
+    "price": "$25.95",
+    "menu_type": "Bowls",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Habanero Shrimp",
+    "description": "SPICY! Habanero shrimp, cilantro lime rice, shredded lettuce, black charro bean, crema (GF)",
+    "price": "$25.95",
+    "menu_type": "Bowls",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mixed Veggie",
+    "description": "Seasonal veggie mix, cilantro lime rice, shredded lettuce, black charro bean, queso blanco, taquera sauce, crema (GF)",
+    "price": "$23.95",
+    "menu_type": "Bowls",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chicken Verde Enchiladas",
+    "description": "Flour tortillas, chicken tinga, queso blanco, salsa verde, queso fundido, cotija cheese, cilantro",
+    "price": "$24.95",
+    "menu_type": "Enchiladas & Chimichangas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chicken Mole Enchiladas",
+    "description": "Flour tortillas, chicken tinga, queso blanco, black mole, toasted sesame, crema (Contains tree nuts)",
+    "price": "$24.95",
+    "menu_type": "Enchiladas & Chimichangas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Diablo Short Rib Enchiladas",
+    "description": "Flour tortilla, braised short rib, caramelized onion, charred corn, black bean, queso blanco, diablo sauce, crema, cotija cheese, cilantro",
+    "price": "$25.95",
+    "menu_type": "Enchiladas & Chimichangas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Potato & Corn Enchiladas",
+    "description": "Flour tortillas, potato, charred corn, queso blanco, queso fresco, onion, garlic, taquera sauce, cotija cheese, cilantro",
+    "price": "$22.95",
+    "menu_type": "Enchiladas & Chimichangas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mushroom Enchiladas",
+    "description": "Flour tortillas, shiitake mushrooms, spinach, roasted red pepper, goat cheese, salsa verde, cotija cheese, cilantro",
+    "price": "$23.95",
+    "menu_type": "Enchiladas & Chimichangas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chicken Chimichanga",
+    "description": "Crispy flour tortilla, chicken tinga, queso blanco, lettuce, onion, salsa verde, crema, cotija cheese, cilantro",
+    "price": "$23.95",
+    "menu_type": "Enchiladas & Chimichangas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Short Rib Chimichanga",
+    "description": "Crispy flour tortilla, braised short rib, charred corn, queso blanco, lettuce, onion, taquera sauce, crema, cotija cheese, cilantro",
+    "price": "$24.95",
+    "menu_type": "Enchiladas & Chimichangas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Cheese",
+    "description": "",
+    "price": "$19.95",
+    "menu_type": "Quesadillas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Mesquite Chicken",
+    "description": "",
+    "price": "$22.95",
+    "menu_type": "Quesadillas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Carne Asada",
+    "description": "",
+    "price": "$24.95",
+    "menu_type": "Quesadillas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Carnitas",
+    "description": "",
+    "price": "$22.95",
+    "menu_type": "Quesadillas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Spicy Shrimp",
+    "description": "",
+    "price": "$24.95",
+    "menu_type": "Quesadillas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Vegetable",
+    "description": "",
+    "price": "$21.95",
+    "menu_type": "Quesadillas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Birria",
+    "description": "",
+    "price": "$24.95",
+    "menu_type": "Quesadillas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chicken",
+    "description": "Citrus chicken with charred corn, pineapple, bell pepper, onion, cilantro",
+    "price": "$25.95",
+    "menu_type": "Fajitas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Carne Asada",
+    "description": "Cumin-lime tenderloin with charred corn, bell pepper, onion, chipotle butter, cilantro",
+    "price": "$26.95",
+    "menu_type": "Fajitas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Shrimp",
+    "description": "Garlic-lime shrimp with bell pepper, onion, achiote butter, cilantro",
+    "price": "$27.95",
+    "menu_type": "Fajitas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Veggie",
+    "description": "Spiced seasonal veggie mix, bell pepper, onion, cilantro",
+    "price": "$23.95",
+    "menu_type": "Fajitas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Red Rice",
+    "description": "",
+    "price": "$3.00",
+    "menu_type": "Sides",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Black Charro Beans",
+    "description": "",
+    "price": "$3.00",
+    "menu_type": "Sides",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Guacamole",
+    "description": "",
+    "price": "$3.50",
+    "menu_type": "Sides",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Sour Cream",
+    "description": "",
+    "price": "$1.00",
+    "menu_type": "Sides",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Queso Fundido",
+    "description": "",
+    "price": "$2.50",
+    "menu_type": "Sides",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "French Fries",
+    "description": "",
+    "price": "$6.00",
+    "menu_type": "Sides",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fajita Spiced French Fries",
+    "description": "",
+    "price": "$6.00",
+    "menu_type": "Sides",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Jalapeno Coleslaw",
+    "description": "",
+    "price": "$3.00",
+    "menu_type": "Sides",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Chipotle Ranch",
+    "description": "",
+    "price": "$50",
+    "menu_type": "Sides",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Make-Your-Own Tacos",
+    "description": "Ground beef or grilled chicken, cheese, lettuce, pico de gallo, cilantro lime rice and black bean",
+    "price": "$14.95",
+    "menu_type": "Kids’ Menu",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Kickin’ Chicken Tenders",
+    "description": "with crispy french fries | Add Bueno BurritoFlour tortilla, cilantro lime rice, black bean, cheese: $9.95 | Add Que Pasa QuesadillaFlour tortilla, cheese, pico de gallo, sour cream: $8.95",
+    "price": "$14.95",
+    "menu_type": "Kids’ Menu",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Hasta La Vista Hot Dog",
+    "description": "with crispy french fries",
+    "price": "$9.95",
+    "menu_type": "Kids’ Menu",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Classic Churros",
+    "description": "with nutella & vanilla sauce",
+    "price": "$12.95",
+    "menu_type": "Desserts",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Fried Ice Cream",
+    "description": "with cinnamon-agave sauce & whipped cream",
+    "price": "$12.95",
+    "menu_type": "Desserts",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "Cantina Margarita",
+    "description": "Sauza Blanco, Triple Sec & House Made Margarita Mix",
+    "price": "$13 | $54",
+    "menu_type": "Margaritas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Cadillac Margarita",
+    "description": "Lalo Blanco, Grand Marnier & House Made Margarita Mix",
+    "price": "$15 | $62",
+    "menu_type": "Margaritas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Frozen Cantina Margarita",
+    "description": "Our House Margarita Mix Frozen into Chilly Perfection",
+    "price": "$13 | $54",
+    "menu_type": "Margaritas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Ultra Margarita",
+    "description": "Hornitos Cristalino (charcoal distilled ANEJO), Cointreau, Lime, Orange, Agave",
+    "price": "$16 | $66",
+    "menu_type": "Margaritas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Margaritas Frutas",
+    "description": "Sauza Blanco, Triple Sec, House Made Margarita Mix & your choice of: Apple Cider, Mango,  Guava, Prickly Pear, Blackberry, Pomegranate, Passion Fruit, Raspberry, Pineapple, Strawberry, Strawberry Rhubarb, Blood Orange, Coconut, Jalapeño, Watermelon, Apple Cider OR BLUE!",
+    "price": "$14 | $58",
+    "menu_type": "Margaritas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Skinny Margarita",
+    "description": "Sauza Blanco Tequila, Triple Sec, and Our “Skinny” Mix Of Fresh Lime, Agave Nectar & Soda Water",
+    "price": "$14 | $58",
+    "menu_type": "Margaritas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Midnight Margarita",
+    "description": "A blend of our house frozen margarita & our zesty Red Sangria",
+    "price": "$14 | $62",
+    "menu_type": "Margaritas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "The Chupacabra",
+    "description": "Frozen Margarita served in a 33oz glass & topped with two Coronitas. The mythological Mexican Beast comes alive at Cantina | Add Mini Chupa: $15 | Add Midnight Mini Chupa: $16",
+    "price": "$34",
+    "menu_type": "Margaritas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Good Samaritan Margarita",
+    "description": "A portion of each Margarita will be donated to FRANKLIN COMMUNITY CENTER.     This season’s flavor: CRANBERRY MINT",
+    "price": "$17",
+    "menu_type": "Margaritas",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Red Velvet",
+    "description": "Espolon Anejo, Creme De Cassis, Mole Bitters",
+    "price": "$16",
+    "menu_type": "House Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Matchai Tai",
+    "description": "Planteray Silver Rum, Orange Juice, Lime, Matcha-Chai Simple",
+    "price": "$15",
+    "menu_type": "House Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pina & Pine",
+    "description": "VIDA Mezcal, Pineapple, Jalapeno, Lemon, Lime, Agave",
+    "price": "$16",
+    "menu_type": "House Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Five Star Ritz",
+    "description": "Curamia Reposado, Aperol, Prosecco, Passion Fruit, Simple",
+    "price": "$16",
+    "menu_type": "House Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Mexican Candy",
+    "description": "Sauza Blanco, Watermelon Pucker, Hot Sauce, Lime, Tajin",
+    "price": "$15",
+    "menu_type": "House Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "El Matador",
+    "description": "Espolon Blanco, Cointreau, Mint, Jalapeno, Cucumber, Lime, Agave",
+    "price": "$16",
+    "menu_type": "House Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Peaches N’ Cream",
+    "description": "Old Bardstown Bourbon, Aperol, Peach Schnapps, Coco Lopez",
+    "price": "$16",
+    "menu_type": "House Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Mojito",
+    "description": "Castillo Silver Rum, Lime, Mint, Simple",
+    "price": "$16",
+    "menu_type": "House Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Sangria",
+    "description": "Our delicious house recipe made with a refreshing blend of seasonal fruit. Red or White",
+    "price": "$14 | $58",
+    "menu_type": "House Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Primary Wines, Chardonnay,",
+    "description": "2017, California",
+    "price": "$11 | $40",
+    "menu_type": "White Wine",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "The Pinot Project, Pinot Grigio,",
+    "description": "2024, Italy",
+    "price": "$11 | $40",
+    "menu_type": "White Wine",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Massey Dacta, Sauvignon Blanc,",
+    "description": "2018, Marlborough",
+    "price": "$11 | $40",
+    "menu_type": "White Wine",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Garzon, Albarino,",
+    "description": "2024, Uruguay",
+    "price": "$11 | $40",
+    "menu_type": "White Wine",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Keuka Springs, Riesling",
+    "description": "2023, New York",
+    "price": "$11 | $40",
+    "menu_type": "White Wine",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Primary Wines, Cabernet,",
+    "description": "2021, California",
+    "price": "$11 | $40",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Chasing Lions, Pinot Noir,",
+    "description": "2021, California",
+    "price": "$11 | $40",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Los Cardos, Malbec,",
+    "description": "2024, Argentina",
+    "price": "$11 | $40",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Hornillos Ballesteros Mibal, Tempranillo,",
+    "description": "2021, Spain",
+    "price": "$11 | $40",
+    "menu_type": "Red Wines",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Mionetto Sparkling Rose",
+    "description": "Italy",
+    "price": "$12",
+    "menu_type": "Sparkling Wines",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Mionetto Prosecco",
+    "description": "Italy",
+    "price": "$12",
+    "menu_type": "Sparkling Wines",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Bellafina Prosecco",
+    "description": "Italy",
+    "price": "$40",
+    "menu_type": "Sparkling Wines",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Nicolas Feuillatte Brut Reserve",
+    "description": "France",
+    "price": "$75",
+    "menu_type": "Sparkling Wines",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Buck N’ Mule",
+    "description": "Ginger, Lime, Simple, Ginger Ale",
+    "price": "$10",
+    "menu_type": "Zero Proof",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pina Colada Spritz",
+    "description": "Pineapple, Coco Lopez, Lemon, Lime",
+    "price": "$10",
+    "menu_type": "Zero Proof",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Elderflower Spritz",
+    "description": "Elderflower, Aguafaba, Lemon, Mint",
+    "price": "$10",
+    "menu_type": "Zero Proof",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "The Dove",
+    "description": "Pamplemousse, Lime, Simple, Lemon-Lime Soda",
+    "price": "$10",
+    "menu_type": "Zero Proof",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Strawberry Hibiscus Agua Fresca",
+    "description": "Hibiscus Tea, Strawberry, OJ, Simple | Add Marg or Skinny Marg: $7 | Add Flavored Marg: $8 | Add Mojito: $10",
+    "price": "$10",
+    "menu_type": "Zero Proof",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "N/A Athletic IPA/Light Lager/Cerveza/Shandy",
+    "description": "",
+    "price": "$5",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Corona",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Corona Light",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Corona Premier",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pacifico",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Tecate (can)",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Stella",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Heineken",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Heineken Light",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Heineken Zero",
+    "description": "",
+    "price": "$5",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Coronitas",
+    "description": "",
+    "price": "$4",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Miller Lite",
+    "description": "",
+    "price": "$5",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Coors Light",
+    "description": "",
+    "price": "$5",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Bud Light",
+    "description": "",
+    "price": "$5",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Kona Big Wave",
+    "description": "",
+    "price": "$5",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "PBR (can)",
+    "description": "",
+    "price": "$5",
+    "menu_type": "Bottled & Beer Cocktails",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "CANTINA x Artisanal Mexican Lager",
+    "description": "",
+    "price": "",
+    "menu_type": "Crafts & Seltzers",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Common Roots IPA",
+    "description": "",
+    "price": "",
+    "menu_type": "Crafts & Seltzers",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Zero Gravity Conehead IPA",
+    "description": "",
+    "price": "",
+    "menu_type": "Crafts & Seltzers",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Northway Perfect Day Pilsner",
+    "description": "",
+    "price": "",
+    "menu_type": "Crafts & Seltzers",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Beer Tree Rotating Sour",
+    "description": "",
+    "price": "",
+    "menu_type": "Crafts & Seltzers",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "High Noon/Surfside/Suncruiser",
+    "description": "and Featured Can",
+    "price": "",
+    "menu_type": "Crafts & Seltzers",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "123",
+    "description": "",
+    "price": "Anejo: $16",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "818",
+    "description": "",
+    "price": "Blanco: $11 | Reposado: $13 | Anejo: $15",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "1800",
+    "description": "",
+    "price": "Blanco: $10 | Reposado: $11 | Anejo: $12",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Aguila Tahona",
+    "description": "",
+    "price": "Blanco: $18",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Alto Canto",
+    "description": "",
+    "price": "Blanco: $19 | Reposado: $24",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Altos",
+    "description": "",
+    "price": "Blanco: $10 | Reposado: $11 | Anejo: $12",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Amor Mio",
+    "description": "",
+    "price": "Blanco: $19 | Reposado: $20",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Arta",
+    "description": "",
+    "price": "Reposado: $15 | Anejo: $17",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Arte NOM",
+    "description": "",
+    "price": "Blanco: $10 | Anejo: $22",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Atanasio",
+    "description": "",
+    "price": "Blanco: $19 | Reposado: $22 | Anejo: $28",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Avion",
+    "description": "",
+    "price": "Blanco: $11 | Reposado: $15 | Anejo: $18",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Azunia",
+    "description": "",
+    "price": "Blanco: $14 | Reposado: $15 | Anejo: $17",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Caballito",
+    "description": "",
+    "price": "Blanco: $21 | Reposado: $25 | Anejo: $30",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Cantera Negra",
+    "description": "",
+    "price": "Blanco: $14 | Reposado: $15 | Anejo: $16",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Casa Del Sol",
+    "description": "",
+    "price": "Blanco: $17 | Reposado: $20 | Anejo: $27",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Casa Dragones",
+    "description": "",
+    "price": "Blanco: $35 | Reposado: $40 | Anejo: $45",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Casa Noble",
+    "description": "",
+    "price": "Blanco: $13 | Reposado: $14 | Anejo: $15",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Casa Noble Marques",
+    "description": "",
+    "price": "Anejo: $36",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Casa Vieja Tequila",
+    "description": "",
+    "price": "Reposado: $14 | Anejo: $16",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Casamigos",
+    "description": "",
+    "price": "Blanco: $13 | Reposado: $14 | Anejo: $16",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Cascahuin",
+    "description": "",
+    "price": "Blanco: $12",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Cayeya",
+    "description": "",
+    "price": "Blanco: $10 | Reposado: $12",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Cayeya Single Barrel Reserve",
+    "description": "",
+    "price": "Reposado: $27 | Anejo: $33",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Cazadores",
+    "description": "",
+    "price": "Blanco: $10 | Reposado: $11 | Anejo: $12",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Cazcanes",
+    "description": "",
+    "price": "Blanco: $18 | Reposado: $24 | Anejo: $32",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Chaquira",
+    "description": "",
+    "price": "Reposado: $38 | Anejo: $40",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Cincoro",
+    "description": "",
+    "price": "Blanco: $26 | Reposado: $35 | Anejo: $45",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Clase Azul",
+    "description": "",
+    "price": "Blanco: $32 | Reposado: $38 | Anejo: $128",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Código",
+    "description": "",
+    "price": "Blanco: $12 | Reposado: $17 | Anejo: $28",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Código Rosa",
+    "description": "",
+    "price": "Blanco: $17",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Corzo",
+    "description": "",
+    "price": "Blanco: $16 | Reposado: $17 | Anejo: $19",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Cuervo Res. De La Familia",
+    "description": "",
+    "price": "Blanco: $18 | Reposado: $23",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Curamia",
+    "description": "",
+    "price": "Blanco: $11 | Reposado: $13 | Anejo: $15",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Don Fulano",
+    "description": "",
+    "price": "Blanco: $12 | Reposado: $14 | Anejo: $16",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Don Fulano Fuerte 100",
+    "description": "",
+    "price": "Blanco: $17",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Don Julio",
+    "description": "",
+    "price": "Blanco: $16 | Reposado: $17 | Anejo: $19",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Don Julio Alma Miel Joven",
+    "description": "",
+    "price": "Blanco: $26",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Don Julio Rosado",
+    "description": "",
+    "price": "Reposado: $25",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Don Julio 1942",
+    "description": "",
+    "price": "Anejo: $47",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Don Londres Tequila Blanco",
+    "description": "",
+    "price": "Blanco: $14",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Don Vincente",
+    "description": "",
+    "price": "Blanco: $12 | Reposado: $14",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Dos Armadillos",
+    "description": "",
+    "price": "Blanco: $15 | Reposado: $17 | Anejo: $21",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "El Luchador",
+    "description": "",
+    "price": "Blanco: $11",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "El Tesoro",
+    "description": "",
+    "price": "Blanco: $14 | Reposado: $17 | Anejo: $22",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "El Tesoro Mundial",
+    "description": "",
+    "price": "Anejo: $44",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "El Tesoro Mundial Knob Creek",
+    "description": "",
+    "price": "Anejo: $44",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "El Tesoro Mundial Laphroig",
+    "description": "",
+    "price": "Anejo: $44",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Espanita",
+    "description": "",
+    "price": "Blanco: $10 | Anejo: $12",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Espolon",
+    "description": "",
+    "price": "Blanco: $10 | Reposado: $11 | Anejo: $12",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Flecha Azul",
+    "description": "",
+    "price": "Blanco: $13 | Reposado: $14 | Anejo: $17",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Forteleza",
+    "description": "",
+    "price": "Blanco: $20 | Reposado: $30 | Anejo: $40",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Forteleza Winter Blend",
+    "description": "",
+    "price": "Reposado: $48",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Fuentaseca 2013",
+    "description": "",
+    "price": "Blanco: $32",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "G4",
+    "description": "",
+    "price": "Blanco: $11 | Reposado: $13 | Anejo: $15",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "G4 Premium Blanco 90 Proof",
+    "description": "",
+    "price": "Blanco: $25",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Ghost",
+    "description": "",
+    "price": "Blanco: $10 | Reposado: $11",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Gran Coramino",
+    "description": "",
+    "price": "Reposado: $15 | Anejo: $30",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Grand Mayan",
+    "description": "",
+    "price": "Blanco: $19 | Reposado: $22",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Heroe de Leon",
+    "description": "",
+    "price": "Blanco: $10 | Reposado: $14 | Anejo: $17",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Herradura",
+    "description": "",
+    "price": "Blanco: $11 | Reposado: $12 | Anejo: $14",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Herradura Legend",
+    "description": "",
+    "price": "Anejo: $35",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Hiatus",
+    "description": "",
+    "price": "Blanco: $10 | Reposado: $12 | Anejo: $14",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Hornitos",
+    "description": "",
+    "price": "Blanco: $10 | Reposado: $11 | Anejo: $12",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Hussong’s",
+    "description": "",
+    "price": "Blanco: $12 | Reposado: $13 | Anejo: $18",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Ignite",
+    "description": "",
+    "price": "Blanco: $11",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "IXA",
+    "description": "",
+    "price": "Reposado: $12 | Anejo: $14",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Kilinga Bacanora",
+    "description": "",
+    "price": "Blanco: $17 | Reposado: $18 | Anejo: $24",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "La Adelita",
+    "description": "",
+    "price": "Blanco: $13 | Reposado: $14 | Anejo: $16",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "La Gran Senora Blanco",
+    "description": "",
+    "price": "Blanco: $12",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Lalo",
+    "description": "",
+    "price": "Blanco: $14",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Lalo High Proof",
+    "description": "",
+    "price": "Blanco: $17",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Maracame",
+    "description": "",
+    "price": "Blanco: $12 | Reposado: $14 | Anejo: $16",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Mayenda Tequila",
+    "description": "",
+    "price": "Blanco: $18",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Milagro",
+    "description": "",
+    "price": "Blanco: $10 | Reposado: $11 | Anejo: $12",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Mi Campo",
+    "description": "",
+    "price": "Blanco: $10 | Reposado: $11",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "One With Life",
+    "description": "",
+    "price": "Blanco: $13 | Reposado: $14 | Anejo: $19",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Pantalones",
+    "description": "",
+    "price": "Blanco: $11 | Reposado: $12 | Anejo: $14",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Pasote",
+    "description": "",
+    "price": "Blanco: $11 | Reposado: $13 | Anejo: $14",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Patron",
+    "description": "",
+    "price": "Blanco: $14 | Reposado: $15 | Anejo: $17",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Patron Alto",
+    "description": "",
+    "price": "Reposado: $42",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Patron Cielo",
+    "description": "",
+    "price": "Blanco: $33",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "PM Spirits",
+    "description": "",
+    "price": "Blanco: $13",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "PM Spirits Still Strength",
+    "description": "",
+    "price": "Blanco: $16",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Primo",
+    "description": "",
+    "price": "Blanco: $17",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Riazul",
+    "description": "",
+    "price": "Blanco: $14 | Reposado: $16 | Anejo: $17",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Real Zepeda",
+    "description": "",
+    "price": "Blanco: $11 | Reposado: $12",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Real Zepeda “Essentials”",
+    "description": "",
+    "price": "Blanco: $16",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Sangre De Vida Corazon 110°",
+    "description": "",
+    "price": "Reposado: $19",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Santanera Tahona",
+    "description": "",
+    "price": "Blanco: $29",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Siembra Azul",
+    "description": "",
+    "price": "Blanco: $11 | Reposado: $13 | Anejo: $22",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Siete Leguas",
+    "description": "",
+    "price": "Blanco: $13 | Reposado: $14 | Anejo: $16",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Siete Leguas “Decades”",
+    "description": "",
+    "price": "Blanco: $30",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Tequila Ocho",
+    "description": "",
+    "price": "Blanco: $12 | Reposado: $16 | Anejo: $18",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Teremana",
+    "description": "",
+    "price": "Blanco: $10 | Reposado: $11 | Anejo: $13",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Tres Generaciones",
+    "description": "",
+    "price": "Blanco: $14 | Reposado: $15 | Anejo: $17",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Viva Mexico",
+    "description": "",
+    "price": "Blanco: $13 | Reposado: $15 | Anejo: $18",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Volcan",
+    "description": "",
+    "price": "Blanco: $12 | Reposado: $14",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Wild Common Tequila",
+    "description": "",
+    "price": "Blanco: $16",
+    "menu_type": "Blanco / Reposado / Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "1800 Milenio",
+    "description": "",
+    "price": "$56",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Arta Extra",
+    "description": "",
+    "price": "$30",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Asombroso 5yr",
+    "description": "",
+    "price": "$35",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Avion 44",
+    "description": "",
+    "price": "$42",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Azunia Reserve Anejo 2yr",
+    "description": "",
+    "price": "$27",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Cantera Negra Extra Anejo",
+    "description": "",
+    "price": "$32",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Código Barrel Strength 2yr",
+    "description": "",
+    "price": "$33",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Fuenteseca 2005 7yr",
+    "description": "",
+    "price": "$24",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Fuenteseca 2003 8yr",
+    "description": "",
+    "price": "$36",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Fuenteseca 1993 21yr",
+    "description": "",
+    "price": "$150",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "G4 Extra Anejo",
+    "description": "",
+    "price": "$28",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Gran Centenario Extra Anejo",
+    "description": "",
+    "price": "$38",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Grand Mayan 5yr",
+    "description": "",
+    "price": "$27",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Grand Mayan Ultra Aged",
+    "description": "",
+    "price": "$57",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Herradura Seleccion Suprema 49 mo",
+    "description": "",
+    "price": "$60",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Joel Richard 4yr",
+    "description": "",
+    "price": "$20",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Joel Richard Petals Extra Anejo",
+    "description": "",
+    "price": "$32",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Jose Cuervo Reserva 5yr",
+    "description": "",
+    "price": "$35",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "La Adelita Extra Anejo",
+    "description": "",
+    "price": "$30",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "One With Life 5yr",
+    "description": "",
+    "price": "$35",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "One With Life Extra 7yr",
+    "description": "",
+    "price": "$42",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Pasote Extra Anejo",
+    "description": "",
+    "price": "$40",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Riazul",
+    "description": "",
+    "price": "$37",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Tequila Ocho Extra Anejo",
+    "description": "",
+    "price": "$42",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Tequila Ocho “La Mula” 2021 Extra Anejo",
+    "description": "",
+    "price": "$32",
+    "menu_type": "Extra Anejo Tequila",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "1800",
+    "description": "",
+    "price": "$17",
+    "menu_type": "Cristalino",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Avion Reserva",
+    "description": "",
+    "price": "$42",
+    "menu_type": "Cristalino",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Casamigos Reposado",
+    "description": "",
+    "price": "$15",
+    "menu_type": "Cristalino",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Cayeya Anejo",
+    "description": "",
+    "price": "$27",
+    "menu_type": "Cristalino",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Don Julio 70yr Anniversary",
+    "description": "",
+    "price": "$19",
+    "menu_type": "Cristalino",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Espolon",
+    "description": "",
+    "price": "$16",
+    "menu_type": "Cristalino",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Gran Centenario Anejo",
+    "description": "",
+    "price": "$21",
+    "menu_type": "Cristalino",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Herradura Ultra Anejo",
+    "description": "",
+    "price": "$15",
+    "menu_type": "Cristalino",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Hornitos Anejo",
+    "description": "",
+    "price": "$13",
+    "menu_type": "Cristalino",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Hussong’s Platinum",
+    "description": "",
+    "price": "$19",
+    "menu_type": "Cristalino",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "La Adelita Anejo",
+    "description": "",
+    "price": "$25",
+    "menu_type": "Cristalino",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Maestro Dobel 50 Extra Anejo",
+    "description": "",
+    "price": "$39",
+    "menu_type": "Cristalino",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Maestro Dobel Diamonte",
+    "description": "",
+    "price": "$17",
+    "menu_type": "Cristalino",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Volcan Anejo",
+    "description": "",
+    "price": "$17",
+    "menu_type": "Cristalino",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "400 Conejos Cuishe",
+    "description": "",
+    "price": "$12",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "400 Conejos Joven",
+    "description": "",
+    "price": "$9",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "400 Conejos Tobala",
+    "description": "",
+    "price": "$12",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Agave de Cortes Joven",
+    "description": "",
+    "price": "$11",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Borroso Espadin Joven",
+    "description": "",
+    "price": "$19",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Bozal Borrego",
+    "description": "",
+    "price": "$21",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Bozal Cenizo",
+    "description": "",
+    "price": "$16",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Bozal Espadin",
+    "description": "",
+    "price": "$14",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Bozal Iberico",
+    "description": "",
+    "price": "$21",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Bozal Pechuga",
+    "description": "",
+    "price": "$21",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Bozal Tobasiche",
+    "description": "",
+    "price": "$15",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Casamigos Espadin",
+    "description": "",
+    "price": "$16",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Cinco Sentidos Espadin/Tobaziche",
+    "description": "",
+    "price": "$30",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Cinco Sentidos Pechuga de Mole Poblano",
+    "description": "",
+    "price": "$27",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Cinco Sentidos Tobala",
+    "description": "",
+    "price": "$32",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Clase Azul Cenizo",
+    "description": "",
+    "price": "$72",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Codigo Artesenal",
+    "description": "",
+    "price": "$17",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Craneo Mezcal Artesenal",
+    "description": "",
+    "price": "$13",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Del Maguey Chichicapa",
+    "description": "",
+    "price": "$17",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Del Maguey Santo Domingo",
+    "description": "",
+    "price": "$17",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Del Maguey Vida Puebla",
+    "description": "",
+    "price": "$9",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Derrumbes Tamaulipas",
+    "description": "",
+    "price": "$16",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Derrumbes Michoacan",
+    "description": "",
+    "price": "$16",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Derrumbes Zacatecas",
+    "description": "",
+    "price": "$16",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Descartes Mezcal Joven",
+    "description": "",
+    "price": "$13",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Descartes Mezcal Joven Botanical",
+    "description": "",
+    "price": "$13",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Dona Vega Joven Espadin",
+    "description": "",
+    "price": "$16",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Dona Vega Joven Tobala",
+    "description": "",
+    "price": "$20",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Don Amado Anejo",
+    "description": "",
+    "price": "$20",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Don Amado Reposado",
+    "description": "",
+    "price": "$15",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Don Amado Rustico",
+    "description": "",
+    "price": "$14",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Don Amado Tobala",
+    "description": "",
+    "price": "$13",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Dos Hombres Espadin",
+    "description": "",
+    "price": "$16",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "El Buho Anejo",
+    "description": "",
+    "price": "$45",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "El Buho Cuishe",
+    "description": "",
+    "price": "$14",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "El Buho Espadin",
+    "description": "",
+    "price": "$10",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "El Buho Mango Pechuga",
+    "description": "",
+    "price": "$25",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "El Buho Mexicano",
+    "description": "",
+    "price": "$29",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "El Jorgorio Mezcal Cuishe",
+    "description": "",
+    "price": "$32",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "El Jorgorio Mezcal Pechuga",
+    "description": "",
+    "price": "$32",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Estancia Raicilla",
+    "description": "",
+    "price": "$13",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Estancia Tequilana",
+    "description": "",
+    "price": "$15",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Fidencio Clasico",
+    "description": "",
+    "price": "$9",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Fidencio Pechuga",
+    "description": "",
+    "price": "$22",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Fidencio Tepextate",
+    "description": "",
+    "price": "$24",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Fidencio Unico",
+    "description": "",
+    "price": "$11",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Flor del Desierto Sotol",
+    "description": "",
+    "price": "$19",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Fosforo Tobala",
+    "description": "",
+    "price": "$23",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Ilegal Joven",
+    "description": "",
+    "price": "$12",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Ilegal Reposado Espadin",
+    "description": "",
+    "price": "$13",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Ilegal Anejo Espadin",
+    "description": "",
+    "price": "$25",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Jolgorio S.B. Pechuga",
+    "description": "",
+    "price": "$30",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Kilinga Bacanora Silvestre",
+    "description": "",
+    "price": "$18",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "La Higuera Sotol",
+    "description": "",
+    "price": "$12",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "La Venenosa Raicilla Black Label",
+    "description": "",
+    "price": "$16",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "La Venenosa Raicilla Green Label",
+    "description": "",
+    "price": "$22",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "La Venenosa Raicilla Red Label",
+    "description": "",
+    "price": "$23",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "La Venenosa Raicilla White Label",
+    "description": "",
+    "price": "$16",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Leyendas Mezcal Cuishe",
+    "description": "",
+    "price": "$25",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Leyendas Mezcal Espadin",
+    "description": "",
+    "price": "$17",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Leyendas Mezcal Mexicano",
+    "description": "",
+    "price": "$34",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Leyendas Mezcal Verde",
+    "description": "",
+    "price": "$10",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Lobo de la Sierra Raicilla",
+    "description": "",
+    "price": "$21",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Lobos Espadin",
+    "description": "",
+    "price": "$15",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Los Amantes Anejo Espadin",
+    "description": "",
+    "price": "$19",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Los Amantes Joven Espadin",
+    "description": "",
+    "price": "$13",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Los Amantes Reposado Espadin",
+    "description": "",
+    "price": "$16",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Los Javis Mezcal",
+    "description": "",
+    "price": "$11",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Los Vecinos Ensemble #1",
+    "description": "",
+    "price": "$14",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Los Vecinos Espadin",
+    "description": "",
+    "price": "$9",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Mal Bien Alto",
+    "description": "",
+    "price": "$19",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Mal Bien Espadin",
+    "description": "",
+    "price": "$9",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Mal Bien Felix Ramirez Espadin",
+    "description": "",
+    "price": "$15",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Meteoro Joven Espadin",
+    "description": "",
+    "price": "$13",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Mezcal Macurichos Espadin",
+    "description": "",
+    "price": "$16",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Montelobos Espadin",
+    "description": "",
+    "price": "$11",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Montelobos Joven Ensemble",
+    "description": "",
+    "price": "$19",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Montelobos Tobala",
+    "description": "",
+    "price": "$24",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Montelobos Pechuga",
+    "description": "",
+    "price": "$32",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Neta Espadin Capon",
+    "description": "",
+    "price": "$25",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Nuestra Soledad Mezcal Ejutla",
+    "description": "",
+    "price": "$15",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Nuestra Soledad Mezcal Matatlan",
+    "description": "",
+    "price": "$15",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Nuestra Soledad Mezcal San Luis",
+    "description": "",
+    "price": "$15",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "OAX Joven",
+    "description": "",
+    "price": "$20",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Peloton de La Muerte Cenizo",
+    "description": "",
+    "price": "$14",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Peloton de La Muerte Criollo",
+    "description": "",
+    "price": "$11",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Peloton Espadin",
+    "description": "",
+    "price": "$9",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Peloton Pechuga",
+    "description": "",
+    "price": "$10",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "PM Spirits Destillado de Agave Espadin",
+    "description": "",
+    "price": "$22",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Salvadores Mezcal Elote",
+    "description": "",
+    "price": "$16",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Siete Misterios Cuishe",
+    "description": "",
+    "price": "$21",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Siete Misterios Doba-Yej",
+    "description": "",
+    "price": "$11",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Siete Misterios Espadin",
+    "description": "",
+    "price": "$22",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Siete Misterios Tobala",
+    "description": "",
+    "price": "$28",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Union Espadin",
+    "description": "",
+    "price": "$10",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Vago Elote",
+    "description": "",
+    "price": "$14",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Vago Ensamble",
+    "description": "",
+    "price": "$25",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Vago Espadin Blue Label",
+    "description": "",
+    "price": "$14",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Vago Espadin Yellow Label",
+    "description": "",
+    "price": "$14",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Xicala Mezcal Joven",
+    "description": "",
+    "price": "$11",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Xicala Mezcal Reposado",
+    "description": "",
+    "price": "$13",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Xicala Mezcal Anejo",
+    "description": "",
+    "price": "$15",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Xicaru Blanco",
+    "description": "",
+    "price": "$13",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Xicaru Reposado",
+    "description": "",
+    "price": "$14",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  },
+  {
+    "name": "Xicaru Anejo",
+    "description": "",
+    "price": "$15",
+    "menu_type": "Cristalino - Mezcal/Other Agave Spirits",
+    "restaurant_name": "Cantina Saratoga",
+    "restaurant_url": "https://www.cantinasaratoga.com/",
+    "menu_name": "Tequila & Mezcal"
+  }
+]

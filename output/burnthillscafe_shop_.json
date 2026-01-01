@@ -1,0 +1,1109 @@
+[
+  {
+    "name": "Two Eggs Any Style",
+    "description": "",
+    "price": "$10.95",
+    "menu_type": "DAILY SPECIALS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pancakes Or French Toast",
+    "description": "",
+    "price": "$8.95",
+    "menu_type": "DAILY SPECIALS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Corned Beef Hash & Eggs",
+    "description": "",
+    "price": "",
+    "menu_type": "BREAKFAST FAVORITES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Canadian Bacon & Eggs",
+    "description": "",
+    "price": "$12.95",
+    "menu_type": "BREAKFAST FAVORITES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "London Broil & Eggs",
+    "description": "",
+    "price": "",
+    "menu_type": "BREAKFAST FAVORITES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Western Omelet",
+    "description": "",
+    "price": "",
+    "menu_type": "OMELETS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Greek Omelet",
+    "description": "",
+    "price": "",
+    "menu_type": "OMELETS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Spanish Omelet",
+    "description": "",
+    "price": "",
+    "menu_type": "OMELETS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Broccoli & Cheese Omelet",
+    "description": "",
+    "price": "",
+    "menu_type": "OMELETS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cheese Omelet",
+    "description": "",
+    "price": "",
+    "menu_type": "OMELETS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "The Kitchen Sink Omelet",
+    "description": "",
+    "price": "$15.95",
+    "menu_type": "OMELETS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Combination Omelet",
+    "description": "",
+    "price": "",
+    "menu_type": "OMELETS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Garden Omelet",
+    "description": "",
+    "price": "",
+    "menu_type": "OMELETS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Meat Lovers Omelet",
+    "description": "",
+    "price": "",
+    "menu_type": "OMELETS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Belgian Waffle",
+    "description": "",
+    "price": "$8.95",
+    "menu_type": "HOT OFF THE GRIDDLE",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fresh Berry Pancakes",
+    "description": "",
+    "price": "$11.95",
+    "menu_type": "HOT OFF THE GRIDDLE",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chocolate Chip Pancakes",
+    "description": "",
+    "price": "$11.95",
+    "menu_type": "HOT OFF THE GRIDDLE",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Egg Meat & Cheese",
+    "description": "",
+    "price": "$9.95",
+    "menu_type": "BREAKFAST SANDWICHES & WRAPS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Egg & Cheese",
+    "description": "",
+    "price": "$7.95",
+    "menu_type": "BREAKFAST SANDWICHES & WRAPS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Egg & Meat",
+    "description": "",
+    "price": "$9.00",
+    "menu_type": "BREAKFAST SANDWICHES & WRAPS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Meat & Cheese",
+    "description": "",
+    "price": "$8.50",
+    "menu_type": "BREAKFAST SANDWICHES & WRAPS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Mozzarella Sticks",
+    "description": "",
+    "price": "$10.50",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Disco Fries",
+    "description": "",
+    "price": "$8.95",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fries Topped With Melted Cheese",
+    "description": "",
+    "price": "$9.95",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Onion Rings",
+    "description": "",
+    "price": "$9.95",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Assorted Cereals With Milk",
+    "description": "",
+    "price": "$3.95",
+    "menu_type": "BREAKFAST SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fruit Cup",
+    "description": "",
+    "price": "",
+    "menu_type": "BREAKFAST SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Assorted Muffins",
+    "description": "",
+    "price": "",
+    "menu_type": "BREAKFAST SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Assorted Danish",
+    "description": "",
+    "price": "",
+    "menu_type": "BREAKFAST SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Melon",
+    "description": "",
+    "price": "$7.95",
+    "menu_type": "BREAKFAST SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Breakfast Meat",
+    "description": "",
+    "price": "",
+    "menu_type": "BREAKFAST SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hot Oatmeal",
+    "description": "",
+    "price": "",
+    "menu_type": "BREAKFAST SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Italian Sausage",
+    "description": "",
+    "price": "",
+    "menu_type": "BREAKFAST SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hot Oatmeal With Berries",
+    "description": "",
+    "price": "",
+    "menu_type": "BREAKFAST SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Corned Beef Hash",
+    "description": "",
+    "price": "",
+    "menu_type": "BREAKFAST SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Home Fried Potatoes",
+    "description": "",
+    "price": "",
+    "menu_type": "BREAKFAST SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Extra Egg",
+    "description": "",
+    "price": "",
+    "menu_type": "BREAKFAST SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Bagel",
+    "description": "",
+    "price": "",
+    "menu_type": "BREAKFAST SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sliced Tomatoes",
+    "description": "",
+    "price": "",
+    "menu_type": "BREAKFAST SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "French Fries",
+    "description": "",
+    "price": "$4.95",
+    "menu_type": "SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Coleslaw",
+    "description": "",
+    "price": "",
+    "menu_type": "SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cottage Cheese",
+    "description": "",
+    "price": "$3.95",
+    "menu_type": "SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Vegetable Of The Day",
+    "description": "",
+    "price": "$3.95",
+    "menu_type": "SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sauce",
+    "description": "",
+    "price": "$1.50",
+    "menu_type": "SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Meatballs",
+    "description": "",
+    "price": "$5.00",
+    "menu_type": "SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Anchovies",
+    "description": "",
+    "price": "$3.95",
+    "menu_type": "SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Souvlaki Salad",
+    "description": "",
+    "price": "$16.95",
+    "menu_type": "SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Greek Salad",
+    "description": "",
+    "price": "$14.95",
+    "menu_type": "SIDE ORDERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hot Tea",
+    "description": "",
+    "price": "",
+    "menu_type": "JUICES & BEVERAGES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hot Herbal Tea",
+    "description": "",
+    "price": "",
+    "menu_type": "JUICES & BEVERAGES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hot Chocolate",
+    "description": "",
+    "price": "",
+    "menu_type": "JUICES & BEVERAGES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Assorted Fountain Sodas With A Free Refill",
+    "description": "",
+    "price": "",
+    "menu_type": "JUICES & BEVERAGES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Iced Tea",
+    "description": "",
+    "price": "$3.25",
+    "menu_type": "JUICES & BEVERAGES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Lemonade",
+    "description": "",
+    "price": "",
+    "menu_type": "JUICES & BEVERAGES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Pastine",
+    "description": "",
+    "price": "",
+    "menu_type": "SOUPS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Broccoli Augratin",
+    "description": "",
+    "price": "",
+    "menu_type": "VEGGIES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Roast Beef",
+    "description": "",
+    "price": "$10.50",
+    "menu_type": "DELI STYLE ITEMS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Solod",
+    "description": "",
+    "price": "$9.00",
+    "menu_type": "DELI STYLE ITEMS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Baked Ham",
+    "description": "",
+    "price": "$10.50",
+    "menu_type": "DELI STYLE ITEMS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Corned Beef",
+    "description": "",
+    "price": "$10.50",
+    "menu_type": "DELI STYLE ITEMS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pastrami",
+    "description": "",
+    "price": "$10.50",
+    "menu_type": "DELI STYLE ITEMS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hot Dog With The Works",
+    "description": "",
+    "price": "$5.95",
+    "menu_type": "DELI STYLE ITEMS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Grilled Cheese",
+    "description": "",
+    "price": "$5.95",
+    "menu_type": "DELI STYLE ITEMS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Grilled Cheese With Bacon",
+    "description": "",
+    "price": "$8.95",
+    "menu_type": "DELI STYLE ITEMS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Western Egg Sandwich",
+    "description": "",
+    "price": "$10.50",
+    "menu_type": "DELI STYLE ITEMS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Blt",
+    "description": "",
+    "price": "$10.50",
+    "menu_type": "DELI STYLE ITEMS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Grilled Ham & Cheese",
+    "description": "",
+    "price": "$8.95",
+    "menu_type": "DELI STYLE ITEMS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hot Pork",
+    "description": "",
+    "price": "$18.95",
+    "menu_type": "HOT OPEN SANDWICHES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hot Hamburger",
+    "description": "",
+    "price": "$15.95",
+    "menu_type": "HOT OPEN SANDWICHES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Roast Beef",
+    "description": "",
+    "price": "$17.95",
+    "menu_type": "HOT OPEN SANDWICHES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Baked Ham",
+    "description": "",
+    "price": "$17.95",
+    "menu_type": "HOT OPEN SANDWICHES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Tender Parmigiana",
+    "description": "",
+    "price": "$18.95",
+    "menu_type": "LITTLE ITALY",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Cutlet Parmigiana",
+    "description": "",
+    "price": "$20.95",
+    "menu_type": "LITTLE ITALY",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Meatball Parmigiana",
+    "description": "",
+    "price": "$18.95",
+    "menu_type": "LITTLE ITALY",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Linguine Or Ziti",
+    "description": "",
+    "price": "",
+    "menu_type": "LITTLE ITALY",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Baked Ziti Parmigiana",
+    "description": "",
+    "price": "",
+    "menu_type": "LITTLE ITALY",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Eggplant Parmigiana",
+    "description": "",
+    "price": "",
+    "menu_type": "LITTLE ITALY",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Sorrento",
+    "description": "",
+    "price": "",
+    "menu_type": "LITTLE ITALY",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pasta Primavera",
+    "description": "",
+    "price": "$16.95",
+    "menu_type": "LITTLE ITALY",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Ey Or Roast Beef Club",
+    "description": "",
+    "price": "$14.95",
+    "menu_type": "CLUB SANDWICHES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "And Cheese Club",
+    "description": "",
+    "price": "$14.95",
+    "menu_type": "CLUB SANDWICHES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Salad Or Chicken Salad",
+    "description": "",
+    "price": "$13.50",
+    "menu_type": "CLUB SANDWICHES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Club",
+    "description": "",
+    "price": "$16.95",
+    "menu_type": "CLUB SANDWICHES",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Oriental Sandwich",
+    "description": "",
+    "price": "$17.95",
+    "menu_type": "CHICKEN GRILL",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Talian Chicken Sandwich",
+    "description": "",
+    "price": "$16.95",
+    "menu_type": "CHICKEN GRILL",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Al Chicken Grill Sandwich",
+    "description": "",
+    "price": "$16.95",
+    "menu_type": "CHICKEN GRILL",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Grilled Chicken Wrap",
+    "description": "",
+    "price": "$14.95",
+    "menu_type": "CHICKEN GRILL",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Baked Hawaiian Ham Steak",
+    "description": "",
+    "price": "",
+    "menu_type": "STEAKS, CHOPS & ROASTS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Broiled Pork Chop(",
+    "description": "",
+    "price": "$1",
+    "menu_type": "STEAKS, CHOPS & ROASTS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Broiled Chopped Steak Au Jus",
+    "description": "",
+    "price": "",
+    "menu_type": "STEAKS, CHOPS & ROASTS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "London Broil With Mushroom Gravy",
+    "description": "",
+    "price": "",
+    "menu_type": "STEAKS, CHOPS & ROASTS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Roast Pork Loin Dinner",
+    "description": "",
+    "price": "",
+    "menu_type": "STEAKS, CHOPS & ROASTS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Roast Turkey Dinner",
+    "description": "",
+    "price": "",
+    "menu_type": "STEAKS, CHOPS & ROASTS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Baked Meatloaf",
+    "description": "",
+    "price": "",
+    "menu_type": "STEAKS, CHOPS & ROASTS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Broiled Beef Liver & Onions",
+    "description": "",
+    "price": "",
+    "menu_type": "STEAKS, CHOPS & ROASTS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fried Chicken",
+    "description": "",
+    "price": "",
+    "menu_type": "STEAKS, CHOPS & ROASTS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Linguine With Red Or White Clam Sauce",
+    "description": "",
+    "price": "",
+    "menu_type": "SEAFOOD",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fried Clam Dinner",
+    "description": "",
+    "price": "",
+    "menu_type": "SEAFOOD",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Beer-Battered Fish N' Chip",
+    "description": "",
+    "price": "",
+    "menu_type": "SEAFOOD",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Homemade Soup Of The Day",
+    "description": "",
+    "price": "",
+    "menu_type": "SOUPS & SALADS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "French Onion Soup",
+    "description": "",
+    "price": "",
+    "menu_type": "SOUPS & SALADS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Garden Salad",
+    "description": "",
+    "price": "",
+    "menu_type": "SOUPS & SALADS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hamburger",
+    "description": "",
+    "price": "",
+    "menu_type": "HOMEMADE BURGERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cheeseburger",
+    "description": "",
+    "price": "",
+    "menu_type": "HOMEMADE BURGERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Bacon Cheeseburger",
+    "description": "",
+    "price": "",
+    "menu_type": "HOMEMADE BURGERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Texas Burger",
+    "description": "",
+    "price": "",
+    "menu_type": "HOMEMADE BURGERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cheddar Jalapeño Burger",
+    "description": "",
+    "price": "",
+    "menu_type": "HOMEMADE BURGERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Bleu Cheese Burger",
+    "description": "",
+    "price": "",
+    "menu_type": "HOMEMADE BURGERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Bison Burger",
+    "description": "",
+    "price": "",
+    "menu_type": "HOMEMADE BURGERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Twin Burger",
+    "description": "",
+    "price": "",
+    "menu_type": "HOMEMADE BURGERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Reuben",
+    "description": "",
+    "price": "",
+    "menu_type": "OTHERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Split Pea Wy Ham",
+    "description": "",
+    "price": "",
+    "menu_type": "OTHERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Florentine",
+    "description": "",
+    "price": "",
+    "menu_type": "OTHERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chicken Fingers & French Fries",
+    "description": "",
+    "price": "",
+    "menu_type": "OTHERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Happy Waitress",
+    "description": "",
+    "price": "",
+    "menu_type": "OTHERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pitabilitie",
+    "description": "",
+    "price": "",
+    "menu_type": "OTHERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Philly Cheese Steak",
+    "description": "",
+    "price": "",
+    "menu_type": "OTHERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Monte Cristo",
+    "description": "",
+    "price": "",
+    "menu_type": "OTHERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Fish Fry",
+    "description": "",
+    "price": "",
+    "menu_type": "OTHERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Beef Gyro",
+    "description": "",
+    "price": "",
+    "menu_type": "OTHERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Our address",
+    "description": "Stay connected",
+    "price": "$800",
+    "menu_type": "OTHERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Stay connected",
+    "description": "",
+    "price": "",
+    "menu_type": "OTHERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Contact us",
+    "description": "Main Email: burnthillscafe.shop@gmail.com",
+    "price": "$1",
+    "menu_type": "OTHERS",
+    "restaurant_name": "Burnt Hills Cafe",
+    "restaurant_url": "https://burnthillscafe.shop/",
+    "menu_name": "Menu"
+  }
+]

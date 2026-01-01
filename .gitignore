@@ -41,6 +41,7 @@ Thumbs.db
 temp/
 *.tmp
 *.log
+*.html
 
 # Output files (optional - uncomment if you don't want to track output)
 # output/

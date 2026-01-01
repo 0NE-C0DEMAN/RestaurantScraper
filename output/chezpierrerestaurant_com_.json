@@ -1,0 +1,1118 @@
+[
+  {
+    "name": "French Onion",
+    "description": "",
+    "price": "$12",
+    "menu_type": "SOUPS & SALADS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Soup Du Jour",
+    "description": "",
+    "price": "$10",
+    "menu_type": "SOUPS & SALADS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Romaine lettuce, crumbled blue cheese, homemade croutons anchovies and house dressing",
+    "price": "$12 | Add Chicken: $22 | Add Shrimp: $32",
+    "menu_type": "SOUPS & SALADS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Grilled Salmon & Spinach Salad",
+    "description": "served on bed of fresh spinach , almond slivers and side of homemade watercress dressing",
+    "price": "$30",
+    "menu_type": "SOUPS & SALADS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Romaine w/ blue cheese crumbles, croutons",
+    "price": "$12",
+    "menu_type": "HORS D’OEUVRES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Artichoke and Asparagus Vinaigrette",
+    "description": "GF Fresh asparagus and artichoke hearts",
+    "price": "$16",
+    "menu_type": "HORS D’OEUVRES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Shrimp Cocktail",
+    "description": "GF Four extra large shrimp",
+    "price": "$20",
+    "menu_type": "HORS D’OEUVRES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Sea Scallops Wrapped in Bacon",
+    "description": "GF",
+    "price": "$22",
+    "menu_type": "HORS D’OEUVRES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Les Escargots au Beurre",
+    "description": "GF Snails in butter, and garlic",
+    "price": "$18",
+    "menu_type": "HORS D’OEUVRES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Clams Casino-",
+    "description": "Garlic stuffing topped with cheese and bacon",
+    "price": "$18",
+    "menu_type": "HORS D’OEUVRES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Coquille St Jacques",
+    "description": "Sea scallops and shrimp gratinee",
+    "price": "$22",
+    "menu_type": "HORS D’OEUVRES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Frog legs",
+    "description": "Garlic butter, white wine and shallots",
+    "price": "$18",
+    "menu_type": "HORS D’OEUVRES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Chicken Valdostana",
+    "description": "Sautéed, gratinee, chicken breast with Brandy Mushroom Sauce",
+    "price": "$36",
+    "menu_type": "VOLAILLE (POULTRY)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Chicken Cordon Bleu",
+    "description": "Stuffed with ham and cheese finished with supreme sauce",
+    "price": "$36",
+    "menu_type": "VOLAILLE (POULTRY)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Roast Duckling- PLEASE CALL 24 HRS AHEAD TO ORDER",
+    "description": "Choice of cherry bing or orange sauce;",
+    "price": "$42",
+    "menu_type": "VOLAILLE (POULTRY)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Gnocchi",
+    "description": "Chez Pierre w/ sautéed Shrimp sauteed w/hearts of palm, artichoke hearts, garlic butter sauce",
+    "price": "$39",
+    "menu_type": "VOLAILLE (POULTRY)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Veg- Gnocchi Chez Pierre without shrimp",
+    "description": "",
+    "price": "$30",
+    "menu_type": "VOLAILLE (POULTRY)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Pork Paupiette",
+    "description": "GF Stuffed with spinach and cheddar cheese in a dijon supreme sauce.",
+    "price": "Half: $28 | Full: $36",
+    "menu_type": "PORK AND VEAL",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Veal Francaise",
+    "description": "Medallions egg batter dipped,finished with lemon butter.",
+    "price": "Half: $31 | Full: $40",
+    "menu_type": "PORK AND VEAL",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Veal Vosgienne",
+    "description": "GF Sautéed, mushroom cream sauce",
+    "price": "$44",
+    "menu_type": "PORK AND VEAL",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Veal Oscar",
+    "description": "Sautéed, topped with asparagus and jumbo lump crabmeat and hollandaise",
+    "price": "$50",
+    "menu_type": "PORK AND VEAL",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Paupiette de Veau",
+    "description": "GF Veal cutlet rolled with swiss cheese, pate and ham mushroom cream sauce.",
+    "price": "Half: $40 | Full: $48",
+    "menu_type": "PORK AND VEAL",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Ris de Veau",
+    "description": "GF Sautéed sweet breads, port wine, cream and mushrooms.",
+    "price": "Half: $35 | Full: $45",
+    "menu_type": "PORK AND VEAL",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Henri IV",
+    "description": "GF Filet mignon, artichoke heart and bottom with bernaise",
+    "price": "$60",
+    "menu_type": "BOEUF (BEEF)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Beef Wellington",
+    "description": "Filet, pate’ mushroom cap wrapped in puff pastry",
+    "price": "$62",
+    "menu_type": "BOEUF (BEEF)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Steak Diane",
+    "description": "Filet flambe’, madeira sauce with shallots",
+    "price": "$60",
+    "menu_type": "BOEUF (BEEF)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Steak Au Poivre",
+    "description": "Flambe’ -choice of filet or strip steak; madeira sauce with green peppercorns and cream",
+    "price": "$60",
+    "menu_type": "BOEUF (BEEF)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "NY Strip Steak Fromage",
+    "description": "grilled with melted blue cheese, served on a Madeira wine sauce",
+    "price": "$55",
+    "menu_type": "BOEUF (BEEF)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Grilled Filet Mignon",
+    "description": "GF 8 oz Filet Mignon Grilled with Béarnaise Sauce on the side",
+    "price": "$59",
+    "menu_type": "BOEUF (BEEF)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Sea and Sod",
+    "description": "GF Petit Filet and Two 5-6 oz Coldwater Lobster Tails",
+    "price": "$75",
+    "menu_type": "BOEUF (BEEF)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Shrimp Madagascar",
+    "description": "GF Shallots, onions and peppercorns in a Pernod cream sauce",
+    "price": "Half: $38 | Full: $44",
+    "menu_type": "POISSON & FRUITS DE MER (SEAFOOD)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Shrimp Chez Pierre",
+    "description": "Egg batter dipped sautéed with garlic lemon butter",
+    "price": "Half: $36 | Full: $42",
+    "menu_type": "POISSON & FRUITS DE MER (SEAFOOD)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Salmon Florentine",
+    "description": "GF- Poached with Spinach and Bearnaise",
+    "price": "$38",
+    "menu_type": "POISSON & FRUITS DE MER (SEAFOOD)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Filet of Sole Almandine",
+    "description": "-lightly floured, sautéed with lemon butter and almonds",
+    "price": "$38",
+    "menu_type": "POISSON & FRUITS DE MER (SEAFOOD)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Sole Margueray",
+    "description": "GF- Poached in white wine, with cream, mussels and shrimp",
+    "price": "$42",
+    "menu_type": "POISSON & FRUITS DE MER (SEAFOOD)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Broiled Sea Scallops",
+    "description": "GF with rice and garlic hollandaise",
+    "price": "$46",
+    "menu_type": "POISSON & FRUITS DE MER (SEAFOOD)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Lobster Newburg",
+    "description": "GF- Cream and sherry with rice and toast points",
+    "price": "$58",
+    "menu_type": "POISSON & FRUITS DE MER (SEAFOOD)",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Filet- junior cut",
+    "description": "",
+    "price": "$35",
+    "menu_type": "CHEZ KIDS MENU",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Chicken Tenders",
+    "description": "",
+    "price": "$16",
+    "menu_type": "CHEZ KIDS MENU",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Veal Francaise",
+    "description": "",
+    "price": "$26",
+    "menu_type": "CHEZ KIDS MENU",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Shrimp Scampi",
+    "description": "",
+    "price": "$26",
+    "menu_type": "CHEZ KIDS MENU",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Pork Picatta",
+    "description": "",
+    "price": "$20",
+    "menu_type": "CHEZ KIDS MENU",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Grilled Cheese",
+    "description": "",
+    "price": "$11",
+    "menu_type": "CHEZ KIDS MENU",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Pasta with Butter or Marinara",
+    "description": "",
+    "price": "$10",
+    "menu_type": "CHEZ KIDS MENU",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Peach Melba",
+    "description": "vanilla ice cream/peaches, raspberry sauce & almond shavings",
+    "price": "$9",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "description": "",
+    "price": "$10",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Crème de Menthe Parfait",
+    "description": "",
+    "price": "$9",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Crème Caramel",
+    "description": "",
+    "price": "$8",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Profiterole",
+    "description": "",
+    "price": "$8",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Cherries Jubilee",
+    "description": "",
+    "price": "$11",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Crepe Suzette",
+    "description": "",
+    "price": "$12",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Crème de Cocoa Parfait",
+    "description": "",
+    "price": "$9",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Les Trois Amis",
+    "description": "Sampling of Mousse, Cheesecake, Crème de Menthe Parfait",
+    "price": "$12",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Mousse au Chocolate",
+    "description": "",
+    "price": "$7",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "French Cream Cheese cake",
+    "description": "garnished w/ raspberry puree",
+    "price": "$10",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Coffee/Tea",
+    "description": "",
+    "price": "$4",
+    "menu_type": "DRINKS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Sm. Cup Espresso",
+    "description": "",
+    "price": "$5",
+    "menu_type": "DRINKS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Lg. Cup Espresso",
+    "description": "",
+    "price": "$7.50",
+    "menu_type": "DRINKS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Cappuccino/Latte",
+    "description": "",
+    "price": "$7",
+    "menu_type": "DRINKS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Café Chez Pierre",
+    "description": "w/Bachante orange liquor",
+    "price": "$12",
+    "menu_type": "DRINKS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Irish Coffee",
+    "description": "",
+    "price": "$12",
+    "menu_type": "DRINKS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Spanish Coffee",
+    "description": "",
+    "price": "$12",
+    "menu_type": "DRINKS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Mexican Coffee",
+    "description": "",
+    "price": "$12",
+    "menu_type": "DRINKS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Coffee/Tea",
+    "description": "",
+    "price": "$4",
+    "menu_type": "CAFÉ",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Sm. Cup Espresso",
+    "description": "",
+    "price": "$5",
+    "menu_type": "CAFÉ",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Lg. Cup Espresso",
+    "description": "",
+    "price": "$7.50",
+    "menu_type": "CAFÉ",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Cappuccino/Latte",
+    "description": "",
+    "price": "$7",
+    "menu_type": "CAFÉ",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Café Chez Pierre",
+    "description": "w/Bachante orange liquor",
+    "price": "$12",
+    "menu_type": "CAFÉ",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Irish Coffee",
+    "description": "",
+    "price": "$12",
+    "menu_type": "CAFÉ",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Spanish Coffee",
+    "description": "",
+    "price": "$12",
+    "menu_type": "CAFÉ",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Mexican Coffee",
+    "description": "",
+    "price": "$12",
+    "menu_type": "CAFÉ",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Bouvet / France Sparkling",
+    "description": "",
+    "price": "",
+    "menu_type": "SPARKLING / CHAMPAGNE",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Piper Hiedsieck, Brut",
+    "description": "",
+    "price": "",
+    "menu_type": "SPARKLING / CHAMPAGNE",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Valentin LeFlaive, Blanc de Blanc",
+    "description": "",
+    "price": "",
+    "menu_type": "SPARKLING / CHAMPAGNE",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Vueve Cliquot, Yellow Label",
+    "description": "",
+    "price": "",
+    "menu_type": "SPARKLING / CHAMPAGNE",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Moet & Chandon, Vintage",
+    "description": "",
+    "price": "",
+    "menu_type": "SPARKLING / CHAMPAGNE",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Dom Perignon, 2009",
+    "description": "",
+    "price": "",
+    "menu_type": "SPARKLING / CHAMPAGNE",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Pouilly Fuisse,",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Macon Village",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Puligny Montrachet",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Graves",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Vouvray",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Pouilly Fume",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Sancerre",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Muscadet",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Gewurztraminer",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Riesling",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Cote de Provence",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Santa Margerita, Pinot Grigio",
+    "description": "",
+    "price": "",
+    "menu_type": "WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "San Angelo, Pinot Grigio",
+    "description": "",
+    "price": "",
+    "menu_type": "WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Kim Crawford Sauvignon Blanc / New Zealand",
+    "description": "",
+    "price": "",
+    "menu_type": "WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Markham, Chardonnay/ Napa",
+    "description": "",
+    "price": "",
+    "menu_type": "WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Ferrari Carano, Chardonnay/Sonoma",
+    "description": "",
+    "price": "",
+    "menu_type": "WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Hartford Court, Chardonnay / Russian River",
+    "description": "",
+    "price": "",
+    "menu_type": "WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Post and Beam Chardonnay / Napa",
+    "description": "",
+    "price": "",
+    "menu_type": "WHITES",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Beaujolais Village",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Gevery Chambertin",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Pommard",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Margaux",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Paulliac",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Pomerol",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "St Emilion Grand Cru",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Graves",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Medoc",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Bordeaux",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Gigondas",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Cote du Rhone",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Chateauneuf du Pape",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Clos de Savignac",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Margaux",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "St Emilion Grand Cru Classe",
+    "description": "",
+    "price": "",
+    "menu_type": "FRENCH REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Hess Trio / Red Blend",
+    "description": "",
+    "price": "",
+    "menu_type": "REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Robert Mondavi / Cabernet Sauvignon",
+    "description": "",
+    "price": "",
+    "menu_type": "REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Mount Veeder / Cabernet Sauvignon, Napa",
+    "description": "",
+    "price": "",
+    "menu_type": "REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Estancia / Meritage",
+    "description": "",
+    "price": "",
+    "menu_type": "REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "St Francis / Merlot, Sonoma",
+    "description": "",
+    "price": "",
+    "menu_type": "REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Clos du Bois / Zinfandel, Sonoma",
+    "description": "",
+    "price": "",
+    "menu_type": "REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Sterling / Pinot Noir, Caneros",
+    "description": "",
+    "price": "",
+    "menu_type": "REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Chateau St Jean / Pinot Noir, Sonoma",
+    "description": "",
+    "price": "",
+    "menu_type": "REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Gloria Ferrer / Pinot Noir, Caneros",
+    "description": "",
+    "price": "",
+    "menu_type": "REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Chianti Classico Bindi",
+    "description": "",
+    "price": "",
+    "menu_type": "REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Cakebread / Cabernet Sauvignon",
+    "description": "",
+    "price": "",
+    "menu_type": "REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Groth / Cabernet Sauvignon",
+    "description": "",
+    "price": "",
+    "menu_type": "REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "Daou / Cabernet Sauvignon",
+    "description": "",
+    "price": "",
+    "menu_type": "REDS",
+    "restaurant_name": "Chez Pierre Restaurant",
+    "restaurant_url": "https://www.chezpierrerestaurant.com/",
+    "menu_name": "Wine Menu"
+  }
+]

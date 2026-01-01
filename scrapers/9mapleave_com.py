@@ -30,7 +30,7 @@ GOOGLE_API_KEY = 'AIzaSyD2rneYIn8ahscrSTRJlKhqJg_NUoRiqjQ'
 
 # Initialize Gemini
 if GEMINI_AVAILABLE:
-    genai.configure(api_key=GOOGLE_API_KEY)
+    genai.configure(api_key=GOOGLE_API_KEY)  # pyright: ignore[reportPrivateImportUsage]
 
 
 def download_pdf_with_requests(pdf_url: str, output_path: Path, timeout: int = 60, retries: int = 3) -> bool:
@@ -163,7 +163,7 @@ def extract_menu_from_pdf_image(pdf_path: str, page_num: int = 0) -> List[Dict]:
         image_data = img_bytes.read()
         
         # Initialize the vision model
-        model = genai.GenerativeModel('gemini-2.0-flash-exp')
+        model = genai.GenerativeModel('gemini-2.0-flash-exp')  # pyright: ignore[reportPrivateImportUsage]
         
         # Create prompt for menu extraction
         prompt = """Analyze this restaurant menu PDF page and extract all menu items in JSON format.
