@@ -24,10 +24,17 @@ try:
 except ImportError:
     GEMINI_AVAILABLE = False
 
-# Gemini API key
-GOOGLE_API_KEY = 'AIzaSyD2rneYIn8ahscrSTRJlKhqJg_NUoRiqjQ'
+# Load API Key from config.json
+CONFIG_PATH = Path(__file__).parent.parent / "config.json"
+try:
+    with open(CONFIG_PATH, 'r') as f:
+        config = json.load(f)
+        GOOGLE_API_KEY = config.get("gemini_api_key", "")
+except (FileNotFoundError, json.JSONDecodeError, KeyError) as e:
+    print(f"Warning: Could not load API key from config.json: {e}")
+    GOOGLE_API_KEY = ""
 
-if GEMINI_AVAILABLE:
+if GEMINI_AVAILABLE and GOOGLE_API_KEY:
     genai.configure(api_key=GOOGLE_API_KEY)  # pyright: ignore[reportPrivateImportUsage]
 
 def download_pdf_with_requests(pdf_url: str, output_path: Path, timeout: int = 60, retries: int = 3) -> bool:

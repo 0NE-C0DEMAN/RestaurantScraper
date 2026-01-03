@@ -19,14 +19,21 @@ except ImportError:
     GEMINI_AVAILABLE = False
     print("Warning: google-generativeai not installed. Install with: pip install google-generativeai")
 
-# API Key for Gemini
-GOOGLE_API_KEY = 'AIzaSyD2rneYIn8ahscrSTRJlKhqJg_NUoRiqjQ'
+# Load API Key from config.json
+CONFIG_PATH = Path(__file__).parent.parent / "config.json"
+try:
+    with open(CONFIG_PATH, 'r') as f:
+        config = json.load(f)
+        GOOGLE_API_KEY = config.get("gemini_api_key", "")
+except (FileNotFoundError, json.JSONDecodeError, KeyError) as e:
+    print(f"Warning: Could not load API key from config.json: {e}")
+    GOOGLE_API_KEY = ""
 
-if GEMINI_AVAILABLE:
+if GEMINI_AVAILABLE and GOOGLE_API_KEY:
     genai.configure(api_key=GOOGLE_API_KEY)  # pyright: ignore[reportPrivateImportUsage]
 
 
-def download_html_with_requests(url: str, headers: dict = None) -> str:
+def download_html_with_requests(url: str, headers: dict = None) -> str:  # pyright: ignore[reportArgumentType]
     """Download HTML from URL using requests"""
     if headers is None:
         headers = {
@@ -81,13 +88,26 @@ def extract_image_urls_from_html(html: str, base_url: str = "https://www.hillsan
         elif not src.startswith('http'):
             src = base_url + '/' + src
         
-        if src not in image_urls:
-            image_urls.append(src)
+        # Filter for menu images only - menu images have specific patterns:
+        # - Contain "HH" or "Newest" in filename
+        # - Are typically larger images (menu pages are 1200x1553, headers are 1068x497)
+        # - Menu images don't have the "sc-fqkvVR fECgwp" class (that's for header carousel)
+        src_lower_check = src.lower()
+        img_class = ' '.join(img.get('class', []))
+        
+        # Skip header/carousel images (they have specific class or are H-H1 through H-H5)
+        if 'H-H' in src and '1920w' in src:
+            continue  # Skip header images (H-H1, H-H2, etc.)
+        
+        # Only include menu images - they contain "HH" or "Newest" or are large PNGs
+        if 'newest' in src_lower_check or 'hh' in src_lower_check or (src.endswith('.png') and '1863h' in src):
+            if src not in image_urls:
+                image_urls.append(src)
     
     return image_urls
 
 
-def download_image(url: str, output_path: Path, headers: dict = None) -> bool:
+def download_image(url: str, output_path: Path, headers: dict = None) -> bool:  # pyright: ignore[reportArgumentType]
     """Download image from URL"""
     if headers is None:
         headers = {
@@ -132,31 +152,77 @@ def extract_menu_from_image(image_path: str) -> List[Dict]:
 For each menu item, extract:
 1. **name**: The dish/item name (e.g., "Wings", "Burger", "Salad")
 2. **description**: The description/ingredients/details
-3. **price**: The price (e.g., "$12", "$15.99", "$8/$15")
-4. **menu_type**: The section/category name (e.g., "Appetizers", "Entrees", "Sides", "Desserts", "Drinks", "Burgers", "Sandwiches")
+3. **price**: The price (e.g., "$12", "$15.99", "$17.99/$32.99")
+4. **menu_type**: The section/category name (e.g., "Starters", "Entrees", "Sides", "Desserts", "Drinks", "Burgers", "Sandwiches")
 
-Important guidelines:
-- Extract ALL menu items from the image, including appetizers, entrees, sides, desserts, drinks, etc.
-- Item names are usually in larger/bolder font
-- Descriptions are usually in smaller font below the name
-- Prices are usually at the end of the description line or on a separate line
-- If an item has no description, use empty string ""
-- Include section headers in the menu_type field (like "APPETIZERS", "ENTREES", "DINNER", "DESSERTS", "DRINKS", etc.)
-- Skip footer text (address, phone, website, etc.)
-- Handle two-column layouts correctly - items in left column and right column should be separate
-- Ensure all prices have a "$" symbol
-- Group items by their section/category using the menu_type field
-- For restaurants, common sections include: Appetizers, Salads, Soups, Sandwiches, Entrees, Mains, Sides, Desserts, Drinks, etc.
-- If an item has multiple prices (e.g., "$8/$15"), keep both prices in the price field
+CRITICAL EXTRACTION RULES:
+
+1. **Items with Sub-Options/Variations:**
+   - If an item has sub-options listed under it (like "Loaded Tots" with "Reuben", "Philly Steak", "Loaded"), extract EACH sub-option as a separate item
+   - Each sub-option should have the SAME price as the parent item
+   - Include the sub-option details in the description field
+   - Example: If "Loaded Tots - $15.99" has sub-options "Reuben", "Philly Steak", "Loaded", create separate items for each with price "$15.99"
+
+2. **Items Grouped Together (Boxes/Shared Pricing):**
+   - If multiple items are grouped in a box or section with a shared price (like "Sharable Dips - $14.99" with "Crab Dip" and "Spinach Artichoke"), extract EACH item separately
+   - Each item in the group should have the SAME price as the group header
+   - Example: "Sharable Dips - $14.99" contains "Crab Dip" and "Spinach Artichoke" → extract both with price "$14.99"
+
+3. **Multiple Prices for Same Item (Size Variations):**
+   - If an item has multiple prices based on size/quantity (e.g., "Dozen - $17.99, Two Dozen - $32.99" or "Cup - $6.99, Bowl - $9.99, Crock - $10.99"), combine them ONLY in the price field
+   - Format: "$17.99/$32.99" for two sizes, or "$6.99/$9.99/$10.99" for three sizes
+   - Do NOT include price information in the description field - keep descriptions clean with only ingredients/details
+   - Common size variations include: Dozen/Two Dozen, Cup/Bowl/Crock, Small/Large, Single/Double, etc.
+   - The price field should contain all price variations separated by "/"
+
+4. **General Pricing Notes:**
+   - If a section has a general pricing note (e.g., "All sides are $5.99 a la carte unless noted"), apply that price to items without explicit prices
+   - Items with explicit up-charges should have those prices (e.g., "Cup of Soup ($1.00 up charge)" → price should reflect the up-charge)
+
+5. **Standard Extraction:**
+   - Extract ALL menu items from the image, including appetizers, entrees, sides, desserts, drinks, etc.
+   - Item names are usually in larger/bolder font
+   - Descriptions are usually in smaller font below the name
+   - Prices are usually at the end of the description line or on a separate line
+   - If an item has no description, use empty string ""
+   - Include section headers in the menu_type field (like "Starters", "Entrees", "Sides Dishes", "Soups & Salads", etc.)
+   - Skip footer text (address, phone, website, etc.)
+   - Handle two-column layouts correctly - items in left column and right column should be separate
+   - Ensure all prices have a "$" symbol
+   - Group items by their section/category using the menu_type field
 
 Return ONLY a valid JSON array of objects, no markdown, no code blocks, no explanations.
 Example format:
 [
   {
     "name": "Wings",
-    "description": "Buffalo wings with blue cheese",
-    "price": "$12",
-    "menu_type": "Appetizers"
+    "description": "Bone-in or Boneless. Buffalo - Hot - BBQ - Garlic Parm - Carolina Gold - Sweet Chili - Teriyaki - Honey Sriracha - Kickin' Bourbon - Nashville Hot - Cajun Dry Rub - Korean BBQ. Served with Bleu Cheese & Veggies",
+    "price": "$17.99/$32.99",
+    "menu_type": "Starters"
+  },
+  {
+    "name": "Soup of the Day",
+    "description": "",
+    "price": "$6.99/$9.99",
+    "menu_type": "Soups & Salads"
+  },
+  {
+    "name": "New England Clam Chowder",
+    "description": "",
+    "price": "$10.99",
+    "menu_type": "Soups & Salads"
+  },
+  {
+    "name": "Crab Dip",
+    "description": "",
+    "price": "$14.99",
+    "menu_type": "Starters"
+  },
+  {
+    "name": "Reuben",
+    "description": "Corned Beef, Sauerkraut, Swiss, Russian",
+    "price": "$15.99",
+    "menu_type": "Starters"
   }
 ]"""
         
@@ -199,6 +265,66 @@ Example format:
                 }
                 if cleaned_item['name']:
                     all_items.append(cleaned_item)
+        
+        # Post-processing: Fix missing prices and ensure size information is in descriptions
+        # Group items by menu_type to find parent-child relationships
+        items_by_type = {}
+        for item in all_items:
+            menu_type = item['menu_type']
+            if menu_type not in items_by_type:
+                items_by_type[menu_type] = []
+            items_by_type[menu_type].append(item)
+        
+        # For each menu type, find items without prices and try to match them to parent items
+        for menu_type, type_items in items_by_type.items():
+            # Find items with prices (potential parents)
+            items_with_prices = [i for i in type_items if i['price']]
+            items_without_prices = [i for i in type_items if not i['price']]
+            
+            # Known parent-child relationships based on menu structure
+            parent_child_map = {
+                'Sharable Dips': ['Crab Dip', 'Spinach Artichoke'],
+                'Loaded Tots': ['Reuben', 'Philly Steak', 'Loaded'],
+            }
+            
+            # Try to match items without prices to parent items
+            for item_no_price in items_without_prices:
+                item_name = item_no_price['name']
+                
+                # Check if this item is a known sub-item
+                for parent_name, child_names in parent_child_map.items():
+                    if item_name in child_names:
+                        # Find the parent item with matching price
+                        parent_item = next((i for i in items_with_prices if parent_name.lower() in i['name'].lower()), None)
+                        if parent_item:
+                            item_no_price['price'] = parent_item['price']
+                            break
+                
+                # If still no price, check if there's a nearby item with a price in the same section
+                # This handles cases where items are grouped together
+                if not item_no_price['price']:
+                    # Look for items with prices that might be the parent
+                    for item_with_price in items_with_prices:
+                        # Check if the item name appears near items with prices (heuristic)
+                        # This is a fallback for items that might be sub-options
+                        if len(items_without_prices) <= 3 and len(items_with_prices) > 0:
+                            # If there are few items without prices, they might share the price of nearby items
+                            item_no_price['price'] = items_with_prices[0]['price']
+                            break
+        
+        # Post-processing: Remove price information from descriptions (keep only in price field)
+        for item in all_items:
+            if item['description']:
+                # Remove any price patterns from description (e.g., "Dozen: $17.99 | Two Dozen: $32.99")
+                desc = item['description']
+                # Remove patterns like "Dozen: $X | Two Dozen: $Y"
+                desc = re.sub(r'\s*(?:Dozen|Two Dozen|Cup|Bowl|Crock|Small|Large|Single|Double):\s*\$?\d+\.?\d*\s*\|?\s*', '', desc, flags=re.IGNORECASE)
+                # Remove standalone price patterns at the end
+                desc = re.sub(r'\s*\$?\d+\.?\d*\s*/\s*\$?\d+\.?\d*.*$', '', desc)
+                # Clean up extra spaces and separators
+                desc = re.sub(r'\s*\|\s*$', '', desc)
+                desc = desc.strip()
+                item['description'] = desc
         
         print(f"  [OK] Extracted {len(all_items)} items from image")
         return all_items
