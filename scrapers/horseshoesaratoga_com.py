@@ -1,5 +1,5 @@
 """
-Scraper for: http://www.hillsandhollowsny.com/
+Scraper for: https://www.horseshoesaratoga.com/menu
 The menu is displayed as images in HTML, so we extract image URLs and use Gemini Vision API
 """
 
@@ -37,20 +37,14 @@ def download_html_with_requests(url: str, headers: dict = None) -> str:  # pyrig
     """Download HTML from URL using requests"""
     if headers is None:
         headers = {
-            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-            'accept-language': 'en-IN,en;q=0.9,hi-IN;q=0.8,hi;q=0.7,en-GB;q=0.6,en-US;q=0.5',
-            'cache-control': 'no-cache',
-            'pragma': 'no-cache',
-            'referer': 'https://www.hillsandhollowsny.com/',
+            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+            'accept-language': 'en-IN,en;q=0.9',
+            'referer': 'https://www.horseshoesaratoga.com/',
+            'upgrade-insecure-requests': '1',
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36',
             'sec-ch-ua': '"Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"',
             'sec-ch-ua-mobile': '?0',
-            'sec-ch-ua-platform': '"Windows"',
-            'sec-fetch-dest': 'document',
-            'sec-fetch-mode': 'navigate',
-            'sec-fetch-site': 'same-origin',
-            'sec-fetch-user': '?1',
-            'upgrade-insecure-requests': '1',
-            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36'
+            'sec-ch-ua-platform': '"Windows"'
         }
     
     try:
@@ -62,7 +56,7 @@ def download_html_with_requests(url: str, headers: dict = None) -> str:  # pyrig
         return ""
 
 
-def extract_image_urls_from_html(html: str, base_url: str = "https://www.hillsandhollowsny.com") -> List[str]:
+def extract_image_urls_from_html(html: str, base_url: str = "https://www.horseshoesaratoga.com") -> List[str]:
     """Extract menu image URLs from HTML"""
     soup = BeautifulSoup(html, 'html.parser')
     image_urls = []
@@ -77,7 +71,7 @@ def extract_image_urls_from_html(html: str, base_url: str = "https://www.hillsan
         
         # Skip non-menu images (logos, icons, etc.)
         src_lower = src.lower()
-        if any(skip in src_lower for skip in ['logo', 'icon', 'facebook', 'instagram', 'email', 'phone', 'doordash']):
+        if any(skip in src_lower for skip in ['logo', 'icon', 'facebook', 'instagram', 'email', 'phone', 'userway', 'spin_', 'body_']):
             continue
         
         # Convert relative URLs to absolute
@@ -88,19 +82,8 @@ def extract_image_urls_from_html(html: str, base_url: str = "https://www.hillsan
         elif not src.startswith('http'):
             src = base_url + '/' + src
         
-        # Filter for menu images only - menu images have specific patterns:
-        # - Contain "HH" or "Newest" in filename
-        # - Are typically larger images (menu pages are 1200x1553, headers are 1068x497)
-        # - Menu images don't have the "sc-fqkvVR fECgwp" class (that's for header carousel)
-        src_lower_check = src.lower()
-        img_class = ' '.join(img.get('class', []))
-        
-        # Skip header/carousel images (they have specific class or are H-H1 through H-H5)
-        if 'H-H' in src and '1920w' in src:
-            continue  # Skip header images (H-H1, H-H2, etc.)
-        
-        # Only include menu images - they contain "HH" or "Newest" or are large PNGs
-        if 'newest' in src_lower_check or 'hh' in src_lower_check or (src.endswith('.png') and '1863h' in src):
+        # Filter for menu images only - look for menu-related filenames
+        if any(keyword in src_lower for keyword in ['breakfast', 'lunch', 'dinner', 'menu', '2369h', '3346h']):
             if src not in image_urls:
                 image_urls.append(src)
     
@@ -112,8 +95,8 @@ def download_image(url: str, output_path: Path, headers: dict = None) -> bool:  
     if headers is None:
         headers = {
             'accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
-            'accept-language': 'en-IN,en;q=0.9,hi-IN;q=0.8,hi;q=0.7,en-GB;q=0.6,en-US;q=0.5',
-            'referer': 'https://www.hillsandhollowsny.com/menu',
+            'accept-language': 'en-IN,en;q=0.9',
+            'referer': 'https://www.horseshoesaratoga.com/menu',
             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36'
         }
     
@@ -152,8 +135,8 @@ def extract_menu_from_image(image_path: str) -> List[Dict]:
 For each menu item, extract:
 1. **name**: The dish/item name (e.g., "Wings", "Burger", "Salad")
 2. **description**: The description/ingredients/details
-3. **price**: The price (e.g., "$12", "$15.99", "$17.99/$32.99")
-4. **menu_type**: The section/category name (e.g., "Starters", "Entrees", "Sides", "Desserts", "Drinks", "Burgers", "Sandwiches")
+3. **price**: The price (e.g., "$12", "$15.99", "Dozen - $17.99 / Two Dozen - $32.99")
+4. **menu_type**: The section/category name (e.g., "Starters", "Entrees", "Sides", "Desserts", "Drinks", "Burgers", "Sandwiches", "Breakfast", "Lunch", "Dinner"). DO NOT include the word "Menu" in menu_type values.
 
 CRITICAL EXTRACTION RULES:
 
@@ -169,28 +152,34 @@ CRITICAL EXTRACTION RULES:
    - Example: "Sharable Dips - $14.99" contains "Crab Dip" and "Spinach Artichoke" → extract both with price "$14.99"
 
 3. **Multiple Prices for Same Item (Size Variations):**
-   - If an item has multiple prices based on size/quantity (e.g., "Dozen - $17.99, Two Dozen - $32.99" or "Cup - $6.99, Bowl - $9.99, Crock - $10.99"), format them in the price field with size labels
-   - Format: "Dozen - $17.99 / Two Dozen - $32.99" for two sizes, or "Cup - $6.99 / Bowl - $9.99 / Crock - $10.99" for three sizes
-   - ALWAYS include the size label (Dozen, Two Dozen, Cup, Bowl, Crock, Small, Large, etc.) before each price
+   - If an item has multiple prices based on size/quantity (e.g., "5 for $12, 10 for $18" or "8/11" meaning Small $8 / Large $11), format them in the price field with size labels
+   - Format: "5 for $12 / 10 for $18" or "Small - $8 / Large - $11" for two sizes, or "Cup - $6.99 / Bowl - $9.99 / Crock - $10.99" for three sizes
+   - ALWAYS include the size label (5 for, 10 for, Small, Large, Cup, Bowl, Crock, Dozen, Two Dozen, etc.) before each price
    - Separate multiple prices with " / " (space-slash-space)
    - Do NOT include price information in the description field - keep descriptions clean with only ingredients/details
-   - Common size variations include: Dozen/Two Dozen, Cup/Bowl/Crock, Small/Large, Single/Double, etc.
+   - Common size variations include: Dozen/Two Dozen, Cup/Bowl/Crock, Small/Large, Single/Double, 5 for/10 for, etc.
    - The price field format should be: "Size1 - $Price1 / Size2 - $Price2"
 
-4. **General Pricing Notes:**
-   - If a section has a general pricing note (e.g., "All sides are $5.99 a la carte unless noted"), apply that price to items without explicit prices
-   - Items with explicit up-charges should have those prices (e.g., "Cup of Soup ($1.00 up charge)" → price should reflect the up-charge)
+4. **Price Format Examples:**
+   - Single price: "$19"
+   - Two sizes: "Small - $8 / Large - $11" or "5 for $12 / 10 for $18"
+   - Three sizes: "Cup - $6.99 / Bowl - $9.99 / Crock - $10.99"
+   - If prices are shown as "8/11" or "10/13", interpret as "Small - $8 / Large - $11" or "Small - $10 / Large - $13"
 
-5. **Standard Extraction:**
+5. **General Pricing Notes:**
+   - If a section has a general pricing note (e.g., "All sides are $5.99 a la carte unless noted"), apply that price to items without explicit prices
+   - Items with explicit up-charges should have those prices (e.g., "Add Chicken (+7)" → note in description, not in price)
+   - Add-ons like "(+$1)", "(+$2)", "(+$3)" should be mentioned in description, not in the main price
+
+6. **Standard Extraction:**
    - Extract ALL menu items from the image, including appetizers, entrees, sides, desserts, drinks, etc.
    - Item names are usually in larger/bolder font
    - Descriptions are usually in smaller font below the name
    - Prices are usually at the end of the description line or on a separate line
    - If an item has no description, use empty string ""
-   - Include section headers in the menu_type field (like "Starters", "Entrees", "Sides Dishes", "Soups & Salads", etc.)
+   - Include section headers in the menu_type field (like "Starters", "Entrees", "Sides Dishes", "Soups & Salads", "Breakfast", "Lunch", "Dinner", etc.). NEVER include the word "Menu" in menu_type values.
    - Skip footer text (address, phone, website, etc.)
    - Handle two-column layouts correctly - items in left column and right column should be separate
-   - Ensure all prices have a "$" symbol
    - Group items by their section/category using the menu_type field
 
 Return ONLY a valid JSON array of objects, no markdown, no code blocks, no explanations.
@@ -198,33 +187,21 @@ Example format:
 [
   {
     "name": "Wings",
-    "description": "Bone-in or Boneless. Buffalo - Hot - BBQ - Garlic Parm - Carolina Gold - Sweet Chili - Teriyaki - Honey Sriracha - Kickin' Bourbon - Nashville Hot - Cajun Dry Rub - Korean BBQ. Served with Bleu Cheese & Veggies",
-    "price": "Dozen - $17.99 / Two Dozen - $32.99",
+    "description": "Buffalo, Hot, BBQ, Spicy BBQ, Korean BBQ, Garlic Parm, General Tso's",
+    "price": "5 for $12 / 10 for $18",
     "menu_type": "Starters"
   },
   {
-    "name": "Soup of the Day",
-    "description": "",
-    "price": "Cup - $6.99 / Bowl - $9.99",
-    "menu_type": "Soups & Salads"
+    "name": "Market Salad",
+    "description": "Mixed greens, English cucumber, tomato, & red onion. Choice of dressing",
+    "price": "Small - $8 / Large - $11",
+    "menu_type": "Salads"
   },
   {
-    "name": "New England Clam Chowder",
-    "description": "",
-    "price": "Crock - $10.99",
-    "menu_type": "Soups & Salads"
-  },
-  {
-    "name": "Crab Dip",
-    "description": "",
-    "price": "$14.99",
-    "menu_type": "Starters"
-  },
-  {
-    "name": "Reuben",
-    "description": "Corned Beef, Sauerkraut, Swiss, Russian",
-    "price": "$15.99",
-    "menu_type": "Starters"
+    "name": "Horseshoe Burger",
+    "description": "Hand pounded 6 oz. burger, cheddar, lettuce, tomato & onion",
+    "price": "$19",
+    "menu_type": "Burgers"
   }
 ]"""
         
@@ -266,16 +243,22 @@ Example format:
                     # Remove the leading $ if size labels are present
                     price = price.lstrip('$').strip()
                 
+                menu_type = str(item.get('menu_type', '')).strip()
+                # Remove "menu" keyword from menu_type (case-insensitive)
+                menu_type = re.sub(r'\bmenu\b', '', menu_type, flags=re.IGNORECASE).strip()
+                if not menu_type:
+                    menu_type = 'General'
+                
                 cleaned_item = {
                     'name': str(item.get('name', '')).strip(),
                     'description': str(item.get('description', '')).strip(),
                     'price': price,
-                    'menu_type': str(item.get('menu_type', 'Menu')).strip()
+                    'menu_type': menu_type
                 }
                 if cleaned_item['name']:
                     all_items.append(cleaned_item)
         
-        # Post-processing: Fix missing prices and ensure size information is in descriptions
+        # Post-processing: Fix missing prices and format prices correctly
         # Group items by menu_type to find parent-child relationships
         items_by_type = {}
         for item in all_items:
@@ -310,24 +293,23 @@ Example format:
                             break
                 
                 # If still no price, check if there's a nearby item with a price in the same section
-                # This handles cases where items are grouped together
                 if not item_no_price['price']:
-                    # Look for items with prices that might be the parent
-                    for item_with_price in items_with_prices:
-                        # Check if the item name appears near items with prices (heuristic)
-                        # This is a fallback for items that might be sub-options
-                        if len(items_without_prices) <= 3 and len(items_with_prices) > 0:
-                            # If there are few items without prices, they might share the price of nearby items
-                            item_no_price['price'] = items_with_prices[0]['price']
-                            break
+                    if len(items_without_prices) <= 3 and len(items_with_prices) > 0:
+                        item_no_price['price'] = items_with_prices[0]['price']
+                        break
         
-        # Post-processing: Format prices with size labels and remove price info from descriptions
+        # Post-processing: Remove "menu" from menu_type and format prices with size labels
         for item in all_items:
+            # Remove "menu" keyword from menu_type (case-insensitive)
+            if item.get('menu_type'):
+                item['menu_type'] = re.sub(r'\bmenu\b', '', item['menu_type'], flags=re.IGNORECASE).strip()
+                if not item['menu_type']:
+                    item['menu_type'] = 'General'
             # Remove any price patterns from description
             if item['description']:
                 desc = item['description']
                 # Remove patterns like "Dozen: $X | Two Dozen: $Y" or "Cup: $X | Bowl: $Y"
-                desc = re.sub(r'\s*(?:Dozen|Two Dozen|Cup|Bowl|Crock|Small|Large|Single|Double):\s*\$?\d+\.?\d*\s*\|?\s*', '', desc, flags=re.IGNORECASE)
+                desc = re.sub(r'\s*(?:Dozen|Two Dozen|Cup|Bowl|Crock|Small|Large|Single|Double|5 for|10 for):\s*\$?\d+\.?\d*\s*\|?\s*', '', desc, flags=re.IGNORECASE)
                 # Remove standalone price patterns at the end
                 desc = re.sub(r'\s*\$?\d+\.?\d*\s*/\s*\$?\d+\.?\d*.*$', '', desc)
                 # Clean up extra spaces and separators
@@ -339,7 +321,7 @@ Example format:
             if item['price']:
                 price_str = item['price']
                 # Check if price already has size labels (e.g., "Cup - $6.99")
-                has_size_labels = ' - $' in price_str or any(keyword in price_str.lower() for keyword in ['dozen -', 'cup -', 'bowl -', 'crock -', 'small -', 'large -', 'single -', 'double -'])
+                has_size_labels = ' - $' in price_str or any(keyword in price_str.lower() for keyword in ['dozen -', 'cup -', 'bowl -', 'crock -', 'small -', 'large -', 'single -', 'double -', 'for $'])
                 
                 # Fix prices that have incorrect format like "$Cup - $6.99" (extra $ at start)
                 if price_str.startswith('$') and ' - $' in price_str:
@@ -358,14 +340,14 @@ Example format:
                         name_lower = item['name'].lower()
                         
                         if 'wing' in name_lower:
-                            item['price'] = f"Dozen - ${price1} / Two Dozen - ${price2}"
+                            item['price'] = f"5 for ${price1} / 10 for ${price2}"
                         elif 'soup' in name_lower or 'chowder' in name_lower:
                             item['price'] = f"Cup - ${price1} / Bowl - ${price2}"
                         elif 'salad' in name_lower:
                             item['price'] = f"Small - ${price1} / Large - ${price2}"
                         else:
                             # Default format
-                            item['price'] = f"${price1} / ${price2}"
+                            item['price'] = f"Small - ${price1} / Large - ${price2}"
                     elif len(prices) == 3:
                         # Format: "Size1 - $Price1 / Size2 - $Price2 / Size3 - $Price3"
                         price1 = prices[0].replace('$', '').strip()
@@ -393,14 +375,14 @@ Example format:
         return []
 
 
-def scrape_hillsandhollowsny_menu(url: str) -> List[Dict]:
+def scrape_horseshoesaratoga_menu(url: str) -> List[Dict]:
     """
-    Scrape menu from hillsandhollowsny.com
+    Scrape menu from horseshoesaratoga.com
     The menu is displayed as images in HTML
     """
     all_items = []
-    restaurant_name = "Hills & Hollows"
-    restaurant_url = "http://www.hillsandhollowsny.com/"
+    restaurant_name = "Horseshoe Inn Bar & Grill"
+    restaurant_url = "https://www.horseshoesaratoga.com/"
     
     print("=" * 60)
     print(f"Scraping: {url}")
@@ -416,7 +398,7 @@ def scrape_hillsandhollowsny_menu(url: str) -> List[Dict]:
     
     try:
         # Download HTML
-        menu_url = "https://www.hillsandhollowsny.com/menu"
+        menu_url = "https://www.horseshoesaratoga.com/menu"
         print(f"[1/4] Downloading menu HTML...")
         html = download_html_with_requests(menu_url)
         
@@ -440,12 +422,21 @@ def scrape_hillsandhollowsny_menu(url: str) -> List[Dict]:
         temp_dir = Path(__file__).parent.parent / 'temp'
         temp_dir.mkdir(parents=True, exist_ok=True)
         
+        menu_names = ["Breakfast-Lunch", "Dinner"]  # Default names, will be updated based on image filenames
+        
         for img_idx, img_url in enumerate(image_urls):
             print(f"[3/4] Processing image {img_idx + 1}/{len(image_urls)}...")
             print(f"  Image URL: {img_url}")
             
+            # Determine menu name from URL
+            menu_name = f"Page {img_idx + 1}"
+            if 'breakfast' in img_url.lower() or 'lunch' in img_url.lower() or '2369h' in img_url.lower():
+                menu_name = "Breakfast-Lunch"
+            elif 'dinner' in img_url.lower() or '3346h' in img_url.lower():
+                menu_name = "Dinner"
+            
             # Download image
-            img_filename = f"hills_menu_{img_idx + 1}.jpg"
+            img_filename = f"horseshoe_menu_{img_idx + 1}.png"
             img_path = temp_dir / img_filename
             
             if not download_image(img_url, img_path):
@@ -461,11 +452,11 @@ def scrape_hillsandhollowsny_menu(url: str) -> List[Dict]:
                 for item in items:
                     item['restaurant_name'] = restaurant_name
                     item['restaurant_url'] = restaurant_url
-                    item['menu_name'] = f'Menu Page {img_idx + 1}'
+                    item['menu_name'] = menu_name
                 all_items.extend(items)
-                print(f"  [OK] Extracted {len(items)} items from image {img_idx + 1}\n")
+                print(f"  [OK] Extracted {len(items)} items from {menu_name}\n")
             else:
-                print(f"  [WARNING] No items extracted from image {img_idx + 1}\n")
+                print(f"  [WARNING] No items extracted from {menu_name}\n")
             
             # Clean up temp image file
             try:
@@ -510,6 +501,6 @@ def scrape_hillsandhollowsny_menu(url: str) -> List[Dict]:
 
 
 if __name__ == '__main__':
-    url = "http://www.hillsandhollowsny.com/"
-    scrape_hillsandhollowsny_menu(url)
+    url = "https://www.horseshoesaratoga.com/menu"
+    scrape_horseshoesaratoga_menu(url)
 

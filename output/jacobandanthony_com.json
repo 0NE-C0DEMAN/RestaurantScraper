@@ -1,0 +1,2774 @@
+[
+  {
+    "name": "Caesar",
+    "description": "Romaine hearts, J+A croutons, shaved Reggiano (gluten free)",
+    "price": "Small - $11 / Entree - $15",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Market",
+    "description": "Field greens, grape tomatoes, cucumbers, shaved Romano, dried cranberries, balsamic vinaigrette (gluten free)",
+    "price": "Small - $11 / Entree - $15",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Classic Wedge",
+    "description": "Iceberg, bacon, tomato jam, diced onions, bleu cheese crumble, garlic parmesan dressing (gluten free)",
+    "price": "$16",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Arugula",
+    "description": "Arugula, roasted beets, matchstick carrots, goat cheese, lemon vinaigrette (gluten free)",
+    "price": "Small - $12 / Entree - $16",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Tuscan",
+    "description": "Kale, brussel, spinach, prosciutto, charred grapes, NY apple, candied walnuts, balsamic vinaigrette (gluten free)",
+    "price": "Small - $13 / Entree - $17",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Add to Salad",
+    "description": "",
+    "price": "Grilled Chicken - $7 / Tuscan Chicken - $8 / Jumbo Shrimp (2) - $9 / Jumbo Shrimp (3) - $12 / Salmon - $12 / Strip Steak - $25",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Bruschetta",
+    "description": "Marinated tomatoes, fresh mozzarella, balsamic reduction",
+    "price": "$15",
+    "menu_type": "Small Plates",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Mozzarella Bread",
+    "description": "Roasted garlic butter, mozzarella, vodka sauce, marinara",
+    "price": "$14",
+    "menu_type": "Small Plates",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Mozzarella",
+    "description": "Hand-breaded, lightly fried, vodka sauce",
+    "price": "$13",
+    "menu_type": "Small Plates",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Truffle Fries",
+    "description": "Signature Dipple fries, truffle oil, Pecorino, garlic parmesan sauce",
+    "price": "$13",
+    "menu_type": "Small Plates",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Roasted Brussel Sprouts",
+    "description": "Brussel sprouts, applewood smoked bacon, balsamic glaze",
+    "price": "$12",
+    "menu_type": "Small Plates",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "1/2 Lb Meatball",
+    "description": "Signature meatball, ricotta & toasted focaccia",
+    "price": "$16",
+    "menu_type": "Small Plates",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "“Stack”",
+    "description": "Eggplant & zucchini, smoked mozzarella, tomato, balsamic glaze",
+    "price": "$17",
+    "menu_type": "Small Plates",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Fritti Calamari",
+    "description": "Onions & piquant peppers (gluten free)",
+    "price": "$19",
+    "menu_type": "Small Plates",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Arancini",
+    "description": "Smoked mozzarella risotto balls, Italian seasoning, marinara cream sauce",
+    "price": "$15",
+    "menu_type": "Small Plates",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Crisp Chicken Wings",
+    "description": "Garlic parmesan, buffalo, Thai chili (gluten free)",
+    "price": "$19",
+    "menu_type": "Small Plates",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Antipasto Dilusso (Family Style)",
+    "description": "Sicilian olives, roasted artichokes, roasted red peppers, pepperoncini, onions, prosciutto, soppressata mixed greens (gluten free)",
+    "price": "$25",
+    "menu_type": "Small Plates",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Classic Meatballs (Family Style)",
+    "description": "12 housemade meatballs, marinara, ricotta",
+    "price": "$28",
+    "menu_type": "Small Plates",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Fritti Calamari (Family Style)",
+    "description": "Onions & piquant peppers",
+    "price": "$29",
+    "menu_type": "Small Plates",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Chicken Parmesan",
+    "description": "Pan-fried cutlet, red sauce, pesto, mozzarella",
+    "price": "$18",
+    "menu_type": "Sandwiches",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Balsamic Wrap",
+    "description": "Grilled chicken, field greens, charred grapes, candied walnuts, goat cheese, balsamic vinaigrette",
+    "price": "$16",
+    "menu_type": "Sandwiches",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Pollo",
+    "description": "Grilled chicken, smoked bacon, provolone, honey mustard, lettuce tomato",
+    "price": "$19",
+    "menu_type": "Sandwiches",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "J+A Burger",
+    "description": "Angus beef, cheddar, lettuce, tomato, onion",
+    "price": "$19",
+    "menu_type": "Sandwiches",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Anthony’s Steakhouse Burger",
+    "description": "Angus beef, wild mushroom demi, swiss",
+    "price": "$20",
+    "menu_type": "Sandwiches",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Sicilian",
+    "description": "Sausage, meatball, red sauce, mozzarella",
+    "price": "$23",
+    "menu_type": "Pizza",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Funghi",
+    "description": "White button & portabella mushrooms, garlic, mozzarella, goat cheese, truffle oil",
+    "price": "$24",
+    "menu_type": "Pizza",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Fig + Prosciutto",
+    "description": "Country fig jam, prosciutto, garlic, mozzarella, arugula, balsamic vinaigrette",
+    "price": "$24",
+    "menu_type": "Pizza",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Diavola Dolce",
+    "description": "Pepperoni cups, red onion, fresh jalapeños, red sauce, mozzarella cheese, burrata cheese, house hot honey",
+    "price": "$24",
+    "menu_type": "Pizza",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Pasta",
+    "description": "",
+    "price": "Gluten Free Pasta - $3 / Pappardelle - $4 / Tortellini - $6",
+    "menu_type": "Pasta & Sauce $19",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Sauce",
+    "description": "",
+    "price": "",
+    "menu_type": "Pasta & Sauce $19",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Toppings",
+    "description": "",
+    "price": "Homemade Meatballs - $6 / Sweet Sausage - $6 / Roasted Broccoli - $5 / Grilled Chicken - $8 / Tuscan Cutlet - $9 / Grilled Shrimp (3) - $12",
+    "menu_type": "Pasta & Sauce $19",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Harvest Salmon",
+    "description": "Maple glazed seared salmon, butternut squash risotto, brussel sprouts (gluten free)",
+    "price": "$35",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Chilean Sea Bass",
+    "description": "Center-cut, pan seared, pesto risotto, blistered tomatoes",
+    "price": "$42",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "New York Strip",
+    "description": "14 oz center-cut, red wine, mushroom demi, caramelized onion risotto, brussel sprouts (gluten free)",
+    "price": "$48",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Milanese",
+    "description": "Panko-crusted chicken cutlets, linguine, alfredo, spinach + mushrooms",
+    "price": "$19 / $27",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Parmigiano",
+    "description": "Pan-fried chicken cutlets, mozzarella, rigatoni, marinara cream sauce",
+    "price": "Lunch - $18 / Entree - $27",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Marsala",
+    "description": "Chicken medallions, mushrooms, Marsala demi, risotto (gluten free)",
+    "price": "$28",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Carciofo",
+    "description": "Pan-seared chicken, artichokes, capers, spinach, roasted red peppers, lemon, risotto (gluten free)",
+    "price": "$29",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Truffle Mushroom Ravioli",
+    "description": "Roasted wild mushrooms, truffle ravioli, parmesan cream sauce",
+    "price": "$28",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Espresso Martini",
+    "description": "Vanilla vodka, Kahlua, espresso",
+    "price": "$15",
+    "menu_type": "Hand Crafted Cocktails",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Blackberry Bourbon Smash",
+    "description": "Woodford Reserve, blackberries, mint, simple syrup",
+    "price": "$16",
+    "menu_type": "Hand Crafted Cocktails",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Daily Sangria",
+    "description": "Bartenders daily Red & White creation",
+    "price": "$12",
+    "menu_type": "Hand Crafted Cocktails",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Mahogany Manhattan",
+    "description": "Angel's Envy Bourbon, Sweet Vermouth, Luxardo cherry, chocolate bitters",
+    "price": "$17",
+    "menu_type": "Hand Crafted Cocktails",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Peach Old Fashioned",
+    "description": "Angel's Envy Bourbon, peach liqueur, Angostura bitter, cherries",
+    "price": "$16",
+    "menu_type": "Hand Crafted Cocktails",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Perfect Pear Mule",
+    "description": "Absolut Pears, fresh lime, Saranac Ginger Beer",
+    "price": "$13",
+    "menu_type": "Hand Crafted Cocktails",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Espresso Mint-tini",
+    "description": "Tito's vodka, coffee liqueur, espresso, peppermint simple",
+    "price": "$15",
+    "menu_type": "Seasonal Specialties",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Fireside",
+    "description": "Grey Goose, New York maple syrup, pink grapefruit juice",
+    "price": "$15",
+    "menu_type": "Seasonal Specialties",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Great Dane Martini",
+    "description": "Conniption Gin, dry vermouth, orange bitters",
+    "price": "$14",
+    "menu_type": "Seasonal Specialties",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Pomegranate Fizz",
+    "description": "Bombay gin, pomegranate juice, lemon, club",
+    "price": "$14",
+    "menu_type": "Seasonal Specialties",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Maple Bourbon Old Fashioned",
+    "description": "Angel's Envy Bourbon, New York maple syrup, bitters",
+    "price": "$15",
+    "menu_type": "Seasonal Specialties",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Prosecco",
+    "description": "Il by Mionetto",
+    "price": "$40",
+    "menu_type": "Bubbles",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Prosecco",
+    "description": "Brut by Mionetto, 187 ml",
+    "price": "$13",
+    "menu_type": "Bubbles",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Champagne",
+    "description": "Perrier Jouet ‘07 “Belle Epoque” - Eperany",
+    "price": "$295",
+    "menu_type": "Bubbles",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Champagne",
+    "description": "Veuve Clicquot, Yellow Label",
+    "price": "$110",
+    "menu_type": "Bubbles",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Champagne",
+    "description": "Moet & Chandon, Imperial",
+    "price": "$98",
+    "menu_type": "Bubbles",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Heineken",
+    "description": "5%, Netherlands",
+    "price": "",
+    "menu_type": "Bottled Beer",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Michelob Ultra",
+    "description": "4.2%, St. Louis, MO",
+    "price": "",
+    "menu_type": "Bottled Beer",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Miller Lite",
+    "description": "4.2% Milwaukee, WI",
+    "price": "",
+    "menu_type": "Bottled Beer",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Stella Artois",
+    "description": "5%, Belgium",
+    "price": "",
+    "menu_type": "Bottled Beer",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "White Claw, Cherry",
+    "description": "5%",
+    "price": "",
+    "menu_type": "Bottled Beer",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Heineken N/A",
+    "description": "",
+    "price": "",
+    "menu_type": "Bottled Beer",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Mocha Velluto",
+    "description": "Bailey’s, Godiva chocolate liqueur, Trader Vic’s, macadamia nut, chilled cream",
+    "price": "$12",
+    "menu_type": "After Dinner",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Irish Italian",
+    "description": "Bailey’s, Amaretto, coffee",
+    "price": "$12",
+    "menu_type": "After Dinner",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Cafe Di Cioccolata",
+    "description": "Godiva chocolate liqueur, espresso, steamed milk, topped with whipped cream",
+    "price": "$11",
+    "menu_type": "After Dinner",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Italian Wedding",
+    "description": "Tia Maria, Frangelico, espresso, steamed milk",
+    "price": "$12",
+    "menu_type": "After Dinner",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-italian/",
+    "menu_name": "Italian Menu"
+  },
+  {
+    "name": "Avocado Toast",
+    "description": "toasted ciabatta, zesty mashed avocado, heirloom cherry tomatoes, arugula, shaved parmesan, balsamic glaze",
+    "price": "$14",
+    "menu_type": "Brunch",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch/",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "French Toast",
+    "description": "thick cut French toast, fresh berry compote, maple syrup",
+    "price": "$14",
+    "menu_type": "Brunch",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch/",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Lemon Ricotta Pancakes",
+    "description": "Tricotta filled pancakes, seasonal berries, syrup, fresh whipped cream",
+    "price": "$14",
+    "menu_type": "Brunch",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch/",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Bagel Sandwich",
+    "description": "omelette style eggs, mozzarella cheese, applewood smoked bacon, side of roasted potato wedges, peppers and onions",
+    "price": "$13",
+    "menu_type": "Brunch",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch/",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Old Country Omelet",
+    "description": "fresh eggs, prosciutto, onion, red pepper, mozzarella cheese, roasted potato wedges (gluten free)",
+    "price": "$13",
+    "menu_type": "Brunch",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch/",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Frittata",
+    "description": "(Italian egg-based crustless pie) roasted peppers, artichoke, asparagus, spinach and Italian cheeses, served with a side of fresh fruit (gluten free)",
+    "price": "$15",
+    "menu_type": "Brunch",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch/",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Sides",
+    "description": "applewood smoked bacon (4), potato hash, seasonal fresh fruit, fries, ciabatta toast",
+    "price": "$6",
+    "menu_type": "Brunch",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch/",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Unlimited Mimosas",
+    "description": "prosecco and orange juice",
+    "price": "Single - $13 / Bottomless - $22",
+    "menu_type": "Bottomless Cocktails",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch/",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Endless Bloody Mary's",
+    "description": "vodka, house Mary mix, seasoned rim",
+    "price": "Single - $13 / Bottomless - $22",
+    "menu_type": "Bottomless Cocktails",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch/",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Bottomless Bellini's",
+    "description": "Absolut Apeach, Massenez Peach Liqueur, Prosecco",
+    "price": "Single - $13 / Bottomless - $23",
+    "menu_type": "Bottomless Cocktails",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch/",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Infinite Aperol Spritzes",
+    "description": "Aperol, Prosecco, Cointreau, club soda",
+    "price": "Single - $14 / Bottomless - $25",
+    "menu_type": "Bottomless Cocktails",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch/",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Seasonal Sangrias",
+    "description": "red or white",
+    "price": "Single - $12 / Bottomless - $21",
+    "menu_type": "Bottomless Cocktails",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch/",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Chicken Parmesan",
+    "description": "Available for dine-in and take-out at Jacob and Anthony’s Stuyvesant Plaza, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "$12.95",
+    "menu_type": "Monday Special",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Chicken Parmesan",
+    "description": "Available for dine-in and take-out at Jacob and Anthony’s Stuyvesant Plaza, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "$12.95",
+    "menu_type": "Monday Special",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Chicken Parmesan",
+    "description": "Available for dine-in and take-out at Jacob and Anthony’s Stuyvesant Plaza, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "$12.95",
+    "menu_type": "Monday Special",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Chicken Parmesan",
+    "description": "Available for dine-in and take-out at Jacob and Anthony’s Stuyvesant Plaza, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "$12.95",
+    "menu_type": "Monday Special",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Nino’s Meatballs & Sausage",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Chicken a la Vodka",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Rigatoni Bolognese",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Nino’s Meatballs & Sausage",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Chicken a la Vodka",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Rigatoni Bolognese",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Nino’s Meatballs & Sausage",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Chicken a la Vodka",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Rigatoni Bolognese",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Nino’s Meatballs & Sausage",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Chicken a la Vodka",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Rigatoni Bolognese",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Wine Wednesdays",
+    "description": "Half off select bottles up to $75! Available at all Jacob and Anthony’s locations, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "",
+    "menu_type": "Wine Wednesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Wine Wednesdays",
+    "description": "Half off select bottles up to $75! Available at all Jacob and Anthony’s locations, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "",
+    "menu_type": "Wine Wednesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Wine Wednesdays",
+    "description": "Half off select bottles up to $75! Available at all Jacob and Anthony’s locations, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "",
+    "menu_type": "Wine Wednesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "Wine Wednesdays",
+    "description": "Half off select bottles up to $75! Available at all Jacob and Anthony’s locations, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "",
+    "menu_type": "Wine Wednesdays",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-italian/",
+    "menu_name": "Weekly Features"
+  },
+  {
+    "name": "ARUGULA",
+    "description": "arugula, roasted beets, shaved carrots, goat cheese, lemon vinaigrette",
+    "price": "$35.00",
+    "menu_type": "ANTIPASTI | INSALATA",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "TUSCAN",
+    "description": "kale, brussel sprouts, spinach, prosciutto, charred grapes, NY apples, candied walnuts, balsamic vinaigrette",
+    "price": "35.00",
+    "menu_type": "ANTIPASTI | INSALATA",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "MIXED GREEN",
+    "description": "greens, tomatoes, cucumbers, dried berries, shaved reggiano, balsamic vinaigrette",
+    "price": "$32.00",
+    "menu_type": "ANTIPASTI | INSALATA",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "CAESAR",
+    "description": "romaine hearts, J+A croutons, shaved Reggiano",
+    "price": "$32.00",
+    "menu_type": "ANTIPASTI | INSALATA",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "ANTIPASTO DILUSSO",
+    "description": "classic Italian meats, cheese and vegetables",
+    "price": "$52.00",
+    "menu_type": "ANTIPASTI | INSALATA",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "CARCIOFO",
+    "description": "chicken, artichokes, spinach, capers, roasted red peppers, risotto, lemon butter sauce",
+    "price": "$68.00",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "SUNDAY GRAVY",
+    "description": "sweet sausage, meatballs, slow roasted pork, rigatoni, marinara-cream sauce",
+    "price": "$55.00",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "CHICKEN PARMESAN",
+    "description": "cutlets, mozzarella, rigatoni, marinara-cream sauce",
+    "price": "$60.00",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "SALMONE",
+    "description": "mediterranean vegetables, chardonnay butter sauce, risotto",
+    "price": "$85.00",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "EGGPLANT PARMESAN",
+    "description": "cutlets, marinara, mozzarella, side of rigatoni marinara-cream sauce",
+    "price": "$60.00",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "BAKED RIGATONI BOLOGNESE",
+    "description": "stew of veal, beef + pork, marinara, shaved parmesan",
+    "price": "$55.00",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "CHICKEN MILANESE",
+    "description": "panko breaded chicken, spinach, mushrooms, lemon, Alfredo, linguine",
+    "price": "$60.00",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "CHICKEN MARSALA",
+    "description": "chicken, wild mushrooms, rich veal-demi sauce, marsala wine, risotto",
+    "price": "$60.00",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "CHICKEN VODKA",
+    "description": "chicken, broccoli, caramelized onions, pecorino romano, vodka sauce, linguine",
+    "price": "$59.00",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "SHRIMP PESTO",
+    "description": "jumbo shrimp, roasted garlic, sun-dried tomatoes, pesto-cream, linguine",
+    "price": "$72.00",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "SHRIMP SCAMPI",
+    "description": "jumbo shrimp, garlic, lemon, white wine butter sauce, linguine",
+    "price": "$69.00",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "LASAGNA BOLOGNESE",
+    "description": "stew of beef + pork, ricotta, mozzarella, marinara",
+    "price": "$70.00",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "MINESTRA",
+    "description": "classic greens and beans",
+    "price": "$40.00",
+    "menu_type": "CONTORNO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "ARANCINI",
+    "description": "smoked mozzarella risotto balls, Italian seasoning, marinara-cream sauce (20)",
+    "price": "$70.00",
+    "menu_type": "CONTORNO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "WILD MUSHROOM RISOTTO",
+    "description": "roasted wild mushrooms, creamy risotto",
+    "price": "$42.00",
+    "menu_type": "CONTORNO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "SAUTEED SEASONAL VEGETABLES",
+    "description": "chef's choice of roasted vegetables",
+    "price": "$45.00",
+    "menu_type": "CONTORNO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "MEATBALLS",
+    "description": "30 hand rolled signature Bellini's meatballs, marinara",
+    "price": "$58.00",
+    "menu_type": "CONTORNO",
+    "restaurant_name": "Jacob and Anthony's Italian",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "Take Home Platters"
+  },
+  {
+    "name": "J&A Burger",
+    "description": "Vermont white cheddar, applewood smoked bacon",
+    "price": "$19",
+    "menu_type": "Handhelds",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Steakhouse Burger",
+    "description": "wild mushroom, caramelized onions, cabernet sauce, cheddar",
+    "price": "$21",
+    "menu_type": "Handhelds",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Buttermilk Fried Chicken",
+    "description": "hand battered fried chicken, dill pickle slaw, hot honey",
+    "price": "$19",
+    "menu_type": "Handhelds",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "High Rock Chicken",
+    "description": "applewood smoked bacon, Vermont cheddar, honey mustard sauce",
+    "price": "$19",
+    "menu_type": "Handhelds",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Ahi Tuna Tacos",
+    "description": "two flour tortillas, sesame crusted tuna, wasabi mayo, lemon caper aioli, Asian slaw, crispy wontons, salsa, corn & bean salad",
+    "price": "$22",
+    "menu_type": "Handhelds",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Perrier Jouet \"Fleur de Champagne Belle Epoque\"",
+    "description": "Champagne",
+    "price": "Bottle - $325",
+    "menu_type": "Sparkling",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Veuve Clicquot, Yellow Label",
+    "description": "Champagne",
+    "price": "Bottle - $120",
+    "menu_type": "Sparkling",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Moet & Chandon, White Star",
+    "description": "Champagne",
+    "price": "Bottle - $95",
+    "menu_type": "Sparkling",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "II by Mionetto",
+    "description": "Prosecco",
+    "price": "Glass - $15 / Bottle - $30",
+    "menu_type": "Sparkling",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Red or White Sangria",
+    "description": "Bartenders' daily creation",
+    "price": "$12",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Hugo Spritz",
+    "description": "Il Mionetto Prosecco, St. Germain",
+    "price": "$13",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Very Berry Mojito",
+    "description": "Absolut Raspberry + Berry Açaí fresh mint, lime",
+    "price": "$13",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Cranberry Cobbler Smash",
+    "description": "Redemption bourbon, cranberry, cinnamon",
+    "price": "$13",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Perfect Pear Mule",
+    "description": "Absolut Pear, St. Germain, mint, ginger beer, fresh lime",
+    "price": "$13",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Blood Orange Old Fashioned",
+    "description": "Basil Hayden, Blood Orange liqueur",
+    "price": "$13",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Spicy Cucumber Margarita",
+    "description": "Hornitos teguila, Cointreau, jalapeno simple syrup",
+    "price": "$13",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "J+A Old Fashioned",
+    "description": "Woodford Reserve Bourbon, bitters, orange, cherry",
+    "price": "$16",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Dipple Fries",
+    "description": "",
+    "price": "$11",
+    "menu_type": "Sides",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Truffle Fries",
+    "description": "",
+    "price": "$13",
+    "menu_type": "Sides",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Seasonal Vegetables",
+    "description": "",
+    "price": "$11",
+    "menu_type": "Sides",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Creamed Spinach",
+    "description": "",
+    "price": "$12",
+    "menu_type": "Sides",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Brussel Sprouts + Bacon",
+    "description": "",
+    "price": "$11",
+    "menu_type": "Sides",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "J&A Burger",
+    "description": "Vermont white cheddar, applewood smoked bacon",
+    "price": "$19",
+    "menu_type": "Handhelds",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Steakhouse Burger",
+    "description": "wild mushroom, caramelized onions, cabernet sauce, cheddar",
+    "price": "$21",
+    "menu_type": "Handhelds",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "High Rock Chicken",
+    "description": "applewood smoked bacon, Vermont cheddar, honey mustard sauce",
+    "price": "$19",
+    "menu_type": "Handhelds",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Ahi Tuna Tacos",
+    "description": "two flour tortillas, sesame crusted tuna, wasabi mayo, lemon caper aioli, Asian slaw, crispy wontons, salsa, corn & bean salad",
+    "price": "$22",
+    "menu_type": "Handhelds",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Parmesan",
+    "description": "Classic parmesan, linguine, marinara cream sauce",
+    "price": "Chicken - $28 / Veal - $38",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Anthony's Gravy",
+    "description": "Italian sausage, meatballs, slow roasted pork, marinara cream sauce, pappardelle",
+    "price": "$28",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Wild Mushroom Sacchetti",
+    "description": "fire roasted wild mushrooms, black truffle sacchetti, parmesan cream sauce",
+    "price": "$28",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "New Orleans Jambalaya",
+    "description": "chicken, shrimp, andouille sausage, creole rice",
+    "price": "$32",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Pappardelle",
+    "description": "pan seared chicken, spinach, artichokes, sun-dried tomatoes, parmesan cream sauce, pappardelle",
+    "price": "$30",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Chef Selected Oysters",
+    "description": "by the half or full dozen MP",
+    "price": "",
+    "menu_type": "Raw Bar",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Shrimp Cocktail",
+    "description": "four jumbo shrimp, spicy house-made cocktail sauce",
+    "price": "$18",
+    "menu_type": "Raw Bar",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Seafood Duet",
+    "description": "four jumbo shrimp, half dozen chef selected oysters MP",
+    "price": "",
+    "menu_type": "Raw Bar",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Jacob's Chowder",
+    "description": "creamy New England seafood chowder, littleneck clams, cod, and potatoes",
+    "price": "$10",
+    "menu_type": "Small Plate",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Chicken & Avocado Spring Rolls",
+    "description": "house rolled, Asian slaw, fresh avocado, Thai chili & sweet ‘n spicy sauce",
+    "price": "$18",
+    "menu_type": "Small Plate",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Pan Seared Ahi Tuna",
+    "description": "sesame seared Ahi tuna, crispy wonton, wasabi, ginger soy",
+    "price": "$21",
+    "menu_type": "Small Plate",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Crispy Chicken Wings",
+    "description": "finished with Thai chili, chopped peanuts, peppadews",
+    "price": "$18",
+    "menu_type": "Small Plate",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Fire Roasted Shrimp",
+    "description": "jumbo shrimp, roasted corn & bean salad, honey-lime vinaigrette, crème fraiche, hot pepper tomato jam (gluten free)",
+    "price": "$22",
+    "menu_type": "Small Plate",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Fried Calamari",
+    "description": "shaved onions, piquante peppers, marinara",
+    "price": "$19",
+    "menu_type": "Small Plate",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Eggplant Stack",
+    "description": "Panko encrusted, roasted tomatoes, grilled zucchini, fresh mozzarella, balsamic glaze",
+    "price": "$18",
+    "menu_type": "Small Plate",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Romaine hearts, house-made croutons, Pecorino Romano (gluten free)",
+    "price": "Small - $11 / Entree - $14",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Farmer’s Market Salad",
+    "description": "field greens, cherry tomatoes, dried berries, carrots, cucumbers, balsamic vinaigrette (gluten free)",
+    "price": "Small - $11 / Entree - $14",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Pear Walnut Salad",
+    "description": "field greens, fresh pears, bleu cheese, candied walnuts, dried berries, carrots, balsamic vinaigrette (gluten free)",
+    "price": "Small - $13 / Entree - $17",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Classic Wedge",
+    "description": "iceberg, applewood smoked bacon, tomato jam, bleu cheese crumbles, garlic parmesan dressing (gluten free)",
+    "price": "$17",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Protein Add-Ons:",
+    "description": "",
+    "price": "Salmon + - $12 / Grilled Chicken - $7 / Ahi Tuna - $14 / Grilled Shrimp (three) - $12 / Tuscan Chicken - $8",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Surf & Turf",
+    "description": "",
+    "price": "8 oz. filet with shrimp scampi - $66 / 8 oz. filet with Georges Bank scallops - $70",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Handcut Filet Mignon",
+    "description": "8 oz center cut, house mashed potatoes (gluten free)",
+    "price": "$49",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Cabernet Filet",
+    "description": "8 oz center cut, cabernet sauce, wild mushrooms, caramelized onions, house mashed potatoes (gluten free)",
+    "price": "$53",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Steak Frites",
+    "description": "14 oz center cut NY strip, french fries, chimichurri (gluten free)",
+    "price": "$48",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Dry Aged Bone-In Ribeye",
+    "description": "20 oz prime, dry aged, house mashed potatoes (gluten free)",
+    "price": "$69",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Pettine",
+    "description": "pan seared jumbo shrimp and Georges Bank scallops, spinach, lemon, linguine, parmesan cream sauce (gluten free)",
+    "price": "$31",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Georges Bank Scallops",
+    "description": "Pan seared, risotto, lemon caper sauce (gluten free)",
+    "price": "$48",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Dijon Salmon",
+    "description": "mustard panko encrusted, spinach risotto, sun-dried tomato cream sauce",
+    "price": "$35",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-grille/",
+    "menu_name": "The Grille Menu"
+  },
+  {
+    "name": "Avocado Toast",
+    "description": "toasted ciabatta, zesty mashed avocado, heirloom cherry tomatoes, arugula, shaved parmesan, balsamic glaze",
+    "price": "$14",
+    "menu_type": "Brunch",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch-the-grille/",
+    "menu_name": "The Grille Brunch"
+  },
+  {
+    "name": "Jake’s Big Breakfest",
+    "description": "3 scrambled eggs, 3 slices applewood bacon, roasted potato wedges, toasted ciabatta",
+    "price": "$15",
+    "menu_type": "Brunch",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch-the-grille/",
+    "menu_name": "The Grille Brunch"
+  },
+  {
+    "name": "Bagel Sandwich",
+    "description": "omelette style eggs, mozzarella cheese, applewood smoked bacon, side of roasted potato wedges, peppers and onions",
+    "price": "$13",
+    "menu_type": "Brunch",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch-the-grille/",
+    "menu_name": "The Grille Brunch"
+  },
+  {
+    "name": "Pick 3 Omelet",
+    "description": "bacon, Italian sausage, grilled chicken, roasted peppers, artichoke, spinach, onions, peppers, mozzarella served with roasted potato wedges",
+    "price": "$16",
+    "menu_type": "Brunch",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch-the-grille/",
+    "menu_name": "The Grille Brunch"
+  },
+  {
+    "name": "Sides",
+    "description": "applewood smoked bacon (4), roasted potato wedges, fries, ciabatta toast",
+    "price": "$6",
+    "menu_type": "Brunch",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch-the-grille/",
+    "menu_name": "The Grille Brunch"
+  },
+  {
+    "name": "Unlimited Mimosas",
+    "description": "prosecco and orange juice",
+    "price": "$13 / $22",
+    "menu_type": "Bottomless Brunch Cocktails",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch-the-grille/",
+    "menu_name": "The Grille Brunch"
+  },
+  {
+    "name": "Endless Bloody Mary's",
+    "description": "vodka, house Mary mix, seasoned rim",
+    "price": "$13 / $22",
+    "menu_type": "Bottomless Brunch Cocktails",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch-the-grille/",
+    "menu_name": "The Grille Brunch"
+  },
+  {
+    "name": "Bottomless Bellini's",
+    "description": "Absolut Apeach, Massenez Peach Liqueur, Prosecco",
+    "price": "$13 / $23",
+    "menu_type": "Bottomless Brunch Cocktails",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch-the-grille/",
+    "menu_name": "The Grille Brunch"
+  },
+  {
+    "name": "Infinite Aperol Spritzes",
+    "description": "Aperol, Prosecco, Cointreau, club soda",
+    "price": "$14 / $25",
+    "menu_type": "Bottomless Brunch Cocktails",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch-the-grille/",
+    "menu_name": "The Grille Brunch"
+  },
+  {
+    "name": "Seasonal Sangrias",
+    "description": "red or white",
+    "price": "$12 / $21",
+    "menu_type": "Bottomless Brunch Cocktails",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menu/brunch-the-grille/",
+    "menu_name": "The Grille Brunch"
+  },
+  {
+    "name": "Chicken Parmesan",
+    "description": "$12.95 Chicken Parmesan",
+    "price": "$12.95",
+    "menu_type": "Monday Special",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Chicken Parmesan",
+    "description": "$12.95 Chicken Parmesan",
+    "price": "$12.95",
+    "menu_type": "Monday Special",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Chicken Parmesan",
+    "description": "$12.95 Chicken Parmesan",
+    "price": "$12.95",
+    "menu_type": "Monday Special",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Chicken Parmesan",
+    "description": "$12.95 Chicken Parmesan",
+    "price": "$12.95",
+    "menu_type": "Monday Special",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Nino’s Meatballs & Sausage",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Chicken a la Vodka",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Rigatoni Bolognese",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Nino’s Meatballs & Sausage",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Chicken a la Vodka",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Rigatoni Bolognese",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Nino’s Meatballs & Sausage",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Chicken a la Vodka",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Rigatoni Bolognese",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Nino’s Meatballs & Sausage",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Chicken a la Vodka",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Rigatoni Bolognese",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Wine Wednesdays",
+    "description": "Half off select bottles up to $75! Available at all Jacob and Anthony’s locations, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "",
+    "menu_type": "Wine Wednesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Wine Wednesdays",
+    "description": "Half off select bottles up to $75! Available at all Jacob and Anthony’s locations, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "",
+    "menu_type": "Wine Wednesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Wine Wednesdays",
+    "description": "Half off select bottles up to $75! Available at all Jacob and Anthony’s locations, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "",
+    "menu_type": "Wine Wednesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "Wine Wednesdays",
+    "description": "Half off select bottles up to $75! Available at all Jacob and Anthony’s locations, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "",
+    "menu_type": "Wine Wednesdays",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-grille/",
+    "menu_name": "The Grille Weekly Features"
+  },
+  {
+    "name": "PEAR & WALNUT",
+    "description": "greens, pear, honey walnuts, dried berries, carrots, bleu cheese, balsamic",
+    "price": "$38",
+    "menu_type": "ANTIPASTI | INSALATA",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "FARMER'S MARKET",
+    "description": "greens, cherry tomatoes, dried berries, carrots, cucumbers, balsamic",
+    "price": "34",
+    "menu_type": "ANTIPASTI | INSALATA",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "CLASSIC CAESAR",
+    "description": "romaine hearts, house-made croutons, pecorino romano",
+    "price": "34",
+    "menu_type": "ANTIPASTI | INSALATA",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "VEGETABLE RIGATONI",
+    "description": "zucchini, squash, peppers, onions, mushrooms, rigatoni, pesto-marinara",
+    "price": "$52",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "WILD MUSHROOM SACCHETTI",
+    "description": "roasted mushrooms, black truffle sacchetti, parmesan cream sauce",
+    "price": "84",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "CHICKEN PARMESAN",
+    "description": "classic parmesan, rigatoni, marinara-cream sauce",
+    "price": "68",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "EGGPLANT PARMESAN",
+    "description": "panko breaded baked cutlets, marinara, mozzarella",
+    "price": "66",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "CHICKEN A LA VODKA",
+    "description": "seared chicken, broccoli, caramelized onions, vodka sauce, rigatoni",
+    "price": "62",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "CHICKEN MARSALA",
+    "description": "chicken, roasted mushrooms, marsala wine demi, risotto",
+    "price": "64",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "NEW ORLEANS JAMBALAYA",
+    "description": "chicken, jumbo shrimp, andouille sausage, creole rice",
+    "price": "70",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "DIJON SALMON",
+    "description": "mustard panko encrusted, spinach risotto, sun-dried cream sauce",
+    "price": "85",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "PETTINE",
+    "description": "jumbo shrimp, Georges Bank scallops, spinach, lemon, parmesan cream sauce",
+    "price": "68",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "ANTHONY'S GRAVY",
+    "description": "Italian sausage, meatballs, slow roasted pork, marinara-cream sauce, rigatoni",
+    "price": "58",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "WILD MUSHROOM RISOTTO",
+    "description": "roasted wild mushrooms, creamy risotto",
+    "price": "$45",
+    "menu_type": "SIDES",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "SAUTEED SEASONAL VEGETABLES",
+    "description": "chef's choice of roasted vegetables",
+    "price": "45",
+    "menu_type": "SIDES",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "BROCCOLI A LA VODKA",
+    "description": "broccoli, vodka sauce, rigatoni",
+    "price": "42",
+    "menu_type": "SIDES",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "CRISP CHICKEN WINGS",
+    "description": "Thai chili, chopped peanuts, peppadews",
+    "price": "(20 each) $36",
+    "menu_type": "SIDES",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "PAN SEARED AHI TUNA",
+    "description": "sesame seared, crispy wonton, wasabi, ginger soy",
+    "price": "(18 each) 62",
+    "menu_type": "SIDES",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "ASSORTED DESSERT PLATTER",
+    "description": "",
+    "price": "$40",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "JAKE'S CAKE",
+    "description": "",
+    "price": "DAILY PRICING",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Jacob and Anthony's The Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "The Grille Take Home Platters"
+  },
+  {
+    "name": "Shrimp Cocktail",
+    "description": "four jumbo shrimp, spicy house-made cocktail sauce",
+    "price": "$18",
+    "menu_type": "Raw Bar",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Chef Selected Oysters",
+    "description": "by the half or full dozen MP",
+    "price": "",
+    "menu_type": "Raw Bar",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Seafood Duet",
+    "description": "four jumbo shrimp, half dozen chef selected oysters MP",
+    "price": "",
+    "menu_type": "Raw Bar",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Jacob's Chowder",
+    "description": "creamy New England seafood chowder, littleneck clams, cod, and potatoes",
+    "price": "$10",
+    "menu_type": "Small Plate",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Chicken & Avocado Spring Rolls",
+    "description": "house rolled, Asian slaw, fresh avocado, Thai chili & sweet ‘n spicy sauce",
+    "price": "$18",
+    "menu_type": "Small Plate",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Pan Seared Ahi Tuna",
+    "description": "sesame seared Ahi tuna, crispy wonton, wasabi, ginger soy",
+    "price": "$21",
+    "menu_type": "Small Plate",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Crisp Chicken Wings",
+    "description": "Garlic parmesan, buffalo, Thai chili (gluten free)",
+    "price": "$19",
+    "menu_type": "Small Plate",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Fire Roasted Shrimp",
+    "description": "jumbo shrimp, roasted corn & bean salad, honey-lime vinaigrette, crème fraiche, hot pepper tomato jam (gluten free)",
+    "price": "$22",
+    "menu_type": "Small Plate",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Fried Calamari",
+    "description": "shaved onions, piquante peppers, marinara",
+    "price": "$19",
+    "menu_type": "Small Plate",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Eggplant Stack",
+    "description": "Panko encrusted, roasted tomatoes, grilled zucchini, fresh mozzarella, balsamic glaze",
+    "price": "$18",
+    "menu_type": "Small Plate",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Romaine hearts, house-made croutons, Pecorino Romano (gluten free)",
+    "price": "Small - $11 / Entree - $14",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Farmer’s Market Salad",
+    "description": "field greens, cherry tomatoes, dried berries, carrots, cucumbers, balsamic vinaigrette (gluten free)",
+    "price": "Small - $11 / Entree - $14",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Pear Walnut Salad",
+    "description": "field greens, fresh pears, bleu cheese, candied walnuts, dried berries, carrots, balsamic vinaigrette (gluten free)",
+    "price": "Small - $13 / Entree - $17",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Arugula",
+    "description": "arugula, roasted beets, matchstick carrots, goat cheese, lemon vinaigrette (gluten free)",
+    "price": "Small - $13 / Entree - $17",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Classic Wedge",
+    "description": "iceberg, applewood smoked bacon, tomato jam, bleu cheese crumbles, garlic parmesan dressing (gluten free)",
+    "price": "$17",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Protein Add-Ons:",
+    "description": "",
+    "price": "Salmon + - $12 / Grilled Chicken - $7 / Ahi Tuna - $14 / Grilled Shrimp (three) - $12 / Tuscan Chicken - $8",
+    "menu_type": "Salads",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "J&A Burger",
+    "description": "Vermont white cheddar, applewood smoked bacon",
+    "price": "$20",
+    "menu_type": "Handhelds",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Steakhouse Burger",
+    "description": "Wild mushrooms, caramelized onions, Cabernet sauce, cheddar",
+    "price": "$22",
+    "menu_type": "Handhelds",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "High Rock Chicken",
+    "description": "Applewood smoked bacon, Vermont cheddar, honey mustard sauce",
+    "price": "$20",
+    "menu_type": "Handhelds",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Ahi Tuna Tacos",
+    "description": "Two flour tortillas, sesame crusted ahi tuna, wasabi mayo, lemon caper aioli, Asian slaw, crisp wontons, salsa, with a corn & bean salad",
+    "price": "$25",
+    "menu_type": "Handhelds",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Chicken Parmesan",
+    "description": "classic chicken parmesan, linguine, marinara cream sauce",
+    "price": "$30",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Anthony's Bolognese",
+    "description": "slow braised ground beef & pork, marinara, ricotta, pappardelle (gluten free)",
+    "price": "$30",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Wild Mushroom Sacchetti",
+    "description": "roasted wild mushrooms, black truffle sacchetti, parmesan cream sauce",
+    "price": "$29",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "New Orleans Jambalaya",
+    "description": "chicken, shrimp, andouille sausage, creole rice (gluten free)",
+    "price": "$34",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "A La Vodka",
+    "description": "pan seared chicken, roasted broccoli, caramelised onions, pecorino romano, linguine",
+    "price": "$28",
+    "menu_type": "Classics",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Surf & Turf",
+    "description": "",
+    "price": "8 oz filet with shrimp scampi - $68 / 8 oz filet with George Bank Scallops - $72",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Handcut Filet Mignon",
+    "description": "8.0z Filet Mignon, roasted red potatoes",
+    "price": "$56",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Steak Frites",
+    "description": "14oz center cut NY strip, french fries, chimichurri",
+    "price": "$54",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Dry Aged Bone-In Ribeye",
+    "description": "20oz. prime, dry aged, roasted red potatoes",
+    "price": "$74",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Cabernet Filet",
+    "description": "8oz Filet Mignon, cabernet sauce, wild mushrooms, caramelized onions, risotto",
+    "price": "$62",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Seafood Sambuca",
+    "description": "pan seared jumbo shrimp, George Bank Scallops, spinach, peppadews, linguine, silky sambuca sauce",
+    "price": "$54",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Georges Bank Scallops",
+    "description": "pan seared, risotto, lemon caper pan sauce",
+    "price": "$49",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Dijon Salmon",
+    "description": "mustard panko encrusted, spinach risotto, sun-dried tomato cream sauce",
+    "price": "$36",
+    "menu_type": "Steaks & Seafood",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Red or White Sangria",
+    "description": "Bartenders' daily creation",
+    "price": "$13",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Very Berry Mojito",
+    "description": "Absolut Raspberry and Berry Acai, muddled with fresh mint and lime",
+    "price": "$13",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Fireside Elixer",
+    "description": "Bourbon, Vermont maple syrup, lemon, cinnamon bitters",
+    "price": "$15",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Perfect Pear Mule",
+    "description": "Absolut Pear, St. Germain, mint, Saranac ginger beer, fresh lime",
+    "price": "$13",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Blackberry Collins",
+    "description": "Beefeater, blackberry liqueur, club, lime",
+    "price": "$14",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "J+A Lemonade",
+    "description": "Grey Goose, Pama Pomegranate liqueur, lemonade",
+    "price": "$15",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Peanut Butter White Russian",
+    "description": "Skrewball Peanut Butter Whiskey, Kahlua, cream",
+    "price": "$13",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "J+A Old Fashioned",
+    "description": "Woodford Reserve Bourbon, bitters, orange, cherry",
+    "price": "$16",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Kentucky Mule",
+    "description": "Angel's Envy bourbon, Saranac ginger beer, lime",
+    "price": "$15",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Rosè",
+    "description": "Protea - South Africa",
+    "price": "Glass - $11 / Bottle - $44",
+    "menu_type": "Rose",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Rosè",
+    "description": "Whispering Angel - Provence",
+    "price": "Glass - $15 / Bottle - $60",
+    "menu_type": "Rose",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/menus-american/",
+    "menu_name": "American Grille Menu"
+  },
+  {
+    "name": "Nino’s Meatballs & Sausage",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Chicken a la Vodka",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Rigatoni Bolognese",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Please call the location of your choice to place your order for take-out",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Nino’s Meatballs & Sausage",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Chicken a la Vodka",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Rigatoni Bolognese",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Please call the location of your choice to place your order for take-out",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Nino’s Meatballs & Sausage",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Chicken a la Vodka",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Rigatoni Bolognese",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Please call the location of your choice to place your order for take-out",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Nino’s Meatballs & Sausage",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Chicken a la Vodka",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Rigatoni Bolognese",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Please call the location of your choice to place your order for take-out",
+    "description": "Family of four platter: $20.25 | With salad platter: $35.25",
+    "price": "Family of four - $20.25 / With salad platter - $35.25",
+    "menu_type": "Dinner Table Tuesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Wine Wednesdays",
+    "description": "Half off select bottles up to $75! Available at all Jacob and Anthony’s locations, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "",
+    "menu_type": "Wine Wednesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Wine Wednesdays",
+    "description": "Half off select bottles up to $75! Available at all Jacob and Anthony’s locations, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "",
+    "menu_type": "Wine Wednesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Wine Wednesdays",
+    "description": "Half off select bottles up to $75! Available at all Jacob and Anthony’s locations, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "",
+    "menu_type": "Wine Wednesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "Wine Wednesdays",
+    "description": "Half off select bottles up to $75! Available at all Jacob and Anthony’s locations, The Grille, and both Bellini’s Italian Eatery locations.",
+    "price": "",
+    "menu_type": "Wine Wednesdays",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/weekly-features-american/",
+    "menu_name": "American Grille Weekly Features"
+  },
+  {
+    "name": "PEAR & WALNUT",
+    "description": "greens, pear, honey walnuts, dried berries, carrots, bleu cheese, balsamic",
+    "price": "$38",
+    "menu_type": "ANTIPASTI | INSALATA",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "FARMER'S MARKET",
+    "description": "greens, cherry tomatoes, dried berries, carrots, cucumbers, balsamic",
+    "price": "34",
+    "menu_type": "ANTIPASTI | INSALATA",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "CLASSIC CAESAR",
+    "description": "romaine hearts, house-made croutons, pecorino romano",
+    "price": "34",
+    "menu_type": "ANTIPASTI | INSALATA",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "VEGETABLE RIGATONI",
+    "description": "zucchini, squash, peppers, onions, mushrooms, rigatoni, pesto-marinara",
+    "price": "$48",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "CHICKEN MILANESE",
+    "description": "arugula, cherry tomatoes, lemon vinaigrette",
+    "price": "60",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "CHICKEN PARMESAN",
+    "description": "classic parmesan, linguine, marinara-cream sauce",
+    "price": "65",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "EGGPLANT PARMESAN",
+    "description": "panko breaded baked cutlets, marinara, mozzarella",
+    "price": "60",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "CHICKEN A LA VODKA",
+    "description": "seared chicken, broccoli, caramelized onions, vodka sauce, linguine",
+    "price": "59",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "ANTHONY'S CHICKEN & SHRIMP",
+    "description": "seared chicken, jumbo shrimp, mushrooms, marinara, risotto",
+    "price": "72",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "CHICKEN MARSALA",
+    "description": "chicken, roasted mushrooms, marsala wine demi, risotto",
+    "price": "60",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "NEW ORLEANS JAMBALAYA",
+    "description": "chicken, jumbo shrimp, andouille sausage, creole rice",
+    "price": "70",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "DIJON SALMON",
+    "description": "mustard panko encrusted, spinach risotto, sun-dried cream sauce",
+    "price": "85",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "CARCIOFO",
+    "description": "seared chicken, artichokes, spinach, capers, lemon butter sauce, risotto",
+    "price": "68",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "BOLOGNESE",
+    "description": "slow braised beef + pork, marinara, ricotta, rigatoni",
+    "price": "55",
+    "menu_type": "CLASSICO",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "WILD MUSHROOM RISOTTO",
+    "description": "roasted wild mushrooms, creamy risotto",
+    "price": "$42",
+    "menu_type": "SIDES",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "SAUTEED SEASONAL VEGETABLES",
+    "description": "chef's choice of roasted vegetables",
+    "price": "45",
+    "menu_type": "SIDES",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "PENNE A LA VODKA",
+    "description": "vodka sauce, penne",
+    "price": "35",
+    "menu_type": "SIDES",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "CRISP CHICKEN WINGS",
+    "description": "Thai chili, BBQ or Buffalo",
+    "price": "(20) $36",
+    "menu_type": "SIDES",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "PAN SEARED AHI TUNA",
+    "description": "sesame seared, crispy wonton, wasabi, ginger soy",
+    "price": "(18) $57",
+    "menu_type": "SIDES",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "ASSORTED DESSERT PLATTER",
+    "description": "",
+    "price": "$40",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  },
+  {
+    "name": "JAKE'S CAKE",
+    "description": "",
+    "price": "DAILY PRICING",
+    "menu_type": "DESSERTS",
+    "restaurant_name": "Jacob and Anthony's American Grille",
+    "restaurant_url": "https://www.jacobandanthony.com/take-home-platters-at-janda-italian/",
+    "menu_name": "American Grille Take Home Platters"
+  }
+]

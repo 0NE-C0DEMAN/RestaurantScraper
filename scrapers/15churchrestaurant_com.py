@@ -431,12 +431,12 @@ async def main():
         print("Gemini not available. Install: pip install google-generativeai pdf2image Pillow pdfplumber")
     
     # Save JSON file with menu items only
-    with open(output_json, 'w', encoding='utf-8') as f:
-        json.dump(all_items, f, indent=2, ensure_ascii=False)
-    
-    print(f"\n{'='*60}")
-    print("SCRAPING COMPLETE")
-    print(f"{'='*60}")
+        with open(output_json, 'w', encoding='utf-8') as f:
+            json.dump(all_items, f, indent=2, ensure_ascii=False)
+        
+        print(f"\n{'='*60}")
+        print("SCRAPING COMPLETE")
+        print(f"{'='*60}")
     print(f"Restaurant: {restaurant_name}")
     print(f"Total items found: {len(all_items)}")
     print(f"Saved to: {output_json}")

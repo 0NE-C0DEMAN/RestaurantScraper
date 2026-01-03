@@ -2,7 +2,7 @@
   {
     "name": "Wings",
     "description": "Bone-in or Boneless. Buffalo - Hot - BBQ - Garlic Parm - Carolina Gold - Sweet Chili - Teriyaki - Honey Sriracha - Kickin' Bourbon - Nashville Hot - Cajun Dry Rub - Korean BBQ. Served with Bleu Cheese & Veggies",
-    "price": "$17.99/$32.99",
+    "price": "$Dozen - $17.99 / Two Dozen - $32.99",
     "menu_type": "Starters",
     "restaurant_name": "Hills & Hollows",
     "restaurant_url": "http://www.hillsandhollowsny.com/",
@@ -128,7 +128,7 @@
   {
     "name": "Cup of Soup",
     "description": "",
-    "price": "$6.99",
+    "price": "$1.00",
     "menu_type": "Sides Dishes",
     "restaurant_name": "Hills & Hollows",
     "restaurant_url": "http://www.hillsandhollowsny.com/",
@@ -137,7 +137,7 @@
   {
     "name": "French Onion",
     "description": "",
-    "price": "$10.99",
+    "price": "$5.00",
     "menu_type": "Sides Dishes",
     "restaurant_name": "Hills & Hollows",
     "restaurant_url": "http://www.hillsandhollowsny.com/",
@@ -146,7 +146,7 @@
   {
     "name": "Sweet Potato Fries",
     "description": "",
-    "price": "$8.99",
+    "price": "$3.00",
     "menu_type": "Sides Dishes",
     "restaurant_name": "Hills & Hollows",
     "restaurant_url": "http://www.hillsandhollowsny.com/",
@@ -200,7 +200,7 @@
   {
     "name": "Onion Rings",
     "description": "",
-    "price": "$8.99",
+    "price": "$3.00",
     "menu_type": "Sides Dishes",
     "restaurant_name": "Hills & Hollows",
     "restaurant_url": "http://www.hillsandhollowsny.com/",
@@ -209,7 +209,7 @@
   {
     "name": "Tossed Salad",
     "description": "",
-    "price": "$7.99",
+    "price": "$2.00",
     "menu_type": "Sides Dishes",
     "restaurant_name": "Hills & Hollows",
     "restaurant_url": "http://www.hillsandhollowsny.com/",
@@ -218,43 +218,16 @@
   {
     "name": "Clam Chowder",
     "description": "",
-    "price": "$10.99",
+    "price": "$5.00",
     "menu_type": "Sides Dishes",
     "restaurant_name": "Hills & Hollows",
     "restaurant_url": "http://www.hillsandhollowsny.com/",
     "menu_name": "Menu Page 1"
   },
   {
-    "name": "Dozen",
-    "description": "Dozen: $17.99 | Two Dozen: $32.99",
-    "price": "$17.99/$32.99",
-    "menu_type": "Starters",
-    "restaurant_name": "Hills & Hollows",
-    "restaurant_url": "http://www.hillsandhollowsny.com/",
-    "menu_name": "Menu Page 1"
-  },
-  {
     "name": "Soup of the Day",
-    "description": "Cup",
-    "price": "$6.99",
-    "menu_type": "Soups & Salads",
-    "restaurant_name": "Hills & Hollows",
-    "restaurant_url": "http://www.hillsandhollowsny.com/",
-    "menu_name": "Menu Page 2"
-  },
-  {
-    "name": "Soup of the Day",
-    "description": "Bowl",
-    "price": "$9.99",
-    "menu_type": "Soups & Salads",
-    "restaurant_name": "Hills & Hollows",
-    "restaurant_url": "http://www.hillsandhollowsny.com/",
-    "menu_name": "Menu Page 2"
-  },
-  {
-    "name": "French Onion",
     "description": "",
-    "price": "$6.99",
+    "price": "$Cup - $6.99 / Bowl - $9.99",
     "menu_type": "Soups & Salads",
     "restaurant_name": "Hills & Hollows",
     "restaurant_url": "http://www.hillsandhollowsny.com/",
@@ -262,8 +235,8 @@
   },
   {
     "name": "New England Clam Chowder",
-    "description": "Crock",
-    "price": "$10.99",
+    "description": "",
+    "price": "$Crock - $10.99",
     "menu_type": "Soups & Salads",
     "restaurant_name": "Hills & Hollows",
     "restaurant_url": "http://www.hillsandhollowsny.com/",
@@ -595,17 +568,8 @@
   },
   {
     "name": "Hand Cut Steaks",
-    "description": "w/ Mashed Potato and Choice of Vegetable 12oz NY Strip",
-    "price": "$33.99",
-    "menu_type": "Entrees",
-    "restaurant_name": "Hills & Hollows",
-    "restaurant_url": "http://www.hillsandhollowsny.com/",
-    "menu_name": "Menu Page 4"
-  },
-  {
-    "name": "Hand Cut Steaks",
-    "description": "w/ Mashed Potato and Choice of Vegetable Twin 5oz Filets",
-    "price": "$39.99",
+    "description": "w/ Mashed Potato and Choice of Vegetable",
+    "price": "$12oz NY Strip - 33.99 / $Twin 5oz Filets - 39.99",
     "menu_type": "Entrees",
     "restaurant_name": "Hills & Hollows",
     "restaurant_url": "http://www.hillsandhollowsny.com/",
@@ -711,18 +675,9 @@
     "menu_name": "Menu Page 4"
   },
   {
-    "name": "Glazed Chicken",
-    "description": "Basmati Rice & Broccoli - Chicken",
-    "price": "$25.99",
-    "menu_type": "Entrees",
-    "restaurant_name": "Hills & Hollows",
-    "restaurant_url": "http://www.hillsandhollowsny.com/",
-    "menu_name": "Menu Page 4"
-  },
-  {
-    "name": "Atlantic Salmon",
-    "description": "Basmati Rice & Broccoli - Salmon",
-    "price": "$32.99",
+    "name": "Glazed Chicken or Atlantic Salmon",
+    "description": "Basmati Rice & Broccoli -",
+    "price": "$Chicken - 25.99 / $Salmon - 32.99",
     "menu_type": "Entrees",
     "restaurant_name": "Hills & Hollows",
     "restaurant_url": "http://www.hillsandhollowsny.com/",
@@ -730,8 +685,8 @@
   },
   {
     "name": "Orange Ginger",
-    "description": "Basmati Rice & Broccoli - Chicken 25.99 Salmon 32.99",
-    "price": "$25.99/$32.99",
+    "description": "Basmati Rice & Broccoli -",
+    "price": "$Chicken - 25.99 / $Salmon - 32.99",
     "menu_type": "Entrees",
     "restaurant_name": "Hills & Hollows",
     "restaurant_url": "http://www.hillsandhollowsny.com/",
@@ -739,8 +694,8 @@
   },
   {
     "name": "Kickin' Bourbon",
-    "description": "Basmati Rice & Broccoli - Chicken 25.99 Salmon 32.99",
-    "price": "$25.99/$32.99",
+    "description": "Basmati Rice & Broccoli -",
+    "price": "$Chicken - 25.99 / $Salmon - 32.99",
     "menu_type": "Entrees",
     "restaurant_name": "Hills & Hollows",
     "restaurant_url": "http://www.hillsandhollowsny.com/",
@@ -748,8 +703,8 @@
   },
   {
     "name": "Honey Sriracha",
-    "description": "Basmati Rice & Broccoli - Chicken 25.99 Salmon 32.99",
-    "price": "$25.99/$32.99",
+    "description": "Basmati Rice & Broccoli -",
+    "price": "$Chicken - 25.99 / $Salmon - 32.99",
     "menu_type": "Entrees",
     "restaurant_name": "Hills & Hollows",
     "restaurant_url": "http://www.hillsandhollowsny.com/",
@@ -784,7 +739,7 @@
   },
   {
     "name": "The New Yorker",
-    "description": "1/4 pound dog topped with sauerkraut and diced onions",
+    "description": "",
     "price": "$5",
     "menu_type": "The Dog Leg",
     "restaurant_name": "Hills & Hollows",
@@ -793,7 +748,7 @@
   },
   {
     "name": "Coney Dog",
-    "description": "1/4 pound dog topped with meat sauce and cheese sauce",
+    "description": "",
     "price": "$6",
     "menu_type": "The Dog Leg",
     "restaurant_name": "Hills & Hollows",

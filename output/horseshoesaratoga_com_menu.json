@@ -1,0 +1,821 @@
+[
+  {
+    "name": "2 EGGS ANY STYLE",
+    "description": "Two eggs any style, choice of meat, choice of toast, & home fries or hash browns",
+    "price": "$13",
+    "menu_type": "BREAKFAST",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "STEAK + EGGS",
+    "description": "6 oz sirloin, two eggs any style, choice of toast & home fries or hash browns",
+    "price": "$20",
+    "menu_type": "BREAKFAST",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "SHOE BURRITO",
+    "description": "Scrambled eggs, sausage, peppers, onions, cheddar jack, and a side of salsa & sour cream. Served with home fries or hash browns",
+    "price": "$13",
+    "menu_type": "BREAKFAST",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "SUPERFECTA BREAKFAST",
+    "description": "Two eggs any style, choice of meat, choice of toast, one pancake, & home fries or hash browns",
+    "price": "$14",
+    "menu_type": "BREAKFAST",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "HORSESHOE",
+    "description": "Bacon, sausage, ham, peppers, onions, mushrooms & cheddar",
+    "price": "$15",
+    "menu_type": "OMELETTES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "WESTERN",
+    "description": "Ham, onions, peppers, & American",
+    "price": "$14",
+    "menu_type": "OMELETTES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "SUNSHINE",
+    "description": "Bacon, tomatoes, mushrooms, & cheddar",
+    "price": "$14",
+    "menu_type": "OMELETTES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "MEDITERRANEAN",
+    "description": "Black olives, roasted red peppers, spinach, pepperoncinis, & feta",
+    "price": "$14",
+    "menu_type": "OMELETTES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "FUNNY CIDE BENNY",
+    "description": "English muffin topped with two poached eggs, Canadian bacon, & hollandaise. Served with home fries or hash browns",
+    "price": "$15",
+    "menu_type": "BREAKFAST",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "EGGS FLORENTINE",
+    "description": "English muffin topped with two poached eggs, spinach, tomato, & hollandaise. Served with home fries or hash browns",
+    "price": "$15",
+    "menu_type": "BREAKFAST",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "BREAKFAST QUESADILLA",
+    "description": "Scrambled eggs, sausage, bacon, peppers, onions, cheddar jack and a side of salsa & sour cream",
+    "price": "$15",
+    "menu_type": "BREAKFAST",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "PANCAKES",
+    "description": "",
+    "price": "$11",
+    "menu_type": "GRIDDLE",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "FRENCH TOAST",
+    "description": "",
+    "price": "$11",
+    "menu_type": "GRIDDLE",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "TOPPINGS",
+    "description": "Strawberries, blueberries, raspberries, banana, walnuts, chocolate chips, cinnamon sugar",
+    "price": "$2",
+    "menu_type": "GRIDDLE",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "HEALTHY CHOICE",
+    "description": "Egg whites, spinach, olives, mushrooms, & feta",
+    "price": "$15",
+    "menu_type": "BREAKFAST",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "AMERICAN PHARAOH",
+    "description": "Corned beef hash, onions, peppers, tomatoes, & American",
+    "price": "$14",
+    "menu_type": "BREAKFAST",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "BUILD YOUR OWN",
+    "description": "Cheddar, pepper jack, American, Swiss, provolone, mozzarella, bacon, Canadian bacon, ham, sausage, onions, peppers, mushrooms, broccoli, spinach, tomatoes, olives, & jalapeños (Includes two items)",
+    "price": "$15",
+    "menu_type": "BREAKFAST",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "MIMOSA FLIGHT",
+    "description": "",
+    "price": "$15",
+    "menu_type": "BREAKFAST SANDWICHES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "COWBOY COFFEE",
+    "description": "",
+    "price": "$8",
+    "menu_type": "BREAKFAST SANDWICHES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "BRUNCH PUNCH",
+    "description": "",
+    "price": "$10",
+    "menu_type": "BREAKFAST SANDWICHES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "CUCUMBER BLOODY MARY",
+    "description": "",
+    "price": "$10",
+    "menu_type": "BREAKFAST SANDWICHES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "ITALIAN",
+    "description": "Fried egg, capicola, roasted red peppers & mozzarella on a hard roll",
+    "price": "$15",
+    "menu_type": "BREAKFAST SANDWICHES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "THE B.E.L.T",
+    "description": "Bacon, egg, lettuce, tomato & bacon aioli on your choice of toast",
+    "price": "$15",
+    "menu_type": "BREAKFAST SANDWICHES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "BUILD YOUR OWN",
+    "description": "Fried egg, your choice of cheese, meat, & bread",
+    "price": "$15",
+    "menu_type": "BREAKFAST SANDWICHES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "BUILD YOUR OWN Sandwich w/ no side",
+    "description": "Fried egg, your choice of cheese, meat, & bread",
+    "price": "$9",
+    "menu_type": "BREAKFAST SANDWICHES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "TOPPINGS",
+    "description": "Cheddar, pepper jack, American, Swiss, provolone, mozzarella, bacon, Canadian bacon, ham, sausage, onions, peppers, mushrooms, spinach, tomatoes, olives, jalapeños",
+    "price": "$1",
+    "menu_type": "BREAKFAST SANDWICHES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "ONE EGG",
+    "description": "",
+    "price": "$3",
+    "menu_type": "SIDES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "MEATS",
+    "description": "",
+    "price": "$5",
+    "menu_type": "SIDES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "FRUIT CUP",
+    "description": "",
+    "price": "$6",
+    "menu_type": "SIDES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "TOAST",
+    "description": "",
+    "price": "$5",
+    "menu_type": "SIDES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "HOME FRIES",
+    "description": "",
+    "price": "$5",
+    "menu_type": "SIDES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "HASH BROWNS",
+    "description": "",
+    "price": "$5",
+    "menu_type": "SIDES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "PANCAKE",
+    "description": "",
+    "price": "$5",
+    "menu_type": "SIDES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "FRENCH TOAST",
+    "description": "",
+    "price": "$5",
+    "menu_type": "SIDES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "HORSESHOE CLUB",
+    "description": "Ham, turkey, or cheeseburger on toasted white, wheat, or rye",
+    "price": "$20",
+    "menu_type": "SANDWICHES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "ITALIAN TURKEY",
+    "description": "Turkey, capicola, provolone, spinach, roasted red peppers, mayo served on your choice of bread",
+    "price": "$17",
+    "menu_type": "SANDWICHES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "BLT",
+    "description": "Romaine lettuce, tomato, bacon, pesto spread, & bacon aioli on toasted white bread.",
+    "price": "$14",
+    "menu_type": "SANDWICHES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "CHICKEN SALAD",
+    "description": "Served on your choice of bread",
+    "price": "$17",
+    "menu_type": "SANDWICHES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "BUILD YOUR OWN",
+    "description": "Hard roll, hoagie roll, white, wheat, rye or wrap.",
+    "price": "$17",
+    "menu_type": "SANDWICHES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "FRIED PICKLES",
+    "description": "Served with chipotle ranch",
+    "price": "$17",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "STREET CORN QUESO",
+    "description": "Served with Frito's",
+    "price": "$19",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "JUMBO PRETZEL",
+    "description": "Served with queso, beer cheese & mustard",
+    "price": "$19",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "JAMMIN SLIDERS (3)",
+    "description": "Burger, balsamic onion jam, Swiss",
+    "price": "$16",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "GOCHUJANG SLIDERS (3)",
+    "description": "Fried gochujang chicken, garlic slaw",
+    "price": "$16",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "MOZZ BOMBS",
+    "description": "Fresh hand breaded mozzarella. Served with marinara",
+    "price": "$17",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "QUESADILLAS",
+    "description": "Served with salsa & sour cream",
+    "price": "$14",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "QUESADILLAS",
+    "description": "Served with salsa & sour cream",
+    "price": "$16",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "QUESADILLAS",
+    "description": "Served with salsa & sour cream",
+    "price": "$17",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "CHICKEN WINGS",
+    "description": "Buffalo, Hot, BBQ, Spicy BBQ, Korean BBQ, Garlic Parm, General Tso's",
+    "price": "$5 for $12 / 10 for $18",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "CHICKEN WINGS Boneless",
+    "description": "Buffalo, Hot, BBQ, Spicy BBQ, Korean BBQ, Garlic Parm, General Tso's",
+    "price": "$16",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "STARTING GATE NACHOS",
+    "description": "Tortilla chips topped with pulled chicken, cheese, lettuce, pico de gallo, jalapeños, & chipotle ranch",
+    "price": "$19",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "HORSESHOE",
+    "description": "Hand pounded 6 oz. burger, cheddar, lettuce, tomato & onion",
+    "price": "$19",
+    "menu_type": "BURGERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "MUSHROOM SWISS",
+    "description": "Hand pounded 6 oz. burger, Swiss, mushrooms, & caramelized onions",
+    "price": "$20",
+    "menu_type": "BURGERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "SMOKEHOUSE",
+    "description": "Hand pounded 6 oz. burger, American, fried onions, crispy bacon, & bourbon BBQ",
+    "price": "$20",
+    "menu_type": "BURGERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "MARKET",
+    "description": "Mixed greens, English cucumber, tomato, & red onion. Choice of dressing",
+    "price": "Small - $8 / Large - $11",
+    "menu_type": "SALADS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "CAESAR",
+    "description": "Romaine, parmesan cheese, garlic croutons, with caesar dressing.",
+    "price": "Small - $10 / Large - $13",
+    "menu_type": "SALADS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "CHEF",
+    "description": "Romaine, turkey, ham, Swiss, cheddar, English cucumber, tomato, red onion & hardboiled egg. Choice of dressing",
+    "price": "Small - $15 / Large - $19",
+    "menu_type": "SALADS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "FAJITA",
+    "description": "Romaine, sautéed peppers & onions, tomato, cheddar jack, black olives, jalapeños, & chipotle ranch. Your choice of chicken or steak",
+    "price": "Small - $15 / Large - $19",
+    "menu_type": "SALADS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "TRAVERS CHEESE",
+    "description": "Sweet tomato basil sauce & mozzarella",
+    "price": "$19",
+    "menu_type": "PIZZA",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "GENOA",
+    "description": "Sweet tomato basil sauce, mozzarella cheese, Italian sausage, bacon, pepperoni, & capicola",
+    "price": "$21",
+    "menu_type": "PIZZA",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "CHEESEBURGER",
+    "description": "Sweet tomato basil sauce, mozzarella cheese, seasoned beef, shrettuce, tomato, red onion, & pickle",
+    "price": "$22",
+    "menu_type": "PIZZA",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "HOT HONEY RONI",
+    "description": "Sweet tomato basil sauce, mozzarella cheese, pepperoni, jalapeños, topped with a honey drizzle",
+    "price": "$21",
+    "menu_type": "PIZZA",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "BUILD YOUR OWN",
+    "description": "Includes two toppings",
+    "price": "$19",
+    "menu_type": "PIZZA",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Breakfast-Lunch"
+  },
+  {
+    "name": "MOZZ BOMBS",
+    "description": "Fresh, hand breaded mozzarella. Served with meliba or marinara",
+    "price": "$17",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "JUMBO PRETZEL",
+    "description": "Served with corn queso, beer cheese & mustard",
+    "price": "$19",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "Boneless",
+    "description": "",
+    "price": "$16",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "VEGGIE",
+    "description": "",
+    "price": "$16",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "PULLED CHICKEN",
+    "description": "",
+    "price": "$17",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "PRETZEL CHARCUTERIE",
+    "description": "Jumbo pretzel with daily selection of meats & cheeses (2 each)",
+    "price": "$24",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "STREET CORN QUESO (3)",
+    "description": "Served with Frito's",
+    "price": "$19",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "JAMMIN' SLIDERS (3)",
+    "description": "Burger, balsamic onion jam, Swiss",
+    "price": "$16",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "GOCHUJANG SLIDERS",
+    "description": "Fried gochujang chicken, garlic slaw",
+    "price": "$16",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "TEMPURA BUFFALO SHRIMP",
+    "description": "Fried buffalo shrimp with cucumber, carrot, & bleu cheese slaw",
+    "price": "$17",
+    "menu_type": "STARTERS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "HORSESHOE CLUB",
+    "description": "Ham, turkey, or cheeseburger on toasted white, wheat, or rye",
+    "price": "$20",
+    "menu_type": "CLASSICS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "BLT",
+    "description": "Romaine lettuce, tomato, bacon, pesto spread, & bacon aioli on toasted white bread.",
+    "price": "$14",
+    "menu_type": "CLASSICS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "THE GRIDLEY",
+    "description": "Grilled chicken, bacon, pepper jack, pickles, shredded lettuce & pub sauce",
+    "price": "$20",
+    "menu_type": "CLASSICS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "STEAK FRITES",
+    "description": "6oz sirloin with bourbon dijon blaze sauce. Served with hand-cut french fries and mixed greens",
+    "price": "$25",
+    "menu_type": "CLASSICS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "GENERAL TSO'S",
+    "description": "Brown rice, kale, carrots, broccoli, crispy wontons & grilled chicken with General Tso's sauce",
+    "price": "$18",
+    "menu_type": "GRAIN BOWLS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "BAYOU BOWL",
+    "description": "Brown rice, corn, poblanos, okra, tomato, andouille sausage, & shrimp in a spicy tomato broth",
+    "price": "$21",
+    "menu_type": "GRAIN BOWLS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "SOUTHWEST",
+    "description": "Brown rice, sweet potatoes, black bean corn salsa, & guacamole",
+    "price": "$18",
+    "menu_type": "GRAIN BOWLS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "PESTO CHICKEN",
+    "description": "Grilled chicken, pesto, mozzarella, & roasted red peppers",
+    "price": "$16 or 2 for $21",
+    "menu_type": "SHOE ROLLS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "BUFFALO CHICKEN",
+    "description": "Pulled chicken, buffalo sauce, & mozzarella. Served with a side of ranch",
+    "price": "$16 or 2 for $21",
+    "menu_type": "SHOE ROLLS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "GENOA",
+    "description": "Italian sausage, bacon, pepperoni, capicola & mozzarella. Served with a side of marinara",
+    "price": "$16 or 2 for $21",
+    "menu_type": "SHOE ROLLS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "CAESAR",
+    "description": "Romaine, parmesan cheese, garlic croutons, with caesar dressing",
+    "price": "Small - $10 / Large - $13",
+    "menu_type": "SALADS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "FAJITA",
+    "description": "Romaine, sautéed peppers & onions, tomato, cheddar jack cheese, black olives, jalapeños, served with chipotle ranch. Your choice of chicken or steak",
+    "price": "Small - $15 / Large - $19",
+    "menu_type": "SALADS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "FALAFEL TACOS (3)",
+    "description": "Falafel, greens, cherry tomatoes, cilantro, pickled onions, & tahini sauce",
+    "price": "$17",
+    "menu_type": "SALADS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "CHICKEN TACOS (3)",
+    "description": "Pulled chicken, lettuce, pico de gallo & cheese on flour tortillas",
+    "price": "$16",
+    "menu_type": "SALADS",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "MIXED GREENS",
+    "description": "",
+    "price": "$5",
+    "menu_type": "SIDES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "HAND CUT FRIES",
+    "description": "",
+    "price": "$5",
+    "menu_type": "SIDES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "SWEET POTATO FRIES",
+    "description": "",
+    "price": "$7",
+    "menu_type": "SIDES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  },
+  {
+    "name": "ONION RINGS",
+    "description": "",
+    "price": "$7",
+    "menu_type": "SIDES",
+    "restaurant_name": "Horseshoe Inn Bar & Grill",
+    "restaurant_url": "https://www.horseshoesaratoga.com/",
+    "menu_name": "Dinner"
+  }
+]

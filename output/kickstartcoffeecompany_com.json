@@ -1,0 +1,848 @@
+[
+  {
+    "name": "Drip",
+    "description": "",
+    "price": "$1.75",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cold brew",
+    "description": "",
+    "price": "$3.50",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pour over",
+    "description": "",
+    "price": "$3.50",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Vanilla",
+    "description": "",
+    "price": "+35¢",
+    "menu_type": "Flavors",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hazelnut",
+    "description": "",
+    "price": "+35¢",
+    "menu_type": "Flavors",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Lavender",
+    "description": "",
+    "price": "+35¢",
+    "menu_type": "Flavors",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "White Chocolate",
+    "description": "",
+    "price": "+35¢",
+    "menu_type": "Flavors",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Peppermint",
+    "description": "",
+    "price": "+35¢",
+    "menu_type": "Flavors",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Mocha",
+    "description": "",
+    "price": "+35¢",
+    "menu_type": "Flavors",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Caramel",
+    "description": "",
+    "price": "+35¢",
+    "menu_type": "Flavors",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Coconut",
+    "description": "",
+    "price": "+35¢",
+    "menu_type": "Flavors",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Wildflower honey",
+    "description": "",
+    "price": "+35¢",
+    "menu_type": "Flavors",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Mango Honey",
+    "description": "",
+    "price": "+35¢",
+    "menu_type": "Flavors",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Nutella",
+    "description": "",
+    "price": "+35¢",
+    "menu_type": "Flavors",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pistachio",
+    "description": "",
+    "price": "+35¢",
+    "menu_type": "Flavors",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Caramel Apple Butter",
+    "description": "",
+    "price": "+35¢",
+    "menu_type": "Flavors",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Local Maple Syrup",
+    "description": "",
+    "price": "+55¢",
+    "menu_type": "Flavors",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Espresso",
+    "description": "",
+    "price": "$2.75",
+    "menu_type": "Espresso",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Flat White",
+    "description": "",
+    "price": "$4.00",
+    "menu_type": "Espresso",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Latte",
+    "description": "",
+    "price": "$4.00",
+    "menu_type": "Espresso",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cappuccino",
+    "description": "",
+    "price": "$4.00",
+    "menu_type": "Espresso",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cortado",
+    "description": "",
+    "price": "$3.50",
+    "menu_type": "Espresso",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Red Eye",
+    "description": "",
+    "price": "$3.75",
+    "menu_type": "Espresso",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Americano",
+    "description": "",
+    "price": "$3.25",
+    "menu_type": "Espresso",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Macchiato (traditional)",
+    "description": "",
+    "price": "$3.50",
+    "menu_type": "Espresso",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Breve",
+    "description": "",
+    "price": "$4.25",
+    "menu_type": "Espresso",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cafe Au Lait",
+    "description": "(All pricing starts at 8oz & increases by 25¢ each size)",
+    "price": "$3.00",
+    "menu_type": "Espresso",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Peppermint Mocha",
+    "description": "",
+    "price": "",
+    "menu_type": "SEASONAL Specials",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pine & Rosemary*",
+    "description": "(house made)",
+    "price": "",
+    "menu_type": "SEASONAL Specials",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Eggnog Latte",
+    "description": "",
+    "price": "",
+    "menu_type": "SEASONAL Specials",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sourdough",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Plain Bagel",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Everything Bagel",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "English Muffin",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Ciabatta",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Croissant",
+    "description": "(+$2.50)",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Bacon",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sausage (pork)",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chorizo (pork)",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Steak",
+    "description": "(+$1)",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Ham",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "American",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cheddar",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pepper Jack",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Swiss",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Mozzarella",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Sandwich",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "At The Steak",
+    "description": "Scrambled eggs, shaved steak, peppers & onions, swiss cheese & chipotle aioli served on ciabatta",
+    "price": "$10",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Avocado Toast",
+    "description": "Freshly mashed avocado with a Himalayan garlic salt & pepper served on sourdough bread",
+    "price": "$5.45",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Ham & Swiss Croissant",
+    "description": "Thick cut ham & swiss cheese served on a sourdough croissant",
+    "price": "$7.25",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sasquatch",
+    "description": "Two fried eggs, bacon, ham, sausage, cheddar cheese & your choice of bread",
+    "price": "$10",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "The Kickstarter (Plated)",
+    "description": "Two eggs of your choice, Meat of your choice & Sourdough toast",
+    "price": "$9",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chorizo Tacos (Three tacos)",
+    "description": "Scrambled eggs, cheddar cheese, pork chorizo sausage & lime crema served on a flour tortilla",
+    "price": "$9.50",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pesto Besto",
+    "description": "Fried egg, Spinach, Mozzarella cheese with a pesto spread served on ciabatta",
+    "price": "$7.50",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Honey Bucket",
+    "description": "Scrambled egg, Cream cheese, Avocado, Arugula & hot honey served on an English muffin",
+    "price": "$7.75",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Classic BLT",
+    "description": "It's a BLT...Yes it has mayo.",
+    "price": "$10",
+    "menu_type": "Lunch",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "LET IT BRIE",
+    "description": "Bacon, brie cheese, arugula, apple slices & habanero honey mustard served on ciabatta",
+    "price": "$9.75",
+    "menu_type": "Lunch",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "DONT GIVE A HAM",
+    "description": "Ham, mozzarella cheese, roasted red peppers, spinach & pesto mayo served on ciabatta",
+    "price": "$9.50",
+    "menu_type": "Lunch",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "AVOCADO BUFFALO CHICKEN MELT",
+    "description": "Buffalo chicken, avocado & cheddar cheese served on ciabatta",
+    "price": "$9.75",
+    "menu_type": "Lunch",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "BUFFALO CHICKEN WRAP",
+    "description": "Buffalo chicken, shredded lettuce, cheddar cheese & your choice of blue cheese or ranch",
+    "price": "$9.25",
+    "menu_type": "Lunch",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Bacon",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Burrito or Bowl",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Sausage (pork)",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Burrito or Bowl",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chorizo (pork)",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Burrito or Bowl",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Steak",
+    "description": "(+$1)",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Burrito or Bowl",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Ham",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Burrito or Bowl",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "American",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Burrito or Bowl",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Cheddar",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Burrito or Bowl",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Pepper Jack",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Burrito or Bowl",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Swiss",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Burrito or Bowl",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Mozzarella",
+    "description": "",
+    "price": "",
+    "menu_type": "Build Your Own Breakfast Burrito or Bowl",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hash brown",
+    "description": "",
+    "price": "$1",
+    "menu_type": "Add Ons",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Avocado",
+    "description": "",
+    "price": "$1",
+    "menu_type": "Add Ons",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Peppers & Onions",
+    "description": "",
+    "price": "75¢",
+    "menu_type": "Add Ons",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hot honey",
+    "description": "",
+    "price": "50¢",
+    "menu_type": "Add Ons",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Tomato",
+    "description": "",
+    "price": "75c",
+    "menu_type": "Add Ons",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Spinach",
+    "description": "",
+    "price": "75¢",
+    "menu_type": "Add Ons",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Arugula",
+    "description": "",
+    "price": "75¢",
+    "menu_type": "Add Ons",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Salsa",
+    "description": "",
+    "price": "",
+    "menu_type": "Add Ons",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "The Sleighwich",
+    "description": "Sausage, scrammbled egg, white cheddar, arugula & cranberry-sage aioli served on ciabatta",
+    "price": "",
+    "menu_type": "Special",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "SPA CITY EARL GREY",
+    "description": "(Black tea, bergamot & vanilla)",
+    "price": "$3.25",
+    "menu_type": "Teas",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "CRIMSON BERRY",
+    "description": "(Currant, Cranberry, Hibiscus & Elderberry)",
+    "price": "$3.25",
+    "menu_type": "Teas",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "BLOOD ORANGE HIBISCUS",
+    "description": "(Orange zest, Hibiscus, lemongrass, elderberry, apple & rooibos)",
+    "price": "$3.25",
+    "menu_type": "Teas",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "WOOD DRAGON",
+    "description": "(Oolong & maple)",
+    "price": "$3.25",
+    "menu_type": "Teas",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "CHINA GREEN JADE",
+    "description": "(Green tea)",
+    "price": "$3.25",
+    "menu_type": "Teas",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "ENGLISH BREAKFAST",
+    "description": "(Black tea)",
+    "price": "$3.25",
+    "menu_type": "Teas",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "FOCUS POCUS",
+    "description": "(Ashwagandha, tulsi, brahmin & yerba mate)",
+    "price": "$3.25",
+    "menu_type": "Teas",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "FLU SHOT",
+    "description": "(Lemon peel, ginger, lemongrass, verbena, turmeric & sarsaparilla)",
+    "price": "$3.25",
+    "menu_type": "Teas",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "YADDO ROSE GARDEN",
+    "description": "(White tea, rose petals, mint & lavender)",
+    "price": "$3.25",
+    "menu_type": "Teas",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Matcha Latte",
+    "description": "",
+    "price": "$4.35",
+    "menu_type": "Other",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "London Fog",
+    "description": "",
+    "price": "$3.75",
+    "menu_type": "Other",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Chai Latte",
+    "description": "",
+    "price": "$3.85",
+    "menu_type": "Other",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Dirty Chai Latte",
+    "description": "",
+    "price": "$4.35",
+    "menu_type": "Other",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Hot Chocolate",
+    "description": "",
+    "price": "$3.25",
+    "menu_type": "Other",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Steamer",
+    "description": "(Choice of flavor)",
+    "price": "$2.90",
+    "menu_type": "Other",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  },
+  {
+    "name": "Eggnog Chai Latte",
+    "description": "",
+    "price": "",
+    "menu_type": "Special",
+    "restaurant_name": "Kickstart Coffee Company",
+    "restaurant_url": "https://kickstartcoffeecompany.com/",
+    "menu_name": "Menu"
+  }
+]
