@@ -1,0 +1,1118 @@
+[
+  {
+    "name": "Artichoke Spinach Dip",
+    "description": "A blend of four cheeses, artichokes, roasted garlic, spinach and served with crispy bread.",
+    "price": "$17.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "appetizers and small plates"
+  },
+  {
+    "name": "Bostonian Shrimp",
+    "description": "âA house favoriteâ Jumbo shrimp wrapped in bacon and served with maple Dijon horseradish dipping sauce.",
+    "price": "$19.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "appetizers and small plates"
+  },
+  {
+    "name": "Sea Scallops & Pork Belly",
+    "description": "âPan seared diver sea scallops topped with slow roasted pork belly finished with maple lime glaze.",
+    "price": "$20.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "appetizers and small plates"
+  },
+  {
+    "name": "Lobster Betty",
+    "description": "âButter poached lobster tail served over braised greens finished with a shallot sherry cream sauce.",
+    "price": "$22.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "appetizers and small plates"
+  },
+  {
+    "name": "Pretzel Crusted Crab Cake & Lobster Cake",
+    "description": "âJumbo lump crabmeat and lobster with green onion, bell pepper, celery and our house seasoning. Served with curry mango aioli.",
+    "price": "$19.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "appetizers and small plates"
+  },
+  {
+    "name": "Shrimp Cocktail",
+    "description": "âFour jumbo shrimp served with a traditional cocktail sauce.",
+    "price": "$18.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "appetizers and small plates"
+  },
+  {
+    "name": "House Salad*",
+    "description": "Fresh baby greens mixed with red leaf lettuce and arugula served with tomatoes, radishes and cucumber served with your choice of house dressing.",
+    "price": "$9.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "salads"
+  },
+  {
+    "name": "Summer Salad",
+    "description": "âMixed greens, cucumbers and red onion, strawberries and dried figs, blueberries topped with crumbled goat cheese. Served with a lime chipolte ranch dressing.",
+    "price": "$10.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "salads"
+  },
+  {
+    "name": "Chopped Salad*",
+    "description": "âChopped baby iceberg, Belgian endive, radicchio, red onion, tomato, candied espresso walnut, dried cranberries, avocado and tossed in garlic sesame vinaigrette.",
+    "price": "$10.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "salads"
+  },
+  {
+    "name": "Caesar Salad*",
+    "description": "âHearts of romaine lettuce tossed in our own caesar dressing with flat bread croutons and shaved parmesan cheese.",
+    "price": "$10.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "salads"
+  },
+  {
+    "name": "Veal Tenderloin",
+    "description": "Grilled veal tenderloin, sliced and finished with a mushroom brandy cream sauce.",
+    "price": "$40.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "entrees"
+  },
+  {
+    "name": "Herb Crusted Swordfish",
+    "description": "âEncrusted with fresh herbs and panko crumbs, pan seared and served with a lemon caper beurre blanc.",
+    "price": "$38.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "entrees"
+  },
+  {
+    "name": "Pecan Pork Chop",
+    "description": "âBoneless fourteen ounce pork chop encrusted in pecans, pan roasted and finished with a tart cherry demi glace.",
+    "price": "$38.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "entrees"
+  },
+  {
+    "name": "Greek Chicken",
+    "description": "Buttermilk marinated airline chicken breast pan roasted with artichokes, grape tomatoes and olives in a lemon butter sauce.",
+    "price": "$36.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "entrees"
+  },
+  {
+    "name": "Filet Mignon",
+    "description": "âEight ounce filet grilled and topped with roasted shallot red wine demi glace. Also available as au poivre with bourbon peppercorn sauce.",
+    "price": "$49.95 / $51.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "entrees"
+  },
+  {
+    "name": "Red Curry Seafood Bolognese",
+    "description": "âSauteed shrimp, scallops and lump crabmeat in a red curry bolognese style sauce tossed with pappardelle pasta.",
+    "price": "$42.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "entrees"
+  },
+  {
+    "name": "Sauteed Veal & Crab",
+    "description": "âMedallions of veal sautÃ©ed with shallots, garlic, crabmeat, mushrooms and green onions in a lemon tarragon cream sauce.",
+    "price": "$41.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "entrees"
+  },
+  {
+    "name": "Hanger Steak Chimichurri",
+    "description": "âGrilled marinated hanger steak (Butchers Cut) sliced and topped with roasted red peppers and a charred poblano chimichurri sauce.",
+    "price": "$39.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "entrees"
+  },
+  {
+    "name": "Chicken and Sausage Campanelle",
+    "description": "âPan seared chicken and Andouille sausage tossed with campaanelle pasta, roasted red peppers and spinach in a garlic cream sauce.",
+    "price": "$35.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "entrees"
+  },
+  {
+    "name": "Goat Cheese, Walnut & Fig Crusted Salmon",
+    "description": "âOven roasted salmon topped with goat cheese, walnuts and dried figs finished with raspberry arugula vinaigrette.",
+    "price": "$38.95",
+    "menu_type": "Dinner",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "entrees"
+  },
+  {
+    "name": "Chocolate Walnut",
+    "description": "âSimilar to Pecan Pie. Similar to a warm chocolate cookie. The best of both!",
+    "price": "$10.00",
+    "menu_type": "Desserts",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "Salted Carmel Cheesecake",
+    "description": "âCreamy cheesecake on a graham cracker crust with a caramel topping and sprinkle of salt.",
+    "price": "$12.00",
+    "menu_type": "Desserts",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "Ultimate Carrot Cake",
+    "description": "âThis unique cake includes layers of carrot cake, french vanilla cheesecake and pineapple all under the cream cheese frosting. Garnished with chopped walnuts and toasted coconut.",
+    "price": "$12.00",
+    "menu_type": "Desserts",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "Chocolate Decedance",
+    "description": "âA flourless dense truffle torte with Grand Marnier chocolate mousse and covered with luscious chocolate ganache.",
+    "price": "$12.00",
+    "menu_type": "Desserts",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "Cavazza Prosecco",
+    "description": "Italy",
+    "price": "$34.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Champagnes &Â  Sparkling Wines"
+  },
+  {
+    "name": "Marques de Caceres Brut Cave",
+    "description": "Spain",
+    "price": "$35.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Champagnes &Â  Sparkling Wines"
+  },
+  {
+    "name": "Gloria Ferrar Blanc d Blanc Sparkling Wine",
+    "description": "âSonoma, California",
+    "price": "$42.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Champagnes &Â  Sparkling Wines"
+  },
+  {
+    "name": "Korbel Brut Rose California Champagne",
+    "description": "California",
+    "price": "$48.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Champagnes &Â  Sparkling Wines"
+  },
+  {
+    "name": "Angove Nine Vines Moscato",
+    "description": "2021, Australia",
+    "price": "$30.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "White Wines"
+  },
+  {
+    "name": "Nik Weis Urban Riesling Mosel",
+    "description": "2020, Germany",
+    "price": "$38.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "White Wines"
+  },
+  {
+    "name": "Banfi La Rime Pinot Grigio",
+    "description": "Toscana, 2018, Italy",
+    "price": "$38.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "White Wines"
+  },
+  {
+    "name": "Kono Sauvignon Blanc",
+    "description": "â Marlbough, 2021, New Zealand",
+    "price": "$32.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "White Wines"
+  },
+  {
+    "name": "Daou Rose Rose",
+    "description": "Paso Robles, 2021, California",
+    "price": "$38.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "rose wines"
+  },
+  {
+    "name": "Chateau Campugent Tradition Rose",
+    "description": "Provence, 2020, France",
+    "price": "$34.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "rose wines"
+  },
+  {
+    "name": "Firesteed Pinot Noir",
+    "description": "â2018, Oregon",
+    "price": "$40.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "red wines"
+  },
+  {
+    "name": "Rose Rock Pinot Noir",
+    "description": "âEola-Amity Hills, 2018, Oregon",
+    "price": "$68.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "red wines"
+  },
+  {
+    "name": "Forestville Merlot",
+    "description": "âSonoma Reserve, 2019. California",
+    "price": "$32.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "red wines"
+  },
+  {
+    "name": "Balasco Llama Old Vine Malbec",
+    "description": "Mendoza, 2019, Argentina",
+    "price": "$36.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "red wines"
+  },
+  {
+    "name": "Famille Perrin Reserve Cotes Du Rhone",
+    "description": "2018, France",
+    "price": "$36.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "red wines"
+  },
+  {
+    "name": "Horseplay Cabernet Sauvignon",
+    "description": "âPaso Robles, 2018, California",
+    "price": "$50.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "red wines"
+  },
+  {
+    "name": "Investor Red Blend Stag's Leap",
+    "description": "âNapa Valley, 2018, California",
+    "price": "$95.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "red wines"
+  },
+  {
+    "name": "Joseph Phelps Cabernet Sauvignon",
+    "description": "âNapa Valley, 2019, California",
+    "price": "$135.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "red wines"
+  },
+  {
+    "name": "Heineken 00 NA",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "beer"
+  },
+  {
+    "name": "Budweiser",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "beer"
+  },
+  {
+    "name": "Budweiser Light",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "beer"
+  },
+  {
+    "name": "Coors Light",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "beer"
+  },
+  {
+    "name": "Corona Light",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "beer"
+  },
+  {
+    "name": "Stella Artois",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "beer"
+  },
+  {
+    "name": "Heineken",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "beer"
+  },
+  {
+    "name": "Samuel Adams Boston Lager",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "beer"
+  },
+  {
+    "name": "Sierra Nevada Pale Ale",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "beer"
+  },
+  {
+    "name": "Guinness",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "beer"
+  },
+  {
+    "name": "Founders All Day IPA",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "beer"
+  },
+  {
+    "name": "Franziskener Weisbar",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "beer"
+  },
+  {
+    "name": "Great Lakes Porter",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "beer"
+  },
+  {
+    "name": "21st. Amendment Brew Free Or Die IPA",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "beer"
+  },
+  {
+    "name": "Coconut Margarita",
+    "description": "1800 Coconut Tequila with sour mix, splash of orange liqueur, hint of lime. Shake it! Salt the rim!",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Cocktail Specials"
+  },
+  {
+    "name": "Dark Cherry Sour",
+    "description": "Smirnoff CherryVodka with Pama Liqueur and sour mix.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Cocktail Specials"
+  },
+  {
+    "name": "Titoâs Kickinâ American Mule",
+    "description": "Titoâs Texas Vodka and Crabbieâs Ginger Beer and St. Germain with splash of lime.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Cocktail Specials"
+  },
+  {
+    "name": "Huckleberry Lemonade",
+    "description": "44 North Huckleberry Vodka and lemonade.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Cocktail Specials"
+  },
+  {
+    "name": "Negroni",
+    "description": "âEqual parts of Campari, Gin and Sweet Vermouth. Twist of lemon.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Compari on the Rocks"
+  },
+  {
+    "name": "Boulevardier",
+    "description": "Markers Mark Bourbon, Sweet Vermouth and Campari. Orange Slice.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Compari on the Rocks"
+  },
+  {
+    "name": "Peach Martini",
+    "description": "âStoli Peach Vodka, splash of apple pucker and blend of orange and cranberry juices.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Martinis, Cosmopolitans & Up Drinks"
+  },
+  {
+    "name": "Maple Manhattan",
+    "description": "âTraditional with splash of sweet vermouth and bitters. Crown Royal Whiskey.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Martinis, Cosmopolitans & Up Drinks"
+  },
+  {
+    "name": "Honey Old Fashion",
+    "description": "âBarenjeger German Honey Bourbon muddled with orange, cherry and bitters. Served on the rocks.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Martinis, Cosmopolitans & Up Drinks"
+  },
+  {
+    "name": "Espresso Martini",
+    "description": "âVan Gogh Espresso Vodkas, and a splash of Dark CrÃ¨me de Cocoa.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Martinis, Cosmopolitans & Up Drinks"
+  },
+  {
+    "name": "Baileys Chocolate Martini",
+    "description": "âBaileys Original Irish CrÃ¨me with Godivia Chocolate Liqueur.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Martinis, Cosmopolitans & Up Drinks"
+  },
+  {
+    "name": "Mango Cosmo",
+    "description": "âAbsolut Mango Vodka and Cranberry.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Martinis, Cosmopolitans & Up Drinks"
+  },
+  {
+    "name": "Mocha Coffee",
+    "description": "Kahlua coffee liqueur and chocolate vodka.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Coffee Drinks"
+  },
+  {
+    "name": "Chocolate Dreams",
+    "description": "âGodiva Dark and White Chocolate liqueur.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Coffee Drinks"
+  },
+  {
+    "name": "Irish Coffee",
+    "description": "âJameson Irish Whiskey.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Coffee Drinks"
+  },
+  {
+    "name": "Spanish Coffee",
+    "description": "âKorbel Brandy and Tia Maria.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Coffee Drinks"
+  },
+  {
+    "name": "Nutty Coffee",
+    "description": "âAmaretto and Frangelico liqueurs.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Coffee Drinks"
+  },
+  {
+    "name": "Caramel Cream",
+    "description": "âBailey's Original Irish Cream liqueur, and Van Gogh Dutch Caramel Vodka.",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Coffee Drinks"
+  },
+  {
+    "name": "Thomas Handy Sazerac Straight Rye",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "Jack Daniels Single Barrel Rye",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "Crown Royal",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "Crown Royal Reserve",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "Suntori Toki",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "Tullamore Dew",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "Jack Daniels",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "Gentelman Jack",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "Widow Jane Rye",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "Builett 95 Rye",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "Writer's Tears Copper Pot Irish",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "Clonakilty Single Batch Irish",
+    "description": "",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "Bulleit",
+    "description": "Bulleit",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Bulleit 10 yr",
+    "description": "Bulleit 10 yr",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Bookers",
+    "description": "Bookers",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Angel's Envy",
+    "description": "Angel's Envy",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "George T. Stag",
+    "description": "George T. Stag",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Jim Beam",
+    "description": "Jim Beam",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Eagle Rare",
+    "description": "Eagle Rare",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Knob Creek",
+    "description": "Knob Creek",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Makers Mark",
+    "description": "Makers Mark",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Woodford Reserves",
+    "description": "Woodford Reserves",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "1972 Ridgemont Reserve",
+    "description": "1972 Ridgemont Reserve",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Basil Hayden",
+    "description": "Basil Hayden",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Van Pappy Old Van Winkle 10 Year",
+    "description": "Van Pappy Old Van Winkle 10 Year",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Widow Jane",
+    "description": "Widow Jane",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Van Pappy 12 Year",
+    "description": "Van Pappy 12 Year",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Blanton's",
+    "description": "Blanton's",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Van Pappy 15 Year",
+    "description": "Van Pappy 15 Year",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Buffalo Trace",
+    "description": "Buffalo Trace",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Van Pappy 20 Year",
+    "description": "Van Pappy 20 Year",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Elmer T. Lee Single Barrel",
+    "description": "Elmer T. Lee Single Barrel",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Weller Peated Bourbon Antique 107  - Special reserve  - 12 Year",
+    "description": "Weller Peated Bourbon Antique 107  - Special reserve  - 12 Year",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "George T. Stagg Straight Bourbon",
+    "description": "George T. Stagg Straight Bourbon",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Bourbons"
+  },
+  {
+    "name": "Chivas",
+    "description": "Chivas",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Blended Scotch"
+  },
+  {
+    "name": "Dewars",
+    "description": "Dewars",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Blended Scotch"
+  },
+  {
+    "name": "Compass Box Asyla",
+    "description": "Compass Box Asyla",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Blended Scotch"
+  },
+  {
+    "name": "Johnny Walker Red",
+    "description": "Johnny Walker Red",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Blended Scotch"
+  },
+  {
+    "name": "Compass Box Great King Street",
+    "description": "Compass Box Great King Street",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Blended Scotch"
+  },
+  {
+    "name": "Johnny Walker Black",
+    "description": "Johnny Walker Black",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Blended Scotch"
+  },
+  {
+    "name": "Macallan",
+    "description": "Macallan $12.00",
+    "price": "$12.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Single Malt Scotch"
+  },
+  {
+    "name": "Glenlivet",
+    "description": "Glenlivet $12.00",
+    "price": "$12.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Single Malt Scotch"
+  },
+  {
+    "name": "Balvenie Double Wood",
+    "description": "Balvenie Double Wood $12.00",
+    "price": "$12.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Single Malt Scotch"
+  },
+  {
+    "name": "Oban",
+    "description": "Oban â$14.00",
+    "price": "$14.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Single Malt Scotch"
+  },
+  {
+    "name": "Talisker",
+    "description": "Talisker â$10.00",
+    "price": "$10.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Single Malt Scotch"
+  },
+  {
+    "name": "Lagavulin",
+    "description": "Lagavulin â$16.00",
+    "price": "$16.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Single Malt Scotch"
+  },
+  {
+    "name": "Ardberg",
+    "description": "Ardberg â$10.00",
+    "price": "$10.00",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Single Malt Scotch"
+  },
+  {
+    "name": "Laphroaig",
+    "description": "Laphroaig",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Single Malt Scotch"
+  },
+  {
+    "name": "Glenmorangie 10 Yr Original",
+    "description": "Glenmorangie 10 Yr Original",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Single Malt Scotch"
+  },
+  {
+    "name": "Glenmorangie Nectar D Or",
+    "description": "Glenmorangie Nectar D Or",
+    "price": "",
+    "menu_type": "Spirits",
+    "restaurant_name": "Lake Ridge",
+    "restaurant_url": "https://www.lake-ridge.com/",
+    "menu_name": "Single Malt Scotch"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Peru",
+    "description": "",
+    "price": "$18.00",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kru Coffee",
+    "restaurant_url": "https://www.krucoffee.com/",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "Honduras",
+    "description": "",
+    "price": "$19.00",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kru Coffee",
+    "restaurant_url": "https://www.krucoffee.com/",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "Espresso Vivace",
+    "description": "",
+    "price": "$19.50",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kru Coffee",
+    "restaurant_url": "https://www.krucoffee.com/",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "DARK AS HELL",
+    "description": "",
+    "price": "$19.00",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kru Coffee",
+    "restaurant_url": "https://www.krucoffee.com/",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "SOTO ESPRESSO",
+    "description": "",
+    "price": "$18.00",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kru Coffee",
+    "restaurant_url": "https://www.krucoffee.com/",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "COLOMBIA",
+    "description": "",
+    "price": "$18.00",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kru Coffee",
+    "restaurant_url": "https://www.krucoffee.com/",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "TURNING POINT",
+    "description": "",
+    "price": "$19.00",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kru Coffee",
+    "restaurant_url": "https://www.krucoffee.com/",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "DOOM CUPÂ®",
+    "description": "",
+    "price": "$18.50",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kru Coffee",
+    "restaurant_url": "https://www.krucoffee.com/",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "SUMATRA MANDELING",
+    "description": "",
+    "price": "$19.00",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kru Coffee",
+    "restaurant_url": "https://www.krucoffee.com/",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "DECAF WATER PROCESSED",
+    "description": "",
+    "price": "$19.50",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kru Coffee",
+    "restaurant_url": "https://www.krucoffee.com/",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "ESPRESSO 185",
+    "description": "",
+    "price": "$18.00",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kru Coffee",
+    "restaurant_url": "https://www.krucoffee.com/",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "ETHIOPIA YIRGACHEFFE",
+    "description": "",
+    "price": "$19.00",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kru Coffee",
+    "restaurant_url": "https://www.krucoffee.com/",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "ATLAS ESPRESSO",
+    "description": "",
+    "price": "$18.50",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kru Coffee",
+    "restaurant_url": "https://www.krucoffee.com/",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "NO BAD DOGS â KRU COFFEE X TOM DAVIS",
+    "description": "",
+    "price": "$19.50",
+    "menu_type": "Coffee",
+    "restaurant_name": "Kru Coffee",
+    "restaurant_url": "https://www.krucoffee.com/",
+    "menu_name": "Coffee"
+  }
+]

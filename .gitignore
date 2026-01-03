@@ -33,6 +33,7 @@ env/
 *.swo
 *~
 
+
 # OS
 .DS_Store
 Thumbs.db
@@ -42,6 +43,9 @@ temp/
 *.tmp
 *.log
 *.html
+
+# Config files (contains API keys)
+config.json
 
 # Output files (optional - uncomment if you don't want to track output)
 # output/

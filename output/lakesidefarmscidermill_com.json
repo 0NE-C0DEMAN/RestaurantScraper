@@ -1,0 +1,1073 @@
+[
+  {
+    "name": "Eggs with Toast",
+    "description": "(Thomas Egg Farm) Over, Scrambled, Sunny Side, Poached (Ex. Large White)",
+    "price": "$3.29 (1 Egg) / $3.99 (2 Eggs) / $4.69 (3 Eggs) / $5.39 (4 Eggs) / $3.99 (Ember Farms Sausage (links or patties),) / $3.99 (Hatfield Bacon (3 Slices),)",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "From The Grill"
+  },
+  {
+    "name": "Oscar’s Smoke House Ham Slice",
+    "description": "",
+    "price": "$3.99",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "From The Grill"
+  },
+  {
+    "name": "Home Fries",
+    "description": "(Florida Red Potatoes)",
+    "price": "$3.39",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "From The Grill"
+  },
+  {
+    "name": "Toast",
+    "description": "",
+    "price": "$2.99",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "From The Pantry"
+  },
+  {
+    "name": "Hard Roll",
+    "description": "",
+    "price": "$2.99",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "From The Pantry"
+  },
+  {
+    "name": "Bagel",
+    "description": "",
+    "price": "$2.99",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "From The Pantry"
+  },
+  {
+    "name": "English Muffin",
+    "description": "",
+    "price": "$2.99",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "From The Pantry"
+  },
+  {
+    "name": "Cream Cheese",
+    "description": "",
+    "price": "$0.99",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "From The Pantry"
+  },
+  {
+    "name": "Peanut Butter",
+    "description": "",
+    "price": "$0.99",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "From The Pantry"
+  },
+  {
+    "name": "Cereal",
+    "description": "",
+    "price": "$3.39 (Bowl)",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "From The Pantry"
+  },
+  {
+    "name": "Cold",
+    "description": "",
+    "price": "$3.39 (Bowl)",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "From The Pantry"
+  },
+  {
+    "name": "Oatmeal",
+    "description": "",
+    "price": "$3.39 (Bowl)",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "From The Pantry"
+  },
+  {
+    "name": "Grits",
+    "description": "",
+    "price": "$3.39 (Bowl)",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "From The Pantry"
+  },
+  {
+    "name": "Farmer Dick’s Breakfast Special",
+    "description": "3 Eggs, Home Fries, Toast With a Choice of: Sausage Patty or Link, Bacon or Ham, with Coffee",
+    "price": "$15.99",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "French Toast",
+    "description": "",
+    "price": "$7.99 (Full Order (3)) / $5.99 (Short Stack (2)) / $3.99 (Single)",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pancakes & Such"
+  },
+  {
+    "name": "Pancakes",
+    "description": "",
+    "price": "$7.99 (Full Order (3)) / $5.99 (Short Stack (2)) / $3.99 (Single)",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pancakes & Such"
+  },
+  {
+    "name": "Blueberry Pancakes",
+    "description": "",
+    "price": "$8.99 (Full Order (3)) / $7.29 (Short Stack (2)) / $5.29 (Single)",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pancakes & Such"
+  },
+  {
+    "name": "Waffle",
+    "description": "",
+    "price": "$6.99 (Single)",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pancakes & Such"
+  },
+  {
+    "name": "Apple Fritter French Toast",
+    "description": "",
+    "price": "$6.29 (Single)",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pancakes & Such"
+  },
+  {
+    "name": "Hash & Eggs",
+    "description": "With Home Fries & Toast",
+    "price": "$10.99",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pancakes & Such"
+  },
+  {
+    "name": "Corned Beef Hash",
+    "description": "",
+    "price": "$5.29",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pancakes & Such"
+  },
+  {
+    "name": "Breakfast Sandwich",
+    "description": "2 Eggs, Cheese & Choice of Meat",
+    "price": "$6.29 ((Try it on a donut!))",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pancakes & Such"
+  },
+  {
+    "name": "3 Egg Omelet",
+    "description": "Plain w/ Home Fries & Toast",
+    "price": "$9.99",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pancakes & Such"
+  },
+  {
+    "name": "3 Egg Omelet",
+    "description": "with Cheese, Veggies, or Meat, Includes up to 3 items.\nW/ Home Fries & Toast",
+    "price": "$12.99",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pancakes & Such"
+  },
+  {
+    "name": "Home Made Country Sausage Gravy",
+    "description": "Served over Home Made Baking Powder Biscuit with Home Fries",
+    "price": "$8.99",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pancakes & Such"
+  },
+  {
+    "name": "Coffee • Decaf • Tea • Hot Chocolate • Ice Coffee",
+    "description": "",
+    "price": "$2.99 (Cup)",
+    "menu_type": "Breakfast",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pancakes & Such"
+  },
+  {
+    "name": "Choice of Breads:",
+    "description": "Light Rye • Dark Rye • Marble • White • Wheat • Hard Roll • Gluten Free $0.99/slice",
+    "price": "",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Choice of Spreads",
+    "description": "Hellman’s Mayo • Russian • Butter • Mustard (Yellow, Hot, Honey or Dijon) • Horseradish $0.50",
+    "price": "",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Choice of Fillers",
+    "description": "Lettuce • Onion • Cucumber • Hot Peppers (no charge) Cheese, Tomato or Slaw $0.75 Bacon $1.00",
+    "price": "",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Roast Beef",
+    "description": "Roasted On-Premises",
+    "price": "$12.49",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Roast Pork",
+    "description": "Roasted On-Premises",
+    "price": "$12.49",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Turkey Breast",
+    "description": "Roasted On-Premises",
+    "price": "$12.49",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Baked Ham",
+    "description": "",
+    "price": "$12.49",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Chicken Salad",
+    "description": "",
+    "price": "$12.49",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Corned Beef",
+    "description": "",
+    "price": "$12.49",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Pastrami",
+    "description": "",
+    "price": "$12.49",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Salami",
+    "description": "",
+    "price": "$12.49",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Tuna",
+    "description": "Chunk Light in Water",
+    "price": "$9.99",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Bologna",
+    "description": "",
+    "price": "$7.99",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "PB & J",
+    "description": "",
+    "price": "$6.99",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Liverwurst",
+    "description": "",
+    "price": "$9.79",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Boiled Ham",
+    "description": "",
+    "price": "$9.79",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Cheese",
+    "description": "Land O’Lakes American, Provolone, Swiss, Muenster, Cheddar, Mozzarella, Pepper Jack",
+    "price": "$7.99",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Grilled Cheese",
+    "description": "Choice of Bread & Cheese",
+    "price": "$8.99",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Famous Custom Made Sandwiches"
+  },
+  {
+    "name": "Toss Salad",
+    "description": "Our salads are made with a mixture of red and green leaf, iceberg and romaine lettuces. They include tomato, onion, cucumber, carrot, pepper, red cabbage and ripe olives",
+    "price": "$9.49",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Chef Salad",
+    "description": "Includes Turkey Breast, Ham, Salami, Swiss and American Cheeses",
+    "price": "$12.99",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "2 Slices of Bread & Butter",
+    "description": "",
+    "price": "$2.29",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "“Tuna Fish Melt”",
+    "description": "Tuna, Tomato, Swiss, Light Rye, finished under the broiler",
+    "price": "$13.79",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Special Feature Sandwiches"
+  },
+  {
+    "name": "The “Reuben”",
+    "description": "Corned Beef, Home Made Sauerkraut, Swiss Cheese, Mustard and Russian Dressing, Open Face on Light Rye, (Closed Upon Request), finished under the broiler",
+    "price": "$13.79",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Special Feature Sandwiches"
+  },
+  {
+    "name": "The “Spy”",
+    "description": "Hot Pastrami, Spicy Mustard & Provolone on Light Rye Bread, finished under the broiler",
+    "price": "$13.79",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Special Feature Sandwiches"
+  },
+  {
+    "name": "“B.L.T.”",
+    "description": "6 slices of Sugar Cured Bacon, Lettuce, Tomatoes, Mayo & Choice of Bread or Toast",
+    "price": "$11.59",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Special Feature Sandwiches"
+  },
+  {
+    "name": "The“Lakesider”",
+    "description": "Roast Beef, Slab Bacon, Cole Slaw, Muenster Cheese, Toasted Dark Rye & Russian Dressing Finished under the broiler",
+    "price": "$13.79",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Special Feature Sandwiches"
+  },
+  {
+    "name": "The“CORTLAND”",
+    "description": "Roast Beef, Turkey, Bacon, Lettuce, Russian & Melted Swiss finished under the broiler",
+    "price": "$13.79",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Special Feature Sandwiches"
+  },
+  {
+    "name": "The“McINTOSH”",
+    "description": "Ham, Turkey, Slaw, Mustard, Mayo on White with melted Swiss, finished under the broiler",
+    "price": "$13.79",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Our Special Feature Sandwiches"
+  },
+  {
+    "name": "Hamburger",
+    "description": "",
+    "price": "$13.99",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "Cheeseburger",
+    "description": "W/lettuce, tomato, onion, chips & pickle",
+    "price": "$14.99",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "Hamburger Deluxe",
+    "description": "",
+    "price": "$15.29",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "Cheeseburger Deluxe",
+    "description": "W/lettuce, tomato, onion, French Fries & pickle",
+    "price": "$16.29",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "Chicken Nuggets",
+    "description": "",
+    "price": "$5.49",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "Hot Dog",
+    "description": "(Plain)",
+    "price": "$2.99",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "Hot Dog",
+    "description": "W/Meat Sauce, Mustard & Onion",
+    "price": "$3.99",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "Fresh French Fries",
+    "description": "",
+    "price": "$4.99",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "Sweet Potato Fries",
+    "description": "",
+    "price": "$5.99",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "Onion Rings",
+    "description": "",
+    "price": "$5.49",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "Soup of the Day",
+    "description": "12 oz. Served with Oyster Crackers",
+    "price": "$4.29",
+    "menu_type": "Lunch",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Lunch"
+  },
+  {
+    "name": "Apple",
+    "description": "",
+    "price": "$19.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Apple Brown Betty",
+    "description": "",
+    "price": "$19.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Apple Cranberry",
+    "description": "",
+    "price": "$21.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Apple Caramel Walnut",
+    "description": "",
+    "price": "$21.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Apple Raspberry",
+    "description": "",
+    "price": "$21.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Dutch Apple",
+    "description": "",
+    "price": "$19.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Banana Cream",
+    "description": "",
+    "price": "$19.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Blackberry",
+    "description": "",
+    "price": "$21.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Blueberry",
+    "description": "",
+    "price": "$21.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Blueberry Crumb",
+    "description": "",
+    "price": "$21.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Cherry",
+    "description": "",
+    "price": "$21.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Chocolate Cream",
+    "description": "",
+    "price": "$19.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Coconut Cream",
+    "description": "",
+    "price": "$19.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Coconut Custard",
+    "description": "",
+    "price": "$19.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Custard",
+    "description": "",
+    "price": "$19.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Fruit of the Forest",
+    "description": "",
+    "price": "$21.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Lemon Meringue",
+    "description": "",
+    "price": "$19.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Mince",
+    "description": "(Seasonal)",
+    "price": "$21.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Peach",
+    "description": "",
+    "price": "$21.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Pecan",
+    "description": "(Seasonal)",
+    "price": "$21.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Pumpkin",
+    "description": "",
+    "price": "$19.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Raspberry",
+    "description": "",
+    "price": "$21.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Rhubarb",
+    "description": "",
+    "price": "$21.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Strawberry Rhubarb",
+    "description": "",
+    "price": "$21.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Very Berry",
+    "description": "Strawberries, Raspberries, Blueberries, Blackberries",
+    "price": "$21.99",
+    "menu_type": "Pies",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Pies"
+  },
+  {
+    "name": "Mac' n' Cheese",
+    "description": "",
+    "price": "$7.99 (Plain) / $9.99 (W/Bacon, Ham & Tomato)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Catering"
+  },
+  {
+    "name": "Ribs",
+    "description": "",
+    "price": "$12.99 / $28.99",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Catering"
+  },
+  {
+    "name": "Burgers & Dogs",
+    "description": "With all the fixings and deli salads",
+    "price": "$16.49",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Catering"
+  },
+  {
+    "name": "Vegetable Platter",
+    "description": "",
+    "price": "$2.99 (Fresh Vegetables) / $3.99 (With dip: Made with a Variety of the Freshest Vegetables)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Catering"
+  },
+  {
+    "name": "Pastry Tray",
+    "description": "Your choice of pastries",
+    "price": "$3.99 (Starting at)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Catering"
+  },
+  {
+    "name": "Meat Platter",
+    "description": "Includes: Roast Beef, Turkey, Ham, Salami, Swiss & American Cheese",
+    "price": "$8.99 (Cold Cuts & Cheese) / $1.99 (Lettuce, Onions, Tomatoes & Condiments are an additional) / $8.99 (Hard Rolls & Dinner Rolls)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Catering"
+  },
+  {
+    "name": "Rib & Chicken Combo",
+    "description": "",
+    "price": "$27.99",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Catering"
+  },
+  {
+    "name": "Baked Ziti",
+    "description": "",
+    "price": "$7.99 (Baked Ziti) / $9.49 (w/meat)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Catering"
+  },
+  {
+    "name": "Sausage & Peppers",
+    "description": "",
+    "price": "$9.99",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Catering"
+  },
+  {
+    "name": "Cheese & Cracker Tray",
+    "description": "An assortment of crackers & cheese",
+    "price": "$6.49",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Catering"
+  },
+  {
+    "name": "Quiche",
+    "description": "",
+    "price": "$19.99",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Catering"
+  },
+  {
+    "name": "Chicken BBQ",
+    "description": "",
+    "price": "$9.49 (1/2 Chicken) / $25.99 (Full Meal)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Catering"
+  },
+  {
+    "name": "Sandwich Platter",
+    "description": "With Chips and Pickles",
+    "price": "$12.99",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Catering"
+  },
+  {
+    "name": "Fruit Platter",
+    "description": "",
+    "price": "$3.49 (Fresh fruit) / $3.99 (With Yogurt Dip Assortment of the Freshest Fruit)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Catering"
+  },
+  {
+    "name": "3-Bean",
+    "description": "",
+    "price": "$7.99 (lb.)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Homemade Salads & Sides"
+  },
+  {
+    "name": "Baked Beans",
+    "description": "",
+    "price": "$7.99 (lb.)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Homemade Salads & Sides"
+  },
+  {
+    "name": "Coleslaw",
+    "description": "",
+    "price": "$7.49 (lb.)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Homemade Salads & Sides"
+  },
+  {
+    "name": "Cottage Cheese",
+    "description": "",
+    "price": "$3.99 (lb.)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Homemade Salads & Sides"
+  },
+  {
+    "name": "Chicken Salad",
+    "description": "",
+    "price": "$13.49 (lb.)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Homemade Salads & Sides"
+  },
+  {
+    "name": "Fruit Salad",
+    "description": "",
+    "price": "$6.99 (lb.)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Homemade Salads & Sides"
+  },
+  {
+    "name": "Potato",
+    "description": "",
+    "price": "$7.49 (lb.)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Homemade Salads & Sides"
+  },
+  {
+    "name": "Gourmet Potato",
+    "description": "",
+    "price": "$7.99 (lb.)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Homemade Salads & Sides"
+  },
+  {
+    "name": "German Potato",
+    "description": "",
+    "price": "$7.99 (lb.)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Homemade Salads & Sides"
+  },
+  {
+    "name": "Macaroni",
+    "description": "",
+    "price": "$7.49 (lb.)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Homemade Salads & Sides"
+  },
+  {
+    "name": "Rice Pudding",
+    "description": "",
+    "price": "$7.99 (lb.)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Homemade Salads & Sides"
+  },
+  {
+    "name": "Pickled Beets",
+    "description": "",
+    "price": "$6.99 (lb.)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Homemade Salads & Sides"
+  },
+  {
+    "name": "Spiral",
+    "description": "",
+    "price": "$6.99 (lb.)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Homemade Salads & Sides"
+  },
+  {
+    "name": "Tuna & shells",
+    "description": "",
+    "price": "$7.99 (lb.)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Homemade Salads & Sides"
+  },
+  {
+    "name": "Toss Salad",
+    "description": "",
+    "price": "$34.99 (Pan)",
+    "menu_type": "Catering",
+    "restaurant_name": "Lakeside Farms",
+    "restaurant_url": "https://www.lakesidefarmscidermill.com/",
+    "menu_name": "Homemade Salads & Sides"
+  }
+]

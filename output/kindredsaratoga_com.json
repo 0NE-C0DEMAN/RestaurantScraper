@@ -1,27 +1,9 @@
 [
   {
-    "name": "burrata margherita, fresh",
-    "description": "basil, marinara",
-    "price": "$19",
-    "menu_type": "Food",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Food Menu"
-  },
-  {
     "name": "marinated olives",
     "description": "",
     "price": "$6",
-    "menu_type": "Food",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Food Menu"
-  },
-  {
-    "name": "spiced creme, proscuitto,",
-    "description": "gruyere, red onion, scallions",
-    "price": "$20",
-    "menu_type": "Food",
+    "menu_type": "shareables",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Food Menu"
@@ -30,68 +12,167 @@
     "name": "glazed nuts",
     "description": "",
     "price": "$6",
-    "menu_type": "Food",
+    "menu_type": "shareables",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Food Menu"
   },
   {
-    "name": "lamb ragu, shaved",
-    "description": "fennel, harissa crema, mint house made foccacia black garlic mushroom butter, evoo, fig balsamic 7 salads bacon wrapped dates kindred house salad house smoked gruyere, ‘nduja sauce 15 mixed greens, pickled red onions, cucumber, radish,",
-    "price": "$21",
-    "menu_type": "Food",
+    "name": "house made foccacia",
+    "description": "black garlic mushroom butter, evoo, fig balsamic",
+    "price": "$7",
+    "menu_type": "shareables",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Food Menu"
   },
   {
-    "name": "sunflower seeds, house",
-    "description": "vinaigrette salt and vinegar chips romaine caesar",
+    "name": "bacon wrapped dates",
+    "description": "house smoked gruyere, 'nduja sauce",
     "price": "$15",
-    "menu_type": "Food",
+    "menu_type": "shareables",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Food Menu"
   },
   {
-    "name": "smoked trout roe,",
-    "description": "creme fraiche",
+    "name": "salt and vinegar chips",
+    "description": "smoked trout roe, creme fraiche",
     "price": "$16",
-    "menu_type": "Food",
+    "menu_type": "shareables",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Food Menu"
   },
   {
-    "name": "croutons, cracked black",
-    "description": "pepper, lemon crispy brussels sprouts apple burrata salad fig balsamic glaze, green mayo, smoked hazelnut 16 spring greens, honecrisp apple, pickled red onions,",
+    "name": "crispy brussels sprouts",
+    "description": "fig balsamic glaze, green mayo, smoked hazelnut",
     "price": "$16",
-    "menu_type": "Food",
+    "menu_type": "shareables",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Food Menu"
   },
   {
-    "name": "proscuitto, glazed nuts,",
-    "description": "fennel, apple cider vinaigrette burrata toast (add grilled chicken - 6) (add burrata - 6) (add shrimp - 9) burrata, foccacia, garlic confit, hot honey",
+    "name": "burrata toast",
+    "description": "burrata, foccacia, garlic confit, hot honey\narugula, maldon sea salt",
+    "price": "$16",
+    "menu_type": "shareables",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "chicken liver pate toast",
+    "description": "fruit compote, foccacia, chives",
+    "price": "$13",
+    "menu_type": "shareables",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "anchovy toast",
+    "description": "grated heirloom tomato, maldon, evoo, foccacia,\nanchovies, fennel pollen",
+    "price": "$15",
+    "menu_type": "shareables",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "fried fingerling potatoes",
+    "description": "truffle aioli, parm, garlic chips, cornichons,\npickled red onion",
+    "price": "$16",
+    "menu_type": "shareables",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "charcuterie board",
+    "description": "daily selection of six meats and cheeses, house compote,\ntruffle honey, whole grain mustard, foccacia toast",
+    "price": "$34",
+    "menu_type": "shareables",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "baked camembert",
+    "description": "seasonal fruit, pistachios, honey, foccacia toast",
+    "price": "$21",
+    "menu_type": "shareables",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "braised iberian pork belly",
+    "description": "pickled red cabbage, scallions, mustard jus",
+    "price": "$20",
+    "menu_type": "shareables",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "burrata margherita",
+    "description": "fresh basil, marinara",
+    "price": "$19",
+    "menu_type": "flatbreads",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "spiced creme, proscuitto, gruyere, red onion, scallions",
+    "description": "",
+    "price": "$20",
+    "menu_type": "flatbreads",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "lamb ragu, shaved fennel, harissa crema, mint",
+    "description": "",
+    "price": "$21",
+    "menu_type": "flatbreads",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "kindred house salad",
+    "description": "mixed greens, pickled red onions, cucumber, radish,\nsunflower seeds, house vinaigrette",
+    "price": "$15",
+    "menu_type": "salads",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "romaine caesar",
+    "description": "croutons, cracked black pepper, lemon",
+    "price": "$16",
+    "menu_type": "salads",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Food Menu"
+  },
+  {
+    "name": "apple burrata salad",
+    "description": "spring greens, honecrisp apple, pickled red onions,\nproscuitto, glazed nuts, fennel, apple cider vinaigrette\nAdd-ons: add grilled chicken - $6 / add burrata - $6 / add shrimp - $9",
     "price": "$24",
-    "menu_type": "Food",
+    "menu_type": "salads",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Food Menu"
   },
   {
-    "name": "arugula, maldon sea",
-    "description": "salt chicken liver pate toast fruit compote, foccacia, chives 13 kindred burger two 4 oz patties, cheddar, garic aioli, bacon jam,",
-    "price": "$16",
-    "menu_type": "Food",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Food Menu"
-  },
-  {
-    "name": "lettuce, tomato, onion,",
-    "description": "salt & vinegar chips, brioche anchovy toast grated heirloom tomato, maldon, evoo, foccacia, woodfired maitake mushroom",
+    "name": "kindred burger",
+    "description": "two 4 oz patties, cheddar, garic aioli, bacon jam,\nlettuce, tomato, onion, salt & vinegar chips, brioche",
     "price": "$24",
     "menu_type": "entrees",
     "restaurant_name": "Kindred",
@@ -99,8 +180,8 @@
     "menu_name": "Food Menu"
   },
   {
-    "name": "anchovies, fennel pollen",
-    "description": "15 pumpkin seed pesto, confit golden tomatoes, herbs four cheese ravioli fried fingerling potatoes butternut squash sauce, lion’s mane mushrooms, truffle aioli, parm, garlic chips, cornichons,",
+    "name": "woodfired maitake mushroom",
+    "description": "pumpkin seed pesto, confit golden tomatoes, herbs",
     "price": "$38",
     "menu_type": "entrees",
     "restaurant_name": "Kindred",
@@ -108,8 +189,8 @@
     "menu_name": "Food Menu"
   },
   {
-    "name": "pepitas, balsamic pearls,",
-    "description": "delicata chips",
+    "name": "four cheese ravioli",
+    "description": "butternut squash sauce, lion's mane mushrooms,\npepitas, balsamic pearls, delicata chips\nAdd-ons: add grilled chicken - $6 / add shrimp - $9",
     "price": "$32",
     "menu_type": "entrees",
     "restaurant_name": "Kindred",
@@ -117,17 +198,8 @@
     "menu_name": "Food Menu"
   },
   {
-    "name": "pickled red onion",
-    "description": "(add grilled chicken - 6) (add shrimp - 9) charcuterie board steak frites daily selection of six meats and cheeses, house compote, prime flat iron, chimichurri, hand-cut potato wedges,",
-    "price": "$16",
-    "menu_type": "entrees",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Food Menu"
-  },
-  {
-    "name": "truffle honey, whole",
-    "description": "grain mustard, foccacia toast 34 garlic aoli baked camembert moroccan half chicken",
+    "name": "steak frites",
+    "description": "prime flat iron, chimichurri, hand-cut potato wedges,\ngarlic aoli",
     "price": "$36",
     "menu_type": "entrees",
     "restaurant_name": "Kindred",
@@ -135,8 +207,8 @@
     "menu_name": "Food Menu"
   },
   {
-    "name": "seasonal fruit, pistachios,",
-    "description": "honey, foccacia toast 21 sweet potato purée, herb salad, chicken jus wood-fired swordfish braised iberian pork belly charred broccolini, spicy tomato broth, white wine,",
+    "name": "moroccan half chicken",
+    "description": "sweet potato purée, herb salad, chicken jus",
     "price": "$38",
     "menu_type": "entrees",
     "restaurant_name": "Kindred",
@@ -144,8 +216,8 @@
     "menu_name": "Food Menu"
   },
   {
-    "name": "pickled red cabbage,",
-    "description": "scallions, mustard jus 20 leeks, cherry peppers ny prime strip steak sauce soubise, crispy fingerlings,",
+    "name": "wood-fired swordfish",
+    "description": "charred broccolini, spicy tomato broth, white wine,\nleeks, cherry peppers",
     "price": "$36",
     "menu_type": "entrees",
     "restaurant_name": "Kindred",
@@ -153,8 +225,8 @@
     "menu_name": "Food Menu"
   },
   {
-    "name": "seasonal mushrooms, black",
-    "description": "garlic mushroom butter",
+    "name": "ny prime strip steak",
+    "description": "sauce soubise, crispy fingerlings,\nseasonal mushrooms, black garlic mushroom butter",
     "price": "$58",
     "menu_type": "entrees",
     "restaurant_name": "Kindred",
@@ -162,46 +234,73 @@
     "menu_name": "Food Menu"
   },
   {
-    "name": "marinated olives and",
-    "description": "marcona almonds",
+    "name": "marinated olives and marcona almonds",
+    "description": "",
     "price": "$12",
-    "menu_type": "snacks and greens sandwiches and toasts",
+    "menu_type": "snacks and greens",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Brunch Menu"
   },
   {
-    "name": "kindred breakfast sandwich",
-    "description": "scrambled egg, cheddar, herb aioli, caesar salad 16 choice of bacon, sausage, rosemary ham, croutons, cracked black pepper, lemon grilled tomato slab",
-    "price": "$15",
-    "menu_type": "snacks and greens sandwiches and toasts",
+    "name": "caesar salad",
+    "description": "croutons, cracked black pepper, lemon",
+    "price": "$16",
+    "menu_type": "snacks and greens",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Brunch Menu"
   },
   {
     "name": "kindred house salad",
-    "description": "15 fried chicken sandwich mixed greens, pickled red onions, cucumber, fried chicken, pickled cabbage slaw, sunnyside egg, radish, sunflower seeds, house vinaigrette cranberry-chipotle aioli, brioche bun",
+    "description": "mixed greens, pickled red onions, cucumber, radish, sunflower seeds, house vinaigrette",
+    "price": "$15",
+    "menu_type": "snacks and greens",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "kindred breakfast sandwich",
+    "description": "scrambled egg, cheddar, herb aioli, choice of bacon, sausage, rosemary ham, grilled tomato slab",
+    "price": "$15",
+    "menu_type": "sandwiches and toasts",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "fried chicken sandwich",
+    "description": "fried chicken, pickled cabbage slaw, sunnyside egg, cranberry-chipotle aioli, brioche bun",
     "price": "$18",
-    "menu_type": "snacks and greens sandwiches and toasts",
+    "menu_type": "sandwiches and toasts",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Brunch Menu"
   },
   {
     "name": "burrata toast",
-    "description": "(add chicken - 6) (add shrimp - 9) burrata, foccacia, garlic confit, hot honey,",
+    "description": "burrata, foccacia, garlic confit, hot honey, arugula, maldon sea salt",
     "price": "$16",
-    "menu_type": "snacks and greens sandwiches and toasts",
+    "menu_type": "sandwiches and toasts",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Brunch Menu"
   },
   {
     "name": "avocado toast",
-    "description": "lox plate 18 smashed avocado, beetroot-pickled egg, radish, smoked salmon, everything bagel, microgreens, sweet potato puree scallion cream cheese, pickled red onions, (add bacon - 5) capers, microgreens",
+    "description": "smashed avocado, beetroot-pickled egg, radish, microgreens, sweet potato puree",
     "price": "$15",
-    "menu_type": "breakfast classics arugula, maldon sea salt",
+    "menu_type": "sandwiches and toasts",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "lox plate",
+    "description": "smoked salmon, everything bagel, scallion cream cheese, pickled red onions, capers, microgreens",
+    "price": "$18",
+    "menu_type": "breakfast classics",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Brunch Menu"
@@ -210,23 +309,41 @@
     "name": "kindred breakfast",
     "description": "two eggs any style, two sides, mixed greens",
     "price": "$15",
-    "menu_type": "sides",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Brunch Menu"
-  },
-  {
-    "name": "sausage",
-    "description": "5 potatoes",
-    "price": "$5",
-    "menu_type": "sides",
+    "menu_type": "breakfast classics",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Brunch Menu"
   },
   {
     "name": "eggs bennedict",
-    "description": "16 bacon 5 toast rosemary ham, griddled english muffin,",
+    "description": "rosemary ham, griddled english muffin, poached eggs, hollandaise, scallions.",
+    "price": "$16",
+    "menu_type": "breakfast classics",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "veggie hash bowl",
+    "description": "two potato hash, seasonal veggies, arugula, harissa crema",
+    "price": "$16",
+    "menu_type": "breakfast classics",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "verde shakshuka",
+    "description": "tomatillo sauce, 'nduja baked eggs, cotija, cilantro, and chili oil with toasted foccacia",
+    "price": "$20",
+    "menu_type": "breakfast classics",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "sausage",
+    "description": "",
     "price": "$5",
     "menu_type": "sides",
     "restaurant_name": "Kindred",
@@ -234,9 +351,18 @@
     "menu_name": "Brunch Menu"
   },
   {
-    "name": "poached eggs, hollandaise,",
-    "description": "scallions. ham 5 fruit (choice of side)",
-    "price": "$6",
+    "name": "bacon",
+    "description": "",
+    "price": "$5",
+    "menu_type": "sides",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "ham",
+    "description": "",
+    "price": "$5",
     "menu_type": "sides",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
@@ -244,25 +370,16 @@
   },
   {
     "name": "bagel",
-    "description": "5 side house",
-    "price": "$6",
-    "menu_type": "sides",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Brunch Menu"
-  },
-  {
-    "name": "veggie hash bowl",
     "description": "",
-    "price": "$16",
+    "price": "$5",
     "menu_type": "sides",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Brunch Menu"
   },
   {
-    "name": "two potato hash,",
-    "description": "seasonal veggies, arugula, harissa side caesar (add egg - 3) cocktails and mimosas",
+    "name": "side caesar",
+    "description": "",
     "price": "$7",
     "menu_type": "sides",
     "restaurant_name": "Kindred",
@@ -270,18 +387,36 @@
     "menu_name": "Brunch Menu"
   },
   {
-    "name": "verde shakshuka",
-    "description": "20 prosecco bottle tomatillo sauce, ‘nduja baked eggs, cotija, includes one juice of your choice cilantro, and chili oil with toasted foccacia",
-    "price": "$24",
+    "name": "potatoes",
+    "description": "",
+    "price": "$5",
     "menu_type": "sides",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Brunch Menu"
   },
   {
-    "name": "classic mimosa",
-    "description": "omelettes prosecco, just a lil’ juice (orange, blood orange, grapefruit, cranberry)",
-    "price": "$10",
+    "name": "toast",
+    "description": "",
+    "price": "$5",
+    "menu_type": "sides",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "fruit",
+    "description": "",
+    "price": "$6",
+    "menu_type": "sides",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "side house",
+    "description": "",
+    "price": "$6",
     "menu_type": "sides",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
@@ -289,54 +424,27 @@
   },
   {
     "name": "bacon and cheese",
-    "description": "",
+    "description": "applewood smoked bacon, cheddar, chives",
     "price": "$14",
-    "menu_type": "sides",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Brunch Menu"
-  },
-  {
-    "name": "kindred bloody mary",
-    "description": "applewood smoked bacon, cheddar, chives house bloody mix *vegan*, vodka",
-    "price": "$14",
-    "menu_type": "sides",
+    "menu_type": "omelettes",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Brunch Menu"
   },
   {
     "name": "seasonal veggie",
-    "description": "15 michelada squash, arugula, tomato confit, pepita pesto bloody mix and Whitman Brewing Dick Murphy lite",
-    "price": "$10",
-    "menu_type": "sides",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Brunch Menu"
-  },
-  {
-    "name": "cava lemonata",
-    "description": "flatbreads vodka, citruscello, lemon, topped with cava",
+    "description": "squash, arugula, tomato confit, pepita pesto",
     "price": "$15",
-    "menu_type": "sides",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Brunch Menu"
-  },
-  {
-    "name": "toasted coconut espresso",
-    "description": "martini",
-    "price": "$15",
-    "menu_type": "sides",
+    "menu_type": "omelettes",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Brunch Menu"
   },
   {
     "name": "spiced creme flatbread",
-    "description": "coconut rum, kru cold brew, demerara, coffee liqueur proscuitto, gruyere, red onion, scallions,",
+    "description": "proscuitto, gruyere, red onion, scallions,",
     "price": "$20",
-    "menu_type": "sides",
+    "menu_type": "flatbreads",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Brunch Menu"
@@ -345,23 +453,95 @@
     "name": "breakfast flatbread",
     "description": "sausage, bacon, cheddar, eggs, maple aioli",
     "price": "$20",
-    "menu_type": "sides",
+    "menu_type": "flatbreads",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Brunch Menu"
   },
   {
-    "name": "Pear Pressure",
-    "description": "pear liqueur, vermouth, lime juice, ginger syrup,",
-    "price": "$16",
-    "menu_type": "Snacks",
+    "name": "prosecco bottle",
+    "description": "includes one juice of your choice",
+    "price": "$24",
+    "menu_type": "cocktails and mimosas",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Drink Menu"
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "classic mimosa",
+    "description": "prosecco, just a lil' juice (orange, blood orange, grapefruit, cranberry)",
+    "price": "$10",
+    "menu_type": "cocktails and mimosas",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "kindred bloody mary",
+    "description": "house bloody mix *vegan*, vodka",
+    "price": "$14",
+    "menu_type": "cocktails and mimosas",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "michelada",
+    "description": "bloody mix and Whitman Brewing Dick Murphy lite",
+    "price": "$10",
+    "menu_type": "cocktails and mimosas",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "cava lemonata",
+    "description": "vodka, citruscello, lemon, topped with cava",
+    "price": "$15",
+    "menu_type": "cocktails and mimosas",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "toasted coconut espresso martini",
+    "description": "coconut rum, kru cold brew, demerara, coffee liqueur",
+    "price": "$15",
+    "menu_type": "cocktails and mimosas",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "kindred house salad",
+    "description": "mixed greens, pickled red onions, cucumber, radish, sunflower seeds, house vinaigrette\nAdd-ons: add chicken - $6 / add shrimp - $9",
+    "price": "$15",
+    "menu_type": "snacks and greens",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "avocado toast",
+    "description": "smashed avocado, beetroot-pickled egg, radish, microgreens, sweet potato puree\nAdd-ons: add bacon - $5",
+    "price": "$15",
+    "menu_type": "sandwiches and toasts",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "veggie hash bowl",
+    "description": "two potato hash, seasonal veggies, arugula, harissa crema\nAdd-ons: add egg - $3",
+    "price": "$16",
+    "menu_type": "breakfast classics",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Brunch Menu"
   },
   {
     "name": "marinated olives",
-    "description": "fee foam, topped with cava",
+    "description": "",
     "price": "$5",
     "menu_type": "Snacks",
     "restaurant_name": "Kindred",
@@ -370,7 +550,7 @@
   },
   {
     "name": "warm bread",
-    "description": "",
+    "description": "focaccia, mushroom butter, evoo, saba",
     "price": "$5",
     "menu_type": "Snacks",
     "restaurant_name": "Kindred",
@@ -378,17 +558,8 @@
     "menu_name": "Drink Menu"
   },
   {
-    "name": "focaccia, mushroom butter,",
-    "description": "evoo, saba Empire State of Mind applejack whiskey, elderflower liqueur, lemon juice, bacon-wrapped dates",
-    "price": "$16",
-    "menu_type": "Snacks",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Drink Menu"
-  },
-  {
-    "name": "house smoked gruyere,",
-    "description": "‘nduja sauce",
+    "name": "bacon-wrapped dates",
+    "description": "house smoked gruyere, 'nduja sauce",
     "price": "$6",
     "menu_type": "Snacks",
     "restaurant_name": "Kindred",
@@ -396,17 +567,8 @@
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Purple Yamborghini",
-    "description": "salt and vinegar chips spiced black tea- infused rum, ube coconut milk,",
-    "price": "$16",
-    "menu_type": "Snacks",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Drink Menu"
-  },
-  {
-    "name": "smoked trout roe,",
-    "description": "creme fraiche bergamot liqueur *contains dairy* fried fingerling potatoes",
+    "name": "salt and vinegar chips",
+    "description": "smoked trout roe, creme fraiche",
     "price": "$10",
     "menu_type": "Snacks",
     "restaurant_name": "Kindred",
@@ -414,17 +576,8 @@
     "menu_name": "Drink Menu"
   },
   {
-    "name": "truffle oil, parm,",
-    "description": "garlic chips, cornichons, Smoldering Fire",
-    "price": "$16",
-    "menu_type": "Snacks",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Drink Menu"
-  },
-  {
-    "name": "pickled red onion",
-    "description": "mezcal, spicy triple sec, acid-adjusted blood orange juice, crispy brussel sprouts cinnamon syrup",
+    "name": "fried fingerling potatoes",
+    "description": "truffle oil, parm, garlic chips, cornichons, pickled red onion",
     "price": "$10",
     "menu_type": "Snacks",
     "restaurant_name": "Kindred",
@@ -432,8 +585,8 @@
     "menu_name": "Drink Menu"
   },
   {
-    "name": "fig balsamic, green",
-    "description": "mayo, smoked hazelnuts",
+    "name": "crispy brussel sprouts",
+    "description": "fig balsamic, green mayo, smoked hazelnuts",
     "price": "$10",
     "menu_type": "Snacks",
     "restaurant_name": "Kindred",
@@ -441,17 +594,8 @@
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Waffle Haus",
-    "description": "house salad toasted pecan bourbon, amaro nardini, mixed greens, pickled red onions, cucumber, brown butter demerera *contains treenuts and dairy*",
-    "price": "$16",
-    "menu_type": "Snacks",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Drink Menu"
-  },
-  {
-    "name": "radish, sunflower seeds,",
-    "description": "house vinaigrette",
+    "name": "house salad",
+    "description": "mixed greens, pickled red onions, cucumber, radish, sunflower seeds, house vinaigrette",
     "price": "$10",
     "menu_type": "Snacks",
     "restaurant_name": "Kindred",
@@ -460,16 +604,7 @@
   },
   {
     "name": "spiced creme flatbread",
-    "description": "Silent Orchard",
-    "price": "$16",
-    "menu_type": "Snacks",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Drink Menu"
-  },
-  {
-    "name": "prosciutto, gruyere, red",
-    "description": "onion, scallions barrel-aged gin, bergamot liqueur, cranberry cardamom syrup, lemon, splash of bubbles cheeseburger",
+    "description": "prosciutto, gruyere, red onion, scallions",
     "price": "$15",
     "menu_type": "Snacks",
     "restaurant_name": "Kindred",
@@ -477,26 +612,17 @@
     "menu_name": "Drink Menu"
   },
   {
-    "name": "single 4oz patty,",
-    "description": "american cheese, Hot Temptation bacon jam, pickles, brioche bun 9 ramp gin, black pepper vodka, house hot sauce, pickle juice",
-    "price": "$18",
+    "name": "cheeseburger",
+    "description": "single 4oz patty, american cheese, bacon jam, pickles, brioche bun",
+    "price": "$9",
     "menu_type": "Snacks",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Absinthe Colada",
-    "description": "grape: glera acid-adjusted pineapple juice, coconut cream. milk clarified *contains dairy*",
-    "price": "$18",
-    "menu_type": "Wine",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Drink Menu"
-  },
-  {
-    "name": "Berger",
-    "description": "/ Niedrosterreich, Austria",
+    "name": "Bellafina Prosecco / Veneto, Italy",
+    "description": "grape: glera",
     "price": "$7",
     "menu_type": "Wine",
     "restaurant_name": "Kindred",
@@ -504,17 +630,8 @@
     "menu_name": "Drink Menu"
   },
   {
-    "name": "grape: gruner vetliner",
-    "description": "Montenegro Mocha coffee liqueur, cold brew",
-    "price": "$16",
-    "menu_type": "Wine",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Drink Menu"
-  },
-  {
-    "name": "grape: sangiovese, canaiolo,",
-    "description": "mammolo, merlot",
+    "name": "Berger / Niedrosterreich, Austria",
+    "description": "grape: gruner vetliner",
     "price": "$7",
     "menu_type": "Wine",
     "restaurant_name": "Kindred",
@@ -522,8 +639,8 @@
     "menu_name": "Drink Menu"
   },
   {
-    "name": "grape: cabernet sauvignon,",
-    "description": "merlot",
+    "name": "Salchetto / Tuscany, Italy",
+    "description": "grape: sangiovese, canaiolo, mammolo, merlot",
     "price": "$7",
     "menu_type": "Wine",
     "restaurant_name": "Kindred",
@@ -531,19 +648,28 @@
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Funkelwürtz Zero",
-    "description": "/ Zeltingen, Germany 12 / grapes: muskateller, rivaner",
-    "price": "$42",
+    "name": "Laffitte Laujac / Bordeaux, France",
+    "description": "grape: cabernet sauvignon, merlot",
+    "price": "$7",
     "menu_type": "Wine",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Negroni",
+    "description": "",
+    "price": "$9",
+    "menu_type": "Classic Cocktails",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
     "name": "Old Fashioned",
-    "description": "9 The Pathfinder Hemp Root Spirit",
-    "price": "$10",
-    "menu_type": "Wine",
+    "description": "",
+    "price": "$9",
+    "menu_type": "Classic Cocktails",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
@@ -552,16 +678,7 @@
     "name": "Manhattan",
     "description": "",
     "price": "$9",
-    "menu_type": "Wine",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Drink Menu"
-  },
-  {
-    "name": "Guiness Zero",
-    "description": "",
-    "price": "$6",
-    "menu_type": "Wine",
+    "menu_type": "Classic Cocktails",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
@@ -570,16 +687,16 @@
     "name": "Martini",
     "description": "",
     "price": "$9",
-    "menu_type": "Wine",
+    "menu_type": "Classic Cocktails",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
     "name": "Espresso Martini",
-    "description": "9 Athletic Free Wave N/A IPA",
-    "price": "$7",
-    "menu_type": "Wine",
+    "description": "",
+    "price": "$9",
+    "menu_type": "Classic Cocktails",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
@@ -588,16 +705,7 @@
     "name": "Cosmopolitan",
     "description": "",
     "price": "$9",
-    "menu_type": "Wine",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Drink Menu"
-  },
-  {
-    "name": "N/A Negroni",
-    "description": "",
-    "price": "$10",
-    "menu_type": "Wine",
+    "menu_type": "Classic Cocktails",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
@@ -606,412 +714,763 @@
     "name": "Margarita",
     "description": "",
     "price": "$9",
-    "menu_type": "Wine",
+    "menu_type": "Classic Cocktails",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
     "name": "Paloma",
-    "description": "9 Forbidden Fruit pineapple juice, orgeat, all spice dem, coco bitters *contains treenuts*",
-    "price": "$12",
-    "menu_type": "Wine",
+    "description": "",
+    "price": "$9",
+    "menu_type": "Classic Cocktails",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Beer N/A Amaro",
-    "description": "Spritz n/a pathfinder herbal spirit, splash of bubbles,",
-    "price": "$12",
-    "menu_type": "Wine",
-    "restaurant_name": "Kindred",
-    "restaurant_url": "https://kindredsaratoga.com/",
-    "menu_name": "Drink Menu"
-  },
-  {
-    "name": "Whitman Brewing Dick",
-    "description": "Murphy Lite topped with funkelwurtz n/a sparkling wine",
+    "name": "Whitman Brewing Dick Murphy Lite",
+    "description": "",
     "price": "$5",
-    "menu_type": "Wine",
+    "menu_type": "Beer",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Zero Gravity Conehead",
-    "description": "IPA",
+    "name": "Zero Gravity Conehead IPA",
+    "description": "",
     "price": "$6",
-    "menu_type": "Wine",
+    "menu_type": "Beer",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Plum Eclipse",
+    "description": "blanco tequila, dry curacao, lime cordial, plum, orange and clove shrub, splash of bubbles",
+    "price": "$18",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pear Pressure",
+    "description": "pear liqueur, vermouth, lime juice, ginger syrup, fee foam, topped with cava",
+    "price": "$16",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Empire State of Mind",
+    "description": "applejack whiskey, elderflower liqueur, lemon juice, Faccia Brutto Apertivo, honey syrup",
+    "price": "$16",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Purple Yamborghini",
+    "description": "spiced black tea- infused rum, ube coconut milk, bergamot liqueur *contains dairy*",
+    "price": "$16",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Smoldering Fire",
+    "description": "mezcal, spicy triple sec, acid-adjusted blood orange juice, cinnamon syrup",
+    "price": "$16",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Waffle Haus",
+    "description": "toasted pecan bourbon, amaro nardini, brown butter demerera *contains treenuts and dairy*",
+    "price": "$16",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Silent Orchard",
+    "description": "barrel-aged gin, bergamot liqueur, cranberry cardamom syrup, lemon, splash of bubbles",
+    "price": "$16",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Hot Temptation",
+    "description": "ramp gin, black pepper vodka, house hot sauce, pickle juice",
+    "price": "$18",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Absinthe Colada",
+    "description": "light rum, absinthe, pineapple liqueur, acid-adjusted pineapple juice, coconut cream. milk clarified *contains dairy*",
+    "price": "$18",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Montenegro Mocha",
+    "description": "spicy montenegro, creme de cacao, coffee liqueur, cold brew",
+    "price": "$16",
+    "menu_type": "Cocktails",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Funkelwürtz Zero / Zeltingen, Germany",
+    "description": "dealcoholized sparkling wine grapes: muskateller, rivaner bright, juicy white fruit, refreshing",
+    "price": "$12 / 42",
+    "menu_type": "Zero-Proof",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "The Pathfinder Hemp Root Spirit",
+    "description": "",
+    "price": "$10",
+    "menu_type": "Zero-Proof",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Guiness Zero",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Zero-Proof",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Athletic Free Wave N/A IPA",
+    "description": "",
+    "price": "$7",
+    "menu_type": "Zero-Proof",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "N/A Negroni",
+    "description": "",
+    "price": "$10",
+    "menu_type": "Zero-Proof",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Forbidden Fruit",
+    "description": "pineapple juice, orgeat, all spice dem, coco bitters *contains treenuts*",
+    "price": "$12",
+    "menu_type": "Zero-Proof",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "N/A Amaro Spritz",
+    "description": "n/a pathfinder herbal spirit, splash of bubbles, topped with funkelwurtz n/a sparkling wine",
+    "price": "$12",
+    "menu_type": "Zero-Proof",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
     "name": "Sambuca Spritz",
-    "description": "",
+    "description": "sambuca, splash of bubbles, topped with prosecco",
     "price": "$14",
-    "menu_type": "Wine",
+    "menu_type": "Spritz Menu",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "sambuca, splash of",
-    "description": "bubbles, topped with prosecco Salchetto Rosato Unfiltered / Tuscany, Italy 12 / grape: sangiovese, canaiolo, mammolo, merlot elderflower liqueur, splash of bubbles, topped with prosecco",
-    "price": "$42",
-    "menu_type": "Wine",
+    "name": "Hugo Spritz",
+    "description": "elderflower liqueur, splash of bubbles, topped with prosecco",
+    "price": "$15",
+    "menu_type": "Spritz Menu",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Ravines",
-    "description": "/ Finger Lakes, NY 15 / grape: Pinot noir acid-adjusted pineapple juice, vanilla vodka, chinola,",
-    "price": "$54",
-    "menu_type": "Wine",
+    "name": "Pineapple Passionfruit Spritz",
+    "description": "acid-adjusted pineapple juice, vanilla vodka, chinola, splash of bubbles, topped with cava",
+    "price": "$15",
+    "menu_type": "Spritz Menu",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Bodega Garzon Reserve",
-    "description": "/ Uruguay | Add-ons: 1.5 L splash of bubbles, topped with cava grape: Pinot noir notes of fresh cherries, strawberries, and wild flowers",
+    "name": "Salchetto Rosato Unfiltered / Tuscany, Italy",
+    "description": "grape: sangiovese, canaiolo, mammolo, merlot\nwild strawberries, pomegranate, flint",
+    "price": "$12/42",
+    "menu_type": "Rose",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Ravines / Finger Lakes, NY",
+    "description": "grape: Pinot noir\nwhite peach and fresh herbs, watermelon rind and minerality",
+    "price": "$15/54",
+    "menu_type": "Rose",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Bodega Garzon Reserve (1.5 L) / Uruguay",
+    "description": "grape: Pinot noir\nnotes of fresh cherries, strawberries, and wild flowers",
     "price": "$130",
-    "menu_type": "Wine",
+    "menu_type": "Rose",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Cascina Valle Asinari",
-    "description": "Moscato d'Asti/ Piedmont, Italy 15/ ripe peach and fresh white flowers",
-    "price": "$54",
-    "menu_type": "Wine",
+    "name": "Cascina Valle Asinari Moscato d'Asti/Piedmont, Italy",
+    "description": "ripe peach and fresh white flowers",
+    "price": "$15/54",
+    "menu_type": "Dessert",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Kopke Fine Tawny",
-    "description": "Porto / Duoro, Portugal ripe and honeyed fruit with fragrant vanilla notes",
+    "name": "Kopke Fine Tawny Porto / Duoro, Portugal",
+    "description": "ripe and honeyed fruit with fragrant vanilla notes",
     "price": "$16",
-    "menu_type": "Wine",
+    "menu_type": "Dessert",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Beer Menu Pineau",
-    "description": "des Charentes / Cognac, France grape: cognac blend",
+    "name": "Pineau des Charentes / Cognac, France",
+    "description": "grape: cognac blend\nhoney, stewed prunes, vanilla",
     "price": "$16",
-    "menu_type": "Wine",
+    "menu_type": "Dessert",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Zero Gravity Conehead",
-    "description": "IPA 8 G.D. Vajra Barolo Chinato / Piedmont, Italy grape: nebbiolo",
+    "name": "G.D. Vajra Barolo Chinato / Piedmont, Italy",
+    "description": "grape: nebbiolo\nripe cherries, mountain herbs, blood orange peel",
     "price": "$18",
-    "menu_type": "Wine",
+    "menu_type": "Dessert",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Francoli Antico Vermouth Noveis / Piedmont, Italy",
+    "description": "dessert wine with balanced sweetness, good weight and notes\nof lemon, orange zest, wormwood, ginger raisin and ginseng",
+    "price": "$16",
+    "menu_type": "Dessert",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Chateau Laubade VSOP / Bas Armagnac, France",
+    "description": "grape: ugni blanc blend\nripe fruits, plum, pastry, vanilla and citrus aromas",
+    "price": "$16",
+    "menu_type": "Dessert",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Chateau Laubade XO / Bas Armagnac, France",
+    "description": "grape: ugni blanc blend\norchard fruit, vanilla, cinnamon, cocoa, orange zest",
+    "price": "$28",
+    "menu_type": "Dessert",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Whitman Brewing Dick Murphy Lite",
+    "description": "",
+    "price": "$6",
+    "menu_type": "Beer Menu",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Zero Gravity Conehead IPA",
+    "description": "",
+    "price": "$8",
+    "menu_type": "Beer Menu",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Guinness Stout",
+    "description": "",
+    "price": "$8",
+    "menu_type": "Beer Menu",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
     "name": "Seasonal Drafts",
-    "description": "",
+    "description": "ask your server for the current selection",
     "price": "$8",
-    "menu_type": "Wine",
+    "menu_type": "Beer Menu",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Francoli Antico Vermouth",
-    "description": "Noveis / Piedmont, Italy ask your server for the current selection dessert wine with balanced sweetness, good weight and notes of lemon, orange zest, wormwood, ginger raisin and ginseng",
-    "price": "$16",
-    "menu_type": "Wine",
+    "name": "L' de Laffitte Laujac/ Bordeaux, France",
+    "description": "grape: cabernet sauvignon, merlot\nripe red fruit, menthol, soft spiced oak",
+    "price": "12/42",
+    "menu_type": "Red",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Chateau Laubade VSOP",
-    "description": "/ Bas Armagnac, France grape: ugni blanc blend ripe fruits, plum, pastry, vanilla and citrus aromas",
-    "price": "$16",
-    "menu_type": "Wine",
+    "name": "Ribera del Duero / Castilla y Leon, Spain",
+    "description": "grape: tempranillo\nblackberry, blueberry, light toastiness, spice",
+    "price": "13/46",
+    "menu_type": "Red",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Chateau Laubade XO",
-    "description": "/ Bas Armagnac, France grape: ugni blanc blend orchard fruit, vanilla, cinnamon, cocoa, orange zest grape: cabernet sauvignon, merlot",
-    "price": "$28",
-    "menu_type": "Wine",
+    "name": "Les Granits Bleus (chilled) / Burgundy, France",
+    "description": "grape: gamay\nblack currant and raspberry, light tannic structure",
+    "price": "14/50",
+    "menu_type": "Red",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "ripe red fruit,",
-    "description": "menthol, soft spiced oak the white crunchy and bright orchard fruit, crisp grape: tempranillo blackberry, blueberry, light toastiness, spice Parceleros / Chile tropical fruits with light buttery oak",
+    "name": "Collusion/Columbia Valley, Washington",
+    "description": "grape: cabernet sauvignon\njuicy blue fruits, violets, leafy tobacco",
+    "price": "15/54",
+    "menu_type": "Red",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "EZY TGR/Willamette Valley, Oregon",
+    "description": "grape: pinot noir\nstrawberry, cherry cola, dried roses",
+    "price": "16/58",
+    "menu_type": "Red",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Dominio de las Abejas / Baja California, Mexico",
+    "description": "grape: nebbiolo\nred fruit, hint of black tea, spice, light tannins",
+    "price": "22/80",
+    "menu_type": "Red",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Colombaio Di Cencio Chianti Classico / Tuscany, It",
+    "description": "grape: sangiovese\nfruity notes of rose and violet, balanced tannins and acidity",
+    "price": "22/80",
+    "menu_type": "Red",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "G.D. Vajra Albe Barolo / Piedmont, Italy",
+    "description": "grape: nebbiolo\ncranberries and raspberries, rose petal, notes of black fig",
+    "price": "25/92",
+    "menu_type": "Red",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Chateau Peyros Greenwich 43N / Madiran, France",
+    "description": "grape: tannat\neucalyptus and licorice, dark candied fruit, velvety tannins",
+    "price": "110",
+    "menu_type": "Red",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Beeslaar / Stellenbosch, South Africa",
+    "description": "grape: pinotage\nstewed ripe red fruit, tobacco, light smoke background",
+    "price": "115",
+    "menu_type": "Red",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Hendry Napa Valley Vineyards / Napa Valley, Ca",
+    "description": "grape: cabernet sauvignon\ndark fruit, tea leaves, smokey oak",
+    "price": "175",
+    "menu_type": "Red",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Rioja Alta Rioja 904 Gran Reserva / Rioja, Spain",
+    "description": "grape: tempranillo, graciano\nplum and coffee, wild strawberry and cinnamon blossom",
+    "price": "225",
+    "menu_type": "Red",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Berger / Austria",
+    "description": "crunchy and bright orchard fruit, crisp",
     "price": "$15",
-    "menu_type": "Wine",
+    "menu_type": "Flight Menu",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Les Granits Bleus",
-    "description": "/ Burgundy, France 14 / | Add-ons: chilled grape: gamay black currant and raspberry, light tannic structure zesty lime skin, lemongrass, fennel seed",
-    "price": "$50",
-    "menu_type": "Wine",
+    "name": "Parceleros / Chile",
+    "description": "tropical fruits with light buttery oak",
+    "price": null,
+    "menu_type": "Flight Menu",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Collusion",
-    "description": "/Columbia Valley, Washington 15/ grapefruit, blood orange, minerality grape: cabernet sauvignon juicy blue fruits, violets, leafy tobacco",
-    "price": "$54",
-    "menu_type": "Wine",
+    "name": "Zephyr / New Zealand",
+    "description": "zesty lime skin, lemongrass, fennel seed",
+    "price": null,
+    "menu_type": "Flight Menu",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "the red",
-    "description": "grape: pinot noir black currant, raspberry, light tannins strawberry, cherry cola, dried roses grape: nebbiolo L' de Laffitte Laujac / France red fruit, hint of black tea, spice, light tannins ripe red fruit, menthol, spiced oak grape: sangiovese strawberries, cherry cola, dried roses fruity notes of rose and violet, balanced tannins and acidity",
+    "name": "Apollo's Praise / New York",
+    "description": "grapefruit, blood orange, minerality",
+    "price": null,
+    "menu_type": "Flight Menu",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Les Granits Bleus / France",
+    "description": "black currant, raspberry, light tannins",
     "price": "$15",
-    "menu_type": "Wine",
+    "menu_type": "Flight Menu",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "the orange",
-    "description": "",
+    "name": "Ribera del Duero / Spain",
+    "description": "blackberry, blueberry, spice",
+    "price": null,
+    "menu_type": "Flight Menu",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "L' de Laffitte Laujac / France",
+    "description": "ripe red fruit, menthol, spiced oak",
+    "price": null,
+    "menu_type": "Flight Menu",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "EZY TGR/Oregon",
+    "description": "strawberries, cherry cola, dried roses",
+    "price": null,
+    "menu_type": "Flight Menu",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pali / California",
+    "description": "apricot, honey suckle, yuzu",
     "price": "$17",
-    "menu_type": "Wine",
+    "menu_type": "Flight Menu",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "G.D. Vajra Albe",
-    "description": "Barolo / Piedmont, Italy 25/ grape: nebbiolo Pali / California cranberries and raspberries, rose petal, notes of black fig apricot, honey suckle, yuzu",
-    "price": "$92",
-    "menu_type": "Wine",
+    "name": "El Zorrito / Argentina",
+    "description": "floral, white fruit, orange peel",
+    "price": null,
+    "menu_type": "Flight Menu",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Chateau Peyros Greenwich",
-    "description": "43N / Madiran, France floral, white fruit, orange peel grape: tannat eucalyptus and licorice, dark candied fruit, velvety tannins Macabeo / France jasmine tea, bergamot, orange zest",
-    "price": "$110",
-    "menu_type": "Wine",
+    "name": "Macabeo / France",
+    "description": "jasmine tea, bergamot, orange zest",
+    "price": null,
+    "menu_type": "Flight Menu",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Beeslaar",
-    "description": "/ Stellenbosch, South Africa grape: pinotage stewed ripe red fruit, tobacco, light smoke background tropical fruit, dry, lots of funk",
-    "price": "$115",
-    "menu_type": "Wine",
+    "name": "Octagano / Mexico",
+    "description": "tropical fruit, dry, lots of funk",
+    "price": null,
+    "menu_type": "Flight Menu",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Hendry Napa Valley",
-    "description": "Vineyards / Napa Valley, Ca 175 staff picks grape: cabernet sauvignon a surprise selection of one of each of the following dark fruit, tea leaves, smokey oak grape: tempranillo, graciano White plum and coffee, wild strawberry and cinnamon blossom",
+    "name": "staff picks",
+    "description": "a surprise selection of one of each of the following\nSparking\nSkin Contact\nWhite\nRed",
     "price": "$15",
-    "menu_type": "Wine",
+    "menu_type": "Flight Menu",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Lucchetti Pet Nat",
-    "description": "Rose / Marche, Italy 12 / 42 Berger / Niederosterrich, Austria 12 / | Add-ons: 1L grape: lacrima grape: gruner veltliner vibrant white peach, strawberry, floral notes, crisp acidity crunchy and bright orchard fruit, mineral, crisp, light",
-    "price": "$50",
-    "menu_type": "Wine",
+    "name": "Lucchetti Pet Nat Rose / Marche, Italy",
+    "description": "grape: lacrima\nvibrant white peach, strawberry, floral notes, crisp acidity",
+    "price": "12/42",
+    "menu_type": "Bubbles",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Bellafina Prosecco",
-    "description": "/ Veneto, Italy 12 /",
-    "price": "$42",
-    "menu_type": "Wine",
+    "name": "Bellafina Prosecco / Veneto, Italy",
+    "description": "grape: glera\ncrisp yellow apples, white peaches, pear, white flowers",
+    "price": "12/42",
+    "menu_type": "Bubbles",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Parceleros",
-    "description": "/ Aconcagua, Chile 12 / grape: glera grape: chardonnay crisp yellow apples, white peaches, pear, white flowers tropical fruits with light buttery oak nuance",
-    "price": "$42",
-    "menu_type": "Wine",
+    "name": "Faustino Brut Cava / Catalonia, Spain",
+    "description": "grape: macabeo, chardonnay\nfloral aroma with melon, apple, and pastry notes",
+    "price": "14/50",
+    "menu_type": "Bubbles",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Faustino Brut Cava",
-    "description": "/ Catalonia, Spain 14 /",
-    "price": "$50",
-    "menu_type": "Wine",
+    "name": "Silverthread Pet Nat / Seneca Lake, New York",
+    "description": "grape: field blend\ngrapefruit, brioche, candied watermelon",
+    "price": "16/58",
+    "menu_type": "Bubbles",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "grape: macabeo, chardonnay",
-    "description": "Zephyr / Marlborough, New Zealand 14 / floral aroma with melon, apple, and pastry notes grape: sauvignon blanc zesty lime skin, pure lemongrass, salted lemon, fennel seed",
-    "price": "$50",
-    "menu_type": "Wine",
+    "name": "Laurent-Perrier (375 ml) / Champagne, France",
+    "description": "grape: chardonnay\npeach and white fruit, fresh, light acidity",
+    "price": "25/44",
+    "menu_type": "Bubbles",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Silverthread Pet Nat",
-    "description": "/ Seneca Lake, New York 16 /",
-    "price": "$58",
-    "menu_type": "Wine",
+    "name": "Red Tail Ridge/Finger Lakes, New York",
+    "description": "grape: riesling\ndry crisp orchard fruit, light bubbles",
+    "price": "76",
+    "menu_type": "Bubbles",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "grape: field blend",
-    "description": "Apollo's Praise / Seneca Lake, New York 14 / grapefruit, brioche, candied watermelon grape: riesling smokey grapefruit, blood orange, rich orchard fruit, minerality",
-    "price": "$50",
-    "menu_type": "Wine",
+    "name": "Pertois-Moriset L'Assemblage Brut/Champagne, France",
+    "description": "grape: chardonnay, pinot noir\nfresh minerality, notes of red fruits and cherry blossoms",
+    "price": "125",
+    "menu_type": "Bubbles",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Laurent-Perrier",
-    "description": "/ Champagne, France 25 / | Add-ons: 375 ml",
-    "price": "$44",
-    "menu_type": "Wine",
+    "name": "Berger (1L) / Niederosterrich, Austria",
+    "description": "grape: gruner veltliner\ncrunchy and bright orchard fruit, mineral, crisp, light",
+    "price": "12/50",
+    "menu_type": "White",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "grape: chardonnay Legado",
-    "description": "del Conde Albarino / Galicia, Spain 15/ peach and white fruit, fresh, light acidity grape: albarino pear, jasmine, apple, ocean air",
-    "price": "$54",
-    "menu_type": "Wine",
+    "name": "Parceleros/Aconcagua, Chile",
+    "description": "grape: chardonnay\ntropical fruits with light buttery oak nuance",
+    "price": "12/42",
+    "menu_type": "White",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Red Tail Ridge",
-    "description": "/ Finger Lakes, New Y ork",
-    "price": "$76",
-    "menu_type": "Wine",
+    "name": "Zephyr / Marlborough, New Zealand",
+    "description": "grape: sauvignon blanc\nzesty lime skin, pure lemongrass, salted lemon, fennel seed",
+    "price": "14/50",
+    "menu_type": "White",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "grape: riesling Domaine",
-    "description": "Reverdy-Ducroux Sancerre / Loire Valley, Fr 22 / dry crisp orchard fruit, light bubbles grape: sauvignon blanc flint, white fruit, fresh finish",
-    "price": "$80",
-    "menu_type": "Wine",
+    "name": "Apollo's Praise / Seneca Lake, New York",
+    "description": "grape: riesling\nsmokey grapefruit, blood orange, rich orchard fruit, minerality",
+    "price": "14/50",
+    "menu_type": "White",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Pertois-Moriset L'Assemblage Brut",
-    "description": "/ Champagne, France",
-    "price": "$125",
-    "menu_type": "Wine",
+    "name": "Legado del Conde Albarino / Galicia, Spain",
+    "description": "grape: albarino\npear, jasmine, apple, ocean air",
+    "price": "15/54",
+    "menu_type": "White",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "grape: chardonnay, pinot",
-    "description": "noir Saints Hills Le Chiffre/ Croatia 25 / fresh minerality, notes of red fruits and cherry blossoms grape: chardonnay summer peaches and bergamot flowers, creamy texture and bright acidity",
-    "price": "$92",
-    "menu_type": "Wine",
+    "name": "Domaine Reverdy-Ducroux Sancerre / Loire Valley, Fr",
+    "description": "grape: sauvignon blanc\nflint, white fruit, fresh finish",
+    "price": "22/80",
+    "menu_type": "White",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Orange De Wetshof",
-    "description": "Bateleaur/ Western Cape, South Africa grape: chardonnay grape: chardonnay",
-    "price": "$115",
-    "menu_type": "Wine",
+    "name": "Saints Hills Le Chiffre/Croatia",
+    "description": "grape: chardonnay\nsummer peaches and bergamot flowers,\ncreamy texture and bright acidity",
+    "price": "25/92",
+    "menu_type": "White",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Chateneuf-du-Pape Blanc",
-    "description": "/ Rhone Valley, France floral, white fruit, orange peel grape: grenache blanc, clairette, roussane crisp apple and pear, orange blossom, anise seed",
-    "price": "$175",
-    "menu_type": "Wine",
+    "name": "De Wetshof Bateleaur/Western Cape, South Africa",
+    "description": "grape: chardonnay\nsemi-dry, aromatic florals, tropical fruit, minerality",
+    "price": "115",
+    "menu_type": "White",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Pali Wild Series",
-    "description": "/ Central Coast, California 15/ grape: gewurztraminer, pinot noir wild flowers, apricot, honeysuckle, yuzu citrus",
-    "price": "$54",
-    "menu_type": "Wine",
+    "name": "Chateneuf-du-Pape Blanc / Rhone Valley, France",
+    "description": "grape: grenache blanc, clairette, roussane\ncrisp apple and pear, orange blossom, anise seed",
+    "price": "175",
+    "menu_type": "White",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Domaine Cazes Macabeo",
-    "description": "Amber / Loire Valley, Fr 15 / grape: macabeu jasmine tea, bergamot, orange peel",
-    "price": "$54",
-    "menu_type": "Wine",
+    "name": "El Zorrito / Mendoza, Argentina",
+    "description": "grape: chardonnay\nfloral, white fruit, orange peel",
+    "price": "14/50",
+    "menu_type": "Orange",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Big Salt Orange",
-    "description": "Rose / Oregon 16 / grape: pinot gris, muscat, gewurztraminer tangerine, hibiscus, ginger, banana, herbal salinity",
-    "price": "$58",
-    "menu_type": "Wine",
+    "name": "Pali Wild Series / Central Coast, California",
+    "description": "grape: gewurztraminer, pinot noir\nwild flowers, apricot, honeysuckle, yuzu citrus",
+    "price": "15/54",
+    "menu_type": "Orange",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Love You Bunches",
-    "description": "/ Santa Barbara, California 18 / grape: muscat, pinot gris, mourvedre grapefruit, pineapple, woody notes and light minerality",
-    "price": "$66",
-    "menu_type": "Wine",
+    "name": "Domaine Cazes Macabeo Amber / Loire Valley, Fr",
+    "description": "grape: macabeu\njasmine tea, bergamot, orange peel",
+    "price": "15/54",
+    "menu_type": "Orange",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"
   },
   {
-    "name": "Octagano Blanco",
-    "description": "/ Guanajuato, Mexico 23 / grape: moscato, semillon tropical fruit, honeydew melon, medium acidity",
-    "price": "$80",
-    "menu_type": "Wine",
+    "name": "Big Salt Orange Rose / Oregon",
+    "description": "grape: pinot gris, muscat, gewurztraminer\ntangerine, hibiscus, ginger, banana, herbal salinity",
+    "price": "16/58",
+    "menu_type": "Orange",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Love You Bunches / Santa Barbara, California",
+    "description": "grape: muscat, pinot gris, mourvedre\ngrapefruit, pineapple, woody notes and light minerality",
+    "price": "18/66",
+    "menu_type": "Orange",
+    "restaurant_name": "Kindred",
+    "restaurant_url": "https://kindredsaratoga.com/",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Octagano Blanco / Guanajuato, Mexico",
+    "description": "grape: moscato, semillon\ntropical fruit, honeydew melon, medium acidity",
+    "price": "23/80",
+    "menu_type": "Orange",
     "restaurant_name": "Kindred",
     "restaurant_url": "https://kindredsaratoga.com/",
     "menu_name": "Drink Menu"

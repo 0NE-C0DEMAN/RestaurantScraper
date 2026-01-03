@@ -1,0 +1,2468 @@
+[
+  {
+    "name": "Greener Pastures- Chicken Pot Pie - Family Size",
+    "description": "Chicken pot pie for the family!",
+    "price": "$21.99",
+    "menu_type": "Featured Products",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Featured Products"
+  },
+  {
+    "name": "Holiday Truffle Sampler Box",
+    "description": "Makes for a great gift for teachers, bus drivers or co workers!",
+    "price": "$17.99",
+    "menu_type": "Featured Products",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Featured Products"
+  },
+  {
+    "name": "Peanut Brittle - Nt Wt. 6oz",
+    "description": "A classic American candy that's sweet and salty, with a crunchy texture!",
+    "price": "$4.99",
+    "menu_type": "Featured Products",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Featured Products"
+  },
+  {
+    "name": "Peanut Butter Pals Nt. Wt. 6oz",
+    "description": "A soft peanut butter confection covered in our creamy milk chocolate in the festive shapes of Santa, Trees and Snowman.",
+    "price": "$7.99",
+    "menu_type": "Featured Products",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Featured Products"
+  },
+  {
+    "name": "Peppermint Pig - Noel 8",
+    "description": "It's a festive way to celebrate the holidays!",
+    "price": "$29.99",
+    "menu_type": "Featured Products",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Featured Products"
+  },
+  {
+    "name": "Peppermint Pretzels Nt. Wt. 5.5oz",
+    "description": "Make the holidays a little more merry with our Peppermint Chocolate Covered Pretzels!",
+    "price": "$6.99",
+    "menu_type": "Featured Products",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Featured Products"
+  },
+  {
+    "name": "Premium Hot Cocoa Mix",
+    "description": "cozy, rich, and ready in minutes. Simply add milk and enjoy!",
+    "price": "$12.99",
+    "menu_type": "Featured Products",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Featured Products"
+  },
+  {
+    "name": "Simple Supper",
+    "description": "Chili and cornbread, the perfect pair for an easy, comforting supper",
+    "price": "$19.99",
+    "menu_type": "Featured Products",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Featured Products"
+  },
+  {
+    "name": "Single Scoop Card",
+    "description": "Take a drive to the country and experience true farm fresh goodness!",
+    "price": "$5.50",
+    "menu_type": "Featured Products",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Featured Products"
+  },
+  {
+    "name": "The Sideline Snacks",
+    "description": "The perfect play to kick off game day!",
+    "price": "$17.99",
+    "menu_type": "Featured Products",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Featured Products"
+  },
+  {
+    "name": "Via Cheese Tortellini - 7oz",
+    "description": "Bite-sized pockets of cheesy Italian bliss",
+    "price": "$15.99",
+    "menu_type": "Pasta",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Via Ravioli - Ricotta Cheese 7oz",
+    "description": "Simple and perfect.",
+    "price": "$12.99",
+    "menu_type": "Pasta",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Via Ravioli -Mushroom Ricotta - 7oz",
+    "description": "Savory filling for these raviolis.",
+    "price": "$14.99",
+    "menu_type": "Pasta",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Via Ravioli -Spinach Ricotta 7oz",
+    "description": "Impress your taste buds!",
+    "price": "$14.99",
+    "menu_type": "Pasta",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Brewing moments of Joy- Country Ground Coffee",
+    "description": "",
+    "price": "$19.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Brewing moments of Joy- Sumatra Ground Coffee",
+    "description": "",
+    "price": "$19.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Brewing moments of Joy- Tea",
+    "description": "",
+    "price": "$20.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Drink Like a King Ornament",
+    "description": "Complete your tree with our Drink like a King Ornament!",
+    "price": "$3.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Holiday Truffle Sampler Box",
+    "description": "Makes for a great gift for teachers, bus drivers or co workers!",
+    "price": "$17.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Insulated Porch Box",
+    "description": "Head back in time and add a classic style porch box to your front porch!",
+    "price": "$94.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Insulated Tote",
+    "description": "Add an insulated tote to your reusable bags - Good for hot or cold items!",
+    "price": "$8.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "King Brothers Dairy Mug- 16oz",
+    "description": "Enjoy a cup of coffee or tea in your own King Brothers Dairy mug!",
+    "price": "$12.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Kodee's Krunchies - All Natural Dog Treats",
+    "description": "Peanut Butter dog treats that are all natural",
+    "price": "$9.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Mapleland Farms - Maple Roasted Almonds",
+    "description": "Pure maple products",
+    "price": "$8.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Mapleland Farms - Maple Roasted Peanuts",
+    "description": "Pure maple products",
+    "price": "$7.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Mapleland Farms - Maple Roasted Pecans",
+    "description": "Pure maple products",
+    "price": "$8.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Peanut Brittle - Nt Wt. 6oz",
+    "description": "A classic American candy that's sweet and salty, with a crunchy texture!",
+    "price": "$4.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Peanut Butter Pals Nt. Wt. 6oz",
+    "description": "A soft peanut butter confection covered in our creamy milk chocolate in the festive shapes of Santa, Trees and Snowman.",
+    "price": "$7.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Peppermint Pig - Noel 8",
+    "description": "It's a festive way to celebrate the holidays!",
+    "price": "$29.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Peppermint Pretzels Nt. Wt. 5.5oz",
+    "description": "Make the holidays a little more merry with our Peppermint Chocolate Covered Pretzels!",
+    "price": "$6.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Premium Hot Cocoa Mix",
+    "description": "cozy, rich, and ready in minutes. Simply add milk and enjoy!",
+    "price": "$12.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Single Scoop Card",
+    "description": "Take a drive to the country and experience true farm fresh goodness!",
+    "price": "$5.50",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Squires Kettle Korn Co.- Caramel Corn",
+    "description": "The classic taste of sweet and buttery caramel!",
+    "price": "$12.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Squires Kettle Korn Co.- Kettle Corn",
+    "description": "Classic Kettle Corn taste that you grew up eating at the fair!",
+    "price": "$10.99",
+    "menu_type": "Holiday Gift Ideas",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Holiday Gift Ideas"
+  },
+  {
+    "name": "Cabot Cheddar Cheese Curds",
+    "description": "Versatile and convenient, cheese curds that elevate snacking and salads!",
+    "price": "$5.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Extra Sharp Snack Sticks",
+    "description": "Bring anywhere you go.",
+    "price": "$6.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Garlic Cheese Curds",
+    "description": "Whether you're a garlic enthusiast or aiming to enhance your favorite recipes, garlic curds are the ultimate go-to snack.",
+    "price": "$5.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Sour Cream - 16 oz",
+    "description": "It doesn't get any more rich and creamy than this- Mix with some Amigo's Salsa for an instant dip!",
+    "price": "$3.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Whipped Cream",
+    "description": "100% real dairy whipped cream with the taste of homemade!",
+    "price": "$5.69",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Stoltzfus Yogurt Smoothie - 4pk",
+    "description": "We know there are no shortcuts to the rich, luscious, healthy you’ll find in this bottle",
+    "price": "$9.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot 1lb Butter - Salted",
+    "description": "Don't forget this kitchen staple!",
+    "price": "$6.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot 8 oz Bar - Gouda",
+    "description": "All the creamy, nutty sweetness you love",
+    "price": "$4.19",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Large White Eggs (Dozen)",
+    "description": "These local eggs are fresh, fresh, fresh!",
+    "price": "$4.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot 1lb Butter - Unsalted",
+    "description": "Rich and creamy, and no salt added.",
+    "price": "$6.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Cream Cheese Spread- Chive & Onion - 8oz",
+    "description": "Treat yourself to the velvety smoothness blended with savory chives and zesty onions.",
+    "price": "$4.69",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Large Brown Eggs (Dozen)",
+    "description": "These local eggs are fresh, fresh, fresh!",
+    "price": "$5.09",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Stoltzfus 6oz Yogurt - Black Cherry",
+    "description": "The perfect go-to for a sweet tooth or a fruit lover!",
+    "price": "$2.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Cream Cheese Spread- Garden Vegetable- 8oz",
+    "description": "Enjoy the perfect blend of rich cream cheese and crisp vegetables",
+    "price": "$4.69",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Cream Cheese Spread- Strawberry - 8oz",
+    "description": "Indulge in the luxurious taste with fresh cream and bursting with the flavor of ripe strawberries.",
+    "price": "$4.69",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Chocolate Milk - Plastic 1/2 Gallon",
+    "description": "Experience for yourself what all the rage is about!",
+    "price": "$3.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Stoltzfus 6oz Yogurt - Blueberry",
+    "description": "Spoil yourself- it’s good for you!",
+    "price": "$2.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Shredded- Seriously Sharp Cheddar Cheese",
+    "description": "Great for sauces, pizzas, salads, and tacos!",
+    "price": "$4.19",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Fat Free Milk - Plastic 1/2 Gallon",
+    "description": "Our fat free milk is so rich and flavored you won't believe its nonfat!!",
+    "price": "$3.49",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot 6 oz Bar - Alpine Cheddar",
+    "description": "A subtle Swiss and Italian Alpine blend",
+    "price": "$4.09",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Fat Free Milk - Gallon",
+    "description": "Our fat free milk is so rich and flavorful you won't believe its nonfat!!",
+    "price": "$6.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Stoltzfus 6oz Yogurt - Peach",
+    "description": "Being healthy doesn't have to be a chore!",
+    "price": "$2.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Stoltzfus 6oz Yogurt - Raspberry",
+    "description": "This yogurt is sure to be a hit with the entire family!",
+    "price": "$2.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot 8 oz Bar - Everything Bagel Cheddar",
+    "description": "With the classic flavors of an everything bagel, this hand-rubbed cheddar tastes like it's fresh from your favorite bakery!",
+    "price": "$5.79",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Heavy Cream - Half Gallon",
+    "description": "Keep on hand for a variety of cooking needs.",
+    "price": "$9.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Stoltzfus 6oz Yogurt - Vanilla",
+    "description": "A creamy delight your taste buds will love!",
+    "price": "$2.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot 6 oz Bar - Farmhouse Reserve Cheddar",
+    "description": "A bold and creamy Lactose-Free Extra Sharp Cheddar with a Northeast Bite!",
+    "price": "$4.09",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Reduced Fat Milk - Gallon",
+    "description": "Discover the best tasting milk!",
+    "price": "$6.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Stoltzfus 6oz Yogurt - Strawberry",
+    "description": "Embellish yourself with savory flavor combined with great nutrients!",
+    "price": "$2.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot 8 oz Bar - Hot Buffalo Wing Cheddar",
+    "description": "Blistering hot buffalo wing sauce flavor is hand-rubbed into our cool and creamy cheddar.",
+    "price": "$5.79",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Reduced Fat Milk - Plastic 1/2 Gallon",
+    "description": "Discover the best tasting milk!",
+    "price": "$3.49",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Stoltzfus 6oz Yogurt - Maple",
+    "description": "Made with real maple syrup!",
+    "price": "$2.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot 6 oz Bar - White Oak Cheddar",
+    "description": "This cheddar offers subtle caramel sweetness with delicate hints of the duskiness of wine aging casks.",
+    "price": "$4.09",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Stoltzfus 32oz Yogurt - Vanilla",
+    "description": "Ever-popular Stoltzfus vanilla yogurt in a convenient 32 ounce size!",
+    "price": "$7.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Whole Milk - Plastic 1/2 Gallon",
+    "description": "Simply the best tasting milk!",
+    "price": "$3.49",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Whole Milk - Gallon",
+    "description": "Simply the best tasting milk!",
+    "price": "$6.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Cracker Cuts - Extra Sharp Cheddar",
+    "description": "Make snacking and lunch packing easy!",
+    "price": "$4.69",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Whole Milk - 1/2 Gallon GLASS",
+    "description": "Simply the best tasting milk!",
+    "price": "$3.79",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Cracker Cuts - Seriously Sharp Cheddar",
+    "description": "Make snacking and lunch packing easy!",
+    "price": "$4.69",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Reduced Fat Milk - 1/2 Gallon GLASS",
+    "description": "Discover the best tasting milk!",
+    "price": "$3.79",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Cracker Cuts - Vermont Sharp Cheddar",
+    "description": "Make snacking and lunch packing easy!",
+    "price": "$4.69",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Fat Free Milk - 1/2 Gallon GLASS",
+    "description": "Our fat free milk is so rich and flavorful you won't believe its nonfat!!",
+    "price": "$3.79",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Slices - American",
+    "description": "Ideal for hamburgers and grilled cheese sandwiches!",
+    "price": "$5.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Chocolate Milk - 1/2 Gallon GLASS",
+    "description": "Experience for yourself what all of the rage is about!",
+    "price": "$4.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Slices - Sharp Cheddar",
+    "description": "With its classic sharp cheddar taste, this award-winning cheddar is the cheese no kitchen should be without.",
+    "price": "$5.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Cream Cheese",
+    "description": "Spread the delicious!",
+    "price": "$3.69",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Whole Milk - Quart",
+    "description": "The perfect size for some individuals!",
+    "price": "$2.69",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot 8 oz Bar - Monterey Jack",
+    "description": "There are few cheeses in the world that melt quite as beautifully as Monterey Jack.",
+    "price": "$4.19",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot 8 oz Bar - Pepper Jack",
+    "description": "The ultimate balance of spice and creamy!",
+    "price": "$4.19",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Chocolate Milk - Quart",
+    "description": "Our famous chocolate milk is now available in quarts!",
+    "price": "$2.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot 8 oz Bar - Seriously Sharp Cheddar",
+    "description": "The cheddar that bites back!",
+    "price": "$4.19",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Half & Half - Quart",
+    "description": "No coffee is complete without this rich and creamy half and half.",
+    "price": "$4.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Buttermilk- Quart",
+    "description": "Our own cultured buttermilk has a variety of uses - Be sure to keep some on hand!",
+    "price": "$2.29",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Shredded - Fiery Jack",
+    "description": "Blaze of our Hot Habanero Cheddar with just the right amount of mild Monterey Jack for a smooth-melting mix",
+    "price": "$4.19",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Shredded - Four Cheese Mexican Blend",
+    "description": "Cabot took their Shredded Cheddar south of the border!",
+    "price": "$4.19",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Shredded - Mac & Cheese Blend",
+    "description": "Add some instant comfort food to your next family dinner!",
+    "price": "$4.19",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Shredded - Mozzarella",
+    "description": "Enjoy this low-moisture, part-skim shredded mozzarella on just about anything!",
+    "price": "$4.19",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Chocolate Milk 14 oz - 6 pack",
+    "description": "Perfect for lunches, after school snacks, or game day refueling!",
+    "price": "$10.49",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot Shredded - Sharp Cheddar",
+    "description": "This is one to never run out of - Add a convenient zip to many of your everyday dishes!",
+    "price": "$4.19",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Whole Milk 14 oz - 6 pack",
+    "description": "Stock up and save - Great for lunches and snacks!",
+    "price": "$9.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot 8 oz Bar - Extra Sharp Cheddar",
+    "description": "This is sharp cheddar without the training wheels!",
+    "price": "$4.19",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Cabot 8 oz Bar - Vermont Sharp Cheddar",
+    "description": "",
+    "price": "$4.19",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Hood Cottage Cheese - 16 oz",
+    "description": "The perfect, protein-packed snack!",
+    "price": "$3.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "New Skete Cranberry Walnut Cheese Spread - 7 oz",
+    "description": "A delightful blend of cheese, cranberries, and walnuts! Perfect for holiday entertaining and gift giving!",
+    "price": "$9.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "New Skete Bacon Cheddar Spread - 7 oz",
+    "description": "The perfect blend of cheddar and bacon - Spread on a burger for a quick and easy bacon cheeseburger!",
+    "price": "$9.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "New Skete Creamy Cheddar Spread - 7 oz",
+    "description": "An original cheddar favorite! Keep a few in the freezer for last minute entertaining!",
+    "price": "$9.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "New Skete Horseradish Cheddar Spread -7 oz",
+    "description": "New Skete's #1 selling cheese spread. A satisfying combination for horseradish lovers!",
+    "price": "$9.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "New Skete Jalapeno Cheddar Spread - 7 oz",
+    "description": "For adventurous souls - a tangy blend featuring plenty of bits of chopped jalapeno peppers.",
+    "price": "$9.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "New Skete Tawny Port Cheese Spread - 7 oz",
+    "description": "Add a touch of elegance to your spread!",
+    "price": "$9.99",
+    "menu_type": "Dairy/Eggs",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Dairy/Eggs"
+  },
+  {
+    "name": "Beef Sausage - Hot Italian Links",
+    "description": "You'll serve flavor and satisfaction in every bite with our beef hot Italian sausages.",
+    "price": "$11.49",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Stoltzfus Chicken Grillers - Cranberry Apple",
+    "description": "Apples, spices and a little bit of maple syrup!",
+    "price": "$9.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Stoltzfus Chicken Grillers - Buffalo Bleu",
+    "description": "Perfectly blended spices to add to any dish.",
+    "price": "$9.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Stoltzfus Chicken Grillers - Cheddar Cheese",
+    "description": "Made with real Cheddar Cheese!",
+    "price": "$9.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Bottom Round Roast",
+    "description": "The perfect cut for the crockpot!",
+    "price": "$10.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Misty Knoll Farms - Boneless Chicken Breast",
+    "description": "You can trust Misty Knoll Farms to bring Vermont's most flavorful and nutritious poultry to your family's table. Family owned since 1984.",
+    "price": "$12.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Oscar's Bacon - Maple Flavored",
+    "description": "enjoy this savory bacon with a hint of Maple Syrup flavor.  This bacon is resistant to shrinkage and has been a household favorite for over 50 years!",
+    "price": "$11.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Oscar's Smoked Pork Chops",
+    "description": "Perfect for dinner when you're short on time!!",
+    "price": "$10.49",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Beef Breakfast Sausage Links",
+    "description": "Add some flavor to your mornings with our very own 100% beef breakfast sausage links!",
+    "price": "$11.49",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Misty Knoll Farms - Chicken Wings",
+    "description": "Regardless of how they're cooked or the sauce they're tossed with, wings always hit the spot!",
+    "price": "$6.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Oscar's Petite Ham",
+    "description": "A perfect size for your next meal! This ham is sugar cured and natural wood smoked to bring you a superior level of flavor.",
+    "price": "$8.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Beef Brisket",
+    "description": "A perennial Pitmaster's BBQ favorite!",
+    "price": "$11.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Beef Sausage - Sweet Italian Links",
+    "description": "You'll serve flavor and satisfaction in every bite with our beef sweet Italian sausages.",
+    "price": "$11.49",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Misty Knoll Farms - Chicken Legs",
+    "description": "You can trust Misty Knoll Farms to bring Vermont's most flavorful and nutritious poultry to your family's table. Family owned since 1984.",
+    "price": "$6.49",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Oscar's Bacon - Hickory Smoked",
+    "description": "Oscar's signature bacon that is pre-sliced. This cut’s resistance to shrinkage is what has made it a best-seller since 1946.",
+    "price": "$11.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Beef Cajun Andouille Links",
+    "description": "Our own andouille sausage - Perfect for any occasion!",
+    "price": "$11.49",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Beef Kabobs",
+    "description": "What's a summer grill without beef kabobs? These versatile cuts also work well for a variety of other uses!",
+    "price": "$10.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Misty Knoll Farms - Boneless Turkey Breast",
+    "description": "You can trust Misty Knoll Farms to bring Vermont's most flavorful and nutritious poultry to your family's table. Family owned since 1984.",
+    "price": "$11.49",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Oscar's Bacon - Applewood Smoked",
+    "description": "Oscar's premium bacon smoked with savory Applewood chips making it a treat for any bacon lover.",
+    "price": "$11.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Beef Hot Dogs",
+    "description": "Hot dogs made from our own home grown beef!",
+    "price": "$10.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Beef Sausage - Chorizo Links",
+    "description": "Beef Chorizo features an authentic blend of robust herbs and spices with a rich flavor of beef.",
+    "price": "$11.49",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Misty Knoll Farms - Whole Chicken",
+    "description": "You can trust Misty Knoll Farms to bring Vermont's most flavorful and nutritious poultry to your family's table. Family owned since 1984.",
+    "price": "$5.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Oscar's Bagged Country Style Breakfast Sausage",
+    "description": "Home cooked breakfasts aren't the same without this traditional breakfast sausage!",
+    "price": "$6.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Misty Knoll Farms - Ground Turkey",
+    "description": "You can trust Misty Knoll Farms to bring Vermont's most flavorful and nutritious poultry to your family's table. Family owned since 1984.",
+    "price": "$9.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Beef Kielbasa Ring",
+    "description": "A tasty and versatile sausage - One to always keep on hand!",
+    "price": "$11.49",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Chuck Roast",
+    "description": "Robust beef flavor, lean, moist and tender when braised (pot roasting). Add some vegetables to the pot and dinner is served!",
+    "price": "$9.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Eye Round Roast",
+    "description": "It's all about the roasts! Versatile and economical, this lean, boneless cut makes an excellent pot roast when slow cooked and cooked to medium rare.",
+    "price": "$10.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Cube Steak",
+    "description": "This steak is convenient and quick-cooking. It makes a great steak cooked quickly in a skillet or slow cooked in a crockpot.",
+    "price": "$10.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Delmonico Steak",
+    "description": "A boneless center cut rib steak which is packed with flavor.",
+    "price": "$20.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Fajita Steaks",
+    "description": "Perfect for Mexican night!!",
+    "price": "$13.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Filet Mignon",
+    "description": "This is the most tender steak, lean yet succulent, with a fine buttery texture. Hurry while they last!",
+    "price": "$31.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Flank Steak",
+    "description": "Marinate and cook in a stirfry or used for fajitas",
+    "price": "$19.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Filet Mignon Tip Steak",
+    "description": "",
+    "price": "$26.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Flap Steak",
+    "description": "Known as a butcher's best kept secret! Also great for making tacos and fajitas.",
+    "price": "$15.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Flat Iron Steak",
+    "description": "This popular new steak is catching on with steak lovers everywhere! Quantities limited!",
+    "price": "$15.59",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Burger Patties - 6 Pack - 1/3lb Each",
+    "description": "Perfect and convenient for a family!",
+    "price": "$19.59",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Ground Beef - 1 lb",
+    "description": "Taste the difference with our all natural, highest quality ground beef!",
+    "price": "$7.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Ground Beef - 10 Packages",
+    "description": "Stock up and save!",
+    "price": "$69.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "London Broil",
+    "description": "Marinate this full flavored, lean steak and enjoy all year round!",
+    "price": "$11.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "NY Strip Steak",
+    "description": "Strip steaks are superb, tender, juicy, and flavorful!",
+    "price": "$21.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Ribeye Steak",
+    "description": "A perfect, full-flavored year-round steak! Delicious grilled, broiled or cooked on a skillet.",
+    "price": "$23.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Sandwich Steaks",
+    "description": "Sink your teeth into a nice, juicy steak sandwich with our sandwich steak! Hurry - While supplies last!",
+    "price": "$12.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Sirloin Tip Roast",
+    "description": "Juicy, full of flavor and cooked to perfection, you can’t go wrong with a sirloin tip roast for dinner!",
+    "price": "$11.49",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Sirloin Steak",
+    "description": "One. Serious. Steak. These tender steaks are touted as the most flavorful, robust cut!",
+    "price": "$19.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Skirt Steak",
+    "description": "Perfect for fajitas!!",
+    "price": "$19.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Sirloin Tip Steak",
+    "description": "Great for marinating and pairs well for stir-fry and kabobs!",
+    "price": "$15.29",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Stew Meat",
+    "description": "Incredibly tender!",
+    "price": "$10.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Tri Tip",
+    "description": "This roast is lean, tender, boneless and offers rich beef flavor and versatile. Originating on the west coast, this cut is gaining popularity nationwide. A King family favorite!!",
+    "price": "$17.99",
+    "menu_type": "Meat",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Meat"
+  },
+  {
+    "name": "Cooper's Mill - Blueberry Syrup 8 fl. oz",
+    "description": "Experience the simple goodness",
+    "price": "$10.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Cooper's Mill -Apple Cinnamon Syrup 8 fl. oz",
+    "description": "Experience the simple goodness",
+    "price": "$10.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Cooper's Mill Harvest Apple with Cinnamon Butter",
+    "description": "It's a delicious spread that's perfect for breakfast, snacks or desserts.",
+    "price": "$12.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Cooper's Mill Harvest Pumpkin Butter",
+    "description": "Sweet and smooth and easy to spread on toast, waffles, and pancakes",
+    "price": "$12.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Halladay's Harvest Barn Burger Blend - Buffalo Blue Cheese",
+    "description": "Add some flavor to your favorite burger!",
+    "price": "$4.69",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Halladay's Harvest Barn Burger Blend - Maple Bacon",
+    "description": "The perfect balance of sweet & smoky",
+    "price": "$4.69",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Halladay's Harvest Barn Dip - Garlic Chive",
+    "description": "Mild flavorful herb blend",
+    "price": "$4.49",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Halladay's Harvest Barn Rub - Vermont Maple Grill Glaze",
+    "description": "Great for Pork, Chicken or Beef!",
+    "price": "$4.69",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Kodee's Krunchies - All Natural Dog Treats",
+    "description": "Peanut Butter dog treats that are all natural",
+    "price": "$9.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "New Hope Apple Cinnamon Pancake Mix 1.5 lb",
+    "description": "Apple cinnamon mix made with real cinnamon and apple!",
+    "price": "$5.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "New Hope Pumpkin Spice Pancake Mix 1.5 lb",
+    "description": "Pumpkin Spice Pancake Mix has become an instant favorite!",
+    "price": "$4.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Noble Made - Garlic Parmesan Wing Sauce",
+    "description": "Smooth parmesan and punchy herbs!",
+    "price": "$5.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Noble Made - Hot Buffalo Sauce",
+    "description": "You probably know that firebreathers breathe fire. But did you know that they also eat fire?",
+    "price": "$5.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Noble Made - Medium Buffalo Sauce",
+    "description": "We see you there, walking that line between reckless and reserved.",
+    "price": "$5.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Oscar's More than Mustard - 8 oz",
+    "description": "Just the right combination of sweetness and spice, it goes well with almost everything, from meat to cheese. A customer favorite!",
+    "price": "$7.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Rabbit Creek Baking Mix- Apple Fritter Bread Mix",
+    "description": "Warm apples and cinnamon baked into a sweet, tender loaf.",
+    "price": "$6.29",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Rabbit Creek Baking Mix- Caramel Apple Pie Bar Mix",
+    "description": "A bakery-style bar with sweet apples, gooey caramel, and a buttery crust!",
+    "price": "$9.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Rabbit Creek Baking Mix- Pumpkin Cinnamon Rolls Bread Mix",
+    "description": "A fall twist on a classic—pumpkin, spice, and everything nice",
+    "price": "$6.29",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Rabbit Creek Baking Mix- Salted Caramel Crunch Brownie Mix",
+    "description": "Gooey caramel fudge brownies with sea salt toffee crunch!",
+    "price": "$9.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Rabbit Creek Cranberry Orange Scone Mix",
+    "description": "Complete any brunch menu with these light and fluffy scones. the incorporation of rich cream ensures a moist, rich bite every time.",
+    "price": "$8.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Saratoga Olive Oil Co. - Garlic Olive Oil",
+    "description": "No need to press or mince garlic again. This garlic infused oil is a cooks dream!",
+    "price": "$16.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Saratoga Olive Oil Co. - Red Apple Balsamic Vinegar",
+    "description": "This sweet and tangy aged balsamic vinegar has a fresh fruity flavor and bite of a newly harvested orchard apple.",
+    "price": "$16.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Saratoga Olive Oil Co. - Tuscan Herb Olive Oil",
+    "description": "Savor the fresh herb blend of oregano, basil, garlic, and rosemary",
+    "price": "$16.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Saratoga Peanut Butter Company - Chocolate Peanut Butter",
+    "description": "Don’t be fooled – this is no dessert!",
+    "price": "$7.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Saratoga Peanut Butter Company - Plain Jane Peanut Butter",
+    "description": "This is the “girl next door” of peanut butters. A pure and natural beauty!",
+    "price": "$7.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Saratoga Peanut Butter Company - Pumpkin Pandemonium",
+    "description": "Pumpkin, Spice and everything nice!",
+    "price": "$6.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Saratoga Tea & Honey - Ginger Honey Drops",
+    "description": "Get your sweet fix with these delectable, organically made, all-natural, honey candies with a hint of Ginger!",
+    "price": "$15.75",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Saratoga Tea & Honey - Lemon Honey Drops",
+    "description": "Get your sweet fix with these delectable, organically made, all-natural, lemon flavored honey candies",
+    "price": "$15.75",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Saratoga Tea & Honey - Manuka Honey Drops",
+    "description": "Get your sweet fix with these delectable, organically made, all-natural, mānuka honey candies",
+    "price": "$15.75",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Saratoga Tea & Honey - Raw Honeycomb",
+    "description": "100% edible, honeycomb is full of antioxidants and minerals, and is a heart-healthy snack and sweetener!",
+    "price": "$19.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Vermont Beer Bread Mix - Classic",
+    "description": "Makes great sandwiches, bread for dinner, and pairs perfectly with dips!",
+    "price": "$6.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Vermont Beer Bread Mix - Garlic Herb",
+    "description": "Spice up your dinner tonight!",
+    "price": "$6.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Yo Mama's Alfredo Sauce",
+    "description": "Elevate your meals with Yo Mama's Classic Alfredo Sauce, a celebration of tradition and passion in every jar.",
+    "price": "$12.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Yo Mama's Tomato Sauce - Basil",
+    "description": "Masterfully combines bright and airy flavors, creating a harmonious blend that effortlessly complements any protein or vegetable of your family's choosing.",
+    "price": "$12.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Yo Mama's Tomato Sauce - Marinara",
+    "description": "Discover the timeless essence of true Tomato flavor with Yo Mama’s Original Marinara Sauce.",
+    "price": "$12.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Yo Mama's Tomato Sauce - Roasted Garlic",
+    "description": "Dive into the rich, robust essence of vine-ripened tomatoes perfectly blended with the irresistible aroma of slow-roasted garlic.",
+    "price": "$12.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Yo Mama's Tomato Sauce - Vodka",
+    "description": "Let each bite serenade your senses with a tantalizing blend of sweet and vibrant flavors, with a hint of warmth to round out the flavor profile.",
+    "price": "$12.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Ballston Lake Apiaries Honey - Raw Cream",
+    "description": "Also known as raw honey - Ideal on toast or a biscuit!",
+    "price": "$10.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Ballston Lake Apiaries Honey - 1lb Jar",
+    "description": "These traditional jars have become a standard in the honey industry - Keep one on hand for all of your needs!",
+    "price": "$9.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Ballston Lake Apiaries Honey - 12oz Bear",
+    "description": "Local honey in a convenient squeeze bottle.",
+    "price": "$7.49",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Halladay's Harvest Barn Dip - Farmhouse 5 Onion",
+    "description": "A new take on a classic dip made with flavorful variety of onions.",
+    "price": "$4.49",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "New Hope Honey Cornbread Mix 1lb",
+    "description": "Experience the heartwarming goodness of traditional Southern cornbread with a delightful twist",
+    "price": "$6.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Halladay's Harvest Barn Dip - Zesty Fiesta",
+    "description": "A blend of Southwest flavors with just a bit of heat at the end.",
+    "price": "$4.49",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Halladay's Harvest Barn Dip - Buffalo Chicken & Blue Cheese",
+    "description": "This dip is sure to be a crown pleaser!",
+    "price": "$4.49",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Maple Syrup - Pint",
+    "description": "The perfect size for an individual or smaller family.",
+    "price": "$13.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Mrs. Miller's Salsa - Hot",
+    "description": "Give the old burrito a little heat with our hot chunky salsa!",
+    "price": "$6.49",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "New Hope Buttermilk Pancake Mix 2lb",
+    "description": "You'll have breakfast covered with these classic buttermilk pancakes!",
+    "price": "$5.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Maple Syrup - Quart",
+    "description": "Keep a quart on hand so you never run out!",
+    "price": "$24.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Mrs. Miller's Salsa - Mild",
+    "description": "Great for snacking during the game!",
+    "price": "$6.49",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "New Hope Gluten Free Buttermilk Pancake Mix 16 oz",
+    "description": "This mix uses a premium blend of gluten-free grains and real buttermilk, so you can choose to just add water!",
+    "price": "$6.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Pure Maple Cream - 8 oz",
+    "description": "Perfect to spread on toast or to sneak a spoonful of to satisfy that sweet craving the all-natural way!",
+    "price": "$12.99",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Halladay's Harvest Barn Hot Dip - Spinach & Artichoke",
+    "description": "Create this restaurant favorite at home!",
+    "price": "$4.69",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Halladay's Harvest Barn Burger Blend - Steakhouse",
+    "description": "Add extra flavor to your King Brothers Dairy burgers!",
+    "price": "$4.69",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Halladay's Harvest Barn Seasoning- Farmhouse Chili",
+    "description": "Spice up your dinner tonight!",
+    "price": "$4.69",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Halladay's Harvest Barn - Garlic Rosemary Roasted Chicken",
+    "description": "Simply add seasoning to a Misty Knolls whole chicken, carrots and potatoes for a perfect one pan dinner.",
+    "price": "$4.69",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Halladay's Harvest Barn Rub - Backyard BBQ",
+    "description": "A classic rub for any meat!",
+    "price": "$4.69",
+    "menu_type": "Pantry Staples",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Pantry Staples"
+  },
+  {
+    "name": "Brewing moments of Joy- Country Ground Coffee",
+    "description": "",
+    "price": "$19.99",
+    "menu_type": "Taste of the Farm Bundles",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Taste of the Farm Bundles"
+  },
+  {
+    "name": "Brewing moments of Joy- Sumatra Ground Coffee",
+    "description": "",
+    "price": "$19.99",
+    "menu_type": "Taste of the Farm Bundles",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Taste of the Farm Bundles"
+  },
+  {
+    "name": "Brewing moments of Joy- Tea",
+    "description": "",
+    "price": "$20.99",
+    "menu_type": "Taste of the Farm Bundles",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Taste of the Farm Bundles"
+  },
+  {
+    "name": "Effortless Elegance",
+    "description": "A hearty and satisfying meal!",
+    "price": "$48.99",
+    "menu_type": "Taste of the Farm Bundles",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Taste of the Farm Bundles"
+  },
+  {
+    "name": "Morning Muscle with Reduced Milk",
+    "description": "Start your morning off right!",
+    "price": "$29.99",
+    "menu_type": "Taste of the Farm Bundles",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Taste of the Farm Bundles"
+  },
+  {
+    "name": "Morning Muscle with Whole Milk",
+    "description": "Start your morning off right!",
+    "price": "$29.99",
+    "menu_type": "Taste of the Farm Bundles",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Taste of the Farm Bundles"
+  },
+  {
+    "name": "Morning Muscle with Chocolate Milk",
+    "description": "Start your morning off right!",
+    "price": "$29.99",
+    "menu_type": "Taste of the Farm Bundles",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Taste of the Farm Bundles"
+  },
+  {
+    "name": "Morning Muscle with Fat Free Milk",
+    "description": "Start your morning off right!",
+    "price": "$29.99",
+    "menu_type": "Taste of the Farm Bundles",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Taste of the Farm Bundles"
+  },
+  {
+    "name": "Simple Supper",
+    "description": "Chili and cornbread, the perfect pair for an easy, comforting supper",
+    "price": "$19.99",
+    "menu_type": "Taste of the Farm Bundles",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Taste of the Farm Bundles"
+  },
+  {
+    "name": "Taste of Italy",
+    "description": "Get ready for a little Taste of Italy!",
+    "price": "$38.99",
+    "menu_type": "Taste of the Farm Bundles",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Taste of the Farm Bundles"
+  },
+  {
+    "name": "The Chef's Delight",
+    "description": "A delicious reward after minimal effort!",
+    "price": "$43.99",
+    "menu_type": "Taste of the Farm Bundles",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Taste of the Farm Bundles"
+  },
+  {
+    "name": "The Kickoff Combo",
+    "description": "Kick off the fun with everyone’s favorite duo!",
+    "price": "$31.99",
+    "menu_type": "Taste of the Farm Bundles",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Taste of the Farm Bundles"
+  },
+  {
+    "name": "The Sideline Snacks",
+    "description": "The perfect play to kick off game day!",
+    "price": "$17.99",
+    "menu_type": "Taste of the Farm Bundles",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Taste of the Farm Bundles"
+  },
+  {
+    "name": "Hood 100% Pure Orange Juice",
+    "description": "Enjoy this 100% pure, pulp free, not from concentrate orange juice. As close to fresh squeezed as you can get.",
+    "price": "$5.99",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Old Farmer Tea - Iced Tea Sunset Orange - 4pk",
+    "description": "A citrusy, bright experience with sweet orange and homebrewed flavor that feels like a summer sunset.",
+    "price": "$9.99",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Old Farmer Tea -Ice Tea Crisp Apple - 4pk",
+    "description": "Refreshing tea with a twist, brewed with apples from Maylath’s Farm & Orchard for an invigorating flavor.",
+    "price": "$9.99",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Old Farmer Tea -Ice Tea Diet Lemon - 4pk",
+    "description": "A light and refreshing blend of lemon and tea with fewer calories, but full of flavor.",
+    "price": "$9.99",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Old Farmer Tea -Ice Tea Lemon - 4pk",
+    "description": "Original flavor combines zesty lemon and homemade brewed tea recipe for a light, refreshing taste.",
+    "price": "$9.99",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Old Farmer Tea -Iced Tea Wild Blueberry - 4pk",
+    "description": "Bursting with the flavor of juicy blueberries, this unexpected combination makes for a delightfully fruity and refreshing experience.",
+    "price": "$9.99",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Premium Hot Cocoa Mix",
+    "description": "cozy, rich, and ready in minutes. Simply add milk and enjoy!",
+    "price": "$12.99",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Saratoga Tea & Honey Co - English Breakfast Teabags",
+    "description": "Enjoy our beautiful English Breakfast Assam Banaspaty in easy-to-use, biodegradable pyramid tea sachets.",
+    "price": "$13.99",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Saratoga Tea & Honey Co - Genmai Cha Teabags",
+    "description": "Best-selling green teas, pyramid tea sachets are an instant classic!",
+    "price": "$13.99",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Saratoga Tea & Honey Co -La Provencale Teabags",
+    "description": "A gorgeous, organic Mediterranean tisane.",
+    "price": "$13.99",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Saratoga Tea & Honey Co -Saratoga Red Chai Teabags",
+    "description": "A caffeine-free, rooibos based chai.",
+    "price": "$13.99",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Vinetastic Antioxidant Water - Blueberry/Cherry/Pomegranate",
+    "description": "Vinetastic is a refreshing, healthy, flavored water that hydrates with a hint of Blueberry, Cherry and Pomegranate flavor.",
+    "price": "$2.49",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Vinetastic Antioxidant Water - Pineapple Mango",
+    "description": "Vinetastic is a refreshing, healthy, flavored water that hydrates with a hint of Pineapple Mango flavor.",
+    "price": "$2.49",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Coffee - Country Morning Blend Ground",
+    "description": "Wake up with this brisk and bright taste - Just like a perfect country morning!",
+    "price": "$14.99",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Coffee - Country Morning Blend Whole Bean",
+    "description": "Wake up with this brisk and bright taste - Just like a perfect country morning - Whole bean style!",
+    "price": "$14.99",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Coffee - Organic Fair Trade Sumatra Ground",
+    "description": "These organic, fair trade beans are roasted for a deep rich body and buttery smooth nutty flavor.",
+    "price": "$14.99",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Coffee - Organic Fair Trade Sumatra Whole Bean",
+    "description": "These organic, fair trade beans are roasted for a deep rich body and buttery smooth nutty flavor - Whole bean style!",
+    "price": "$14.99",
+    "menu_type": "Beverages",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Yukon Gold Potatoes",
+    "description": "These versatile, golden-fleshed potatoes boast a buttery flavor and velvety texture, perfect for all your culinary needs",
+    "price": "$2.99",
+    "menu_type": "Fresh Produce",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Fresh Produce"
+  },
+  {
+    "name": "Farmer T's Amish Sweet Dill Pickles",
+    "description": "Dill and onion make this traditional sweet pickle better than the rest.",
+    "price": "$10.99",
+    "menu_type": "Snacks",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Snacks"
+  },
+  {
+    "name": "Farmer T's Bread & Butter Pickles",
+    "description": "Apple cider vinegar and onions make this robust and tangy pickle stand out from all others",
+    "price": "$10.99",
+    "menu_type": "Snacks",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Snacks"
+  },
+  {
+    "name": "Farmer T's Garlic Dill Pickles",
+    "description": "The ultimate dill pickle with garlic and dill you can see.",
+    "price": "$10.99",
+    "menu_type": "Snacks",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Snacks"
+  },
+  {
+    "name": "Farmer T's Hot Pickles",
+    "description": "This pickle has a jalapeno bite that won’t disappoint.",
+    "price": "$10.99",
+    "menu_type": "Snacks",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Snacks"
+  },
+  {
+    "name": "Granola - Apple Cinnamon",
+    "description": "Apples, almonds and cinnamon mingle in this timeless classic.",
+    "price": "$7.49",
+    "menu_type": "Snacks",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Snacks"
+  },
+  {
+    "name": "Granola - Honey Almond",
+    "description": "lightly sweetened with honey and full of almonds.",
+    "price": "$7.49",
+    "menu_type": "Snacks",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Snacks"
+  },
+  {
+    "name": "Granola - Peanut Butter",
+    "description": "Crunchy peanut bits and creamy peanut butter pack flavor into this granola!",
+    "price": "$7.49",
+    "menu_type": "Snacks",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Snacks"
+  },
+  {
+    "name": "Mapleland Farms - Maple Roasted Almonds",
+    "description": "Pure maple products",
+    "price": "$8.99",
+    "menu_type": "Snacks",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Snacks"
+  },
+  {
+    "name": "Mapleland Farms - Maple Roasted Peanuts",
+    "description": "Pure maple products",
+    "price": "$7.99",
+    "menu_type": "Snacks",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Snacks"
+  },
+  {
+    "name": "Mapleland Farms - Maple Roasted Pecans",
+    "description": "Pure maple products",
+    "price": "$8.99",
+    "menu_type": "Snacks",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Snacks"
+  },
+  {
+    "name": "Squires Kettle Korn Co.- Caramel Corn",
+    "description": "The classic taste of sweet and buttery caramel!",
+    "price": "$12.99",
+    "menu_type": "Snacks",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Snacks"
+  },
+  {
+    "name": "Squires Kettle Korn Co.- Kettle Corn",
+    "description": "Classic Kettle Corn taste that you grew up eating at the fair!",
+    "price": "$10.99",
+    "menu_type": "Snacks",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Snacks"
+  },
+  {
+    "name": "Oscar's Smokehouse Pepperoni",
+    "description": "Add some zest to your cheeseboard, snack pack, or favorite recipe with Oscar's Smoked Pepperoni!",
+    "price": "$9.99",
+    "menu_type": "Snacks",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Snacks"
+  },
+  {
+    "name": "Oscar's Smokehouse Summer Sausage",
+    "description": "No cheese platter is complete without Oscar's summer sausage!",
+    "price": "$10.99",
+    "menu_type": "Snacks",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Snacks"
+  },
+  {
+    "name": "Greener Pastures- Chicken Pot Pie - Family Size",
+    "description": "Chicken pot pie for the family!",
+    "price": "$21.99",
+    "menu_type": "Frozen Pizza",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Frozen Pizza"
+  },
+  {
+    "name": "Greener Pastures- Chicken Pot Pie -Personal Size",
+    "description": "Chicken pot pie personal size!",
+    "price": "$14.99",
+    "menu_type": "Frozen Pizza",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Frozen Pizza"
+  },
+  {
+    "name": "Frozen Pizza - Classic Style",
+    "description": "Great to have on hand for a quick, convenient dinner!",
+    "price": "$13.99",
+    "menu_type": "Frozen Pizza",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Frozen Pizza"
+  },
+  {
+    "name": "Frozen Pizza - Tavern Style",
+    "description": "In the mood for a different twist on traditional frozen pizza? Try the unique \"Tavern Pizzas\"!",
+    "price": "$14.99",
+    "menu_type": "Frozen Pizza",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Frozen Pizza"
+  },
+  {
+    "name": "Halladay's Harvest Barn Soup Mix - Broccoli Cheddar",
+    "description": "Halladay's makes making this favorite a breeze!",
+    "price": "$7.49",
+    "menu_type": "Soup",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Soup"
+  },
+  {
+    "name": "Halladay's Harvest Barn Soup Mix - Chicken Pot Pie",
+    "description": "Chicken Pot Pie Soup....Yum!",
+    "price": "$7.49",
+    "menu_type": "Soup",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Soup"
+  },
+  {
+    "name": "Halladay's Harvest Barn Soup Mix - Loaded Baked Potato",
+    "description": "Loaded Baked Potato Soup cooks up in minutes.",
+    "price": "$7.49",
+    "menu_type": "Soup",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Soup"
+  },
+  {
+    "name": "Halladay's Harvest Barn Soup Mix - Chicken Enchilada",
+    "description": "Mix things up with this Southwest-inspired soup!",
+    "price": "$7.49",
+    "menu_type": "Soup",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Soup"
+  },
+  {
+    "name": "Halladay's Harvest Barn Soup Mix - Chicken Vegetable",
+    "description": "A perfect healthy alternative when you are craving comfort food!",
+    "price": "$7.49",
+    "menu_type": "Soup",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Soup"
+  },
+  {
+    "name": "Halladay's Harvest Barn Soup Mix - Corn Chowder",
+    "description": "Try Halladay's best seller!",
+    "price": "$7.49",
+    "menu_type": "Soup",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Soup"
+  },
+  {
+    "name": "Halladay's Harvest Barn Soup Mix - Creamy Tomato Basil",
+    "description": "Warm up!",
+    "price": "$7.49",
+    "menu_type": "Soup",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Soup"
+  },
+  {
+    "name": "Halladay's Harvest Barn Soup Mix - Barley Vegetable Stew",
+    "description": "This soup is a family favorite!",
+    "price": "$7.49",
+    "menu_type": "Soup",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Soup"
+  },
+  {
+    "name": "Chocolate Chip Cookie Pizza- 8 inch",
+    "description": "Perfect for dessert or even a sweet treat!",
+    "price": "$6.99",
+    "menu_type": "Desserts",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "Halladay's Harvest Barn Lemon Raspberry Cheesecake Mix",
+    "description": "Raspberry and tangy lemon combine to make a perfectly balanced dessert!",
+    "price": "$4.49",
+    "menu_type": "Desserts",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "Halladay's Harvest Barn New York Style Cheesecake",
+    "description": "Perfect for that quick summer dessert!",
+    "price": "$4.49",
+    "menu_type": "Desserts",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "Halladay's Harvest Barn Sea Salted Caramel Cheesecake Mix",
+    "description": "The perfect combination of caramel and a touch of sea salt.",
+    "price": "$4.49",
+    "menu_type": "Desserts",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "Rabbit Creek Baking Mix- Salted Caramel Crunch Brownie Mix",
+    "description": "Gooey caramel fudge brownies with sea salt toffee crunch!",
+    "price": "$9.99",
+    "menu_type": "Desserts",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "Single Scoop Card",
+    "description": "Take a drive to the country and experience true farm fresh goodness!",
+    "price": "$5.50",
+    "menu_type": "Desserts",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "Cabot Whipped Cream",
+    "description": "100% real dairy whipped cream with the taste of homemade!",
+    "price": "$5.69",
+    "menu_type": "Desserts",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "Glass Bottle Milk Pour Spout",
+    "description": "Pouring Milk just got easier!",
+    "price": "$2.19",
+    "menu_type": "Helpful Delivery Items",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Helpful Delivery Items"
+  },
+  {
+    "name": "Half Gallon Wire Carrier (4 cell)",
+    "description": "Purchase a wire milk bottle carrier for safely carrying glass bottles.",
+    "price": "$16.99",
+    "menu_type": "Helpful Delivery Items",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Helpful Delivery Items"
+  },
+  {
+    "name": "Insulated Porch Box",
+    "description": "Head back in time and add a classic style porch box to your front porch!",
+    "price": "$94.99",
+    "menu_type": "Helpful Delivery Items",
+    "restaurant_name": "King Brothers Dairy",
+    "restaurant_url": "https://www.kingbrothersdairy.com/",
+    "menu_name": "Helpful Delivery Items"
+  }
+]

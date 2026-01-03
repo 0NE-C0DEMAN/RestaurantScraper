@@ -1,0 +1,974 @@
+[
+  {
+    "name": "Chicken Scarparielllo",
+    "description": "Roasted bone-in chicken, roasted red peppers, potatoes, onions and garlic with sliced sausage. Served sizzling",
+    "price": "$26.91",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "House Specialties"
+  },
+  {
+    "name": "Chicken Cacciatore",
+    "description": "",
+    "price": "$28.98",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "House Specialties"
+  },
+  {
+    "name": "Bracciole",
+    "description": "Tender beef braised in an onion, tomato sauce wrapped with parmesan cheese, fresh parsley and garlic . Served over egg fettuccine with a side of garlic bread.",
+    "price": "$28.98",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "House Specialties"
+  },
+  {
+    "name": "Pork Ossobuco",
+    "description": "Tender pork shank braised with vegetables in a red wine and tomato sauce.  Served with a Cavatelli Bolognese sauce.",
+    "price": "$33.12",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "House Specialties"
+  },
+  {
+    "name": "Arancini",
+    "description": "Stuffed rice balls loaded with ragu, mozzarella and peas then lightly breaded",
+    "price": "$13.46",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Antipasta"
+  },
+  {
+    "name": "Baked Jumbo Shrimp Oreganata",
+    "description": "",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Antipasta"
+  },
+  {
+    "name": "Laura's Homemade Mozzarella Triangles",
+    "description": "Served with a side of marinara or melba sauce.",
+    "price": "$13.46",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Antipasta"
+  },
+  {
+    "name": "Steamed Mussels (Red OR White)",
+    "description": "Fresh cultivated mussels sauteed & seasoned in a white wine & garlic broth OR in a garlic & plum tomato broth.",
+    "price": "$16.56",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Antipasta"
+  },
+  {
+    "name": "Asparagus Wrapped with Prosciutto and Fresh Water Mozzarella",
+    "description": "Topped with a brown butter caper sauce. Served over polenta.",
+    "price": "$15.53",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Antipasta"
+  },
+  {
+    "name": "Cold Antipasto (Serves 2)",
+    "description": "A mix of salami, prosciutto, ham, provolone, fresh water mozzarella, artichokes, olives & roasted red peppers with extra virgin olive oil.",
+    "price": "$18.63",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Antipasta"
+  },
+  {
+    "name": "Calamari Fritti",
+    "description": "Tender calamari lightly fried, served with lemon & marinara sauce.",
+    "price": "$14.49",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Antipasta"
+  },
+  {
+    "name": "Calamari Fra Diavlo",
+    "description": "Tender calamari lightly fried, tossed in a cayenne & hot cherry pepper sauce.",
+    "price": "$15.53",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Antipasta"
+  },
+  {
+    "name": "Homemade Mozzarella Di Casa",
+    "description": "Our homemade fresh water mozzarella served with roasted peppers, fresh tomatoes & basil, drizzled with extra virgin olive oil & balsamic vinegar",
+    "price": "$16.56",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Antipasta"
+  },
+  {
+    "name": "Chicken Wings (10)",
+    "description": "12 jumbo chicken wings,mild,medium or hot served with celery & blue cheese dressing",
+    "price": "$19.67",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Antipasta"
+  },
+  {
+    "name": "Garlic Bread",
+    "description": "(with mozzarella cheese $1.00 extra)",
+    "price": "$6.21",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Antipasta"
+  },
+  {
+    "name": "Long-Stem Artichoke Francese",
+    "description": "Long-stem artichoke dipped & fried in an egg batter, lemon butter sauce over polenta.",
+    "price": "$14.49",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Antipasta"
+  },
+  {
+    "name": "Fried Chicken Cutlet",
+    "description": "Served with a side of French fries and honey mustard.",
+    "price": "$9.32",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Antipasta"
+  },
+  {
+    "name": "Calzone",
+    "description": "Additional filling $1.00 each. Ham, Pepperoni, Sausage, Meatballs, Imported Prosciutto, Spinach & Broccoli.",
+    "price": "$12.42",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Calzones and Rolls"
+  },
+  {
+    "name": "Chicken Roll",
+    "description": "Mozzarella cheese, breaded chicken breast, pizza sauce,parmigianacheese wrapped in a pizza dough.",
+    "price": "$12.42",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Calzones and Rolls"
+  },
+  {
+    "name": "Eggpllant Roll",
+    "description": "Mozzarella cheese, eggpllant, pizza sauce,parmigianacheese wrapped in a pizza dough.",
+    "price": "$12.42",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Calzones and Rolls"
+  },
+  {
+    "name": "Garlic Knots (6)",
+    "description": "Pizza dough twisted in knots topped with garlic + oil, oregeno, andparmigiana cheese. 6 Per Order",
+    "price": "$6.21",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Calzones and Rolls"
+  },
+  {
+    "name": "Sausage Roll",
+    "description": "Mozzarella cheese, ground spiced sausage, pizza sauce,parmigianacheese wrapped in a pizza dough.",
+    "price": "$12.42",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Calzones and Rolls"
+  },
+  {
+    "name": "Pepperoni Roll",
+    "description": "Mozzarella cheese, italian pepperoni, pizza sauce,parmigianacheese wrapped in a pizza dough.",
+    "price": "$12.42",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Calzones and Rolls"
+  },
+  {
+    "name": "Italian Meatballs (4) OR Fresh Sausage (3)",
+    "description": "With Marinara Sauce.",
+    "price": "$10.35",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Contori"
+  },
+  {
+    "name": "Sauteed Vegetables (Serves 2)",
+    "description": "SPINACH or BROCCOLI or BROCCOLI DI RABE (Seasonal)",
+    "price": "$10.35",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Contori"
+  },
+  {
+    "name": "Side of Spaghetti OR Penne",
+    "description": "Marinara Sauce $5.00 Garlic & Oil $6.00 Bolognese $8.00",
+    "price": "$0.00",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Contori"
+  },
+  {
+    "name": "Eggplant Rollatini",
+    "description": "Fresh eggplant rolled with ricotta cheese & topped with melted mozzarella cheese & marinara sauce.",
+    "price": "$24.84",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Eggplant Parmigiana",
+    "description": "Breaded eggplant baked with Provolone cheese and marinara sauce",
+    "price": "$22.77",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Salmon Oreganata",
+    "description": "Salmon, encrusted with a special blend of herbs & spices grilled & served over sauteed fresh spinach",
+    "price": "$31.05",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Chicken Sorrentino",
+    "description": "Boneless chicken breast topped with eggplant, prosciutto and provolone cheese.",
+    "price": "$31.05",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Chicken Marsala",
+    "description": "Tender breast of a chicken sauteed with fresh mushrooms & onions in a imported Marsala wine sauce.",
+    "price": "$26.91",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Chicken Francese",
+    "description": "Lightly battered. tender breast of chicken, sauteed in lemon, sherry & a touch of butter.",
+    "price": "$26.91",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Chicken Piccatta",
+    "description": "Tender breast of chicken & capers sauteed in lemon, sherry & butter sauce.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Chicken Saltimbocca",
+    "description": "Tender breast of chicken layered with sage & prosciutto on a bed of sauteed spinach.",
+    "price": "$28.98",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Chicken Parmigiana",
+    "description": "Chicken topped with delicious red sauce covered in mozzarella cheese.",
+    "price": "$23.81",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Grilled Balsamic Chicken",
+    "description": "2 Pieces of fresh breast of chicken marinated in imported balsamic vinegar, olive oil & spices then grilled.Served with arugula & roasted red peppers.",
+    "price": "$22.77",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Veal Sorrentino",
+    "description": "Veal topped with eggplant, prosciutto and provolone cheese.",
+    "price": "$33.12",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Veal Marsala",
+    "description": "Tender veal scalloppini sauteed with fresh mushrooms & onions in an imported Marsala wine sauce.",
+    "price": "$33.12",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Veal Francese",
+    "description": "Tender veal scallopini sauteed in lemon, sherry & a touch of butter.",
+    "price": "$33.12",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Veal Piccatta",
+    "description": "Tender veal scalloppini & capers sauteed in lemon, sherry & butter sauce.",
+    "price": "$33.12",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Veal Parmigiana",
+    "description": "Breaded veal baked with Provolone cheese and marinara sauce.",
+    "price": "$31.05",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Veal, Peppers And Onions",
+    "description": "Tender Veal, paired with Peppers And Onions.",
+    "price": "$31.05",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Pork Chop Milanese",
+    "description": "",
+    "price": "$22.77",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Sausage, Peppers And Onions",
+    "description": "Mozzarella cheese $1.00 extra.",
+    "price": "$22.77",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Entrees"
+  },
+  {
+    "name": "Gluten-Free Penne Pasta",
+    "description": "Availlablle in the following Sauces:- Shrimp Marinara...$33.12- Garlic & Oill...$16.56- Broccoli & Spinach...$24.84- Bolognese...$24.84- Marinara...$15.53- Primavera Garic & Oil with Grilled Chicken...$26.91",
+    "price": "$0.00",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Gluten Free"
+  },
+  {
+    "name": "Gluten-Free 16\" Pizza",
+    "description": "With tomato sauce & mozzerella cheese.",
+    "price": "$18.63",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Gluten Free"
+  },
+  {
+    "name": "Eggplant Parmigiana Hero",
+    "description": "Thinly sliced eggplant on a delicious hero.",
+    "price": "$10.35",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Heros"
+  },
+  {
+    "name": "Fried Chicken Cutlet Hero",
+    "description": "",
+    "price": "$10.35",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Heros"
+  },
+  {
+    "name": "Meatball Hero",
+    "description": "Fresh meatballs, marinara sauce, and mozzarella cheese on a delicious hero.",
+    "price": "$10.35",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Heros"
+  },
+  {
+    "name": "Sausage Hero",
+    "description": "Italian sausage on a delicious hero.",
+    "price": "$10.35",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Heros"
+  },
+  {
+    "name": "Sausage, Peppers & Onions Hero",
+    "description": "Mozzarella Cheese is an extra $1.04",
+    "price": "$10.35",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Heros"
+  },
+  {
+    "name": "Veal Cutlet Hero",
+    "description": "Tender veal on a delicious hero",
+    "price": "$11.39",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Heros"
+  },
+  {
+    "name": "Veal, Peppers & Onions Parmgiana Hero",
+    "description": "Veal, peppers, and onions on a delicious hero.",
+    "price": "$11.39",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Heros"
+  },
+  {
+    "name": "Risotto of the day",
+    "description": "",
+    "price": "$0.00",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Risotto"
+  },
+  {
+    "name": "Penne Marinara",
+    "description": "With Meatballs (3) OR with Sausage (3) - $15.53.",
+    "price": "$12.42",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Fresh Fettuccine Bolognese",
+    "description": "Freshly ground, hearty meat sauce.",
+    "price": "$20.70",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Fettuccine w/ Shrimp, Asparagus & Portobello Mushrooms",
+    "description": "Fresh fettuccini with marinated portobello mushrooms, sauteed shrimp, asparagus & cherry tomatoes topped with white truffle oil.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Pappardelle Telefono",
+    "description": "Pappardelle in a pink sauce with mozzarella cheese.",
+    "price": "$20.70",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Fresh Fettuccine Alfredo",
+    "description": "Creamy Alfredo Sauce",
+    "price": "$20.70",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Penne Broccoli E Spinaci",
+    "description": "Sauteed broccoli & spinach with fresh garlic in a light red sauce OR garlic & oil sauce.",
+    "price": "$20.70",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Adina Speciale",
+    "description": "Rigatoni with sausage, sun-fried tomatoes & broccoli di rabe in a marinara sauce with shaved parmigiana cheese.",
+    "price": "$20.70",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Fresh Capellini with Mixed Mushrooms & Sea Scallops",
+    "description": "Fresh cappellini tossed in extra virgin olive oil & fresh garlic with mixed mushrooms & pan-seared dry, all natural sea scallops topped with white truffel oil.",
+    "price": "$30.02",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Penne Alla Mama Mia's",
+    "description": "Sausage, mushrooms & basil in a fresh plum tomato sauce topped with fresh water mozarella.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Tortellini Alla Boscaiola",
+    "description": "Tortellini with peas, mushrooms & ham in a creamy white sauce.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Rigatoni Vodka",
+    "description": "",
+    "price": "$20.70",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Clam Sauce (Red OR White)",
+    "description": "Chopped clams sauteed with either white wine OR red tomato sauce & fresh garlic & olive oil.",
+    "price": "$28.98",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Shrimp Marinara",
+    "description": "Sauteed shrimp in a marinara sauce over linguine. Served Fra Diavlo upon request.",
+    "price": "$28.98",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Shrimp Scampi",
+    "description": "Shrimp sauteed in garlic, olive oil, white wine & lemon over linguine.",
+    "price": "$28.98",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Lobster Ravoili with Pan-Seared Sea Scallops",
+    "description": "Lobster Ravoili with Pan-Seared Sea Scallops.",
+    "price": "$30.02",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Gnocchi with Ground Sausage in a Pink Sauce",
+    "description": "With shaved parmigiana.",
+    "price": "$22.77",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta"
+  },
+  {
+    "name": "Homemade Baked Manicotti",
+    "description": "",
+    "price": "$20.70",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta Al Forno"
+  },
+  {
+    "name": "Homemade Baked Stuffed Shells",
+    "description": "",
+    "price": "$20.70",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta Al Forno"
+  },
+  {
+    "name": "Baked Ziti with Ricotta Cheese",
+    "description": "",
+    "price": "$20.70",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta Al Forno"
+  },
+  {
+    "name": "Baked Ziti Siciliana",
+    "description": "Baked with ricotta & battered eggplant topped with a marinara sauce & melted mozzarella cheese.",
+    "price": "$20.70",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta Al Forno"
+  },
+  {
+    "name": "Baked Ravioli",
+    "description": "",
+    "price": "$18.63",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta Al Forno"
+  },
+  {
+    "name": "Lasagna",
+    "description": "",
+    "price": "$20.70",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta Al Forno"
+  },
+  {
+    "name": "Eggplant Timballo",
+    "description": "Stacked eggplant, fresh spinach, roasted red peppers & lasagna sheets stuffed with a cheese blend & marinara sauce.",
+    "price": "$20.70",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pasta Al Forno"
+  },
+  {
+    "name": "Neopolitan",
+    "description": "Thin crusted, round, 18 inch, 8 slices. Mozzarella cheese and tomato sauce.",
+    "price": "$18.63",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "Grandma",
+    "description": "Thin crusted, square, 16x16 inch, 12 slices, Mozzarella cheese, marinara sauce & garlic.",
+    "price": "$23.81",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "Margherita",
+    "description": "The original pizza from Italy. Thin crusted, round, 18 inch, 8 slices, Marinara sauce, fresh water mozzarella & basil.",
+    "price": "$24.84",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "Saratoga",
+    "description": "Crispy, thin crusted, square pizza topped with marinara sauce, fresh water mozzarella, garlic & torn basil.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "Fiorentina",
+    "description": "Fresh spinach, garlic & Roma tomatoes with marinara sauce & fresh water mozzarella.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "House Roasted Red Peppers with Eggplant & Spinach",
+    "description": "Multicolor bell peppers, roasted red peppers, sauteed onions, eggplant & fresh spinach with tomato sauce & mozzarella cheese.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "Greek",
+    "description": "Fresh spinach, black and green olives, sliced red onions, feta & mozzarella cheese.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "Arugula, Speck & Shaved Parmigiana",
+    "description": "Thin crusted pizza with mozzarella & tomato sauce topped with speck, fresh arugula, shaved parmigiana cheese & olive oil.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "Bianca (White)",
+    "description": "Mozzarella cheese, aged Romano cheese, creamy ricotta & a dash of fresh garlic & olive oil.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "Chicken Marsala",
+    "description": "Crispy thin crust pie topped with tender pieces of chicken sautéed with fresh mushrooms in a Marsala wine sauce and mozzarella cheese.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "BBQ Chicken",
+    "description": "Thin crusted with chicken, blue cheese & mozzarella cheese with BBQ sauce.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "Chicken Wing",
+    "description": "Thin crusted with chicken, blue cheese, mozzarella cheese & Hot sauce.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "Mama Giovannaos Eggplant Parmigiana",
+    "description": "Thin crusted with fresh eggplant, tomato sauce & mozzarella cheese with dollops of creamy ricotta cheese.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "Hawaiian",
+    "description": "Thin crusted with mozzarella cheese, tomato sauce, ham & sweet pineapple.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "Stuffed Pizza",
+    "description": "Round, 18 inch, 8 cut double crusted pie stuffed with either Meat (pepperoni & sausage) OR Veggie (broccoli & spinach).",
+    "price": "$31.05",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "Quattro Formaggio",
+    "description": "Thin crusted with mozzarella, gorgonzola, fontina & parmigiana cheese.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "Crostino",
+    "description": "Thin crusted, garlic basted, pan pizza topped with fresh slice Roma tomatoes, fresh water mozzarella & torn basil drizzled with a touch of olive oil & seasonings.",
+    "price": "$27.95",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "House Special Meat",
+    "description": "Sausage,meatballs, pepperoni, mushrooms, peppers, onions, black olives, tomato sauce & mozzarella cheese.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "House Special Veggie",
+    "description": "Spinach, broccoli, mushrooms, peppers, onions, black olives, tomato sauce & mozzarella cheese.",
+    "price": "$25.88",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "Small Fresh Tossed Salad",
+    "description": "",
+    "price": "$6.21",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Large Fresh Tossed Salad",
+    "description": "",
+    "price": "$12.42",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Grilled Chicken Salad",
+    "description": "",
+    "price": "$14.49",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Small Caesar Salad",
+    "description": "",
+    "price": "$6.21",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Large Caesar Salad",
+    "description": "",
+    "price": "$12.42",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Gorgonzola Salad",
+    "description": "Mixed greens, gorgonzola cheese, Roma tomatoes, walnuts with a Balsamic vinaigrette dressing.",
+    "price": "$15.53",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Spinach Salad",
+    "description": "Fresh spinach, goat cheese, mandarin oranges & walnuts with a balsamic dressing.",
+    "price": "$14.49",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Cranberry, Feta & Pear Salad",
+    "description": "Arugula, endive & radicchio with feta cheese, pears & dried cranberries drizzled with a Balsamic reduction.",
+    "price": "$16.56",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Minestrone",
+    "description": "",
+    "price": "$9.32",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Zuppa"
+  },
+  {
+    "name": "Pasta E Fagioli",
+    "description": "",
+    "price": "$9.32",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Zuppa"
+  },
+  {
+    "name": "Stracciatella",
+    "description": "Fresh spinach, cheese tortellini and egg drop soup.",
+    "price": "$9.32",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Zuppa"
+  },
+  {
+    "name": "Zuppa Del Giorno",
+    "description": "Soup of the Day",
+    "price": "$0.00",
+    "menu_type": "Menu",
+    "restaurant_name": "Mama Mia's",
+    "restaurant_url": "https://mamamiassaratoga.com/",
+    "menu_name": "Zuppa"
+  }
+]

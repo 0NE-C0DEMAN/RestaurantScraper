@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Crispy Cauliflower Bites",
+    "description": "Served with chipotle ranch",
+    "price": "$10",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "APPETIZERS & SIDES"
+  },
+  {
+    "name": "Sweet Potato Waffle Fries",
+    "description": "Served with Melba raspberry sauce",
+    "price": "$10",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "APPETIZERS & SIDES"
+  },
+  {
+    "name": "Jersey Shore Red Onion Rings",
+    "description": "Served with chipotle ranch",
+    "price": "$10",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "APPETIZERS & SIDES"
+  },
+  {
+    "name": "Mozzarella Sticks",
+    "description": "Eight served with marinara",
+    "price": "$13.5",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "APPETIZERS & SIDES"
+  },
+  {
+    "name": "Cheddar Jalapeño Poppers",
+    "description": "",
+    "price": "$12",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "APPETIZERS & SIDES"
+  },
+  {
+    "name": "Vegetable Spring Rolls",
+    "description": "Eight rolls served with sweet Thai chili sauce",
+    "price": "$12",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "APPETIZERS & SIDES"
+  },
+  {
+    "name": "Garlic Breadsticks",
+    "description": "Served with marinara",
+    "price": "$8",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "APPETIZERS & SIDES"
+  },
+  {
+    "name": "Loaded Tater Tots",
+    "description": "Crispy tots loaded with bacon, queso, ranch and scallions",
+    "price": "$13",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "APPETIZERS & SIDES"
+  },
+  {
+    "name": "Pot Stickers",
+    "description": "Eight pot stickers stuffed with spinach artichoke dip and served with tzatziki sauce",
+    "price": "$13",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "APPETIZERS & SIDES"
+  },
+  {
+    "name": "Chicken Wings",
+    "description": "Buffalo, Garlic Parm, Sweet Chili, BBQ or Hot Honey served with celery and bleu cheese 1020",
+    "price": "10 wings $17 | 20 wings $25",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "APPETIZERS & SIDES"
+  },
+  {
+    "name": "Artisan Pizza",
+    "description": "Cheese, Pepperoni or Sausage",
+    "price": "$15",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "FAN FAVORITES"
+  },
+  {
+    "name": "Chicken Tenders",
+    "description": "Served with fries and coleslaw",
+    "price": "$20",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "FAN FAVORITES"
+  },
+  {
+    "name": "Grilled Chicken Quesadilla",
+    "description": "Chicken, Bacon &",
+    "price": "$17.5",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "FAN FAVORITES"
+  },
+  {
+    "name": "Buffalo Chicken Nachos",
+    "description": "Buffalo chicken, queso, green onions and ranch dressing on a pile of fresh fried tortilla chips",
+    "price": "$20",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "FAN FAVORITES"
+  },
+  {
+    "name": "Soup Du Jour",
+    "description": "",
+    "price": "Cup $7 | Bowl $10",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SOUPS & SALADS"
+  },
+  {
+    "name": "Chef Shawn’s Famous Chili",
+    "description": "Served with cornbread",
+    "price": "$11",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SOUPS & SALADS"
+  },
+  {
+    "name": "Chef Salad",
+    "description": "Ham, turkey, Swiss, American, egg, tomatoes, black olives, red onions and cucumbers",
+    "price": "$21",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SOUPS & SALADS"
+  },
+  {
+    "name": "Chicken Caesar Salad",
+    "description": "Choice of grilled or crispy chicken",
+    "price": "$20",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SOUPS & SALADS"
+  },
+  {
+    "name": "Tossed Garden Salad",
+    "description": "Fresh artisan greens with tomatoes, cucumbers,",
+    "price": "$13.5",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SOUPS & SALADS"
+  },
+  {
+    "name": "Orchard Salad",
+    "description": "Fiji apples, craisins, walnuts, red onion, and feta. Served with sweet onion vinaigrette and your choice of grilled or crispy chicken",
+    "price": "$21",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SOUPS & SALADS"
+  },
+  {
+    "name": "Homemade Meatloaf",
+    "description": "Served with mashed potatoes, green beans and beef gravy",
+    "price": "$22",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "TIMELESS TRADITIONS"
+  },
+  {
+    "name": "Spaghetti & Meatballs",
+    "description": "Served with a garlic breadstick",
+    "price": "$22",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "TIMELESS TRADITIONS"
+  },
+  {
+    "name": "Hot Turkey",
+    "description": "Served open-faced over grilled bread with mashed potatoes and chef’s vegetable",
+    "price": "$19",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "TIMELESS TRADITIONS"
+  },
+  {
+    "name": "Chicken Parmesan Sub",
+    "description": "Served with your choice of side",
+    "price": "$19.5",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "TIMELESS TRADITIONS"
+  },
+  {
+    "name": "Meatball Parmesan Sub",
+    "description": "Served with your choice of side",
+    "price": "$19.5",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "TIMELESS TRADITIONS"
+  },
+  {
+    "name": "Chicken Pot Pie",
+    "description": "A Lucky Joe’s Favorite!",
+    "price": "$17.5",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "TIMELESS TRADITIONS"
+  },
+  {
+    "name": "Clubhouse",
+    "description": "Turkey, bacon, lettuce, tomato and mayonnaise",
+    "price": "$21",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Build your Own",
+    "description": "Meat: Turkey, Ham, Salami Cheese: Provolone, Cheddar, Swiss, American, Pepper Jack Bread: White, Wheat, Rye, Hard Roll, Wrap",
+    "price": "$17.5",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Crispy Fish Sandwich",
+    "description": "",
+    "price": "$16.5",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "BLT",
+    "description": "",
+    "price": "$17",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Grilled Cheese Melt",
+    "description": "Add tomato and/",
+    "price": "$14.5",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Roasted Veggie Panini",
+    "description": "Portobello mushrooms, red peppers, tomatoes, sautéed onion, fresh mozzarella cheese and basil pesto",
+    "price": "$18.5",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Crispy Chicken Club",
+    "description": "Bacon, cheddar and dill pickle aioli",
+    "price": "$19.5",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Toasted Ham & Swiss",
+    "description": "Ham, Swiss and honey mustard on an onion roll",
+    "price": "$17.5",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Turkey Jack Panini",
+    "description": "Our signature sandwich! Served with cranberry mayonnaise, tomato, onions and melted pepper jack cheese",
+    "price": "$21",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SIGNATURE SANDWICHES"
+  },
+  {
+    "name": "Ultimate Reuben",
+    "description": "Corned beef or turkey",
+    "price": "$21",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SIGNATURE SANDWICHES"
+  },
+  {
+    "name": "Philly Cheesesteak",
+    "description": "Philly beef with peppers and onions topped with cheese sauce",
+    "price": "$21",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SIGNATURE SANDWICHES"
+  },
+  {
+    "name": "Italian Chicken Sandwich",
+    "description": "Grilled chicken, fresh mozzarella, red peppers and red onions on a toasted onion roll",
+    "price": "$21",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SIGNATURE SANDWICHES"
+  },
+  {
+    "name": "BURGERS & DOGS",
+    "description": "All sandwiches include a choice of fries, Saratoga chips, mashed potatoes with gravy, coleslaw, or chef’s vegetable. Upgrade your side to onion rings,",
+    "price": "$4.",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SIGNATURE SANDWICHES"
+  },
+  {
+    "name": "Joe’s Classic Burger",
+    "description": "",
+    "price": "Single $18.5 | Double $25",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SIGNATURE SANDWICHES"
+  },
+  {
+    "name": "Joe’s Classic Cheeseburger",
+    "description": "",
+    "price": "Single $20 | Double $26.5",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SIGNATURE SANDWICHES"
+  },
+  {
+    "name": "Jumbo Hot Dog",
+    "description": "Choice of toppings: Chili, grilled or diced onions, sauerkraut, cheese sauce",
+    "price": "$12",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "SIGNATURE SANDWICHES"
+  },
+  {
+    "name": "Filet Mignon",
+    "description": "6oz. chargrilled marinated filet mignon served with fingerling potatoes and vegetable medley",
+    "price": "$38",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "R ENTRÉES"
+  },
+  {
+    "name": "Shrimp and Scallop Risotto",
+    "description": "Sautéed shrimp and pan-seared scallops atop creamy garlic risotto with a side of vegetable medley",
+    "price": "$33",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "R ENTRÉES"
+  },
+  {
+    "name": "Chicken Parmesan",
+    "description": "Pan-fried chicken breast topped with melted mozzarella and parmesan served over spaghetti tossed in marinara",
+    "price": "$30",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "R ENTRÉES"
+  },
+  {
+    "name": "Wild Mushroom Ravioli",
+    "description": "Eight ravioli tossed in a pesto cream sauce with a side of vegetable medley",
+    "price": "$26.5",
+    "menu_type": "Menu",
+    "restaurant_name": "Lucky Joe's",
+    "restaurant_url": "https://saratogacasino.com/dining/lucky-joes/",
+    "menu_name": "R ENTRÉES"
+  }
+]
