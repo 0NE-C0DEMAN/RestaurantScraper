@@ -1,0 +1,2144 @@
+[
+  {
+    "name": "House-Made Muffin",
+    "description": "seasonal offering",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Lite Bites"
+  },
+  {
+    "name": "Apple Oatmeal",
+    "description": "new york apples, steel-cut oats, brown sugar",
+    "price": "$15",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Lite Bites"
+  },
+  {
+    "name": "Sticky Bun",
+    "description": "cinnamon whip, candied pecan, macerated berries",
+    "price": "$12",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Lite Bites"
+  },
+  {
+    "name": "Greek Yogurt Parfait",
+    "description": "lakeside maple honey, fresh fruit, house made granola",
+    "price": "$13",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Lite Bites"
+  },
+  {
+    "name": "Coffee Cake",
+    "description": "cinnamon crumble",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Lite Bites"
+  },
+  {
+    "name": "Fresh Seasonal Fruit",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Sliced Avocado",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Traditional Bacon",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Traditional Sausage",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Canadian Bacon",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Turkey Bacon",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Home Fries",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "English Muffin",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Sourdough Toast",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Wheat Toast",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Everything Bagel",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "The Adelphi Breakfast",
+    "description": "two local farm eggs, choice of bacon, sausage or ham with loaded smoked paprika home fries",
+    "price": "$21",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Buttermilk Pancakes",
+    "description": "lakeside maple syrup, whipped butter",
+    "price": "$17",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Western Omelette",
+    "description": "cheddar, peppers, ham, loaded smoked paprika home fries",
+    "price": "$21",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Egg White Omelet",
+    "description": "mushroom, spinach, goat cheese",
+    "price": "$19",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Lobster Omelet",
+    "description": "mascarpone, bisque, chive",
+    "price": "$29",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Cinnamon French Toast",
+    "description": "thick cut cinnamon bread, vanilla custard, whipped cream, maple syrup",
+    "price": "$17",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Classic Benedict",
+    "description": "english muffin, candied thick cut ham, poached eggs, hollandaise",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Steak & Eggs",
+    "description": "bistro steak, over easy egg, chimichurri, loaded smoked paprika home fries, tomato",
+    "price": "$35",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Avocado Toast",
+    "description": "mixed greens, pickled onion, radish, goat cheese, poached egg",
+    "price": "$16",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Breakfast Sammy",
+    "description": "croissant bun, sausage, bacon, cheddar, egg, loaded smoked paprika home fries",
+    "price": "$24",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Quiche Lorraine",
+    "description": "bacon, onion, spinach, fresh greens",
+    "price": "$24",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Breakfast",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Oysters On The Half Shell",
+    "description": "cucumber & shallot mignonette, bloody mary cocktail sauce",
+    "price": "MP",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Coffee Cake",
+    "description": "cinnamon crumble",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Sticky Bun",
+    "description": "cinnamon whipped cream, candied pecans, macerated berries",
+    "price": "$12",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Hotel Adel-Fries",
+    "description": "truffle fondue, candied bacon, chili oil, scallions, peppadew",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Tuna Tacos",
+    "description": "seared yellowfin, pickled ginger, sriracha aioli, wasabi mouse, cilantro",
+    "price": "$20",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Avocado Toast",
+    "description": "mixed greens, pickled onion, radish, goat cheese, poached egg",
+    "price": "$16",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Charcuterie",
+    "description": "assorted local cheese, house cured meat,pickled veg, honeycomb, mustard, crostini",
+    "price": "$27",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Lobster Roll",
+    "description": "butter poached lobster, tarragon, brioche roll, celery, yuzu aioli",
+    "price": "$32",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Hangover Smash Burger",
+    "description": "candied bacon, american cheese, sunny side up egg, truffle aioli, croissant bun",
+    "price": "$20",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Hot Brown",
+    "description": "oven roasted turkey, truffle mornay, bacon, tomato, crispy fries",
+    "price": "$23",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Pancake Stack",
+    "description": "powdered sugar, whipped cream",
+    "price": "$17",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Cinnamon French Toast",
+    "description": "vanilla custard, whipped cream",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Western Omelette",
+    "description": "cheddar, peppers, ham, loaded smoked paprika home fries",
+    "price": "$21",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Eggs Benedict",
+    "description": "english muffin, canadian thick cut ham, poached eggs, hollandaise",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Steak & Eggs",
+    "description": "seared bistro filet, sunny eggs, loaded smoked paprika home fries, chimichurri",
+    "price": "$35",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Lobster Hash",
+    "description": "butter poached lobster, caviar, scallions, peppers. crispy potatoes, scrambled eggs, mascarpone",
+    "price": "$34",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Morrissey's Caesar",
+    "description": "baby romaine, herb focaccia croutons, shaved parmesan",
+    "price": "$17",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "House Salad",
+    "description": "mixed greens, cherry tomato, cucumber, pickled red onion, goat cheese, balsamic vinaigrette",
+    "price": "$16",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Wedge Salad",
+    "description": "lardon, cherry tomato, chives, bleu cheese, pickled red onion, vincotto",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Fig Apple Salad",
+    "description": "baby kale, watercress, candied pecan, goat cheese, smoked maple vinaigrette",
+    "price": "$17",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Baby Gem Salad",
+    "description": "radishes , pomegranate, yuzu honey vinaigrette, chives",
+    "price": "$16",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Top Your Salad",
+    "description": "add chicken +9 | add shrimp +12 | add steak +18 | add salmon +16",
+    "price": "",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Fresh Seasonal Fruit",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Sliced Avocado",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Home Fries",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "English Muffin or Everything Bagel",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Wheat or Sourdough Toast",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "5oz Filet Mignon",
+    "description": "",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Traditional Bacon Or Sausage",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Turkey Sausage",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Canadian Bacon",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Sides & Additions"
+  },
+  {
+    "name": "Oysters On The Half Shell",
+    "description": "cucumber & shallot mignonette, bloody mary cocktail sauce",
+    "price": "MP",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Hotel Adel-Fries",
+    "description": "truffle fondue, candied bacon, chili oil, scallions, peppadew",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Hummus Board",
+    "description": "artichoke hummus, labneh, house pickled vegetables",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Clothesline Bacon",
+    "description": "thick-cut, maple glazed, cracked black pepper",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Tuna Tacos",
+    "description": "pickled ginger, sriracha aioli, chives, cilantro, wasabi mousse",
+    "price": "$21",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Crispy Brussels",
+    "description": "apples, candied pecans, crispy onions, smoked maple vinaigrette",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Lobster Dumplings",
+    "description": "miso ginger, scallion, furikake, chili oil",
+    "price": "$25",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Korean Cauliflower",
+    "description": "scallions, peppadew, sesame",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Fried Chicken Wings",
+    "description": "buffalo maple, house-made bleu cheese, celery, carrot",
+    "price": "$20",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Potato Soup",
+    "description": "bacon, cheddar, chives",
+    "price": "$13",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "New England Clam Chowder",
+    "description": "quahog clams, oyster crackers",
+    "price": "$13",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "Butternut Squash Bisque",
+    "description": "curry, ginger, coconut crème, spiced pepita",
+    "price": "$13",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "Morrissey's Caesar",
+    "description": "baby romaine, herb focaccia croutons, shaved parmesan",
+    "price": "$17",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "House Salad",
+    "description": "mixed greens, cherry tomato, cucumber, pickled red onion, goat cheese, balsamic vinaigrette",
+    "price": "$16",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "Wedge Salad",
+    "description": "lardon, cherry tomato, chives, bleu cheese, pickled red onion, vincotto",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "Fig Apple Salad",
+    "description": "baby kale, watercress, candied pecan, goat cheese, smoked maple vinaigrette",
+    "price": "$17",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "Baby Gem Salad",
+    "description": "radishes , pomegranate, yuzu honey vinaigrette, chives",
+    "price": "$16",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "Top Your Salad",
+    "description": "add chicken +9 | add shrimp +12 | add steak +18 | add salmon +16",
+    "price": "",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "Calabrese",
+    "description": "spicy pepperoni style salami, tangy tomato sauce",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Signature Pizzas & Flatbreads"
+  },
+  {
+    "name": "Mushroom",
+    "description": "roasted local mushrooms, truffle oil, mozzarella",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Signature Pizzas & Flatbreads"
+  },
+  {
+    "name": "Fire It Up",
+    "description": "chicken sausage, jalapeno, thai green curry, red onion, cilantro",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Signature Pizzas & Flatbreads"
+  },
+  {
+    "name": "Margherita",
+    "description": "fresh mozzarella curd, heirloom tomato, basil, local peppered olive oil",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Signature Pizzas & Flatbreads"
+  },
+  {
+    "name": "Crostaceo",
+    "description": "lobster, scallop, shrimp, shallots, garlic cream, grano padano",
+    "price": "$32",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Signature Pizzas & Flatbreads"
+  },
+  {
+    "name": "Prosciutto Pie",
+    "description": "fig jam, goat cheese, roasted shallot, arugula",
+    "price": "$29",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Signature Pizzas & Flatbreads"
+  },
+  {
+    "name": "Dry-Aged Smash Burger",
+    "description": "brioche bun, lettuce, tomato, american cheese, caramelized onion, bacon aioli",
+    "price": "$25",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Sandwiches & Large Plates"
+  },
+  {
+    "name": "Quiche Lorraine",
+    "description": "bacon, onion, spinach, fresh greens",
+    "price": "$24",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Sandwiches & Large Plates"
+  },
+  {
+    "name": "Hot Brown",
+    "description": "oven roasted turkey, truffle mornay, bacon, tomato, crispy fries",
+    "price": "$23",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Sandwiches & Large Plates"
+  },
+  {
+    "name": "Lobster Omelet",
+    "description": "mascarpone, bisque, chive",
+    "price": "$29",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Sandwiches & Large Plates"
+  },
+  {
+    "name": "Grilled Chicken Sandwich",
+    "description": "swiss cheese, bacon, mushrooms, hot honey mustard",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Sandwiches & Large Plates"
+  },
+  {
+    "name": "Prime Rib Sandwich",
+    "description": "caramelized onion, horseradish cream, swiss, au jus",
+    "price": "$24",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Sandwiches & Large Plates"
+  },
+  {
+    "name": "Pub Sandwich",
+    "description": "house brined corned beef, guinness mustard aioli, aged dubliner cheese, toasted brown bread",
+    "price": "$23",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Sandwiches & Large Plates"
+  },
+  {
+    "name": "Steak Frites",
+    "description": "bistro cut steak, house cut fries, au poivre sauce",
+    "price": "$39",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Sandwiches & Large Plates"
+  },
+  {
+    "name": "Mussel Frites",
+    "description": "white wine, chorizo, butter, fennel, fresh herb crostini, crispy fries",
+    "price": "$29",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Sandwiches & Large Plates"
+  },
+  {
+    "name": "Seaweed Salad",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Edamame",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Yellowtail Salad",
+    "description": "seaweed salad, jalapeño, hot pepper paste sauce",
+    "price": "$16",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Tuna Tataki",
+    "description": "seared with house ponzu",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Adelphi Tower Salad",
+    "description": "tuna, salmon, white fish, avocado, cucumber, crab stick, hot pepper paste sauce, unagi sauce, spicy mayo, tobiko, tempura flakes",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Tuna Nigiri",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "Tuna Sashimi",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "Salmon Nigiri",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "Salmon Sashimi",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "Kobe Beef Nigiri",
+    "description": "",
+    "price": "MP",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "Kobe Beef Sashimi",
+    "description": "",
+    "price": "MP",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "Eel Nigiri",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "Eel Sashimi",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "Yellowtail Nigiri",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "Yellowtail Sashimi",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "Shrimp Nigiri",
+    "description": "",
+    "price": "$7",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "Shrimp Sashimi",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "White Tuna Nigiri",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "White Tuna Sashimi",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "Flying Fish Roe Nigiri",
+    "description": "",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "Flying Fish Roe Sashimi",
+    "description": "",
+    "price": "$12",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi"
+  },
+  {
+    "name": "Chirashi",
+    "description": "sashimi assortments with seaweed salad, served on sushi rice",
+    "price": "$28",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi Specials"
+  },
+  {
+    "name": "6-Piece Nigiri Special",
+    "description": "tuna, salmon, yellowtail, shrimp & chef’s choice",
+    "price": "$23",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Nigiri & Sashimi Specials"
+  },
+  {
+    "name": "Yellowtail Roll",
+    "description": "hamachi, cucumber, scallion",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "California Roll",
+    "description": "seasoned crab meat, cucumber, avocado",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Philadelphia Roll",
+    "description": "smoked salmon, cream cheese, avocado",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Rainbow Roll",
+    "description": "california roll topped with tuna, salmon, yellowtail, shrimp, avocado",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Adelphi Vegetable & Mango Maki",
+    "description": "avocado, cucumber, carrot, mango, apple, lettuce, wrapped in soy paper, mango sauce, wasabi mayo",
+    "price": "$15",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Shrimp Tempura Roll",
+    "description": "shrimp tempura, kanikama, cucumber, avocado, eel sauce, lettuce",
+    "price": "$17",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Adelphi Vegetable Spicy Maki",
+    "description": "seaweed salad, cucumber, topped with avocado & spicy mayo",
+    "price": "$12",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Spicy Tuna Maki",
+    "description": "cucumber, spicy sauce",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Spider Roll",
+    "description": "soft-shell crab, cucumber, avocado, eel sauce, lettuce",
+    "price": "$20",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Dragon Roll",
+    "description": "shrimp tempura, cucumber, avocado, topped with fresh water eel",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Firecracker Roll",
+    "description": "seasoned crab meat, avocado, cucumber, topped with spicy tuna, tempura flakes, spicy mayo, scallions",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Volcano Roll",
+    "description": "seasoned crab meat, cucumber, avocado, baked scallop, spicy mayo, topped with tempura flakes, eel sauce & tobiko",
+    "price": "$23",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Kobe Maki",
+    "description": "shrimp tempura, avocado, cucumber, crab meat, topped with lightly torched Kobe beef sashimi, scallions, house sweet & spicy sauce",
+    "price": "$23",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Adelphi Maki",
+    "description": "crispy spicy tuna & cucumber, avocado, topped with seared mixed sashimi & tobiko, tempura flakes, micro greens & teriyaki sauce, spicy mayo, wasabi mayo",
+    "price": "$24",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "French Cake",
+    "description": "salmon, avocado, topped with tobiko, yellowtail,tempura flakes, teriyaki sauce, spicy sauce & house special sauce",
+    "price": "$20",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Mango Salmon Roll",
+    "description": "salmon, avocado, cucumber, topped with salmon, fresh mango, mango sauce, wasabi mayo, micro greens",
+    "price": "$20",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Small Sushi Boat",
+    "description": "serves two guests, california roll, shrimp tempura roll, 6-piece sashimi, 6-piece nigiri",
+    "price": "$78",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Large Sushi Boat",
+    "description": "serves four guests, special maki, california roll, spicy tuna roll, salmon press roll, 12-piece sashimi1, 12-piece nigiri",
+    "price": "$130",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Sushi",
+    "menu_name": "Specialty Rolls"
+  },
+  {
+    "name": "Oysters On The Half Shell",
+    "description": "cucumber & shallot mignonette, bloody mary cocktail sauce",
+    "price": "MP",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Raw Bar"
+  },
+  {
+    "name": "Shrimp Cocktail",
+    "description": "citrus vinaigrette, cucumber, red onion, radish, aji amarillo aioli, avocado",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Raw Bar"
+  },
+  {
+    "name": "Tuna Tacos",
+    "description": "pickled ginger, sriracha aioli, chives, micro cilantro, wasabi mousse",
+    "price": "$21",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Raw Bar"
+  },
+  {
+    "name": "Warm Rosemary Focaccia",
+    "description": "tomato olive butter",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Crispy Brussels",
+    "description": "apples, candied pecans, crispy onions, smoked maple vinaigrette",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Hummus Board",
+    "description": "artichoke hummus, labneh, house pickled vegetables",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Korean Cauliflower",
+    "description": "scallions, peppadew, sesame",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Lobster Dumplings",
+    "description": "miso ginger, scallion",
+    "price": "$25",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Clothesline Bacon",
+    "description": "thick-cut, maple glazed, cracked black pepper",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Hotel Adel-Fries",
+    "description": "fondue, candied bacon, chili oil, scallions, peppadew",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Salt & Pepper Calamari",
+    "description": "sweet soy, spicy mayo",
+    "price": "$23",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Duck Tamales",
+    "description": "blue corn masa, ancho mole, cherry salsa",
+    "price": "$25",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Fried Chicken Wings",
+    "description": "maple buffalo, yogurt bleu cheese, celery, carrot",
+    "price": "$20",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Lobster Tostada",
+    "description": "pickled onion, avocado, pico, chipotle lime creme",
+    "price": "$32",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Potato Soup",
+    "description": "bacon, cheddar, chives",
+    "price": "$13",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "New England Clam Chowder",
+    "description": "quahog clams, oyster crackers",
+    "price": "$13",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "Butternut Bisque",
+    "description": "curry, ginger, coconut crème, spiced pepita",
+    "price": "$13",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "Morrissey's Caesar",
+    "description": "baby romaine, herb focaccia croutons, shaved parmesan",
+    "price": "$17",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "House Salad",
+    "description": "mixed greens, cherry tomato, cucumber, pickled red onion, goat cheese, balsamic vinaigrette",
+    "price": "$16",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "Wedge Salad",
+    "description": "lardon, cherry tomato, chives, bleu cheese, pickled red onion, vincotto",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "Fig Apple Salad",
+    "description": "baby kale, watercress, candied pecan, goat cheese, smoked maple vinaigrette",
+    "price": "$17",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "Baby Gem Salad",
+    "description": "radishes, pomegranate, yuzu honey vinaigrette, chives",
+    "price": "$16",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "Top Your Salad",
+    "description": "add chicken +9 | add shrimp +12 | add steak +18 | add salmon +16",
+    "price": "",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Soup & Salads"
+  },
+  {
+    "name": "Sweet Potato Gnocchi",
+    "description": "brown butter, sage, apple sausage",
+    "price": "$30",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "House-Made Pasta"
+  },
+  {
+    "name": "Bolognese",
+    "description": "garganelli pasta, house-ground three meat ragu, whipped ricotta parmesan",
+    "price": "$32",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "House-Made Pasta"
+  },
+  {
+    "name": "Seafood Risotto",
+    "description": "lobster, scallop, shrimp, spring peas, roasted red peppers, parmesan",
+    "price": "$49",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "House-Made Pasta"
+  },
+  {
+    "name": "Mushroom Pappardelle",
+    "description": "hand cut pappardelle, Slip Stream Farm mushrooms, filet tips, creme fraîche",
+    "price": "$32",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "House-Made Pasta"
+  },
+  {
+    "name": "Calabrese",
+    "description": "spicy pepperoni style salami, tangy tomato sauce",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Pizza & Flatbread"
+  },
+  {
+    "name": "Mushroom",
+    "description": "roasted local mushrooms, truffle oil, mozzarella",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Pizza & Flatbread"
+  },
+  {
+    "name": "Fire It Up",
+    "description": "chicken sausage, jalapeno, thai green curry, red onion, cilantro",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Pizza & Flatbread"
+  },
+  {
+    "name": "Margherita",
+    "description": "fresh mozzarella curd, heirloom tomato, basil, local peppered olive oil",
+    "price": "$21",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Pizza & Flatbread"
+  },
+  {
+    "name": "Crostaceo Pizza",
+    "description": "lobster, scallop, shrimp, shallots, garlic cream, grano padano",
+    "price": "$32",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Pizza & Flatbread"
+  },
+  {
+    "name": "Prosciutto Pie",
+    "description": "fig jam, goat cheese, roasted shallot, arugula",
+    "price": "$29",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Pizza & Flatbread"
+  },
+  {
+    "name": "Mussels Frites",
+    "description": "white wine, chorizo, butter, fennel, fresh herb crostini, crispy fries",
+    "price": "$29",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Dry-Aged Smash Burger",
+    "description": "brioche bun, lettuce, tomato, american cheese, caramelized onion, bacon aioli",
+    "price": "$25",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Maple Brined Roasted Chicken",
+    "description": "root vegetable apple hash, hot-honey ginger carrots, chicken jus",
+    "price": "$39",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Seared Sea Scallops",
+    "description": "pork belly, edamame, carrot, cippolini onion, pea tendrils",
+    "price": "$54",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Frutti Di Mare",
+    "description": "mussels, shrimp, scallops, crostini, irish whiskey, spicy tomato broth",
+    "price": "$41",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Pan-Seared Salmon",
+    "description": "miso glaze, beech mushroom, broccolini, broth",
+    "price": "$45",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Steak Frites",
+    "description": "bistro steak, house cut fries, chimichurri",
+    "price": "$39",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Filet Mignon",
+    "description": "crispy fingerling, fall vegetables, red wine sauce",
+    "price": "$65",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Shepherds Pie",
+    "description": "lamb shank, mirepoix, rosemary gravy, parmesan mashed",
+    "price": "$35",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Main Course"
+  },
+  {
+    "name": "Rum Baba",
+    "description": "rum-soaked brioche infused with aged caribbean rum, vanilla bean chantilly, candied citrus",
+    "price": "$16",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dessert",
+    "menu_name": "House-Made Sweets"
+  },
+  {
+    "name": "Lemon Meringue Pie",
+    "description": "golden sablé crust, bright lemon crème, toasted Italian meringue",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dessert",
+    "menu_name": "House-Made Sweets"
+  },
+  {
+    "name": "Black Forest Cake",
+    "description": "layers of dark chocolate sponge soaked in kirsch, amarena cherries, glossy chocolate ganache",
+    "price": "$15",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dessert",
+    "menu_name": "House-Made Sweets"
+  },
+  {
+    "name": "Banana Parfait",
+    "description": "banana cream infused with crème de banane liqueur, layered golden biscuit crumble, vanilla chantilly",
+    "price": "$15",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dessert",
+    "menu_name": "House-Made Sweets"
+  },
+  {
+    "name": "Seasonal Crème Brûlée",
+    "description": "caramelized sugar crust, gluten free cookie",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dessert",
+    "menu_name": "House-Made Sweets"
+  },
+  {
+    "name": "Pistachio Eclair",
+    "description": "raspberry coulis",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Dessert",
+    "menu_name": "House-Made Sweets"
+  },
+  {
+    "name": "Morrissey’s Mark",
+    "description": "peach tea–infused bourbon, lemon, vanilla honey, cinnamon bitters. Southern charm with a punch. Peach tea bourbon, lemon, vanilla honey & cinnamon bitters strike a bold balance between sweet, spiced, and strong. A cocktail with grit, just like the man.",
+    "price": "$21",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Seasonal Cocktails"
+  },
+  {
+    "name": "The Canfield Ghost",
+    "description": "pineapple-infused gin, gentian, bergamot, blanc vermouth, bee pollen. A tropical twist on a white negroni. Pineapple gin & gentian liqueur get a floral lift from bergamot and blanc vermouth, while bee pollen leaves a soft, ghostly finish.",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Seasonal Cocktails"
+  },
+  {
+    "name": "Spa City Sling",
+    "description": "white rum, pineapple, passionfruit, citric acid, pomegranate. Tropical & tart with a fizzy edge. Pineapple, passionfruit & pomegranate brighten up crisp white rum for a drink that feels like a Saratoga summer.",
+    "price": "$20",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Seasonal Cocktails"
+  },
+  {
+    "name": "John The Gentleman",
+    "description": "brown butter–washed rye, banana, chile, bénédictine, cynar, chocolate bitters. Polished but dangerous. Brown butter rye, banana & bénédictine blend heat, herb & richness with a bittersweet edge. A smooth sipper with a sly punch.",
+    "price": "$21",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Seasonal Cocktails"
+  },
+  {
+    "name": "The Irish Collar",
+    "description": "vodka, green bean, peach, orgeat, lemon, egg white. Fresh & unexpected. Green bean and peach play surprisingly well together, smoothed out with creamy orgeat & lemon. Vodka keeps it clean; egg white gives it lift.",
+    "price": "$21",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Seasonal Cocktails"
+  },
+  {
+    "name": "The Clubhouse Spritz",
+    "description": "strawberry-infused aperol, lychee-passionfruit juice, chandon garden spritz. Strawberry aperol & tropical juice meet chandon bubbles for a fruity, floral spritz that steals the scene. Light, bright & a little flirty.",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Seasonal Cocktails"
+  },
+  {
+    "name": "The Grudge Match",
+    "description": "gin, elderflower, amaro, lemon, cardamom, rhubarb. Botanical gin softens the hit, while amaro & rhubarb bring a bitter twist. Lemon & cardamom leave a lingering spark. Floral, sharp, and ready for another round.",
+    "price": "$20",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Seasonal Cocktails"
+  },
+  {
+    "name": "The Ronin of Toga",
+    "description": "yogurt-washed vodka, yuzu, cucumber, wasabi, lillet, sencha. Yogurt-washed vodka sets a smooth stage for cucumber & yuzu, while wasabi & sencha add bite. Clean, cool & sharply focused.",
+    "price": "$21",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Seasonal Cocktails"
+  },
+  {
+    "name": "The Prizefighter’s Paloma",
+    "description": "tequila, pamplemousse, cherry, lime, grapefruit soda. Bright & balanced. Tequila hits with lime & cherry, softened by grapefruit soda & pamplemousse. Light on its feet with a bold finish.",
+    "price": "$21",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Seasonal Cocktails"
+  },
+  {
+    "name": "The Tammany Fix",
+    "description": "mezcal, yellow chartreuse, amaro, mango, lemon. Sweet, smoky & just a little shady. Mezcal & mango get tangled in Chartreuse & amaro for a drink that’s smooth-talking & sly.",
+    "price": "$20",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Seasonal Cocktails"
+  },
+  {
+    "name": "Artisinal Saratoga Squeeze",
+    "description": "6.1%, Hazy IPA",
+    "price": "$10",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "AVAL Gold Cider",
+    "description": "6.5%, Breton Cider",
+    "price": "$10",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Beer Tree Craft All Day IPA",
+    "description": "4%, IPA",
+    "price": "$10",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Corona Extra",
+    "description": "4.6%, Pale Lager",
+    "price": "$7",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Equilibrium Photon",
+    "description": "10%, IPA",
+    "price": "$10",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Heineken",
+    "description": "5%, Lager",
+    "price": "$7",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "High Noon Watermelon",
+    "description": "4.5%, Hard Seltzer",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "High Noon Pineapple",
+    "description": "4.5%, Hard Seltzer",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Jack’s Abby Pilsner",
+    "description": "4.7%, Bavarian Style Pilsner",
+    "price": "$10",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Jack’s Abby Shipping Out of Boston",
+    "description": "5.9%, Lager",
+    "price": "$9",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Michelob Ultra",
+    "description": "4.2%, Light Lager",
+    "price": "$7",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Miller Lite",
+    "description": "4.2%, Light Lager",
+    "price": "$7",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Sloop Golden Cruiser",
+    "description": "4.2%, Golden Ale",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Stella Artois",
+    "description": "5.2%, Pilsner",
+    "price": "$7",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Surfside Vodka Lemonade",
+    "description": "5%, Hard Lemonade Seltzer",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Surfside Vodka Iced Tea",
+    "description": "5%, Hard Iced Tea Seltzer",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Unified Feel As One Sour",
+    "description": "4%, Fruited Sour",
+    "price": "$10",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Zero Gravity Rescue Club",
+    "description": "Non-Alcoholic IPA",
+    "price": "$7",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Zero Gravity Rescue Club",
+    "description": "Non-Alcoholic Pilsner",
+    "price": "$7",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Bottled & Canned Beer"
+  },
+  {
+    "name": "Allagash White Ale",
+    "description": "5.2%, Belgian-Style Wheat Beer",
+    "price": "$10",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Draft Beer"
+  },
+  {
+    "name": "Brooklyn Seasonal",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Draft Beer"
+  },
+  {
+    "name": "Common Roots Pacific Pulse",
+    "description": "6%, West Coast-style IPA",
+    "price": "$10",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Draft Beer"
+  },
+  {
+    "name": "Guinness",
+    "description": "4.2%, Irish Stout",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Draft Beer"
+  },
+  {
+    "name": "Grimm Wavetable IPA",
+    "description": "6.7%, East Coast IPA",
+    "price": "$12",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Draft Beer"
+  },
+  {
+    "name": "Peroni",
+    "description": "4.7%, Italian Pilsner",
+    "price": "$8",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Draft Beer"
+  },
+  {
+    "name": "Unified Beer Press All The Juicy Things",
+    "description": "6.7%, New England IPA",
+    "price": "$12",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Draft Beer"
+  },
+  {
+    "name": "Zero Gravity Green State Lager",
+    "description": "4%, American Light Lager",
+    "price": "$10",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Draft Beer"
+  },
+  {
+    "name": "Prosecco",
+    "description": "La Gioiosa, Veneto, Italy",
+    "price": "$13",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Cava",
+    "description": "Raventós i Blanc, Rosé de Nit, 2014, Catalonia, Spain",
+    "price": "$17",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Adelphi Special Cuvée",
+    "description": "Étienne Oudart, Champagne Brut, Champagne, France",
+    "price": "$29",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Non-Alcoholic Sparkling Tea",
+    "description": "“BLA”, Jasmin, White Tea, Darjeeling, Conpenhagen, Denmark",
+    "price": "$17",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Pinot Grigio",
+    "description": "Fiegl, 2023, Friuli, Italy",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Sancerre",
+    "description": "Isla Jeanne, 2024, Loire, France",
+    "price": "$20",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Sauvignon Blanc",
+    "description": "Hei Matau, 2024, Marlborough, New Zealand",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Chardonnay",
+    "description": "Macon Villages, 2022, Joseph Drouhin, Burgundy, France",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Chardonnay",
+    "description": "Stag's Leap, 2023, Napa Valley, California",
+    "price": "$22",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Verdejo",
+    "description": "Celeste Familia Torres, 2023, Rueda, Spain",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Riesling",
+    "description": "Weingut Max Ferd, Richter, “Classic,” 2023, Mosel, Germany",
+    "price": "$15",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Cinsault, Grenache, Syrah",
+    "description": "Mirabeau Classic, 2021, Cotes de Provence, France",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Gamay",
+    "description": "Jean-Marc Lafont, \"Granit & Manganese,\" 2017, Moulin-À-Vent, Beaujolais, France",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Pinot Noir",
+    "description": "Michel Goubard & Fils, “Mont-Avril,” Burgundy, France",
+    "price": "$15",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Bordeaux Blend",
+    "description": "Château de Colombes, 2019, Côtes de Castillon, France",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Cabernet Sauvignon",
+    "description": "Architect, 2021, Alexander Valley, California",
+    "price": "$18",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Cabernet Sauvignon",
+    "description": "Chappellet Mountain Cuvée, 2021, Napa Valley, California",
+    "price": "$25",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Cabernet Sauvignon",
+    "description": "Maison Noir, “In Sheeps Clothing,” 2022, Columbia Valley, Oregon",
+    "price": "$14",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Nebbiolo",
+    "description": "Casa di E. Mirafiore, “Langhe Nebbiolo,” Piedmont, Italy",
+    "price": "$19",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Moscato d’Asti",
+    "description": "Sourgal, 2016, Elio Perrone, Piedmont, Italy",
+    "price": "$8 | $48",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  },
+  {
+    "name": "Muscat",
+    "description": "Campbells Rutherglen, Victoria, Australia",
+    "price": "$12 | $43",
+    "restaurant_name": "Morrissey's Lounge & Bistro",
+    "restaurant_url": "https://morrisseyslounge.com/",
+    "menu_type": "Libations",
+    "menu_name": "Wine By The Glass"
+  }
+]

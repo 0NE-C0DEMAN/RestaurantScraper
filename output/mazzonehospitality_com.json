@@ -1,0 +1,2837 @@
+[
+  {
+    "name": "AVOCADO AND AVOCADO",
+    "description": "whipped avocado, breakfast radish, trout roe, pastry spoon",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "PORK AND LEEK DUMPLING",
+    "description": "black vinegar ponzu",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "TEMPURA SWEET POTATO FUTOMAKI (V)",
+    "description": "roasted sweet potato, pickled daikon, egg yolk furikake, shitake, dark soy yuzu",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "CRAB AND CORN FRITTE",
+    "description": "lemon basil aioli",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "NASHVILLE HOT CHICKEN BITE",
+    "description": "Old Chatham blue cheese mousse, hot honey",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "VEGETABLE SAMOSA (V, VG)",
+    "description": "potato, pea, carrot, tumeric, cilantro chutney",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "SHISHITO RELLENOS (GF, V)",
+    "description": "tomato rice, corn, pinto beans, cotija, salsa roja",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "ARANCINI (choose one)",
+    "description": "- saffron and fontina (V)\n- roasted red pepper and basil pesto (VG)",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "SPICY GAZPACHO SHOOTER (GF, V, VG)",
+    "description": "tomato, jalapeño, vegetables",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "CHATEAUBRIAND CROSTINI",
+    "description": "caramelized onion, horseradish mousse",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "TOMATO BISQUE (V)",
+    "description": "oven charred tomato shooter, grilled cheese skewer, basil oil",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "CHICKEN AND GREEN ONION CHOPSTICK (GF)",
+    "description": "Thai garlic sauce",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "BRÛLÉED FIGS (GF)",
+    "description": "ricotta feta mousse, wrapped in prosciutto",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "MINI L.A. STREET DOGS (GF)",
+    "description": "bacon-wrapped, pico de gallo, queso fundido",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "CHICKEN KEBAB (GF",
+    "description": "harissa yogurt dip",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "CHICKPEA PANISSE (V, VG",
+    "description": "olive tapenade, pickled fennel",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "BASIL PESTO RUBBED CHICKEN SATAY (GF",
+    "description": "grilled sweet tomato jam",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "DEEP FRIED BUFFALO CAULIFLOWER (GF, V, VG",
+    "description": "spiced almond flour, vegan ranch dressing",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "EAST COAST FRIED OYSTERSON THE HALF SHEL",
+    "description": "cracker-crusted, Old Bay corn remoulade",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "CAJUN WONTON",
+    "description": "chorizo, spring onion, pepper jack cheese, cream cheese, habanero red sauce",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "BAKED BRIE AND CARAMELIZED ONION TART (V)",
+    "description": "black truffle, sweet onion",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "CAVIAR AND NEW POTATO CROQUETTES",
+    "description": "American sturgeon caviar, dill, creme fraiche",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "LAMB LOLLIPOP (GF)",
+    "description": "broccoli rabe mint pesto",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "WAGYU BEEF EMPANADA",
+    "description": "charred poblano chimichurri",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "TEMPURA SURF AND TURF ROLLS",
+    "description": "crispy roll, lobster, filet mignon, cream cheese, sweet soy, ginger sweet chili aioli",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "BRAISED SHORT RIB AND MUSHROOM ARANCINI",
+    "description": "parmesan cheese",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "SALMON SASHIMI BITE (GF)",
+    "description": "crispy sweet rice cake, Ossetra caviar, seaweed scallion, creme fraiche",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "LAMB KEFTA KEBAB (GF)",
+    "description": "cucumber tzatziki",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "SASHIMI SESAME MISO CONE (choose one)",
+    "description": "yellow tail, preserved Meyer lemon, cucumber dill yogurt\nahi tuna, kimchi, black sesame seeds, wasabi chili aioli",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "BIG EYE TUNA SUSU",
+    "description": "preserved black truffles, arugula, crispy capers",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "GRILLED HALLOUMI AND WATERMELON KEBAB (GF,V)",
+    "description": "Vincotto gastrique, torn mint leaves",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "LOBSTER MAC AND CHEESE BITES",
+    "description": "whipped corn, chive",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "VIETNAMESE STEAK TARTARE",
+    "description": "nuoc cham, birds eye chili, lime juice, rice cracker chip",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "DUCK RILLETTE CROSTINI",
+    "description": "toasted baguette, pickled cherries, balsamic vinegar",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "MINI SOUTHERN SHRIMP AND GRIT",
+    "description": "cherry tomato, charred scallions",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "CHEESE AND SALUMI",
+    "description": "variety of domestic and international cheeses made from cow, sheep and goat's milk, fire roasted red pepper and pimento cheeses, air dried salumi, charcuterie, dried fruits, local honey, nuts, berries, mediterranean olives, garlic toasts, crackers, flatbreads\nGF - with crackers and bread omitted\nV - with meats omitted",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "GRAZING STATION"
+  },
+  {
+    "name": "HUMMUS TRIO",
+    "description": "sweet potato hummus (GF,V,VG), garlic white bean hummus (GF,V,VG), cilantro lime hummus (GF,V,VG), toasted pita (V,VG), flatbread crackers (V,VG",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "GRAZING STATION"
+  },
+  {
+    "name": "FARM STAND VEGETABLE CRATE (GF,V,VG",
+    "description": "selections inspired by the growing seasons: heirloom carrots, radishes, sugar pole beans, pea pods, tomatoes radicchio, romaine leaf, asparagus, cucumber, pepper",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "GRAZING STATION"
+  },
+  {
+    "name": "DIP",
+    "description": "cucumber tzatziki ranch (GF,V), caramelized onion and sour cream (GF,V)",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "GRAZING STATION"
+  },
+  {
+    "name": "SARATOGA NETTLE CHIP NACHOS",
+    "description": "house fried potato chips, slow cooked pulled short rib, banana vinegar peppers, tomato, red onion, Vermont cheddar",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "GRAZING STATION"
+  },
+  {
+    "name": "PANCETTA/WRAPPED CHICKEN THIGHS (GF",
+    "description": "vinegar peppers, sweet sausage, sage, garlic",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "UPGRADED SELECTIONS"
+  },
+  {
+    "name": "CHICKEN AND SPINACH MEATBALLS",
+    "description": "madiera tomato pan gravy",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "UPGRADED SELECTIONS"
+  },
+  {
+    "name": "ROAST PORK SHOULDER (GF",
+    "description": "polenta, fennel, garlic, rosemary rubbed, pan jus",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "UPGRADED SELECTIONS"
+  },
+  {
+    "name": "BAKED CRAB DIP SKILLET (GF",
+    "description": "cheddar, crumb topping",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "UPGRADED SELECTIONS"
+  },
+  {
+    "name": "AHI TUNA NACHOS",
+    "description": "avocado, jalapeño, srracha aioli, pico de gallo, green onion, crispy wonton crisps",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "UPGRADED SELECTIONS"
+  },
+  {
+    "name": "STUFFED MINI BELL PEPPERS (V,VG",
+    "description": "quinoa, black beans, corn, roasted tomatillo salts",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "UPGRADED SELECTIONS"
+  },
+  {
+    "name": "SCALLOPS GRUYERE (GF",
+    "description": "sauce mornay, cracker crumb, tarragon",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "UPGRADED SELECTIONS"
+  },
+  {
+    "name": "WARM ARTICHOKE AND FONTINA DIP (V",
+    "description": "artisan bread, pretzel sticks",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "UPGRADED SELECTIONS"
+  },
+  {
+    "name": "UPGRADED ARTISANAL LOCAL CHEESE AND SALUMI",
+    "description": "(can also be added to table as a shareable board for plated dinner or as a station)",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 6-7"
+  },
+  {
+    "name": "NEW YORK STATELOCAL PARTNER",
+    "description": "Nettle Meadow, Argyle, Old Chatham, Jacuterie, Riopel Hill, Forts Ferry Fzr",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 6-7"
+  },
+  {
+    "name": "CARPACCIO (GF",
+    "description": "rbeye, shaved onion, capers, Locatelli pecorino, arugula, tuscan oil, milled pepper",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "ANTIPASTI TAVOLO"
+  },
+  {
+    "name": "MUSSELS (GF",
+    "description": "garlic, white wine, tomato fennel broth",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "ANTIPASTI TAVOLO"
+  },
+  {
+    "name": "BLISTERED CAULIFLOWER (GF, V, VG",
+    "description": "capers, pignoli, lemon parsley oil",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "ANTIPASTI TAVOLO"
+  },
+  {
+    "name": "BURRATA (GF,V",
+    "description": "heirloom grape tomatoes, grilled artichokes, Maplebrook Farms burrata, shaved onion, white balsamic vinaigrette",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "ANTIPASTI TAVOLO"
+  },
+  {
+    "name": "ICED SEAFOOD BAR",
+    "description": "peppery horseradish cocktail, caper remoulade, lemon, tabasco, classic mignonette",
+    "price": "market price",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 8-9"
+  },
+  {
+    "name": "POACHED WILD CAUGHT SHRIMP (GF",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 8-9"
+  },
+  {
+    "name": "OYSTERS ON THE ½ SHELL (GF",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 8-9"
+  },
+  {
+    "name": "CLAMS ON THE ½ SHELL (GF",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 8-9"
+  },
+  {
+    "name": "JONAH CRAB CLAWS (GF",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 8-9"
+  },
+  {
+    "name": "MARYLAND BLUE CRAB COCKTAIL SHOOTERS (GF",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 8-9"
+  },
+  {
+    "name": "MEDITERRANEAN CHILLED OCTOPUS SALAD (GF",
+    "description": "saffron potatoes, vegetables, lemon oregano vinaigrette",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 8-9"
+  },
+  {
+    "name": "CHILLED WHOLE ATLANTIC LOBSTER(GF",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "UPGRADED SELECTION"
+  },
+  {
+    "name": "ALASKAN KING CRAB LEGS(GF",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "UPGRADED SELECTION"
+  },
+  {
+    "name": "CAVIAR 500/1000 KILO (GF",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "UPGRADED SELECTION"
+  },
+  {
+    "name": "BUCKWHEAT BLINIS",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "ACCOUTREMENTS CLASSIQU"
+  },
+  {
+    "name": "ACCOUTREMENTS CLASSIQU",
+    "description": "crème fraiche, sour cream, fresh herbs, chopped onions, crumbled hard boiled egg",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 8-9"
+  },
+  {
+    "name": "AHI TUNA (GF), KING SALMON (GF), SHRIMP CEVICHE (GF), SWEET POTATO (GF, V, VG), BEETS (GF, V, VG",
+    "description": "*spicy option available",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "FRESH CATCH POKE BOWLS"
+  },
+  {
+    "name": "PROTEIN",
+    "description": "(choose two)",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "FRESH CATCH POKE BOWLS"
+  },
+  {
+    "name": "white rice (GF,V,VG",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "BASE"
+  },
+  {
+    "name": "brown rice (GF,V,VG",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "BASE"
+  },
+  {
+    "name": "BASE",
+    "description": "(choose one)",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "FRESH CATCH POKE BOWLS"
+  },
+  {
+    "name": "avocado, cucumbers, rice puffs, sesame seeds, radishes, jalapeño, scallion, cilantro, furikake, edamame, seaweed salad, pickled ginger, nori",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TOPPINGS"
+  },
+  {
+    "name": "TOPPINGS (GF, V, VG",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "FRESH CATCH POKE BOWLS"
+  },
+  {
+    "name": "Tamari ginger garlic (GF,V,VG)",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SAUCES"
+  },
+  {
+    "name": "sriracha aioli (GF,V)",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SAUCES"
+  },
+  {
+    "name": "SAUCES",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "FRESH CATCH POKE BOWLS"
+  },
+  {
+    "name": "FOCACCIA (V",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "NONNA'S CUCINA"
+  },
+  {
+    "name": "BRACIOLE (gf",
+    "description": "beef filled with ricotta and parmesan, slow cooked in red sauce",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "NONNA'S CUCINA"
+  },
+  {
+    "name": "EGGPLANT PARMIGIANA (V",
+    "description": "red sauce, mozzarella",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "NONNA'S CUCINA"
+  },
+  {
+    "name": "RIGATONI AMATRICIANA",
+    "description": "pomodoro, onions, pancetta, pecorino",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "NONNA'S CUCINA"
+  },
+  {
+    "name": "MEATBALL",
+    "description": "beef, veal, pork, red sauce, ricotta toast",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "NONNA'S CUCINA"
+  },
+  {
+    "name": "BROCCOLI RABE (GF, V, VG",
+    "description": "garlic, crushed chili, olive oil, lemon",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "NONNA'S CUCINA"
+  },
+  {
+    "name": "GARLIC BREAD",
+    "description": "wild oregano, parmigiano, garlic",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PASTA TRATTORIA"
+  },
+  {
+    "name": "CAESAR SALAD",
+    "description": "rom romaine, creamy dressing, parmesan, garlic croutons",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PASTA TRATTORIA"
+  },
+  {
+    "name": "CAVATELLI",
+    "description": "sweet sausage, broccoli rabe, tomato, chili flake",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PASTA TRATTORIA"
+  },
+  {
+    "name": "RIGATONI",
+    "description": "beef and pork Bolognese, San Marzano tomatoes, ricotta",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PASTA TRATTORIA"
+  },
+  {
+    "name": "SPAGHETTI",
+    "description": "shrimp, cherry tomato diavolo, pangratato",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PASTA TRATTORIA"
+  },
+  {
+    "name": "PENNE",
+    "description": "tomato basil sauce, Locatelli pecorino",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PASTA TRATTORIA"
+  },
+  {
+    "name": "TORTELLINI",
+    "description": "alfredo, peas, prosciutto",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PASTA TRATTORIA"
+  },
+  {
+    "name": "FUNGI",
+    "description": "mushrooms, caramelized onions, thyme, blue cheese, hot honey",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PINSA FLATBREADS"
+  },
+  {
+    "name": "BIANCO",
+    "description": "three cheese blend, marinated artichoke hearts, arugula, garlic oil",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PINSA FLATBREADS"
+  },
+  {
+    "name": "MARGHERITA",
+    "description": "San Marzano tomatoes, mozzarella, basil",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PINSA FLATBREADS"
+  },
+  {
+    "name": "PARMA",
+    "description": "prosciutto, arugula, balsamic, caciocavallo cheese",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PINSA FLATBREADS"
+  },
+  {
+    "name": "DIAVOLA",
+    "description": "tomato sauce, spicy sausage, hot coppa, mozzarella, banana peppers, fried bell peppers, basil",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PINSA FLATBREADS"
+  },
+  {
+    "name": "TUSCAN",
+    "description": "roasted pears, gorgonzola, pecorino, rosemary, fig syrup",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PINSA FLATBREADS"
+  },
+  {
+    "name": "SHAWARMA BAZAAR",
+    "description": "Experience the authentic flavors of the Middle East with our slow-turning rotisserie shawarma, cooked and thinly sliced to perfection.",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "STATION"
+  },
+  {
+    "name": "CHICKEN",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PROTEIN OPTIONS"
+  },
+  {
+    "name": "BEEF",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PROTEIN OPTIONS"
+  },
+  {
+    "name": "LAMB",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PROTEIN OPTIONS"
+  },
+  {
+    "name": "SALMON",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PROTEIN OPTIONS"
+  },
+  {
+    "name": "FAVA BEAN FALAFEL",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "VEGETARIAN OPTIONS"
+  },
+  {
+    "name": "SPICED GRILLED EGGPLANT",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "VEGETARIAN OPTIONS"
+  },
+  {
+    "name": "ROASTED TOMATO",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "VEGETARIAN OPTIONS"
+  },
+  {
+    "name": "HANGER STEAK",
+    "description": "toybos pepperonata",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "OVEN ROASTED TURKEY BREAST",
+    "description": "brined, herb butter basted, cranberry aioli, pan gravy",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "CEDAR PLANK ROASTED SALMON",
+    "description": "lemon anchovy butter sauce",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "RIBEYE STEAK",
+    "description": "thick cut herb and sea salt crusted, gorgonzola bacon butter, green peppercorn cream",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "DUROC PORK CHOP",
+    "description": "tarragon, rosemary pan gravy",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "WHOLE GRILLED RED SNAPPER",
+    "description": "blistered shishito chimichurri",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "POLLO ASADA",
+    "description": "citrus-marinated grilled chicken",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TACO \"TRUCK\"\nPROTEIN\n(choose two)"
+  },
+  {
+    "name": "CARNE ASADA",
+    "description": "grilled flank steak",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TACO \"TRUCK\"\nPROTEIN\n(choose two)"
+  },
+  {
+    "name": "CAMARONES",
+    "description": "lime-jalapeno shrimp ceviche",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TACO \"TRUCK\"\nPROTEIN\n(choose two)"
+  },
+  {
+    "name": "PESCADO",
+    "description": "grilled mahi-mahi",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TACO \"TRUCK\"\nPROTEIN\n(choose two)"
+  },
+  {
+    "name": "AGUACATE",
+    "description": "breaded and baked avocado",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TACO \"TRUCK\"\nPROTEIN\n(choose two)"
+  },
+  {
+    "name": "COLIFLOR",
+    "description": "three chili battered and fried cauliflower",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TACO \"TRUCK\"\nPROTEIN\n(choose two)"
+  },
+  {
+    "name": "HARD AND SOFT HAND-PRESSED TORTILLAS",
+    "description": "flour\ncorn",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TACO \"TRUCK\""
+  },
+  {
+    "name": "ACCOMPANIMENT",
+    "description": "guacamole, lettuce, limes, cotija cheese, cilantro, radish, salsa verde, salsa roja, Mexican crema",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TACO \"TRUCK\""
+  },
+  {
+    "name": "MEXICAN GREEN RICE",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TACO \"TRUCK\""
+  },
+  {
+    "name": "FRIED TORTILLA CHIPS AND PICO DE GALLO",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TACO \"TRUCK\""
+  },
+  {
+    "name": "CONEY ISLAND PRETZEL DOG",
+    "description": "sea salt, dijon mustard",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PUB FAR\n(choose two)"
+  },
+  {
+    "name": "CACIO E PEPE PASTA BITES",
+    "description": "breaded and fried, tomato basil sauce, pecorino",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PUB FAR\n(choose two)"
+  },
+  {
+    "name": "PEPPERONI CALZONE",
+    "description": "mozzarella, pepperoni, pizza sauce",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PUB FAR\n(choose two)"
+  },
+  {
+    "name": "PHILLY CHEESESTEAK EGG ROLL",
+    "description": "shaved sirloin, fried onion, mushrooms, cheese dip",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PUB FAR\n(choose two)"
+  },
+  {
+    "name": "JAJU PIEROGI",
+    "description": "potato and cheese, caramelized onions, green onion sour cream",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PUB FAR\n(choose two)"
+  },
+  {
+    "name": "FRITES",
+    "description": "duck fat fries, roasted garlic aioli\ntruffle parmesan fries, parmesan lime aioli\nclassic fries, spicy ketchup\nsweet potato fries, raspberry melba",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PUB FAR\n(choose two)"
+  },
+  {
+    "name": "CLASSIC ANGUS BEEF WITH CHEDDAR CHEESE",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SLIDER STATION\nPROTEIN\n(choose two)"
+  },
+  {
+    "name": "BEYOND BURGERS",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SLIDER STATION\nPROTEIN\n(choose two)"
+  },
+  {
+    "name": "CRISPY PORTOBELLO STACK",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SLIDER STATION\nPROTEIN\n(choose two)"
+  },
+  {
+    "name": "CRISPY CHICKEN",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SLIDER STATION\nPROTEIN\n(choose two)"
+  },
+  {
+    "name": "KOBE BEEF",
+    "description": "market price",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SLIDER STATION\nPROTEIN\n(choose two)"
+  },
+  {
+    "name": "POTATO BUN",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SLIDER STATION\nBUN\n(choose two)"
+  },
+  {
+    "name": "PRETZEL BUN",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SLIDER STATION\nBUN\n(choose two)"
+  },
+  {
+    "name": "CIABATTA ROL",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SLIDER STATION\nBUN\n(choose two)"
+  },
+  {
+    "name": "KING'S HAWAIIAN ROL",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SLIDER STATION\nBUN\n(choose two)"
+  },
+  {
+    "name": "HAND-LEAFED LETTUC",
+    "description": "lettuce, tomato, onions, chipotle aioli, pickles, ketchup, mustard, mayo",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SLIDER STATION\nBUN\n(choose two)"
+  },
+  {
+    "name": "classic shoesting fries",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SLIDER STATION"
+  },
+  {
+    "name": "coleslaw",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SLIDER STATION"
+  },
+  {
+    "name": "TOPPING",
+    "description": "prosciutto, artichokes, arugula, fresh mozzarella, basil, wild mushrooms, smoked bacon, buffalo chicken, pepperoni, sausage, broccoli, heirloom tomatoes, pesto",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PIZZERIA NAPOLETANA *chef fee applies"
+  },
+  {
+    "name": "ACCOMPANIMENT",
+    "description": "grated pecorino, chili flake",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PIZZERIA NAPOLETANA *chef fee applies"
+  },
+  {
+    "name": "authentic wood-fired oven, when available",
+    "description": "",
+    "price": "$350",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PIZZERIA NAPOLETANA *chef fee applies"
+  },
+  {
+    "name": "UPGRADED BREAD SERVIC",
+    "description": "housemade rosemary focaccia, olive loaf, garlic twists, ciabatta, cracked-pepper olive oil, whipped ricotta, olive tapenade, white bean prosciutto passata",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "STARTER"
+  },
+  {
+    "name": "SPINACH AND GOAT CHEESE (GF)",
+    "description": "white balsamic strawberries, candied walnuts, sautéed bacon croutons, pickled shallots, Modena vinaigrette",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "FARM STAND SALAD (GF, V, VG)",
+    "description": "baby lettuces, shaved radish, grape tomato, english cucumber, red onion, prosecco vinaigrette",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "CAESAR",
+    "description": "romaine, creamy dressing, parmesan, garlic crouton",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "MEDITERRANEAN CHOPPED (V)",
+    "description": "romaine, spinach, radicchio, kalamata olives, red onion, tomato, cucumber, artichokes, banana peppers, chickpeas, herbed lemon vinaigrette, toasted pita",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "GREEK FETÀ (GF, V)",
+    "description": "romaine, tomato, cucumber, black olive, red onion, pepperoncini, red wine oregano dressing",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "ROASTED PEAR (GF, V)",
+    "description": "honey poached pear, bibb lettuce, walnuts, gorgonzola, champagne vinaigrette",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "CHOPPED SALAD (V)",
+    "description": "romaine, iceberg, red onion, blue cheese, avocado, cucumber, tomato, fried buttermilk onion strings, white balsamic dressing",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "SMOKED BACON WEDGE",
+    "description": "crisp iceberg, cornbread croutons, tomato, pickled red onion, buttermilk dressing",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "TOASTED CARROTS (GF, V)",
+    "description": "rainbow carrots, pickled shallots, mixed greens, ricotta salata, champagne mustard seed vinaigrette",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "FENNEL AND ORANGE (V)",
+    "description": "baby spinach, cippolini onion, toasted shiitake, burnt honey vinaigrette, Maytag blue pinsa crouton",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "GRILLED PEACH AND BURRATA (V)",
+    "description": "Maplebrook Farms burrata, arugula, crostini crisps, toasted pumpkin seeds, olive oil, aged balsamic vinegar",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "GRILLED STUFFED CALAMARI",
+    "description": "zucchini and shrimp stuffing, charred frisée, preserved lemon, garlic-pumpernickel breadcrumbs",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "DIVER SCALLOPS (GF)",
+    "description": "pan seared, corn risotto, roasted mushrooms, tendril salad, scallop shell",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "LITTLE GEM MOZZARELLA",
+    "description": "preserved heirloom tomatoes, prosciutto di parma, roasted onion, Sicilian olives, basil, olive oil, grilled focaccia",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "ROASTED QUAIL (GF)",
+    "description": "pomegranate glazed quail, radicchio, watercress, thyme oil pomegranate vinaigrette",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "TUNA NIÇOISE SALAD (GF)",
+    "description": "bluefin tuna, confit new potato, haricot vert, hard boiled egg, wild oregano, pommery mustard vinaigrette",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "CRISPY PORK BELLY CONFIT (GF",
+    "description": "Asian pear, watercress, celery root purée",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "LASAGNA VERD",
+    "description": "egg and spinach pasta, white bolognese, parmigiano reggiano bechamel",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "SALT BAKED BEET ROOT (V)",
+    "description": "red sorrel, watercress, Old Chatham camembert, pistachio oil, horseradish crème fraîche",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "GRILLED HALLOUMI SALAD (GF, V)",
+    "description": "little gem lettuces, fresh mint, toasted pine nuts, acacia honey pomegranate vinaigrette",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "SHORT RIB (GF)",
+    "description": "twice-baked cauliflower au gratin, cipollini jus, shiitake green beans, horseradish gremolata",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "STRIP LOIN (GF)",
+    "description": "roasted bird seed, toasted garlic pink peppercorn, rosemary hasselback potato, charred asparagus, shallot demi",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "GRILLED SWORDFISH (GF)",
+    "description": "braised wild fennel, broccoli rabe pesto, garlic crushed fingerlings, fennel pollen",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "CHICKEN TAVOLO",
+    "description": "breaded cutlet, lemon garlic pan butter sauce, sautéed arugula, tomato red onion salad, tomato orzo",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "CHICKEN LIMONE (GF)",
+    "description": "pan seared, artichokes, risotto Milanese, spinach lemon velouté, broiled lemon",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "ROASTED COD (GF)",
+    "description": "cannellini bean ragu, wilted escarole, stuffed pomodorini",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "FAROE ISLAND SALMON",
+    "description": "creamy farrotto, swiss chard, brown butter salsify, red wine black olive demi glace",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "CHICKEN SCARPARIELLO (GF)",
+    "description": "crispy confit boneless chicken thigh, sweet bell peppers, vidalia onions, Tuscan potatoes, cherry peppers, lemon garlic sauce",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER I"
+  },
+  {
+    "name": "NY STRIP",
+    "description": "gorgonzola fonduta, honey glazed carrots, rosemary garlic pressed potatoes, shallot demi, buttermilk onions",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "GRILLED FILET MIGNON (GF)",
+    "description": "whipped garlic potatoes, charred asparagus, wild mushroom demi",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "GRILLED BRANZINO",
+    "description": "shaved fennel and arugula salad, fregola, castelvetrano olive tapenade",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "GRILLED RED SNAPPER (GF)",
+    "description": "summer vegetable ratatouille, oregano basil oil",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "HUDSON VALLEY DUCK BREAST (GF)",
+    "description": "balsamic glaze, lentil salad, candied pistachios, huckleberry jus",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "BUTTER POACHED LOBSTER (GF)",
+    "description": "creamy parsnip purée, wilted baby spinach, lemon tarragon lobster nage",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TIER II"
+  },
+  {
+    "name": "GARGANELLI (V)",
+    "description": "fava beans, spinach, wild mushrooms, grana padano pangrattato, basil pesto, pecorino cream",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "VEGETARIAN"
+  },
+  {
+    "name": "FARCI SQUASH (GF, V, VG)",
+    "description": "autumn quinoa tabbouleh stuffed delicata, charred apple sauce, butternut purée, apple walnut salad, pickled mustard seed",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "VEGETARIAN"
+  },
+  {
+    "name": "CARROT OSSO BUCCO (GF, V, VG)",
+    "description": "heritage carrots, mushroom broth, sweet corn stone milled polenta, mushroom cooking jus",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "VEGETARIAN"
+  },
+  {
+    "name": "EGGPLANT BRACIOLE (GF, V, VG)",
+    "description": "garlic olive oil roasted planks, lentil, arugula, kalamata, walnut filling, tomato basil sauce, vegan ricotta",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "VEGETARIAN"
+  },
+  {
+    "name": "SALT ROASTED GOLDEN BEETS (GF, V, VG)",
+    "description": "arepa pancake, whipped black garlic, smoked tofu, chimichurri",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "VEGETARIAN"
+  },
+  {
+    "name": "CRISPY SPICED CAULIFLOWER STEAK (GF, V, VG",
+    "description": "minted yogurt chutney, pickled seasonal squash, toasted pumpkin seeds",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "VEGETARIAN"
+  },
+  {
+    "name": "PROSCIUTTO AND GRILLED PEACHES",
+    "description": "gorgonzola, fig syrup",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "STARTER"
+  },
+  {
+    "name": "BUTTER LETTUCE PANZANELLA",
+    "description": "sourdough croutons, white balsamic vinaigrette",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "STARTER"
+  },
+  {
+    "name": "GREEK FETA SALAD",
+    "description": "romaine, tomato, cucumbers, black olive, red onion, pepperoncini, red wine oregano dressing",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "STARTER"
+  },
+  {
+    "name": "ROASTED BEETS",
+    "description": "farmer's cheese, grilled onion, pistachio",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "STARTER"
+  },
+  {
+    "name": "BURRATA AND TOMATO",
+    "description": "Maplebrook Farms burrata, castelvetrano olives, arugula pesto, sea salt, aged fig balsamic",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "STARTER"
+  },
+  {
+    "name": "ROSEMARY FOCACCIA SKILLET",
+    "description": "tomato conserva, olive oil",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "STARTER"
+  },
+  {
+    "name": "DUCK CONFIT CASSOULET",
+    "description": "cannellini beans, smoked sausage, fried sage leaves",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PASTA AND GRAINS"
+  },
+  {
+    "name": "ARTICHOKE LENTIL SALAD",
+    "description": "greek olives, saffron vinaigrette",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PASTA AND GRAINS"
+  },
+  {
+    "name": "BAKED PACCHERI",
+    "description": "housemade fresh pasta, tomato sugo, melted mozzarella, baby basil",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PASTA AND GRAINS"
+  },
+  {
+    "name": "MAC AND CHEESE",
+    "description": "cracker crumb topping",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PASTA AND GRAINS"
+  },
+  {
+    "name": "ORECCHIETTE",
+    "description": "broccoli rabe, sweet sausage, chili flake",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PASTA AND GRAINS"
+  },
+  {
+    "name": "RIGATONI ALA NORMA",
+    "description": "house-made fresh pasta, Sicilian tomato eggplant ragu, baked ricotta salata",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PASTA AND GRAINS"
+  },
+  {
+    "name": "PENNETT",
+    "description": "vodka cream, prosciutto",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PASTA AND GRAINS"
+  },
+  {
+    "name": "SLOW COOKED SHORT RIBS",
+    "description": "cipollini jus",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAIN"
+  },
+  {
+    "name": "HANGER STEAK",
+    "description": "toybox peperonata",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAIN"
+  },
+  {
+    "name": "RIBEYE STEAK",
+    "description": "thick cut, sliced, herb and sea salt, steak butter, chimichurri",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAIN"
+  },
+  {
+    "name": "PORCHETTA",
+    "description": "fennel pollen rosemary rub, pan jus",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAIN"
+  },
+  {
+    "name": "CHICKEN TAYOLO",
+    "description": "breaded cutlet, lemon garlic pan butter sauce, wilted arugula, tomato red onion salad, white balsamic",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAIN"
+  },
+  {
+    "name": "ROAST WHOLE ORGANIC CHICKEN",
+    "description": "herb gremolata, garlic jus",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAIN"
+  },
+  {
+    "name": "SWORDFISH",
+    "description": "fennel, olive, preserved tomato relish",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAIN"
+  },
+  {
+    "name": "ICELANDIC COD",
+    "description": "parmesan parsley crumbs, braised leeks, lemon velouté",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAIN"
+  },
+  {
+    "name": "CHICKEN MARSALA",
+    "description": "hen of the woods, mushrooms and marsala sugetto",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAIN"
+  },
+  {
+    "name": "AIRLINE CHICKEN",
+    "description": "preserved lemon",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAIN"
+  },
+  {
+    "name": "SALMON",
+    "description": "lacinato kale, lemon-caper bagna cauda",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAIN"
+  },
+  {
+    "name": "ZAATAR CARROTS",
+    "description": "pan roasted, pepper marmalade",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIDE"
+  },
+  {
+    "name": "RAINBOW CHARD",
+    "description": "garlic, chili flake",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIDE"
+  },
+  {
+    "name": "BRUSSELS SPROUTS",
+    "description": "sage brown butter",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIDE"
+  },
+  {
+    "name": "WHITE AND SWEET POTATO GRATIN",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIDE"
+  },
+  {
+    "name": "GRILLED ASPARAGUS",
+    "description": "lemon zest, extra virgin olive oil, sea salt",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIDE"
+  },
+  {
+    "name": "CRISPY PECORINO POTATOES",
+    "description": "smashed and fried fingerlings, garlic oil, aged pecorino",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIDE"
+  },
+  {
+    "name": "CHARRED SHISHITO PEPPERS",
+    "description": "smoked sea salt",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIDE"
+  },
+  {
+    "name": "HOPPIN' JOHN",
+    "description": "black-eye pea, smoked ham hocks, collard greens",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIDE"
+  },
+  {
+    "name": "TRAY-PASSED BITES - TIER I",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SEASONAL MENU"
+  },
+  {
+    "name": "WATERMELON FETA SKEWERS",
+    "description": "aged balsamic vinegar",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TRAY-PASSED BITES - TIER I"
+  },
+  {
+    "name": "HEIRLOOM TOMATO CAPRESE SKEWERS",
+    "description": "basil, vin cotto glaze",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TRAY-PASSED BITES - TIER I"
+  },
+  {
+    "name": "ENGLISH PEA AND MINT PANNA COTTA",
+    "description": "crispy prosciutto",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TRAY-PASSED BITES - TIER I"
+  },
+  {
+    "name": "TRAY-PASSED BITES - TIER II",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SEASONAL MENU"
+  },
+  {
+    "name": "ASPARAGUS AND GOAT CHEESE TARTLETS",
+    "description": "cracked tellicherry peppercorns",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TRAY-PASSED BITES - TIER II"
+  },
+  {
+    "name": "FRIED GREEN TOMATO STAC",
+    "description": "mozzarella, Nueske's bacon",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TRAY-PASSED BITES - TIER II"
+  },
+  {
+    "name": "STARTERS- TIER I",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SEASONAL MENU"
+  },
+  {
+    "name": "CAPRESE TIMBALE",
+    "description": "mozzarella, fig balsamic reduction, roasted red pepper tapenade",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "STARTERS- TIER I"
+  },
+  {
+    "name": "STARTERS- TIER II",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SEASONAL MENU"
+  },
+  {
+    "name": "ZUCCHINI TOAST",
+    "description": "grilled zucchini, confit tomatoes, chevre, olive crumble, roasted aignol, balsamic syrup, espelette powder, spring lettuces",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "STARTERS- TIER II"
+  },
+  {
+    "name": "LOBSTER AND BURRATA",
+    "description": "poached lobster and heirloom tomato salad, baby basil, eggplant, smoked sea salt",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "STARTERS- TIER II"
+  },
+  {
+    "name": "MAINS - TIER I",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SEASONAL MENU"
+  },
+  {
+    "name": "SEARED SALMON",
+    "description": "olive tomato caper butter, lemon risotto, sautéed Swiss chard",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAINS - TIER I"
+  },
+  {
+    "name": "CHICKEN SCALLOPINI",
+    "description": "mushroom thyme marsala jus, corn and bacon tortelli, green zucchini tomato sauté",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAINS - TIER I"
+  },
+  {
+    "name": "MAINS - TIER II",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SEASONAL MENU"
+  },
+  {
+    "name": "RACK OF LAMB",
+    "description": "Tuscan farrotto, minted artichoke conserva, mustard greens, preserved lemon demi glace",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAINS - TIER II"
+  },
+  {
+    "name": "CITRUS SEA BASS",
+    "description": "pan seared, citrus salad, shaved fennel, onion, cured olives, olive oil braised fingerlings, salmoriglio",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAINS - TIER II"
+  },
+  {
+    "name": "GROUPER AL PASTOR",
+    "description": "burnt pineapple, charred shishito, achiote rice, cilantro serrano zhug sauce, salsa taqueria",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MAINS - TIER II"
+  },
+  {
+    "name": "DOLCI TENTAZIONI",
+    "description": "CANNOLI, RAINBOW CAKE, SPUMONI SHOOTER, SICILIAN ORANGE BUNDT CAKE, LIMONCELLO SHOOTER, CHOCOLATE DIPPED BUTTER COOKIE, BISCOTTI, MINI PANETTONE, ASSORTED ITALIAN COOKIES, TIRAMISU",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "DESSERT STATIONS"
+  },
+  {
+    "name": "EUROPEAN PATISSERIE",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "DESSERT STATIONS"
+  },
+  {
+    "name": "CRAQUELIN CHOUX",
+    "description": "bavarian filled, whipped cream, fresh garnish",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "DESSERT STATIONS"
+  },
+  {
+    "name": "ALMOND RASPBERRYENTREMET CAKE",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "DESSERT STATIONS"
+  },
+  {
+    "name": "CHOCOLATE MOUSSE",
+    "description": "pyramid chocolate shortbread, chocolate ganache",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "DESSERT STATIONS"
+  },
+  {
+    "name": "FRUIT TAR",
+    "description": "pastry cream, fresh fruit, apricot glaze, micro mint",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "DESSERT STATIONS"
+  },
+  {
+    "name": "PISTACHIO ORANGE CANNOLI",
+    "description": "jumbo, chocolate dipped",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "DESSERT STATIONS"
+  },
+  {
+    "name": "TART CITRON",
+    "description": "lemon curd, pâté sucrée",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "DESSERT STATIONS"
+  },
+  {
+    "name": "S'MORE",
+    "description": "HOUSEMADE GRAHAM CRACKE\nINCLUDES\ntraditional\nchocolate oreo\nwhitefrost cookie",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "DESSERT STATIONS"
+  },
+  {
+    "name": "HOUSEMADE MARSHMALLOW",
+    "description": "(choose three)\nvanilla bean\nstrawberry\nchocolate\ntiramisu\npinot noir",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "DESSERT STATIONS"
+  },
+  {
+    "name": "TOPPIN",
+    "description": "(choose three)\nHershey's bar, cookies, n' cream bar, peanut butter cups, Andes mints, salted caramel, dark chocolate",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "DESSERT STATIONS"
+  },
+  {
+    "name": "RAINBOW CHIP BROWNIES, CHOCOLATE SWIRL CUPCAKE,\nOATMEAL CREAM PIE, GOLDEN CREME CAKE, BIRTHDAY\nCAKE DUNKERS, WORMS N DIRT, CRISPYRICE TREATS,\nSTRAWBERRY SHORTCAKE ROLL, FROSTED STRUBEL",
+    "description": "our take on the classics I home made",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "NOSTALGIA STATION"
+  },
+  {
+    "name": "ITALIAN BUTTER COOKIES, MINI ÉCLAIR, CREAM PUFFS,\nCHOCOLATE DIPPED STRAWBERRIES, MADELEINE,\nMINI FRUIT TART, FRENCH MACARONS, BAKLAVA,\nMINI CHEESECAKE, CHOCOLATE PETIT FOUR",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TRADITIONAL VIENNESE TABL"
+  },
+  {
+    "name": "STRAWBERRIES, OREOS, CRISPY RICE TREATS,\nMOUSSE JARS, PRETZELS RODS, CAKE POPS, HOUSEMADE\nCANDY BARS, MARSHMALLOWS, MONOGRAMMED COOKIES",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CHOCOLATE DIPPED SWEET"
+  },
+  {
+    "name": "VANILLA AND CHOCOLATE ICE CREAM, SORBET\nWHIPPED CREAM, CHERRIES, CHOCOLATE SAUCE,\nCARAMEL SAUCE, SPRINKLES, CHOCOLATE SHAVINGS,\nPEANUT BUTTER CUPS, BERRY COMPOTE, APPLE COMPOTE",
+    "description": "*chef fee applies",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "ICE CREAM SHOP"
+  },
+  {
+    "name": "FREEZEDRIED GUMMY BEARS, FREEZEDRIED COOKIE\nDOUGH, FREEZEDRIED AIR HEADS, RING POPS,\nSWEDISH FISH, M&M'S, PEANUT BUTTER CUPS,\nSTRIPED CANDY STICK",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CANDY SHOP"
+  },
+  {
+    "name": "ESPRESSOBEAN MIX",
+    "description": "CHOCOLATE COVERED COLD BREW CARAMELS\nCOFFEE N' CREAM ESPRESSOBEANS\nESPRESSO TOFFEE COOKIES",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CAFFEINE FIX"
+  },
+  {
+    "name": "MILK CHOCOLATE PRETZELS, DARK CHOCOLATE PRETZELS,\nPEANUT BUTTER CUPS, SEA SALT CHOCOLATE,\nBUFFALO WING SEASONED PRETZELS, EVERYTHING\nSEASONED PRETZELS, DILL PICKLE CHIPS,\nCLASSIC CHIP",
+    "description": "(choose three)",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "SWEET AND SALT"
+  },
+  {
+    "name": "HOUSE WINE | Upgraded Wines Available",
+    "description": "pinot grigio, rosé, sauvignon blanc, chardonnay, pinot noir, cabernet sauvignon, sweet riesling",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "BEER, WINE, SOFT DRINKS"
+  },
+  {
+    "name": "BEERSAND ALTERNATIVE BEVERAGES",
+    "description": "(choose three)\nCoors Light, Heineken, Miller Lite, Modelo, Corona, Peroni,\nSamuel Adams Seasonal, Blue Moon, Druther's All-In IPA,\nFiddlehead Hazy IPA, White Claw Hard Seltzer",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "BEER, WINE, SOFT DRINKS"
+  },
+  {
+    "name": "NON-ALCOHOLI",
+    "description": "sodas, mixers, juices, Saratoga Water, Heineken 0.0, ginger beer",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "BEER, WINE, SOFT DRINKS"
+  },
+  {
+    "name": "VODKA - Tito's",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CLASSI"
+  },
+  {
+    "name": "GIN - Bombay",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CLASSI"
+  },
+  {
+    "name": "RUM - Bacardi, Captain Morgan Spiced, Malibu",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CLASSI"
+  },
+  {
+    "name": "TEQUILA - Lunazul Blanco",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CLASSI"
+  },
+  {
+    "name": "BOURBON - Jim Beam",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CLASSI"
+  },
+  {
+    "name": "WHISKEY - Seagram's 7",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CLASSI"
+  },
+  {
+    "name": "HOUSE WINE | Upgraded Wines Available",
+    "description": "pinot grigio, rosé, sauvignon blanc, chardonnay, pinot noir, cabernet sauvignon, sweet riesling",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "BEVERAGE"
+  },
+  {
+    "name": "BEERSAND ALTERNATIVE BEVERAGES",
+    "description": "(choose three)\nCoors Light, Heineken, Miller Lite, Modelo, Corona, Peroni,\nSamuel Adams Seasonal, Blue Moon, Druther's All-In IPA,\nFiddlehead Hazy IPA, White Claw Hard Seltzer",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "BEVERAGE"
+  },
+  {
+    "name": "NON-ALCOHOLI",
+    "description": "sodas, mixers, juices, Saratoga Water, Heineken 0.0, ginger beer",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "BEVERAGE"
+  },
+  {
+    "name": "Ketel One, Tito's",
+    "description": "Vodka",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PREMIUM"
+  },
+  {
+    "name": "Bombay, Tanqueray",
+    "description": "GIN",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PREMIUM"
+  },
+  {
+    "name": "Bacardi, Captain Morgan Spiced, Malibu",
+    "description": "RUM",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PREMIUM"
+  },
+  {
+    "name": "Lunazul Blanco, Espolon Blanco",
+    "description": "TEQUILA",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PREMIUM"
+  },
+  {
+    "name": "Jack Daniels, Jim Beam",
+    "description": "BOURBON",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PREMIUM"
+  },
+  {
+    "name": "Dewar's, Johnnie Walker Red",
+    "description": "SCOTCH",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PREMIUM"
+  },
+  {
+    "name": "Jameson Irish, Seagram's 7",
+    "description": "WHISKEY",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "PREMIUM"
+  },
+  {
+    "name": "Upgraded Wines Available",
+    "description": "HOUSE WINE",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 22-23"
+  },
+  {
+    "name": "pinot grigio, rosé, sauvignon blanc, chardonnay, pinot noir, cabernet sauvignon, sweet riesling",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 22-23"
+  },
+  {
+    "name": "BEERSAND ALTERNATIVE BEVERAGES (choose three)",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 22-23"
+  },
+  {
+    "name": "Coors Light, Heineken, Miller Lite, Modelo, Corona, Peroni, Samuel Adams Seasonal, Blue Moon, Druther's All-In IPA, Fiddlehead Hazy IPA, White Claw Hard Seltzer",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 22-23"
+  },
+  {
+    "name": "NON-ALCOHOLI",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 22-23"
+  },
+  {
+    "name": "sodas, mixers, juices, Saratoga Water, Heineken 0.0, ginger beer",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 22-23"
+  },
+  {
+    "name": "Grey Goose, Ketel One, Tito's",
+    "description": "VODKA",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TOP SHEL"
+  },
+  {
+    "name": "Bombay, Tanqueray, Hendricks",
+    "description": "GIN",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TOP SHEL"
+  },
+  {
+    "name": "Bacardi, Captain Morgan Spiced, Malibu",
+    "description": "RUM",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TOP SHEL"
+  },
+  {
+    "name": "Lunazul Blanco, Espolon Blanco, Casamigos Blanco, Casa Herradura Anejo",
+    "description": "TEQUILA",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TOP SHEL"
+  },
+  {
+    "name": "Jack Daniels, Jim Beam, Maker's Mark",
+    "description": "BOURBON",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TOP SHEL"
+  },
+  {
+    "name": "Dewar's, Glenmorangie 10yr, Johnnie Walker Red",
+    "description": "SCOTCH",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TOP SHEL"
+  },
+  {
+    "name": "Crown Royal, Jameson Irish, Seagram's 7",
+    "description": "WHISKEY",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "TOP SHEL"
+  },
+  {
+    "name": "Upgraded Wines Available",
+    "description": "HOUSE WINE",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 22-23"
+  },
+  {
+    "name": "pinot grigio, rosé, sauvignon blanc, chardonnay, pinot noir, cabernet sauvignon, sweet riesling",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 22-23"
+  },
+  {
+    "name": "BEERSAND ALTERNATIVE BEVERAGES (choose three)",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 22-23"
+  },
+  {
+    "name": "Coors Light, Heineken, Miller Lite, Modelo, Corona, Peroni, Samuel Adams Seasonal, Blue Moon, Druther's All-In IPA, Fiddlehead Hazy IPA, White Claw Hard Seltzer",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 22-23"
+  },
+  {
+    "name": "NON-ALCOHOLI",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 22-23"
+  },
+  {
+    "name": "sodas, mixers, juices, Saratoga Water, Heineken 0.0, ginger beer",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 22-23"
+  },
+  {
+    "name": "Upgraded Selection",
+    "description": "READY TO DRINK",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "BEVERAGE ENHANCEMENTS"
+  },
+  {
+    "name": "Surfside, High Noon, Nütrl, Sun Chaser, Dog Fish Head (Assorted Flavors)",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "BEVERAGE ENHANCEMENTS"
+  },
+  {
+    "name": "Speciality Liquor not listed available upon request.",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "BEVERAGE ENHANCEMENTS"
+  },
+  {
+    "name": "THE SPICY PINEAPPLE",
+    "description": "tequila blanco, jalapeño.orange liqueur, house sour, chili salt, grilled pineapple wedge, pineapple leaf",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CRAFTED COCKTAILS"
+  },
+  {
+    "name": "CHERRY MANHATTAN",
+    "description": "rye, Carpano Antica, cherry bitters, angostura bitters, cherry cube",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CRAFTED COCKTAILS"
+  },
+  {
+    "name": "ELDERFLOWER FRENCH 75",
+    "description": "gin, elderflower, lemon juice, prosecco, lemon twist",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CRAFTED COCKTAILS"
+  },
+  {
+    "name": "JAPANESE OLD FASHIONED",
+    "description": "Suntory whiskey, mandarin orange, honey syrup, Sakura bitters, cherry blossom flower",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CRAFTED COCKTAILS"
+  },
+  {
+    "name": "SIDECA",
+    "description": "Buffalo Trace bourbon, Cointreau, lemon juice",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CRAFTED COCKTAILS"
+  },
+  {
+    "name": "VANILLA BEAN GREYHOUND",
+    "description": "vanilla vodka, lime, simple syrup, grapefruit juice, grapefruit round",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CRAFTED COCKTAILS"
+  },
+  {
+    "name": "THE TWISTED WORD",
+    "description": "Mezcal, Liqueur Strega, elderflower syrup, basil, lemon juice",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CRAFTED COCKTAILS"
+  },
+  {
+    "name": "ESPRESSOMARTINI",
+    "description": "vodka, espresso, kahlua, espresso beans",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CRAFTED COCKTAILS"
+  },
+  {
+    "name": "APEROL SPRIT",
+    "description": "prosecco, Aperol, club soda, orange slice",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "CRAFTED COCKTAILS"
+  },
+  {
+    "name": "Fear Topped Cocktails",
+    "description": "Fresh egg whites",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "THE RIPPLE MACHINE"
+  },
+  {
+    "name": "Aquafaba",
+    "description": "powdered or from chickpea brine (VG",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "THE RIPPLE MACHINE"
+  },
+  {
+    "name": "Draft Beer",
+    "description": "",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "THE RIPPLE MACHINE"
+  },
+  {
+    "name": "PROSECCO TOWE",
+    "description": "create a memorable photo-op, chilled prosecco",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 24"
+  },
+  {
+    "name": "BLOODY MARY BA",
+    "description": "premium vodka, local tomato mix, poached shrimp, horseradish, garlic pickles, stuffed queen olives, celery, clam juice, crispy bacon, sweet peppers, jalapeño, hot sauces, lemons, limes, house blend spiced rimmer",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 24"
+  },
+  {
+    "name": "INTERNATIONAL CORDIAL STATION",
+    "description": "Anisette, B & B, Bailey's Irish Cream, Chambord, Cognac, DiSaronno, Frangelico, Grand Marnier, Sambuca, Cointreau, chocolate cups, coffee, decaffeinated coffee",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 24"
+  },
+  {
+    "name": "MARGARITA TIME",
+    "description": "all margaritas are based with house sour",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 24"
+  },
+  {
+    "name": "TEQUILA",
+    "description": "blanco, reposado, anejo",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 24"
+  },
+  {
+    "name": "LIQUEURS",
+    "description": "triple sec, cointreau, grand marnier",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 24"
+  },
+  {
+    "name": "SYRUPS",
+    "description": "simple, blackberry, strawberry, watermelon, jalapeño",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 24"
+  },
+  {
+    "name": "MIX-INS",
+    "description": "lemon, lime, orange, grapefruit, cranberry, pineapple, watermelon *(club soda, included)",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 24"
+  },
+  {
+    "name": "RIMS",
+    "description": "salt, chili salt, lime salt, citrus-jalapeño salt, sugar, cranberry sugar",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 24"
+  },
+  {
+    "name": "PROSECCO",
+    "description": "orange juice, peach, cranberry, grapefruit fresh fruit garnish",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "MIMOSA AND BELLINI BA"
+  },
+  {
+    "name": "UPGRADED SELECTION",
+    "description": "blackberry mint raspberry lemon orange creamsicle tart cherry apple cider",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 24"
+  },
+  {
+    "name": "HYDRATION STATION",
+    "description": "Whether you want to keep the party going or survive the morning, keep your guests hydrated with an assortment of beverages! Nutrient enhanced, fortified, energized and flavored waters.",
+    "price": "",
+    "restaurant_name": "Mazzone Hospitality",
+    "restaurant_url": "https://www.mazzonehospitality.com/",
+    "menu_type": "Menu",
+    "menu_name": "Page 24"
+  }
+]

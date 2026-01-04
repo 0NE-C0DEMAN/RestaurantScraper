@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Jumbo Shrimp Cocktail",
+    "description": "House-made Cocktail Sauce, Horseradish",
+    "price": "$26",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "CHILLED STARTERS"
+  },
+  {
+    "name": "Chef’s Selection of Fresh Oysters*",
+    "description": "Half Dozen on the 1/2 Shell, House-made Cocktail Sauce, Mignonette",
+    "price": "$24",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "CHILLED STARTERS"
+  },
+  {
+    "name": "Seared Ahi Tuna*",
+    "description": "Balsamic Soy Caramel, Pickled Vegetables, Crispy Capers, EVOO",
+    "price": "$23",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "CHILLED STARTERS"
+  },
+  {
+    "name": "Lobster & Crab Cocktail",
+    "description": "Jumbo Lump Crab, Maine Lobster, Lemon Basil Aioli, Calabrian Chile Vinaigrette, Capers",
+    "price": "$30",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "CHILLED STARTERS"
+  },
+  {
+    "name": "Nueske’s Bacon Steak*",
+    "description": "Soy Caramel, Sesame Seeds, Scallions",
+    "price": "$19",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "HOT STARTERS"
+  },
+  {
+    "name": "Wagyu Meatballs",
+    "description": "Marinara, Crème Fraîche, Basil Pesto",
+    "price": "$20",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "HOT STARTERS"
+  },
+  {
+    "name": "Seared Sea Scallops*",
+    "description": "Bacon-Wrapped, Apricot Chutney",
+    "price": "$30",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "HOT STARTERS"
+  },
+  {
+    "name": "Wagyu Beef Dumplings",
+    "description": "Sweet Chili Sauce, Scallion, Sesame Seeds",
+    "price": "$23",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "HOT STARTERS"
+  },
+  {
+    "name": "Oysters Rockefeller*",
+    "description": "Creamed Spinach, Béarnaise Sauce, Panko Breadcrumbs",
+    "price": "$23",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "HOT STARTERS"
+  },
+  {
+    "name": "Jumbo Lump Crab Cake",
+    "description": "Whole Grain Mustard Beurre Blanc, Arugula, Red Onion, Grana Padano",
+    "price": "$25 / $47",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "HOT STARTERS"
+  },
+  {
+    "name": "Shrimp Calabria",
+    "description": "Garlic-Chile Butter, Lobster Cream, Toasted Baguette",
+    "price": "$24",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "HOT STARTERS"
+  },
+  {
+    "name": "Ocean Platter",
+    "description": "Chef Select Oysters on the Half Shell, Cold-Water Lobster Tail, Jumbo Shrimp Cocktail, Crab Cocktail, Seared Ahi Tuna",
+    "price": "Grand $85 | Epic $160",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "OCEAN PLATTER"
+  },
+  {
+    "name": "Steakhouse Wedge Salad",
+    "description": "",
+    "price": "French Onion Soup Gratinée 530 cal $13",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "SOUPS & SALADS"
+  },
+  {
+    "name": "Morton’s Greek Chopped Salad",
+    "description": "",
+    "price": "$16",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "SOUPS & SALADS"
+  },
+  {
+    "name": "8 oz. Filet Mignon*",
+    "description": "",
+    "price": "$59",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "MIDWEST BEEF"
+  },
+  {
+    "name": "12 oz. Filet Mignon*",
+    "description": "",
+    "price": "$69",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "MIDWEST BEEF"
+  },
+  {
+    "name": "16 oz. Ribeye*",
+    "description": "",
+    "price": "$70",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "MIDWEST BEEF"
+  },
+  {
+    "name": "16 oz. New York Strip*",
+    "description": "",
+    "price": "$69",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "MIDWEST BEEF"
+  },
+  {
+    "name": "22 oz. Bone-in Ribeye*",
+    "description": "",
+    "price": "$79",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "MIDWEST BEEF"
+  },
+  {
+    "name": "16 oz. Heritage Pork Chop*",
+    "description": "",
+    "price": "$42",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "BUTCHER CUTS"
+  },
+  {
+    "name": "14 oz. Dry-Aged Ribeye*",
+    "description": "",
+    "price": "$67",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "BUTCHER CUTS"
+  },
+  {
+    "name": "Rack of Lamb*",
+    "description": "",
+    "price": "$67",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "BUTCHER CUTS"
+  },
+  {
+    "name": "16 oz. “Proprietary” Prime Cajun Ribeye*",
+    "description": "",
+    "price": "$70",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "BUTCHER CUTS"
+  },
+  {
+    "name": "7 oz. Filet Mignon*",
+    "description": "",
+    "price": "$74",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "WAGYU FEATURES"
+  },
+  {
+    "name": "10 oz. ‘Baseball Cut’ Top",
+    "description": "Sirloin*",
+    "price": "$69",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "WAGYU FEATURES"
+  },
+  {
+    "name": "36 oz. Tomahawk Ribeye*",
+    "description": "",
+    "price": "$144",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "FOR THE TABLE"
+  },
+  {
+    "name": "28 oz. ‘Empire Cut’ Bone-In New York Strip*",
+    "description": "",
+    "price": "$125",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "FOR THE TABLE"
+  },
+  {
+    "name": "Blue Cheese Butter",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "ENHANCEMENTS"
+  },
+  {
+    "name": "Garlic Butter",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "ENHANCEMENTS"
+  },
+  {
+    "name": "Black Truffle Butter",
+    "description": "",
+    "price": "Caymus Butter 230 cal $8",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "ENHANCEMENTS"
+  },
+  {
+    "name": "Béarnaise Sauce",
+    "description": "",
+    "price": "$3",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "ENHANCEMENTS"
+  },
+  {
+    "name": "Rémy Martin Sauce Au Poivre",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "ENHANCEMENTS"
+  },
+  {
+    "name": "“Oscar Style” Crab",
+    "description": "",
+    "price": "$16",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "ENHANCEMENTS"
+  },
+  {
+    "name": "Whipped Horseradish Cream",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "ENHANCEMENTS"
+  },
+  {
+    "name": "Cold-Water Lobster Tail",
+    "description": "",
+    "price": "$27",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "ENHANCEMENTS"
+  },
+  {
+    "name": "Jumbo Grilled Shrimp",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "ENHANCEMENTS"
+  },
+  {
+    "name": "Chicken Christopher",
+    "description": "Lightly Breaded and Pan-Seared, Garlic & Shallot Beurre Blanc",
+    "price": "$35",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "CHEF’S SELECTIONS"
+  },
+  {
+    "name": "Cold-Water Lobster Tail",
+    "description": "Drawn Butter",
+    "price": "8 oz. Single $54 | Petite Twin Tails $52",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "CHEF’S SELECTIONS"
+  },
+  {
+    "name": "Miso Glazed Sea Bass*",
+    "description": "Bok Choy, Shiitake Mushroom, Dashi Broth",
+    "price": "$52",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "CHEF’S SELECTIONS"
+  },
+  {
+    "name": "Wagyu Beef Stroganoff",
+    "description": "Braised Wagyu Beef Ravioli, Roasted Mushroom Stroganoff Sauce, Crème Fraîche",
+    "price": "$47",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "CHEF’S SELECTIONS"
+  },
+  {
+    "name": "Ora King Salmon*",
+    "description": "Roasted Carrots, Broccolini, Maple Bourbon Glaze",
+    "price": "$44",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "CHEF’S SELECTIONS"
+  },
+  {
+    "name": "Maine Lobster Ravioli",
+    "description": "Truffled Lobster Cream Sauce, Shiitake Mushrooms",
+    "price": "$22 / $39",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "CHEF’S SELECTIONS"
+  },
+  {
+    "name": "Morton’s Classic Filet Oscar* 8 oz.",
+    "description": "Jumbo Lump Crab, Asparagus, Béarnaise",
+    "price": "$68",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "CHEF’S SELECTIONS"
+  },
+  {
+    "name": "Filet Mignon* &",
+    "description": "Lobster Tail Center-Cut Filet & Cold-Water Tail",
+    "price": "$69",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "CHEF’S SELECTIONS"
+  },
+  {
+    "name": "Parmesan & Truffle Matchstick Fries",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "SIDES"
+  },
+  {
+    "name": "Smoked Gouda & Bacon Au Gratin Potatoes",
+    "description": "",
+    "price": "$17",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "SIDES"
+  },
+  {
+    "name": "Brussels Sprouts",
+    "description": "",
+    "price": "$15",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "SIDES"
+  },
+  {
+    "name": "Loaded Baked Potato",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "SIDES"
+  },
+  {
+    "name": "Roasted Jumbo Asparagus",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "SIDES"
+  },
+  {
+    "name": "Charred Broccolini",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "SIDES"
+  },
+  {
+    "name": "Thick Cut Onion Rings",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "SIDES"
+  },
+  {
+    "name": "Creamed Spinach",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "SIDES"
+  },
+  {
+    "name": "Sour Cream Mashed Potatoes",
+    "description": "",
+    "price": "Make it loaded + $4",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "SIDES"
+  },
+  {
+    "name": "Lobster Macaroni Shells & Cheese",
+    "description": "",
+    "price": "$29",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "SIDES"
+  },
+  {
+    "name": "Truffled Cream Corn",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "SIDES"
+  },
+  {
+    "name": "Sautéed Spinach & Button Mushrooms",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "Morton's The Steakhouse",
+    "restaurant_url": "https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/",
+    "menu_type": "Menu",
+    "menu_name": "SIDES"
+  }
+]

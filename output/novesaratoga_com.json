@@ -1,0 +1,1595 @@
+[
+  {
+    "name": "BRUSCHETTA",
+    "description": "TOMATO, RED ONION, BASIL, BALSAMIC",
+    "price": "$11.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "CALAMARI",
+    "description": "OLD SCHOOL OR SPICY ARRABBIATA",
+    "price": "$18.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "BAKED CLAMS",
+    "description": "BREAD CRUMBS, LEMON",
+    "price": "$17.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "EGGPLANT ROLLATINI",
+    "description": "RICOTTA AND SPINACH STUFFING, TOMATO SAUCE, MELTED MOZZARELLA",
+    "price": "$16.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "ZUPPA DI CLAMS OR MUSSELS",
+    "description": "WHITE WINE & GARLIC OR LIGHT TOMATO SAUCE, HOUSEMADE BREAD BOWL",
+    "price": "$19.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "MEATBALL SLIDERS",
+    "description": "CLASSIC ITALIAN MEATBALLS, HOUSEMADE BREAD",
+    "price": "$12.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "CRISPY ZUCCHINI STICKS",
+    "description": "WITH LEMON WEDGES",
+    "price": "$11.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "CRISPY MOZZARELLA",
+    "description": "WITH VODKA AND TOMATO SAUCE",
+    "price": "$16.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "CAPRESE",
+    "description": "FRESH MOZZARELLA, HEIRLOOM TOMATOES, BASIL, BALSAMIC",
+    "price": "$15.75",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "JUNE",
+    "description": "ICEBERG, TOMATO, RED ONION, PEPPERS, OLIVES, RED WINE VINEGAR VINAIGRETTE",
+    "price": "$13.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "salads"
+  },
+  {
+    "name": "CHOPPED",
+    "description": "JUNE SALAD, CHOPPED",
+    "price": "$14.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "salads"
+  },
+  {
+    "name": "CAESAR",
+    "description": "ROMAINE, PARMIGIANO, HOUSEMADE CROUTONS, CAESAR DRESSING",
+    "price": "$15.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "salads"
+  },
+  {
+    "name": "MISTO",
+    "description": "MIXED GREENS, SLICED APPLE, CANDIED WALNUTS, GORGONZOLA, RASPBERRY VINAIGRETTE",
+    "price": "$16.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "salads"
+  },
+  {
+    "name": "ARUGULA",
+    "description": "SHAVED PARMIGIANO REGGIANO, HEIRLOOM TOMATOES, CITRUS VINAIGRETTE. Add-ons: ADD CHICKEN $7.95 / ADD THREE U-10 SHRIMP $10.95",
+    "price": "$17.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "salads"
+  },
+  {
+    "name": "RIGATONI ROMANO",
+    "description": "CRUMBLED SWEET ITALIAN SAUSAGE, PINK SAUCE",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "PAPPARDELLE BOLOGNESE",
+    "description": "TOMATO, MEAT SAUCE",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "PENNE VODKA",
+    "description": "TOMATO SAUCE, PROSCIUTTO, CREAM, VODKA",
+    "price": "$26.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "SPICY RIGATONI VODKA",
+    "description": "TOMATO SAUCE, PROSCIUTTO, CREAM, VODKA, CALABRIAN CHILI PASTE",
+    "price": "$26.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "SPAGHETTI & MEATBALLS",
+    "description": "CLASSIC ITALIAN MEATBALLS, RED SAUCE",
+    "price": "$25.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "FETTUCCINE ALFREDO",
+    "description": "PARMIGIANO, CREAM",
+    "price": "$26.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "PENNE PANNA",
+    "description": "PARMIGIANO, CREAM, PROSCIUTTO, ONIONS, PEAS",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "ORECCHIETTE",
+    "description": "BROCCOLI RABE, SWEET ITALIAN SAUSAGE",
+    "price": "$26.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "LASAGNA",
+    "description": "RICOTTA, MOZZARELLA, TOMATO SAUCE, MEAT RAGÙ",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "LINGUINI WITH CLAM SAUCE",
+    "description": "WHITE OR RED",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "GNOCCHI SORRENTINA",
+    "description": "HOUSEMADE PASTA, TOMATO SAUCE, MOZZARELLA",
+    "price": "$26.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "RIGATONI NORMA",
+    "description": "TOMATO SAUCE, EGGPLANT, RICOTTA SALATA, BASIL",
+    "price": "$26.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "RIGATONI POMODORO",
+    "description": "TOMATO SAUCE, BASIL",
+    "price": "$20.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "NOVÉ SUNDAY SAUCE (SUNDAY ONLY)",
+    "description": "SUNDAY SAUCE SLOW BRAISED WITH PORK, RIBS, ITALIAN SAUSAGE, BRACIOLE AND MEATBALLS, SERVED WITH RIGATONI",
+    "price": "$33.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "CHICKEN PARMIGIANA",
+    "description": "BREADED CHICKEN CUTLET, TOMATO SAUCE, MELTED MOZZARELLA, WITH SPAGHETTI",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "main course"
+  },
+  {
+    "name": "CHICKEN MARSALA",
+    "description": "MUSHROOMS, MARSALA WINE",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "main course"
+  },
+  {
+    "name": "CHICKEN MARIO",
+    "description": "PARMIGIANO, ASPARAGUS, SUN-DRIED TOMATOES, WHITE WINE",
+    "price": "$28.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "main course"
+  },
+  {
+    "name": "CHICKEN FRANCESE",
+    "description": "WHITE WINE, LEMON",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "main course"
+  },
+  {
+    "name": "CHICKEN NOVÉ",
+    "description": "BREADED CHICKEN CUTLET, TOMATO, RED ONION, BASIL, BALSAMIC",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "main course"
+  },
+  {
+    "name": "CHICKEN SCARPARIELLO",
+    "description": "PIECES ON THE BONE, SWEET ITALIAN SAUSAGE, PEPPERS, POTATOES",
+    "price": "$28.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "main course"
+  },
+  {
+    "name": "EGGPLANT PARMIGIANA",
+    "description": "TOMATO SAUCE, MELTED MOZZARELLA, WITH SPAGHETTI",
+    "price": "$24.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "main course"
+  },
+  {
+    "name": "FRUTTI DI MARE",
+    "description": "MIXED SEAFOOD: JUMBO SHRIMP, CLAMS, MUSSELS, CALAMARI, OVER SPAGHETTI MARINARA",
+    "price": "$33.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "main course"
+  },
+  {
+    "name": "SOLE FRANCESE",
+    "description": "WHITE WINE, LEMON",
+    "price": "$30.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "main course"
+  },
+  {
+    "name": "SHRIMP SCAMPI",
+    "description": "FIVE U-10 SHRIMP, LEMON SAUCE, OVER LINGUINE",
+    "price": "$31.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "main course"
+  },
+  {
+    "name": "SHRIMP LUCIANO",
+    "description": "FIVE U-10 SHRIMP, RED SAUCE, WINE, SPINACH, OVER LINGUINE",
+    "price": "$31.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "main course"
+  },
+  {
+    "name": "VEAL PARMIGIANA",
+    "description": "BREADED VEAL CUTLET, TOMATO SAUCE, MELTED MOZZARELLA, WITH SPAGHETTI",
+    "price": "$31.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "main course"
+  },
+  {
+    "name": "VEAL MILANESE",
+    "description": "BREADED VEAL CUTLET, ARUGULA, CHERRY TOMATOES, RED ONION",
+    "price": "$31.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "main course"
+  },
+  {
+    "name": "VEAL SCALLOPINI MARSALA",
+    "description": "MUSHROOMS, MARSALA WINE",
+    "price": "$32.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "main course"
+  },
+  {
+    "name": "VEAL SCALLOPINI FRANCESE",
+    "description": "WHITE WINE, LEMON",
+    "price": "$32.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "main course"
+  },
+  {
+    "name": "MEATBALLS",
+    "description": "TWO LARGE CLASSIC ITALIAN MEATBALLS, RICOTTA",
+    "price": "$14.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "sides"
+  },
+  {
+    "name": "\"BURNT\" BRUSSELS SPROUTS",
+    "description": "NOVÉ'S WAY...DELICIOUS!",
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "sides"
+  },
+  {
+    "name": "ESCAROLE & BEANS",
+    "description": "GARLIC, OLIVE OIL (SEASONAL)",
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "sides"
+  },
+  {
+    "name": "BROCCOLI RABE",
+    "description": "GARLIC, OLIVE OIL",
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "sides"
+  },
+  {
+    "name": "PEAS & PROSCIUTTO",
+    "description": "WITH ONIONS",
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "sides"
+  },
+  {
+    "name": "HOMESTYLE POTATOES",
+    "description": "WITH ONIONS",
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "sides"
+  },
+  {
+    "name": "CANNOLI",
+    "description": null,
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "NUTELLA ZEPPOLI",
+    "description": null,
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "FLOURLESS CHOCOLATE CAKE",
+    "description": null,
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "ITALIAN CHEESECAKE",
+    "description": null,
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "RAINBOW COOKIE CAKE",
+    "description": null,
+    "price": "$10.05",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "PISTACHIO RICOTTA CAKE",
+    "description": null,
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "SORBETTO",
+    "description": "LEMON OR ORANGE",
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "TIRAMISU",
+    "description": null,
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "TARTUFO",
+    "description": null,
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "MARGHERITA",
+    "description": "FRESH MOZZARELLA, TOMATO SAUCE, BASIL",
+    "price": "$16.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "brick oven pizza 12\""
+  },
+  {
+    "name": "RABIOLA",
+    "description": "RICOTTA, MOZZARELLA, WHITE TRUFFLE OIL",
+    "price": "$16.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "brick oven pizza 12\""
+  },
+  {
+    "name": "BIANCO",
+    "description": "FRESH MOZZARELLA, RICOTTA, PROVOLONE, PARMIGIANO, BASIL",
+    "price": "$18.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "brick oven pizza 12\""
+  },
+  {
+    "name": "MELANZANA",
+    "description": "FRESH MOZZARELLA, TOMATO SAUCE, EGGPLANT, BASIL",
+    "price": "$18.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "brick oven pizza 12\""
+  },
+  {
+    "name": "CALABRESE",
+    "description": "FRESH MOZZARELLA, SUN-DRIED TOMATOES, BROCCOLI RABE, HOT CHERRY PEPPERS",
+    "price": "$18.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "brick oven pizza 12\""
+  },
+  {
+    "name": "NEAPOLITAN",
+    "description": "18\" NEW YORK STYLE CLASSIC, MOZZARELLA, TOMATO SAUCE",
+    "price": "$22.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pizza 18\""
+  },
+  {
+    "name": "GRANDMA",
+    "description": "THIN CRUST, SQUARE, MOZZARELLA, PLUM TOMATO SAUCE, BASIL",
+    "price": "$22.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pizza 18\""
+  },
+  {
+    "name": "\"UPSIDE-DOWN\" BROOKLYN",
+    "description": "THICK CRUST, SQUARE, MOZZARELLA, TOPPED WITH SWEET TOMATO SAUCE",
+    "price": "$24.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pizza 18\""
+  },
+  {
+    "name": "SICILIAN",
+    "description": "THICK CRUST, SQUARE, SWEET TOMATO SAUCE, TOPPED WITH MOZZARELLA",
+    "price": "$24.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pizza 18\""
+  },
+  {
+    "name": "NOVÉ SICILIAN",
+    "description": "SICILIAN PIZZA WITH SAUSAGE, PEPPERONI, ONIONS",
+    "price": "$29.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "In House",
+    "menu_name": "pizza 18\""
+  },
+  {
+    "name": "LOVE POTION",
+    "description": "PROSECCO, ST. GERMAIN ELDERFLOWER LIQUER, FABBRI BLACK CHERRY",
+    "price": "",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "signature cocktails"
+  },
+  {
+    "name": "LA DOLCE VITA SPRITZ",
+    "description": "PROSECCO, APEROL, GRAPEFRUIT JUICE, CLUB SODA",
+    "price": "",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "signature cocktails"
+  },
+  {
+    "name": "NOVÉ ESPRESSO MARTINI",
+    "description": "KAHLÚA, STOLI VANILA VODKA, ESPRESSO",
+    "price": "",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "signature cocktails"
+  },
+  {
+    "name": "THE MARIO MARTINI",
+    "description": "APPLETON RUM, VANILLA, PEACH SCHNAPPS, BLUE CURAÇAO, PINEAPPLE JUICE",
+    "price": "",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "signature cocktails"
+  },
+  {
+    "name": "HORSE SOLDIER OLD FASHIONED",
+    "description": "SMALL BATCH BOURBON, BITTERS, ORANGE, MARASCHINO CHERRY",
+    "price": "",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "signature cocktails"
+  },
+  {
+    "name": "X-RATED",
+    "description": "PASSION FRUIT LIQUEUR, LEMONADE",
+    "price": "",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "signature cocktails"
+  },
+  {
+    "name": "G-LAZZ MARTINI",
+    "description": "X-RATED PASSION FRUIT VODKA, GREY GOOSE VODKA, LIME JUICE, PROSECCO FLOAT",
+    "price": "",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "signature cocktails"
+  },
+  {
+    "name": "ELDERFLOWER GIN FIZZ",
+    "description": "GIN, LEMON JUICE, ST-GERMAIN ELDERFLOWER LIQUEUR, CLUB SODA",
+    "price": "",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "signature cocktails"
+  },
+  {
+    "name": "GRAPEFRUIT MARGARITA",
+    "description": "CASAMIGOS BLANCO TEQUILA, GRAPEFRUIT JUICE, TRIPLE SEC, PINCH OF CHILE",
+    "price": "",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "signature cocktails"
+  },
+  {
+    "name": "NOVÉ MULE",
+    "description": "ABSOLUT VODKA, GINGER BEER, CRANBERRY JUICE, LIME",
+    "price": "",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "signature cocktails"
+  },
+  {
+    "name": "Amaretto Disaronno",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Amaro Averna",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Amaro Montenegro",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Baileys Irish Cream",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "B&B",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Drambuie",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Fernet-Branca",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Frangelico",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Galliano",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Grand Marnier",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Green Chartreuse",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Kahlúa",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Molinari Sambuca",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Ramazzotti",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Sambuca Romano",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Sambuca Black Romano",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Strega",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Tuaca",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Tia Maria",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Tuaca",
+    "description": "",
+    "price": "",
+    "section": "cordials"
+  },
+  {
+    "name": "Aberlour 16",
+    "description": "",
+    "price": "",
+    "section": "scotch"
+  },
+  {
+    "name": "Glenfiddich 12",
+    "description": "",
+    "price": "",
+    "section": "scotch"
+  },
+  {
+    "name": "Glenlivet 12",
+    "description": "",
+    "price": "",
+    "section": "scotch"
+  },
+  {
+    "name": "Glenlivet 15",
+    "description": "",
+    "price": "",
+    "section": "scotch"
+  },
+  {
+    "name": "Glenmorangie “La Santa” 12",
+    "description": "",
+    "price": "",
+    "section": "scotch"
+  },
+  {
+    "name": "Johnnie Walker Blue",
+    "description": "",
+    "price": "",
+    "section": "scotch"
+  },
+  {
+    "name": "Lagavulin 16",
+    "description": "",
+    "price": "",
+    "section": "scotch"
+  },
+  {
+    "name": "Macallan 12",
+    "description": "",
+    "price": "",
+    "section": "scotch"
+  },
+  {
+    "name": "Macallan 18",
+    "description": "",
+    "price": "",
+    "section": "scotch"
+  },
+  {
+    "name": "Oban 14",
+    "description": "",
+    "price": "",
+    "section": "scotch"
+  },
+  {
+    "name": "Old Rip Van Winkle 10",
+    "description": "",
+    "price": "",
+    "section": "scotch"
+  },
+  {
+    "name": "Talisker 18",
+    "description": "",
+    "price": "",
+    "section": "scotch"
+  },
+  {
+    "name": "Royal Salute 21",
+    "description": "",
+    "price": "",
+    "section": "scotch"
+  },
+  {
+    "name": "Old Rip Van Winkle 10",
+    "description": "",
+    "price": "",
+    "section": "scotch"
+  },
+  {
+    "name": "Taylor Fladgate 10",
+    "description": "",
+    "price": "",
+    "section": "port wine"
+  },
+  {
+    "name": "Taylor Fladgate 20",
+    "description": "",
+    "price": "",
+    "section": "port wine"
+  },
+  {
+    "name": "Fonseca Bin 27",
+    "description": "",
+    "price": "",
+    "section": "port wine"
+  },
+  {
+    "name": "Cannoli",
+    "description": "",
+    "price": "",
+    "section": "desserts"
+  },
+  {
+    "name": "Italian Cheesecake",
+    "description": "",
+    "price": "",
+    "section": "desserts"
+  },
+  {
+    "name": "Tiramisu",
+    "description": "",
+    "price": "",
+    "section": "desserts"
+  },
+  {
+    "name": "Rainbow Cookie Cake",
+    "description": "",
+    "price": "",
+    "section": "desserts"
+  },
+  {
+    "name": "Pistachio Ricotta Cake",
+    "description": "",
+    "price": "",
+    "section": "desserts"
+  },
+  {
+    "name": "Nutella  ♥ Zeppole",
+    "description": "",
+    "price": "",
+    "section": "desserts"
+  },
+  {
+    "name": "Flourless Chocolate Cake",
+    "description": "",
+    "price": "",
+    "section": "desserts"
+  },
+  {
+    "name": "Lemon Sorbetto - Orange Sorbetto",
+    "description": "",
+    "price": "",
+    "section": "desserts"
+  },
+  {
+    "name": "Tartufo",
+    "description": "",
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "desserts"
+  },
+  {
+    "name": "BRUSCHETTA",
+    "description": "TOMATO, RED ONION, BASIL, BALSAMIC",
+    "price": "$11.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "CALAMARI",
+    "description": "OLD SCHOOL OR SPICY ARRABBIATA",
+    "price": "$18.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "BAKED CLAMS",
+    "description": "BREAD CRUMBS, LEMON",
+    "price": "$17.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "EGGPLANT ROLLATINI",
+    "description": "RICOTTA AND SPINACH STUFFING, TOMATO SAUCE, MELTED MOZZARELLA",
+    "price": "$16.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "ZUPPA DI CLAMS OR MUSSELS",
+    "description": "WHITE WINE & GARLIC OR LIGHT TOMATO SAUCE, HOUSEMADE BREAD BOWL",
+    "price": "$19.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "MEATBALL SLIDERS",
+    "description": "CLASSIC ITALIAN MEATBALLS, HOUSEMADE BREAD",
+    "price": "$12.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "CRISPY ZUCCHINI STICKS",
+    "description": "WITH LEMON WEDGES",
+    "price": "$11.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "CRISPY MOZZARELLA",
+    "description": "WITH VODKA AND TOMATO SAUCE",
+    "price": "$16.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "CAPRESE",
+    "description": "FRESH MOZZARELLA, HEIRLOOM TOMATOES, BASIL, BALSAMIC",
+    "price": "$15.75",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "appetizers"
+  },
+  {
+    "name": "JUNE",
+    "description": "ICEBERG, TOMATO, RED ONION, PEPPERS, OLIVES, RED WINE VINEGAR VINAIGRETTE",
+    "price": "$13.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "salads"
+  },
+  {
+    "name": "CHOPPED",
+    "description": "JUNE SALAD, CHOPPED",
+    "price": "$14.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "salads"
+  },
+  {
+    "name": "CAESAR",
+    "description": "ROMAINE, PARMIGIANO, HOUSEMADE CROUTONS, CAESAR DRESSING",
+    "price": "$15.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "salads"
+  },
+  {
+    "name": "MISTO",
+    "description": "MIXED GREENS, SLICED APPLE, CANDIED WALNUTS, GORGONZOLA, RASPBERRY VINAIGRETTE",
+    "price": "$16.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "salads"
+  },
+  {
+    "name": "ARUGULA",
+    "description": "SHAVED PARMIGIANO REGGIANO, HEIRLOOM TOMATOES, CITRUS VINAIGRETTE. Add-ons: ADD CHICKEN $7.95 / ADD THREE U-10 SHRIMP $10.95",
+    "price": "$17.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "salads"
+  },
+  {
+    "name": "RIGATONI ROMANO",
+    "description": "CRUMBLED SWEET ITALIAN SAUSAGE, PINK SAUCE",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "PAPPARDELLE BOLOGNESE",
+    "description": "TOMATO, MEAT SAUCE",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "PENNE VODKA",
+    "description": "TOMATO SAUCE, PROSCIUTTO, CREAM, VODKA",
+    "price": "$26.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "SPICY RIGATONI VODKA",
+    "description": "TOMATO SAUCE, PROSCIUTTO, CREAM, VODKA, CALABRIAN CHILI PASTE",
+    "price": "$26.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "SPAGHETTI & MEATBALLS",
+    "description": "CLASSIC ITALIAN MEATBALLS, RED SAUCE",
+    "price": "$25.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "FETTUCCINE ALFREDO",
+    "description": "PARMIGIANO, CREAM",
+    "price": "$26.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "PENNE PANNA",
+    "description": "PARMIGIANO, CREAM, PROSCIUTTO, ONIONS, PEAS",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "ORECCHIETTE",
+    "description": "BROCCOLI RABE, SWEET ITALIAN SAUSAGE",
+    "price": "$26.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "LASAGNA",
+    "description": "RICOTTA, MOZZARELLA, TOMATO SAUCE, MEAT RAGÙ",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "LINGUINI WITH CLAM SAUCE",
+    "description": "WHITE OR RED",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "GNOCCHI SORRENTINA",
+    "description": "HOUSEMADE PASTA, TOMATO SAUCE, MOZZARELLA",
+    "price": "$26.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "RIGATONI NORMA",
+    "description": "TOMATO SAUCE, EGGPLANT, RICOTTA SALATA, BASIL",
+    "price": "$26.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "RIGATONI POMODORO",
+    "description": "TOMATO SAUCE, BASIL",
+    "price": "$20.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "NOVÉ SUNDAY SAUCE (SUNDAY ONLY)",
+    "description": "SUNDAY SAUCE SLOW BRAISED WITH PORK, RIBS, ITALIAN SAUSAGE, BRACIOLE AND MEATBALLS, SERVED WITH RIGATONI",
+    "price": "$33.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pasta"
+  },
+  {
+    "name": "CHICKEN PARMIGIANA",
+    "description": "BREADED CHICKEN CUTLET, TOMATO SAUCE, MELTED MOZZARELLA, WITH SPAGHETTI",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "main course"
+  },
+  {
+    "name": "CHICKEN MARSALA",
+    "description": "MUSHROOMS, MARSALA WINE",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "main course"
+  },
+  {
+    "name": "CHICKEN MARIO",
+    "description": "PARMIGIANO, ASPARAGUS, SUN-DRIED TOMATOES, WHITE WINE",
+    "price": "$28.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "main course"
+  },
+  {
+    "name": "CHICKEN FRANCESE",
+    "description": "WHITE WINE, LEMON",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "main course"
+  },
+  {
+    "name": "CHICKEN NOVÉ",
+    "description": "BREADED CHICKEN CUTLET, TOMATO, RED ONION, BASIL, BALSAMIC",
+    "price": "$27.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "main course"
+  },
+  {
+    "name": "CHICKEN SCARPARIELLO",
+    "description": "PIECES ON THE BONE, SWEET ITALIAN SAUSAGE, PEPPERS, POTATOES",
+    "price": "$28.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "main course"
+  },
+  {
+    "name": "EGGPLANT PARMIGIANA",
+    "description": "TOMATO SAUCE, MELTED MOZZARELLA, WITH SPAGHETTI",
+    "price": "$24.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "main course"
+  },
+  {
+    "name": "FRUTTI DI MARE",
+    "description": "MIXED SEAFOOD: JUMBO SHRIMP, CLAMS, MUSSELS, CALAMARI, OVER SPAGHETTI MARINARA",
+    "price": "$33.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "main course"
+  },
+  {
+    "name": "MEATBALLS",
+    "description": "TWO LARGE CLASSIC ITALIAN MEATBALLS, RICOTTA",
+    "price": "$14.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "sides"
+  },
+  {
+    "name": "\"BURNT\" BRUSSELS SPROUTS",
+    "description": "NOVÉ'S WAY...DELICIOUS!",
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "sides"
+  },
+  {
+    "name": "ESCAROLE & BEANS",
+    "description": "GARLIC, OLIVE OIL (SEASONAL)",
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "sides"
+  },
+  {
+    "name": "BROCCOLI RABE",
+    "description": "GARLIC, OLIVE OIL",
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "sides"
+  },
+  {
+    "name": "PEAS & PROSCIUTTO",
+    "description": "WITH ONIONS",
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "sides"
+  },
+  {
+    "name": "HOMESTYLE POTATOES",
+    "description": "WITH ONIONS",
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "sides"
+  },
+  {
+    "name": "SOLE FRANCESE",
+    "description": "WHITE WINE, LEMON",
+    "price": "$30.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "main course"
+  },
+  {
+    "name": "SHRIMP SCAMPI",
+    "description": "FIVE U-10 SHRIMP, LEMON SAUCE, OVER LINGUINE",
+    "price": "$31.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "main course"
+  },
+  {
+    "name": "SHRIMP LUCIANO",
+    "description": "FIVE U-10 SHRIMP, RED SAUCE, WINE, SPINACH, OVER LINGUINE",
+    "price": "$31.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "main course"
+  },
+  {
+    "name": "VEAL PARMIGIANA",
+    "description": "BREADED VEAL CUTLET, TOMATO SAUCE, MELTED MOZZARELLA, WITH SPAGHETTI",
+    "price": "$31.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "main course"
+  },
+  {
+    "name": "VEAL MILANESE",
+    "description": "BREADED VEAL CUTLET, ARUGULA, CHERRY TOMATOES, RED ONION",
+    "price": "$31.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "main course"
+  },
+  {
+    "name": "VEAL SCALLOPINI MARSALA",
+    "description": "MUSHROOMS, MARSALA WINE",
+    "price": "$32.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "main course"
+  },
+  {
+    "name": "VEAL SCALLOPINI FRANCESE",
+    "description": "WHITE WINE, LEMON",
+    "price": "$32.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "main course"
+  },
+  {
+    "name": "CANNOLI",
+    "description": null,
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "NUTELLA ZEPPOLI",
+    "description": null,
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "FLOURLESS CHOCOLATE CAKE",
+    "description": null,
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "ITALIAN CHEESECAKE",
+    "description": null,
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "RAINBOW COOKIE CAKE",
+    "description": null,
+    "price": "$10.05",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "PISTACHIO RICOTTA CAKE",
+    "description": null,
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "SORBETTO",
+    "description": "LEMON OR ORANGE",
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "TIRAMISÙ",
+    "description": null,
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "TARTUFO",
+    "description": null,
+    "price": "$10.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "dessert"
+  },
+  {
+    "name": "MARGHERITA",
+    "description": "FRESH MOZZARELLA, TOMATO SAUCE, BASIL",
+    "price": "$16.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "brick oven pizza 12\""
+  },
+  {
+    "name": "RABIOLA",
+    "description": "RICOTTA, MOZZARELLA, WHITE TRUFFLE OIL",
+    "price": "$16.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "brick oven pizza 12\""
+  },
+  {
+    "name": "BIANCO",
+    "description": "FRESH MOZZARELLA, RICOTTA, PROVOLONE, PARMIGIANO, BASIL",
+    "price": "$18.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "brick oven pizza 12\""
+  },
+  {
+    "name": "MELANZANA",
+    "description": "FRESH MOZZARELLA, TOMATO SAUCE, EGGPLANT, BASIL",
+    "price": "$18.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "brick oven pizza 12\""
+  },
+  {
+    "name": "CALABRESE",
+    "description": "FRESH MOZZARELLA, SUN-DRIED TOMATOES, BROCCOLI RABE, HOT CHERRY PEPPERS",
+    "price": "$18.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "brick oven pizza 12\""
+  },
+  {
+    "name": "NEAPOLITAN",
+    "description": "18\" NEW YORK STYLE CLASSIC, MOZZARELLA, TOMATO SAUCE",
+    "price": "$22.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pizza 18\""
+  },
+  {
+    "name": "GRANDMA",
+    "description": "THIN CRUST, SQUARE, MOZZARELLA, PLUM TOMATO SAUCE, BASIL",
+    "price": "$22.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pizza 18\""
+  },
+  {
+    "name": "\"UPSIDE-DOWN\" BROOKLYN",
+    "description": "THICK CRUST, SQUARE, MOZZARELLA, TOPPED WITH SWEET TOMATO SAUCE",
+    "price": "$24.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pizza 18\""
+  },
+  {
+    "name": "SICILIAN",
+    "description": "THICK CRUST, SQUARE, SWEET TOMATO SAUCE, TOPPED WITH MOZZARELLA",
+    "price": "$24.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pizza 18\""
+  },
+  {
+    "name": "NOVÉ SICILIAN",
+    "description": "SICILIAN PIZZA WITH SAUSAGE, PEPPERONI, ONIONS",
+    "price": "$29.95",
+    "restaurant_name": "Nové Italian Restaurant",
+    "restaurant_url": "http://www.novesaratoga.com/",
+    "menu_type": "Takeout",
+    "menu_name": "pizza 18\""
+  }
+]
