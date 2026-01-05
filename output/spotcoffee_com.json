@@ -1,0 +1,622 @@
+[
+  {
+    "name": "BREWED COFFEE",
+    "description": "Choose from house, dark roast, or decaf; Add-ons: ADD-ONS – Add a flavor shot $0.85 – Substitute soy, almond, or oat milk at no charge",
+    "price": "Regular: $2.75 / Large: $3.25",
+    "section": "COFFEE & TEA",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "SINGLE ORIGIN coffee",
+    "description": "A rotating in-season light roast showcasing an individual growing region; Add-ons: ADD-ONS – Add a flavor shot $0.85 – Substitute soy, almond, or oat milk at no charge",
+    "price": "Regular: $3.25 / Large: $3.75",
+    "section": "COFFEE & TEA",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "ICED COFFEE",
+    "description": "Brewed Japanese style; Add-ons: ADD-ONS – Add a flavor shot $0.85 – Substitute soy, almond, or oat milk at no charge",
+    "price": "Regular: $4.00 / Large: $4.50",
+    "section": "COFFEE & TEA",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "ORGANIC HOT TEA",
+    "description": "Choose from black, green, white or herbal varieties; Add-ons: ADD-ONS – Add a flavor shot $0.85 – Substitute soy, almond, or oat milk at no charge",
+    "price": "$4.00",
+    "section": "COFFEE & TEA",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "ORGANIC ICED TEA",
+    "description": "Choose classic black, citrus green or scarlet; Add-ons: ADD-ONS – Add a flavor shot $0.85 – Substitute soy, almond, or oat milk at no charge",
+    "price": "Regular: $4.00 / Large: $4.50",
+    "section": "COFFEE & TEA",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "CHAI LATTE",
+    "description": "Add-ons: ADD-ONS – Add a flavor shot $0.85 – Substitute soy, almond, or oat milk at no charge",
+    "price": "Regular: $5.00 / Large: $5.50",
+    "section": "COFFEE & TEA",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "MATCHA LATTE",
+    "description": "Add-ons: ADD-ONS – Add a flavor shot $0.85 – Substitute soy, almond, or oat milk at no charge",
+    "price": "Regular: $5.25 / Large: $5.75",
+    "section": "COFFEE & TEA",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "HOT CHOCOLATE",
+    "description": "Add-ons: ADD-ONS – Add a flavor shot $0.85 – Substitute soy, almond, or oat milk at no charge",
+    "price": "Regular: $4.25 / Large: $4.75",
+    "section": "COFFEE & TEA",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "JUG-O-JOE",
+    "description": "Serves 8-12 people (one size); Add-ons: ADD-ONS – Add a flavor shot $0.85 – Substitute soy, almond, or oat milk at no charge",
+    "price": "$28.50",
+    "section": "COFFEE & TEA",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "ESPRESSO",
+    "description": "Add-ons: ADD-ONS – Add a flavor shot $0.85 – Substitute soy, almond, or oat milk at no charge",
+    "price": "$3.25",
+    "section": "COFFEE & TEA",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "CINCO SHAKE",
+    "description": "Espresso blended with caramel, white chocolate, and vanilla, topped with whipped cream",
+    "price": "Regular: $6.00 / Large: $6.50",
+    "section": "SHAKES AND SMOOTHIES",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "MOCHA SHAKE",
+    "description": "Espresso blended with chocolate sauce and topped with whipped cream",
+    "price": "Regular: $6.00 / Large: $6.50",
+    "section": "SHAKES AND SMOOTHIES",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "JAVA SHAKE",
+    "description": "Espresso blended with vanilla syrup and topped with whipped cream",
+    "price": "Regular: $6.00 / Large: $6.50",
+    "section": "SHAKES AND SMOOTHIES",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "PROTEIN POWER SHAKE",
+    "description": "Protein powder, fruit puree, and a banana",
+    "price": "$7.95",
+    "section": "SHAKES AND SMOOTHIES",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "FRUIT SMOOTHIE",
+    "description": "Strawberry, mango, peach, wildberry, strawberry banana",
+    "price": "$6.00",
+    "section": "SHAKES AND SMOOTHIES",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "BAGELS/ENGLISH MUFFINS (with plain cream cheese or butter)",
+    "description": "Add-ons: ADD ONS:Lettuce, tomato, onion, peppers, cucumbers, spinach $1.25Ham, bacon, sausage, guacamole $2.50 – chicken $4.00 – smoked salmon $5.95",
+    "price": "$3.75",
+    "section": "ALL DAY BREAKFAST",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "BAGELS/ENGLISH MUFFINS (with veggie cream cheese)",
+    "description": "Add-ons: ADD ONS:Lettuce, tomato, onion, peppers, cucumbers, spinach $1.25Ham, bacon, sausage, guacamole $2.50 – chicken $4.00 – smoked salmon $5.95",
+    "price": "$3.95",
+    "section": "ALL DAY BREAKFAST",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "BAGELS/ENGLISH MUFFINS (with cream cheese and smoked salmon)",
+    "description": "Add-ons: ADD ONS:Lettuce, tomato, onion, peppers, cucumbers, spinach $1.25Ham, bacon, sausage, guacamole $2.50 – chicken $4.00 – smoked salmon $5.95",
+    "price": "$9.75",
+    "section": "ALL DAY BREAKFAST",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "BAGELS/ENGLISH MUFFINS",
+    "description": "Add-ons: ADD ONS:Lettuce, tomato, onion, peppers, cucumbers, spinach $1.25Ham, bacon, sausage, guacamole $2.50 – chicken $4.00 – smoked salmon $5.95",
+    "price": "$2.95",
+    "section": "ALL DAY BREAKFAST",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "BACON, EGG & CHEESE BREAKFAST SANDWICH",
+    "description": "Two pan-fried eggs topped with melted cheddar and bacon on choice of bagel; Add-ons: ADD ONS:Lettuce, tomato, onion, peppers, cucumbers, spinach $1.25Ham, bacon, sausage, guacamole $2.50 – chicken $4.00 – smoked salmon $5.95",
+    "price": "$8.45",
+    "section": "ALL DAY BREAKFAST",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "MIKE SANDWICH",
+    "description": "Two pan-fried eggs, melted provolone, and cream cheese served on a choice of; bagel, English muffin, or SPoT white or wheat signature bread; Add-ons: ADD ONS:Lettuce, tomato, onion, peppers, cucumbers, spinach $1.25Ham, bacon, sausage, guacamole $2.50 – chicken $4.00 – smoked salmon $5.95",
+    "price": "$8.75",
+    "section": "ALL DAY BREAKFAST",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "BREAKFAST WRAP",
+    "description": "Scrambled eggs, salsa, and melted provolone served in your choice of white, wheat, or spinach wrap; Add-ons: ADD ONS:Lettuce, tomato, onion, peppers, cucumbers, spinach $1.25Ham, bacon, sausage, guacamole $2.50 – chicken $4.00 – smoked salmon $5.95",
+    "price": "$9.75",
+    "section": "ALL DAY BREAKFAST",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "AVOCADO TOAST",
+    "description": "Choice of SPoT signature bread served with guacamole, finished with; olive oil drizzle and everything bagel seasoning; Add-ons: ADD ONS:Lettuce, tomato, onion, peppers, cucumbers, spinach $1.25Ham, bacon, sausage, guacamole $2.50 – chicken $4.00 – smoked salmon $5.95",
+    "price": "$8.50",
+    "section": "ALL DAY BREAKFAST",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "HAM & CHEESE CROISSANT",
+    "description": "Ham and melted cheese in a butter croissant; Add-ons: ADD ONS:Lettuce, tomato, onion, peppers, cucumbers, spinach $1.25Ham, bacon, sausage, guacamole $2.50 – chicken $4.00 – smoked salmon $5.95",
+    "price": "$8.50",
+    "section": "ALL DAY BREAKFAST",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "CHEESE OMELET",
+    "description": "Classic with cheddar cheese; Add-ons: ADD ONS:Lettuce, tomato, onion, peppers, cucumbers, spinach $1.25Ham, bacon, sausage, guacamole $2.50 – chicken $4.00 – smoked salmon $5.95",
+    "price": "$9.95",
+    "section": "THREE-EGG OMELETS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "SPINACH FETA OMELET",
+    "description": "Feta cheese and sautéed spinach; Add-ons: ADD ONS:Lettuce, tomato, onion, peppers, cucumbers, spinach $1.25Ham, bacon, sausage, guacamole $2.50 – chicken $4.00 – smoked salmon $5.95",
+    "price": "$10.95",
+    "section": "THREE-EGG OMELETS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "WESTERN OMELET",
+    "description": "Cheddar cheese, diced smoked ham, sautéed onions and peppers; Add-ons: ADD ONS:Lettuce, tomato, onion, peppers, cucumbers, spinach $1.25Ham, bacon, sausage, guacamole $2.50 – chicken $4.00 – smoked salmon $5.95",
+    "price": "$12.95",
+    "section": "THREE-EGG OMELETS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "FRITTATA OMELET",
+    "description": "Cheddar cheese, sautéed onions, spinach, tomatoes, and peppers; Add-ons: ADD ONS:Lettuce, tomato, onion, peppers, cucumbers, spinach $1.25Ham, bacon, sausage, guacamole $2.50 – chicken $4.00 – smoked salmon $5.95",
+    "price": "$12.50",
+    "section": "THREE-EGG OMELETS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "YOGURT PARFAIT",
+    "description": "– Yogurt, granola, and assorted berries; Add-ons: ADD ONS:Lettuce, tomato, onion, peppers, cucumbers, spinach $1.25Ham, bacon, sausage, guacamole $2.50 – chicken $4.00 – smoked salmon $5.95",
+    "price": "$6.95",
+    "section": "THREE-EGG OMELETS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "BLT",
+    "description": "Bacon, lettuce, and tomatoes with mayonnaise on a choice of SPoT white or wheat signature bread",
+    "price": "$9.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "CLASSIC GRILLED CHEESE",
+    "description": "Melted cheddar & provolone cheese on a choice of SPoT white or wheat signature bread",
+    "price": "$9.95",
+    "section": "SANDWICHES",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "PESTO CHICKEN PANINI",
+    "description": "Roasted chicken, basil and sun-dried tomato pesto aioli,; served with mozzarella cheese on a choice of SPoT white or wheat signature bread",
+    "price": "$14.75",
+    "section": "SANDWICHES",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "ROASTED TURKEY PANINI",
+    "description": "Roasted turkey, cheddar cheese, mayonnaise, lettuce, tomato; on the choice of SPoT white or wheat signature bread",
+    "price": "$14.75",
+    "section": "SANDWICHES",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "PIZZA BAGEL",
+    "description": "Tomato pesto, mozzarella cheese on your choice of bagel",
+    "price": "$6.95",
+    "section": "SANDWICHES",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "SPICY TUNA WRAP",
+    "description": "Signature spicy tuna, mixed greens, pepper jack cheese, Cajun remoulade",
+    "price": "$14.75",
+    "section": "SIGNATURE WRAPS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "FRESH VEGGIE WRAP",
+    "description": "Mixed greens, hummus, Feta cheese, tomato, cucumber, red onion, herb vinaigrette",
+    "price": "$13.75",
+    "section": "SIGNATURE WRAPS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "CHICKEN FETA WRAP",
+    "description": "Roasted chicken, feta cheese, mixed greens, green peppers, red onions, herb vinaigrette",
+    "price": "$13.75",
+    "section": "SIGNATURE WRAPS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "CAJUN TURKEY WRAP",
+    "description": "Roasted turkey, bacon, pepper jack cheese, Cajun remoulade, mixed greens, tomato",
+    "price": "$13.75",
+    "section": "SIGNATURE WRAPS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "BLACK BEAN AND CORN QUESADILLA $11.95 (with fresh salsa and sour creamWith chicken)",
+    "description": "Black beans, corn, tomatoes, red onions, cilantro, and pepper jack cheese; served with fresh salsa and sour cream",
+    "price": "$14.95",
+    "section": "SIGNATURE WRAPS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "BLACK BEAN AND CORN QUESADILLA",
+    "description": "Black beans, corn, tomatoes, red onions, cilantro, and pepper jack cheese; served with fresh salsa and sour cream; /add guacamole $2.50",
+    "price": "$11.95",
+    "section": "SIGNATURE WRAPS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "SOUP OF THE DAY",
+    "description": null,
+    "price": "$7.25",
+    "section": "SOUPS AND SALADS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "MIXED GREENS WITH BERRIES $13.95 (with BERRIES)",
+    "description": "Mixed greens, berries, toasted almonds, feta cheese, served; with balsamic vinaigrette dressing",
+    "price": "$13.95",
+    "section": "SOUPS AND SALADS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "MIXED GREENS WITH BERRIES",
+    "description": "Mixed greens, berries, toasted almonds, feta cheese, served; with balsamic vinaigrette dressing",
+    "price": "$13.95",
+    "section": "SOUPS AND SALADS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "CAESAR SALAD",
+    "description": "Romaine lettuce, croutons, and classic creamy Caesar dressing",
+    "price": "$12.95",
+    "section": "SOUPS AND SALADS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "Add grilled chicken to any salad for",
+    "description": null,
+    "price": "$4.00",
+    "section": "SOUPS AND SALADS",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Menu",
+    "menu_name": "Our Menu"
+  },
+  {
+    "name": "Full Cambro",
+    "description": "Serves 35-45 512 oz. of SPoT brewed coffee in a thermal disposable carafe. (64) 8oz. servings | (42) 12oz. servings",
+    "price": "$92.50",
+    "section": "Brewed Coffee",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "SPoT Iced Coffee Cans",
+    "description": "Sold in 4 Packs only – SPoT iced coffee in individual serve 12 oz. cans.",
+    "price": "$17.50",
+    "section": "Brewed Coffee",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Half Cambro",
+    "description": "Serves 25-30 256 oz. of SPoT brewed coffee in a thermal disposable carafe. (32) 8oz. servings | (21) 12oz. servings",
+    "price": "$49.50",
+    "section": "Brewed Coffee",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Jug O' Joe",
+    "description": "Serves 8-12 96 oz. of SPoT brewed coffee in an insulated, disposable carafe (12) 8oz. servings.",
+    "price": "$28.50",
+    "section": "Brewed Coffee",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Hot Chocolate Jug O'Joe",
+    "description": "Serves 8-12 96 oz. of freshly steamed milk combined with rich Ghirardelli chocolate in an insulated disposable carafe. * All coffee orders come with milk, cream, sugar, sweetener, stir sticks, lids, and cups. Please let us know if you require all condiments and/or cups/accessories.",
+    "price": "$31.45",
+    "section": "Brewed Coffee",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Rishi Tea",
+    "description": "Enjoy an assortment of our finest Rishi Tea selection. Small (serves 10) Large (serves 20) * All coffee/ tea orders come with milk, cream, sugar, sweetener, stir sticks, and cups. Please let us know if you require all condiments and cups/accessories.",
+    "price": "Small: $25.95 / Large: $49.50",
+    "section": "Rishi Tea",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "SPoT Soft Drinks",
+    "description": "Cold beverages are available for your event. SPoT natural spring water Perrier Water Nantucket nectars Assorted 12 oz. sodas (*Ask for per-case pricing)",
+    "price": "$1.75 / $2.35 / $2.95 / $1.85",
+    "section": "Cold Drinks",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Baker's Breakfast Medley",
+    "description": "Assortment of cinnamon rolls, scones, and muffins. Small (serves 6-8) Large (serves 12-16)",
+    "price": "Small: $24.95 / Large: $43.95",
+    "section": "Breakfast",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Bagel Bliss",
+    "description": "Assortment of bagels, cream cheese, butter, and assorted jelly. Small (serves 6-8) Large (serves 12-16) *Add per bagel for smoked salmon.",
+    "price": "Small: $24.95 / Large: $42.95",
+    "section": "Breakfast",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Breakfast Sandwich Tray",
+    "description": "Your choice of our famous Mike sandwich or breakfast wrap on your choice of bagel or flour tortilla. Small (serves 5) Large (serves 10)",
+    "price": "Small: $41.95 / Large: $79.95",
+    "section": "Breakfast",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "SPoT Parfait Delight",
+    "description": "Yogurt, strawberries, and SPoT’s homemade granola. Small (serves 5-9) Large (serves 10-16) 74.95",
+    "price": "$39.95",
+    "section": "Breakfast",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Sandwiches & Wrap Trays",
+    "description": "All sandwiches can be made on your choice of white/wheat/spinach flour tortillas, or SPoT white or wheat signature bread. All trays are served with your choice of chips or greens and balsamic dressing. Sandwich options are: Roasted Turkey, Smoked Ham & Cheddar, Cajun Turkey, Spicy Tuna, Hummus, and Veggies, Chicken Feta, or Pesto Chicken Small – 5 full-size sandwiches Large – 10 full-size sandwiches",
+    "price": "$56.50 / $99.95",
+    "section": "Sandwiches",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Salad",
+    "description": "Small – (serves 5) Large – (serves 10) Proteins: Add chicken or tuna: Small Large",
+    "price": "Small: $23.00 / Large: $46.00",
+    "section": "Salads",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Greek",
+    "description": "An assortment of baby spinach and mesclun greens, topped with feta cheese, green peppers, red onions, black olives, cucumbers, and tomatoes. Served with Greek feta dressing.",
+    "price": null,
+    "section": "Salads",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Mixed Berry & Field Greens",
+    "description": "Our Field Green Salad is topped with an assortment of fresh strawberries, goat cheese, and toasted almonds. Served with SPoT’s signature balsamic dressing.",
+    "price": null,
+    "section": "Salads",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Fresh Fruit",
+    "description": "Seasonal fresh fruit, strawberries, and grapes with yogurt fruit dip. Small (serves 10-12) Large (serves 20-25) *add ½ lb of granola for or 1 lb for",
+    "price": "Small: $58.75 / Large: $99.95",
+    "section": "Platters",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Desserts",
+    "description": "Dessert Tray Assortment of dessert bars, cookies, and smores. Small serves 10 Large serves 20",
+    "price": "$38.95 / $71.50",
+    "section": "Desserts",
+    "restaurant_name": "SPoT Coffee",
+    "restaurant_url": "https://www.spotcoffee.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  }
+]
