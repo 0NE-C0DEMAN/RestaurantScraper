@@ -1,0 +1,1482 @@
+[
+  {
+    "name": "Polenta & Mushrooms (GF)",
+    "description": "Grilled polenta, roasted mushrooms, and shaved parmesan.",
+    "price": "$16.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Guacamole Brie Melt",
+    "description": "French baguette filled with mashed avocado and sundried tomatoes, topped with brie cheese and herbs.",
+    "price": "$15.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Fried Green Tomatoes (VG)",
+    "description": "With sweet sriracha dipping sauce.",
+    "price": "$13.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Flatbread",
+    "description": "Grilled flatbread, herb-whipped ricotta, mission figs, granny smith apples, balsamic reduction, and arugula.",
+    "price": "$15.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Falafel (GF, VG)",
+    "description": "With sweet Thai chili sauce.",
+    "price": "$12.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Hummus with Grilled Naan (VG)",
+    "description": null,
+    "price": "$12.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Hummus with Crudite (GF, VG)",
+    "description": null,
+    "price": "$13.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Soup du Jour",
+    "description": "Homemade; Changes Daily",
+    "price": "$6.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "French Onion Soup",
+    "description": "Homemade",
+    "price": "$7.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Mediterranean Salad (GF)",
+    "description": "Marinated chickpeas, artichokes, kalamata olives, roasted red peppers, cucumbers, and tomatoes over lemon-tahini dressed arugula and topped with feta cheese.",
+    "price": "$17.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Chicken & Sundried Tomato Salad (GF)",
+    "description": "Grilled chicken, sun-dried tomatoes, red onion, roasted red peppers, kalamata olives, and walnuts served on greens with our house vinaigrette.",
+    "price": "$18.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Souvlaki Salad",
+    "description": "A salad of grilled marinated chicken, chopped romaine, red onion, kalamata olives, tomatoes, and feta cheese on grilled naan with tzatziki sauce.",
+    "price": "$18.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Citrus Duck Salad (GF)",
+    "description": "Baby spinach, dried cranberries, oranges, pecans, goat cheese, and duck leg confit with a sweet poppyseed dressing.",
+    "price": "$20.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Crabcakes & Greens",
+    "description": "Two grilled Maryland crabcakes over vinaigrette dressed greens with sliced tomato, cucumbers, and a creamy roasted red pepper sauce.",
+    "price": "$21.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Ahi Tuna Salad (GF)",
+    "description": "Seared sesame-crusted ahi tuna over mixed greens with red cabbage, shredded carrots, sliced cucumbers, mandarin oranges, and tossed with honey-ginger dressing.",
+    "price": "$22.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Falafel Salad",
+    "description": "Crispy falafel over mixed greens with tomatoes, cucumbers, red onion, feta cheese, and our house vinaigrette. Served with a side of hummus, tzatziki sauce, and grilled naan.",
+    "price": "$18.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Tofu Slaw Salad (GF, VG)",
+    "description": "Veggie slaw with sunflower seeds tossed in a honey-lime tahini dressing, topped with grilled tofu, over a bed of arugula.",
+    "price": "$17.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Orange - Ginger Salmon (GF)",
+    "description": "Faroe Island salmon with an orange-ginger glaze over arugula with cucumbers, red onion, toasted slivered almonds, oranges, and lightly dressed with fresh lemon and olive oil.",
+    "price": "$21.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Shrimp & Fennel Salad (GF)",
+    "description": "Grilled shrimp, crispy prosciutto, fennel, artichokes, and shaved parmesan tossed with vinaigrette-dressed arugula.",
+    "price": "$20.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Farm Stand Salad (GF, VG)",
+    "description": "Grilled eggplant, portobello mushrooms, chickpeas, roasted tomatoes, roasted red peppers, beets, and sunflower seeds over arugula, with extra virgin olive oil and balsamic reduction.",
+    "price": "$17.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Southwestern Quinoa Salad (GF, VG)",
+    "description": "Quinoa, roasted corn, poblano peppers, black beans, red onion, bell peppers, and cilantro tossed with honey-lime vinaigrette over baby spinach with a dollop of mashed avocado.",
+    "price": "$17.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Tabouli Wrap",
+    "description": "A vegetarian wrap filled with hummus, tabouli, chickpeas, cucumbers, mixed greens, feta, and tzatziki sauce.",
+    "price": "$16.00",
+    "section": "Wraps & Such",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Grilled Chicken & Rice Wrap",
+    "description": "Grilled chicken, rice, Swiss cheese, garlic mayo, roasted red peppers, sour cream, and salsa in a grilled wrap.",
+    "price": "$18.00",
+    "section": "Wraps & Such",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Chicken Caesar Wrap",
+    "description": "Grilled chicken, crispy bacon, red onion, tomato, shredded parmesan, and chopped romaine tossed with our homemade Caesar dressing in a wrap.",
+    "price": "$17.00",
+    "section": "Wraps & Such",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Raspberry Chipotle Turkey Wrap",
+    "description": "Smoked turkey, havarti, bacon, red onion and raspberry chipotle sauce in a grilled wrap.",
+    "price": "$17.00",
+    "section": "Wraps & Such",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Crispy Quinoa Burger",
+    "description": "Crispy pan-fried quinoa cake, melted pepper-jack, avocado, greens, tomato, sprouts, and sriracha mayo on a brioche roll | Gluten-free bun available upon request.",
+    "price": "$17.00",
+    "section": "Wraps & Such",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Tuna Wrap",
+    "description": "Our tuna salad with lettuce, tomato, hard-cooked eggs, and sweet pickles in a wrap.",
+    "price": "$16.00",
+    "section": "Wraps & Such",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Falafel Wrap (VG)",
+    "description": "Homemade falafel in a wrap lined with hummus, greens, tomato, cucumber, and sweet chili sauce.",
+    "price": "$16.00",
+    "section": "Wraps & Such",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Garden Wrap (VG)",
+    "description": "Roasted veggies with spinach, portobello mushrooms, wild rice, and romesco sauce in a grilled wrap.",
+    "price": "$17.00",
+    "section": "Wraps & Such",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Turkey & Brie",
+    "description": "Smoked turkey and brie cheese with fig jam on grilled olive bread.",
+    "price": "$17.00",
+    "section": "Paninis",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Galileo",
+    "description": "Grilled chicken with Swiss & smoked mozzarella, roasted red peppers & garlic mayo on grilled corn-jalapeño bread.",
+    "price": "$17.00",
+    "section": "Paninis",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Reuben",
+    "description": "Corned beef, melted Swiss, sauerkraut, and roasted red pepper dressing on grilled marble rye.",
+    "price": "$17.00",
+    "section": "Paninis",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Ryan’s Roast Beef",
+    "description": "Roast Beef with smoked mozzarella, roasted red peppers, arugula, and horseradish cream on grilled farm bread.",
+    "price": "$17.00",
+    "section": "Paninis",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Lunch",
+    "menu_name": "Lunch Menu"
+  },
+  {
+    "name": "Crispy Duck Dumplings",
+    "description": "Hoisin braised duck with shitake mushrooms, served with a sweet chili and garlic aioli.",
+    "price": "$16.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Maryland Crabcakes (GF)",
+    "description": "Twin crab cakes topped with pineapple-mango salsa and an avocado-lime crema",
+    "price": "$18.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Guacamole Brie Melt",
+    "description": "French baguette filled with mashed avocado and sundried tomatoes, topped with brie cheese and herbs.",
+    "price": "$16.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Scallions Flatbread",
+    "description": "Grilled flatbread, herb-whipped ricotta, roasted summer squash, zucchini & tomatoes, finished with arugula and balsamic reduction",
+    "price": "$15.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Polenta & Mushrooms (GF)",
+    "description": "Grilled polenta, roasted mushrooms, and shaved parmesan.",
+    "price": "$17.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Fried Green Tomatoes (VG)",
+    "description": "With sweet sriracha dipping sauce.",
+    "price": "$14.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Hummus with Grilled Naan (VG)",
+    "description": null,
+    "price": "$12.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Hummus with Crudite (GF, VG)",
+    "description": null,
+    "price": "$13.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Falafel (GF, VG)",
+    "description": "With sweet Thai chili sauce.",
+    "price": "$12.00",
+    "section": "Let's Begin",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Chicken & Sundried Tomato Salad (GF)",
+    "description": "Grilled chicken, sun-dried tomatoes, red onion, roasted red peppers, kalamata olives, and walnuts served on greens with our house vinaigrette.",
+    "price": "$18.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Souvlaki Salad",
+    "description": "A salad of grilled marinated chicken, chopped romaine, red onion, kalamata olives, tomatoes, and feta cheese on grilled naan with tzatziki sauce.",
+    "price": "$19.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Citrus Duck Salad (GF)",
+    "description": "Baby spinach, dried cranberries, oranges, pecans, goat cheese, and duck leg confit with a sweet poppyseed dressing.",
+    "price": "$20.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Shrimp & Fennel Salad (GF)",
+    "description": "Grilled shrimp, crispy prosciutto, fennel, artichokes, and shaved parmesan tossed with vinaigrette-dressed arugula.",
+    "price": "$20.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Farm Stand Salad (GF, VG)",
+    "description": "Grilled eggplant, portobello mushrooms, chickpeas, roasted tomatoes, roasted red peppers, beets, and sunflower seeds over arugula, with extra virgin olive oil and balsamic reduction.",
+    "price": "$20.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Southwestern Quinoa Salad (GF, VG)",
+    "description": "Quinoa, roasted corn, poblano peppers, red onion, bell peppers, and cilantro tossed with honey-lime vinaigrette over baby spinach with a dollop of mashed avocado.",
+    "price": "$17.00",
+    "section": "A Well Dressed Salad",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Pan Roasted Cod (GF)",
+    "description": "Over wild mushroom risotto, grilled asparagus, and yuzu marmalade.",
+    "price": "$38.00",
+    "section": "Dinner",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Caribbean Salmon",
+    "description": "Wild Caught Atlantic salmon with fresh pineapple-mango salsa, wild rice, and grilled asparagus",
+    "price": "$39.00",
+    "section": "Dinner",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Sesame Tuna",
+    "description": "Seared sesame-crusted sashimi grade tuna over a chilled buckwheat soba noodle salad laced with julienne vegetables, arugula, and sesame soy vinaigrette.",
+    "price": "$38.00",
+    "section": "Dinner",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Gnocchi Bolognese",
+    "description": "Potato and ricotta gnocchi tossed in a classic marriage of pork, veal, beef, parmesan, tomato, basil, and a touch of cream.",
+    "price": "$34.00",
+    "section": "Dinner",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Cherry Duck Legs (GF)",
+    "description": "Maple Leaf Farms bone-in duck confit over grilled polenta with roasted baby carrots and a cherry demi-glace.",
+    "price": "$38.00",
+    "section": "Dinner",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Kobe Flatiron Steak (GF)",
+    "description": "10 oz steak with garlic mashed potatoes, roasted baby carrots, and a red wine demi-glace.",
+    "price": "MP",
+    "section": "Dinner",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Smoked Pork Chop (GF)",
+    "description": "Oscar’s Smokehouse pork chop with a yuzu-baconn marmalade, garlic mashed potatoes, and grilled asparagus.",
+    "price": "$35.00",
+    "section": "Dinner",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Maryland Crab Cake (GF)",
+    "description": "Jumbo crab cake served over a roasted corn and poblano arancini cake, grilled asparagus, and finished with a chipotle remoulade.",
+    "price": "$37.00",
+    "section": "Dinner",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Birch Beer Beef Short Rib (GF)",
+    "description": "Birch beer braised boneless beef short ribs with garlic mashed potatoes and roasted baby carrots.",
+    "price": "$38.00",
+    "section": "Dinner",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Vegan Romesco Linguine (VG)",
+    "description": "Roasted vegetable ratatouille and chickpeas over linguine, tossed with romesco and crispy lemon-parsley panko.",
+    "price": "$30.00",
+    "section": "Dinner",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "The Ultimate Falafel (GF, VG)",
+    "description": "Crispy homemade falafel cake, mashed sweet potatoes, grilled asparagus, and beet puree.",
+    "price": "$30.00",
+    "section": "Dinner",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Vegan Fried Rice (GF, VG)",
+    "description": "A robust blend of veggies, vegan egg, ginger-soy seasoned rice, topped with marinated tofu and black garlic reduction.",
+    "price": "$30.00",
+    "section": "Dinner",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Golden Pierogies",
+    "description": "Potato and cheddar pierogies and carrot sticks, with ranch and BBQ sauce for dipping.",
+    "price": "$7.00",
+    "section": "Menu",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Kids",
+    "menu_name": "Kids Menu"
+  },
+  {
+    "name": "Snack Plate",
+    "description": "Cheese, Graham crackers, and fresh fruit.",
+    "price": "$6.00",
+    "section": "Menu",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Kids",
+    "menu_name": "Kids Menu"
+  },
+  {
+    "name": "Peanut Butter Club",
+    "description": "Peanut butter, jelly, sliced banana, and apple on white bread served with potato chips.",
+    "price": "$6.00",
+    "section": "Menu",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Kids",
+    "menu_name": "Kids Menu"
+  },
+  {
+    "name": "Kid's Choice Pizza",
+    "description": "Plain pizza for one with tomato sauce and melted mozzarella cheese.",
+    "price": "$6.00",
+    "section": "Menu",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Kids",
+    "menu_name": "Kids Menu"
+  },
+  {
+    "name": "Grilled Cheese",
+    "description": "American on grilled white bread served with potato chips.",
+    "price": "$6.00",
+    "section": "Menu",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Kids",
+    "menu_name": "Kids Menu"
+  },
+  {
+    "name": "Tom Turkey Sandwich",
+    "description": "Turkey on white bread with American cheese, lettuce, tomato, and mayo.",
+    "price": "$6.00",
+    "section": "Menu",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Kids",
+    "menu_name": "Kids Menu"
+  },
+  {
+    "name": "Kieran's Chicken Wrap",
+    "description": "Grilled chicken and wild rice in a grilled wrap with melted cheddar.",
+    "price": "$7.00",
+    "section": "Menu",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Kids",
+    "menu_name": "Kids Menu"
+  },
+  {
+    "name": "Yogurt Blast",
+    "description": "Vanilla yogurt, granola, and strawberries.",
+    "price": "$5.50",
+    "section": "Menu",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Kids",
+    "menu_name": "Kids Menu"
+  },
+  {
+    "name": "My Kinda Pasta",
+    "description": "Served after 5:00 PM only • Hot Pasta Tossed with Butter and Parmesan Cheese $6.50 or Hot Pasta with Tomato-Basil Sauce $7.00 • Add Grilled Chicken +$5.00",
+    "price": null,
+    "section": "Menu",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Kids",
+    "menu_name": "Kids Menu"
+  },
+  {
+    "name": "Homemade Carrot Cake",
+    "description": "with Cream Cheese Frosting",
+    "price": "$10.00",
+    "section": "Desserts",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dessert",
+    "menu_name": "Dessert Menu"
+  },
+  {
+    "name": "Flourless Chocolate Truffle Cake",
+    "description": "with Raspberry Sorbet (g/f)",
+    "price": "$10.00",
+    "section": "Desserts",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dessert",
+    "menu_name": "Dessert Menu"
+  },
+  {
+    "name": "NY Style Cheesecake",
+    "description": "with Mixed Berry Compote (vegan)",
+    "price": "$10.00",
+    "section": "Desserts",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Dessert",
+    "menu_name": "Dessert Menu"
+  },
+  {
+    "name": "Miller Lite",
+    "description": null,
+    "price": "$5.00",
+    "section": "Bottled Beers",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Narragansett Lager",
+    "description": null,
+    "price": "$5.00",
+    "section": "Bottled Beers",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Corona Extra",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bottled Beers",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Sierra Nevada Pale Ale",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bottled Beers",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Jack’s Abby Blood Orange Wheat",
+    "description": "4% ABV",
+    "price": "$7.00/16 oz",
+    "section": "Bottled Craft Beers",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Adirondack Saratoga Lager",
+    "description": "4.8% ABV",
+    "price": "$8.00/16 oz",
+    "section": "Bottled Craft Beers",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Troegs Sunshine Pilsner",
+    "description": "4.5% ABV",
+    "price": "$6.00/12 oz",
+    "section": "Bottled Craft Beers",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Allagash White",
+    "description": "5.2% ABV",
+    "price": "$8.00/12 oz",
+    "section": "Bottled Craft Beers",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Sloop Juice Bomb",
+    "description": "6.5% ABV",
+    "price": "$7.00/12 oz",
+    "section": "Bottled Craft Beers",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Bell’s Two Hearted Ale",
+    "description": "7% ABV",
+    "price": "$7.00/12 oz",
+    "section": "Bottled Craft Beers",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Tröegs Perpetual IPA",
+    "description": "7.5% ABV",
+    "price": "$7.00/12 oz",
+    "section": "Bottled Craft Beers",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Brown’s Oatmeal Stout",
+    "description": "5.5% ABV",
+    "price": "$8.00/16 oz",
+    "section": "Bottled Craft Beers",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Downeast Cider",
+    "description": "Gluten Free | 5.1% ABV",
+    "price": "$7.00/12 oz",
+    "section": "Bottled Craft Beers",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Les Jamelles, Pays d’Oc, France",
+    "description": "Pinot Noir",
+    "price": "$11.00/Glass",
+    "section": "Red",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Underwood, Oregon",
+    "description": "Pinot Noir",
+    "price": "$13.00/Glass",
+    "section": "Red",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Black Magnolia, Willamette , Oregon",
+    "description": "Pinot Noir",
+    "price": "$64.00/Bottle",
+    "section": "Red",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Melini “Borghi D’elsa”, Tuscany, Italy",
+    "description": "Chianti",
+    "price": "$10.00/Glass",
+    "section": "Red",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Cuma (Organic), Salta, Argentina",
+    "description": "Malbec",
+    "price": "$12.00/Glass",
+    "section": "Red",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Château Saint - Sulpice, Bordeaux, France",
+    "description": "Bordeaux",
+    "price": "$40.00/Bottle",
+    "section": "Red",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Gravel Bar, Columbia Valley, Washington",
+    "description": "Cabernet Sauvignon",
+    "price": "$12.00/Glass",
+    "section": "Red",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Block Nine, Napa Valley, California",
+    "description": "Cabernet Sauvignon",
+    "price": "$14.00/Glass",
+    "section": "Red",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Clos du Val, Napa Valley, California",
+    "description": "Cabernet Sauvignon",
+    "price": "$94.00/Bottle",
+    "section": "Red",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Highlands 41, Central Coast, California",
+    "description": "Red Blend",
+    "price": "$12.00/Glass",
+    "section": "Red",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pacific Rim, Columbia Valley, Washington",
+    "description": "Riesling",
+    "price": "$9.00/Glass",
+    "section": "White",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Donini, Veneto, Italy",
+    "description": "Pinot Grigio",
+    "price": "$10.00/Glass",
+    "section": "White",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Torre Rosazza, Friuli - Venezia Giulia, Italy",
+    "description": "Pinot Grigio",
+    "price": "$12.00/Glass",
+    "section": "White",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Santa Margherita, Trentino - Alto Adige, Italy",
+    "description": "Pinot Grigio",
+    "price": "$30.00/Half Bottle",
+    "section": "White",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Hugel (Organic), Alsace, France",
+    "description": "Pinot Blanc",
+    "price": "$52.00/Bottle",
+    "section": "White",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "The Champion, Marlborough, New Zealand",
+    "description": "Sauvignon Blanc",
+    "price": "$11.00/Glass",
+    "section": "White",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Kato, Marlborough, New Zealand",
+    "description": "Sauvignon Blanc",
+    "price": "$13.00/Glass",
+    "section": "White",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Blue Quail (Organic, Unoaked), Potter Valley, California",
+    "description": "Chardonnay",
+    "price": "$12.00/Glass",
+    "section": "White",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "J. Lohr, Central Coast, California",
+    "description": "Chardonnay",
+    "price": "$13.00/Glass",
+    "section": "White",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Hecht & Bannier, Côtes de Provence, France",
+    "description": "Rosé",
+    "price": "$14.00/Glass",
+    "section": "White",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "La Marca, Treviso, Italy",
+    "description": "Prosecco",
+    "price": "$12.00/Split",
+    "section": "Sparkling",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Veuve Clicquot, Champagne, France",
+    "description": "Champagne Brut",
+    "price": "$65.00/Half Bottle",
+    "section": "Sparkling",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Blueberry Vodka Lemonade",
+    "description": "3 Olives Blueberry vodka, muddled fresh blueberries and mint, lemonade.",
+    "price": "$13.00",
+    "section": "Specialty Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Aperol Spritz",
+    "description": "Aperol, prosecco, club soda.",
+    "price": "$13.00",
+    "section": "Specialty Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Peach Cosmopolitan",
+    "description": "Deep Eddy’s Peach vodka, triple sec, cranberry, fresh lime.",
+    "price": "$14.00",
+    "section": "Specialty Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Saratoga Sipper",
+    "description": "Bulleit bourbon, honey simple syrup, grapefruit juice.",
+    "price": "$15.00",
+    "section": "Specialty Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Strawberry Mojito",
+    "description": "Bacardi rum, muddled fresh strawberries and mint, agave, fresh lime, club soda.",
+    "price": "$13.00",
+    "section": "Specialty Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Bees Knees Martini",
+    "description": "Empress Indigo gin, honey simple syrup, fresh lemon.",
+    "price": "$15.00",
+    "section": "Specialty Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "One with Life Margarita",
+    "description": "One with Life Organic tequila, triple sec, fresh lime, agave.",
+    "price": "$14.00",
+    "section": "Specialty Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Watermelon Mule",
+    "description": "Watermelon vodka, Saranac ginger beer, fresh lime.",
+    "price": "$12.00",
+    "section": "Specialty Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "The “Real Dill” Bloody Mary",
+    "description": "With Crop Organic Cucumber vodka.",
+    "price": "$12.00",
+    "section": "Specialty Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pineapple Mojito",
+    "description": "Fresh mint, club soda, lime, and pineapple juice.",
+    "price": "$7.00",
+    "section": "Zero - Proof Cocktails",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Cranberry Sparkler",
+    "description": "Cranberry juice, club soda, and lemonade.",
+    "price": "$7.00",
+    "section": "Zero - Proof Cocktails",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Peach Sunrise",
+    "description": "Ginger Ale, orange juice, and peach syrup.",
+    "price": "$7.00",
+    "section": "Zero - Proof Cocktails",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Free Wave (Hazy IPA)",
+    "description": "By Athletic Brewing.",
+    "price": "$7.00",
+    "section": "Zero - Proof Cocktails",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Premium Pils",
+    "description": "By Bitburger.",
+    "price": "$7.00",
+    "section": "Zero - Proof Cocktails",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Premium Coffee",
+    "description": null,
+    "price": null,
+    "section": "Coffee",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Iced Coffee",
+    "description": null,
+    "price": null,
+    "section": "Coffee",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Paris",
+    "description": null,
+    "price": null,
+    "section": "Harney’s Tea Sachets",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Cinnamon",
+    "description": null,
+    "price": null,
+    "section": "Harney’s Tea Sachets",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Earl Grey",
+    "description": null,
+    "price": null,
+    "section": "Harney’s Tea Sachets",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "English Breakfast",
+    "description": null,
+    "price": null,
+    "section": "Harney’s Tea Sachets",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Mint",
+    "description": null,
+    "price": null,
+    "section": "Harney’s Tea Sachets",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Chamomile",
+    "description": null,
+    "price": null,
+    "section": "Harney’s Tea Sachets",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Rooibos Chai",
+    "description": null,
+    "price": null,
+    "section": "Harney’s Tea Sachets",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Citrus Green",
+    "description": null,
+    "price": null,
+    "section": "Harney’s Tea Sachets",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Decaf Black",
+    "description": null,
+    "price": null,
+    "section": "Harney’s Tea Sachets",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pepsi",
+    "description": null,
+    "price": null,
+    "section": "Sparkling",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Diet Pepsi",
+    "description": null,
+    "price": null,
+    "section": "Sparkling",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Cherry Pepsi",
+    "description": null,
+    "price": null,
+    "section": "Sparkling",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Ginger Ale",
+    "description": null,
+    "price": null,
+    "section": "Sparkling",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Sierra Mist",
+    "description": null,
+    "price": null,
+    "section": "Sparkling",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Saranac Root Beer",
+    "description": null,
+    "price": null,
+    "section": "Sparkling",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Saranac Ginger Beer",
+    "description": null,
+    "price": null,
+    "section": "Sparkling",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Saratoga Sparkling",
+    "description": null,
+    "price": null,
+    "section": "Sparkling",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Saratoga Flat",
+    "description": null,
+    "price": null,
+    "section": "Sparkling",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Home Brewed Iced Tea",
+    "description": "Unsweetened | Raspberry | Pomegranate | Peach",
+    "price": null,
+    "section": "Soft Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Bitburger Premium Pils 0.0% Alcohol",
+    "description": null,
+    "price": null,
+    "section": "Soft Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Lemonade",
+    "description": null,
+    "price": null,
+    "section": "Soft Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Cranberry Juice",
+    "description": null,
+    "price": null,
+    "section": "Soft Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Pineapple Juice",
+    "description": null,
+    "price": null,
+    "section": "Soft Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Apple Juice",
+    "description": null,
+    "price": null,
+    "section": "Soft Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Milk",
+    "description": "2% | Almond | Chocolate",
+    "price": null,
+    "section": "Soft Drinks",
+    "restaurant_name": "Scallions",
+    "restaurant_url": "https://scallionsrestaurant.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  }
+]

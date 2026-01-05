@@ -1,0 +1,792 @@
+[
+  {
+    "name": "Antipasto Skewers Dozen",
+    "description": null,
+    "price": "$27.00",
+    "section": "Appetizers",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Caprese Skewers Dozen",
+    "description": null,
+    "price": "$17.00",
+    "section": "Appetizers",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Veggie Shots Dozen-",
+    "description": null,
+    "price": "$21.00",
+    "section": "Appetizers",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Veggie Platter 12” / 16″",
+    "description": null,
+    "price": "$37.00 / $57.00",
+    "section": "Appetizers",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Fruit Skewers 25 ct. / 50 ct.",
+    "description": null,
+    "price": "$41.00 / $75.00",
+    "section": "Appetizers",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Fruit Platter 12” / 16″",
+    "description": null,
+    "price": "$42.00 / $62.00",
+    "section": "Appetizers",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Sausage Flower Wontons Dozen-",
+    "description": null,
+    "price": "$21.00",
+    "section": "Appetizers",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Potstickers Dozen-",
+    "description": "Chicken Lemongrass; Veggie",
+    "price": "$21.00",
+    "section": "Appetizers",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Marinated Skewers Dozen",
+    "description": "Chicken; Beef; Shrimp",
+    "price": "$31.00",
+    "section": "Appetizers",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Candied Bacon Skewers Dozen",
+    "description": null,
+    "price": "$18.00",
+    "section": "Appetizers",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "• Cheese & Cracker Board with pickles & olives / person",
+    "description": null,
+    "price": "$7.00",
+    "section": "Appetizers",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "• Add Cured meats ++ / person",
+    "description": null,
+    "price": "$3.00",
+    "section": "Appetizers",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "• Add veggies & dip ++ / person",
+    "description": null,
+    "price": "$2.00",
+    "section": "Appetizers",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "• Add fruit (Dried & Fresh) ++ / person",
+    "description": null,
+    "price": "$3.00",
+    "section": "Appetizers",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Mini Croissant Sandwiches 12 ct. / 50 ct.",
+    "description": "Choose 1 Filling per DozenRoasted Red Cream Cheese with CucumberTurkey SaladRoast Beef with Horseradish Mayo; Roasted Red Cream Cheese with Cucumber; Turkey Salad; Roast Beef with Horseradish Mayo",
+    "price": "$29.00 / $110.00",
+    "section": "Hearty Bites",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Mini Bagel Sandwiches 12 ct. / 50 ct.",
+    "description": null,
+    "price": "$35.00 / $125.00",
+    "section": "Hearty Bites",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Mini Sandwiches 24 ct. / 50 ct.",
+    "description": "Turkey; Roast Beef; Ham; Sliced Cheese++ $5.00",
+    "price": "$55.00 / $115.00 / $5.00",
+    "section": "Hearty Bites",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Individual 4″ Quiche",
+    "description": "Bacon, Scallion, & Cheddar; Veggie & Swiss",
+    "price": "$52.00",
+    "section": "Hearty Bites",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Buffalo Chicken Dip /lb.",
+    "description": "with Carrots & Celery ++$6.00",
+    "price": "$11.00 / $6.00",
+    "section": "Hearty Bites",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Pinwheels 50 ct. / 100 ct. / Veggie",
+    "description": "Chicken Taco",
+    "price": "$52.00 / $99.00",
+    "section": "Hearty Bites",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Sliced Cheese ++",
+    "description": null,
+    "price": "$5.00",
+    "section": "Hearty Bites",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "with Carrots & Celery ++",
+    "description": null,
+    "price": "$6.00",
+    "section": "Hearty Bites",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Mac ‘n Cheese",
+    "description": null,
+    "price": "$35.00",
+    "section": "Hot Half Trays (serve 8-10)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Pulled Pork",
+    "description": null,
+    "price": "$46.00",
+    "section": "Hot Half Trays (serve 8-10)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Lasagna with Sausage",
+    "description": null,
+    "price": "$55.00",
+    "section": "Hot Half Trays (serve 8-10)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Meatballs",
+    "description": null,
+    "price": "$46.00",
+    "section": "Hot Half Trays (serve 8-10)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Chicken Piccata",
+    "description": null,
+    "price": "$46.00",
+    "section": "Hot Half Trays (serve 8-10)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Sausage & Peppers",
+    "description": null,
+    "price": "$46.00",
+    "section": "Hot Half Trays (serve 8-10)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Baked Ziti",
+    "description": null,
+    "price": "$32.00",
+    "section": "Hot Half Trays (serve 8-10)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Roasted Red Potatoes",
+    "description": null,
+    "price": "$35.00",
+    "section": "Hot Half Trays (serve 8-10)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Au Gratin Potatoes",
+    "description": null,
+    "price": "$45.00",
+    "section": "Hot Half Trays (serve 8-10)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Scalloped Potatoes",
+    "description": null,
+    "price": "$46.00",
+    "section": "Hot Half Trays (serve 8-10)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Roasted Veggies",
+    "description": null,
+    "price": "$32.00",
+    "section": "Hot Half Trays (serve 8-10)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Rolls (Dozen)",
+    "description": "with individual butter packets ++$3.00",
+    "price": "$7.00 / $3.00",
+    "section": "Hot Half Trays (serve 8-10)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "with individual butter packets ++",
+    "description": null,
+    "price": "$3.00",
+    "section": "Hot Half Trays (serve 8-10)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Broccoli Cauliflower Slaw",
+    "description": "contains dried cranberries, sunflower seeds, & mayonnaise",
+    "price": "$29.00",
+    "section": "Fresh Salads Half Trays(serve 8-12)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Citrus Quinoa Salad",
+    "description": "Quinoa over spring mix with chopped pistachios, feta cheese, Mandarin oranges & a citrus vinaigrette",
+    "price": "$29.00",
+    "section": "Fresh Salads Half Trays(serve 8-12)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Tossed & Chopped",
+    "description": null,
+    "price": "$26.00",
+    "section": "Fresh Salads Half Trays(serve 8-12)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Summer Tomato Cucumber Salad",
+    "description": null,
+    "price": "$32.00",
+    "section": "Fresh Salads Half Trays(serve 8-12)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Italian Pasta",
+    "description": null,
+    "price": "$29.00",
+    "section": "Fresh Salads Half Trays(serve 8-12)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "with Chicken++ $6.00",
+    "price": "$26.00 / $6.00",
+    "section": "Fresh Salads Half Trays(serve 8-12)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Signature Salad",
+    "description": "Spring Mix with feta, dried cranberries, apples, walnuts & an apple balsamic",
+    "price": "$29.00",
+    "section": "Fresh Salads Half Trays(serve 8-12)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "*All Available as Individual Servings /Each",
+    "description": null,
+    "price": "$2.25",
+    "section": "Fresh Salads Half Trays(serve 8-12)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "with Chicken ++",
+    "description": null,
+    "price": "$6.00",
+    "section": "Fresh Salads Half Trays(serve 8-12)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Coleslaw /lb.",
+    "description": null,
+    "price": "$6.00",
+    "section": "Fresh Salads Half Trays(serve 8-12)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Macaroni Salad /lb.",
+    "description": null,
+    "price": "$7.00",
+    "section": "Fresh Salads Half Trays(serve 8-12)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Potato Salad /lb.",
+    "description": null,
+    "price": "$7.00",
+    "section": "Fresh Salads Half Trays(serve 8-12)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Italian Pasta /lb",
+    "description": null,
+    "price": "$8.00",
+    "section": "Fresh Salads Half Trays(serve 8-12)",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Mac ‘n Cheese Bar /Person",
+    "description": null,
+    "price": "$13.00",
+    "section": "Hearty Bars with a variety of toppings",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Chili Bar /Person",
+    "description": null,
+    "price": "$13.00",
+    "section": "Hearty Bars with a variety of toppings",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Taco Bar /Person",
+    "description": "*All Available with Deluxe Toppings ++$2.00/Person",
+    "price": "$13.00 / $2.00",
+    "section": "Hearty Bars with a variety of toppings",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "*All Available with Deluxe Toppings ++ /Person",
+    "description": null,
+    "price": "$2.00",
+    "section": "Hearty Bars with a variety of toppings",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Strawberry Shortcake Skewers /Dozen",
+    "description": null,
+    "price": "$12.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Mini Chocolate Chip Cookie Platter /Dozen",
+    "description": null,
+    "price": "$12.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Assorted Dessert Platter-",
+    "description": "includes bite-sized brownies, lemon bars, crumb cake & chocolate chip cookies",
+    "price": "$26.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Fruit Displays & Carvings start at",
+    "description": "Watermelon Cake; Watermelon Baby; Watermelon Sea Turtle; and more",
+    "price": "$55.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Tray of Scrambled Eggs",
+    "description": null,
+    "price": "$26.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Tray of Pancakes",
+    "description": null,
+    "price": "$26.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Tray of Home Fries",
+    "description": null,
+    "price": "$26.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Tray of Bacon or Sausage",
+    "description": null,
+    "price": "$30.0",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Breakfast Casserole",
+    "description": "Bacon, Cheddar, Scallion; Veggie & Swiss",
+    "price": "$30.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Breakfast Sliders w/ Meat /Each",
+    "description": null,
+    "price": "$4.25",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Breakfast Sliders w/o Meat /Each",
+    "description": null,
+    "price": "$3.50",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Breakfast Burrito Flowers",
+    "description": "Egg, Cheddar, Roasted Red Pepper, & Onion in a Wonton",
+    "price": "$18.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Table of Breakfast Sweets /person",
+    "description": "Includes mini bagels, mini muffins, mini donuts, mini croissants, butter and 2 types of cream cheese",
+    "price": "$6.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Box of Joe (96 oz.)",
+    "description": null,
+    "price": "$16.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Assorted Flatbreads /each",
+    "description": "Goat Cheese, Caramelized Onion & Balsamic; BBQ Pulled Pork; and more!",
+    "price": "$15.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Shepherd’s Pie Bites Dozen-",
+    "description": null,
+    "price": "$27.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Reuben Bites Dozen- 50 Ct./ 100 Ct.",
+    "description": null,
+    "price": "$90.00 / $165.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Cloth Napkin Rentals / Dozen",
+    "description": "Multiple Colors available",
+    "price": "$10.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "120″ Round Tablecloth Rentals / Each",
+    "description": "Black; White",
+    "price": "$15.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "85″x85″ Square Tablecloth Rentals / Each",
+    "description": "Multiple Colors available",
+    "price": "$5.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Chair Covers with Sashes / Each",
+    "description": "White; Black; Variety Sash Colors – Satin & Spandex",
+    "price": "$5.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Wine Glasses /each",
+    "description": null,
+    "price": "$0.50",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "High Top Table Rentals / Each",
+    "description": null,
+    "price": "$10.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Reusable Chafing Dish Rentals",
+    "description": "*must be returned to Simply Food by Maura*",
+    "price": "$10.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Disposable Chafing Dish Rental",
+    "description": "can be recycled after event; No flame! Uses steam",
+    "price": "$15.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Delivery starts at",
+    "description": "(extra charge beyond 5 mile radius)",
+    "price": "$10.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "Gold Hoop (Onsite) (off-site) Can be used for Balloons, Flowers, Garland, Etc.",
+    "description": "Great for Photos Ops!",
+    "price": "$20.00 / $25.00",
+    "section": "Sweets",
+    "restaurant_name": "Simply Food by Maura",
+    "restaurant_url": "https://simplyfoodbymaura.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  }
+]

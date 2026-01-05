@@ -1,0 +1,1152 @@
+[
+  {
+    "name": "house-made parker house rolls",
+    "description": "whipped honey butter, flaked sea salt (v)",
+    "price": "$5.00",
+    "section": "Snacks",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "wood-grilled oysters (1/2 dozen)",
+    "description": "tuxedo pei oysters, chorizo butter, green onion emulsion",
+    "price": "$21.00",
+    "section": "Snacks",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "fried chicken deviled eggs",
+    "description": "gravy filling, sweet pickle relish, hot honey",
+    "price": "$10.00",
+    "section": "Snacks",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "roasted eggplant dip",
+    "description": "hazelnut dukkah, tahini, harissa oil, cumin dusted wonton chips (v)",
+    "price": "$14.00",
+    "section": "Snacks",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "paella arancini",
+    "description": "bomba rice, swordfish & shrimp sofrito, pickled red onions, shaved manchego, chorizo-paprika sauce",
+    "price": "$16.00",
+    "section": "Appetizers",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "seneca wedge",
+    "description": "iceberg lettucve, smoked blue cheese dressing, pork belly lardons, pickled red onions, blistered cherry tomatoes, everything bagel seasoning",
+    "price": "$18.00",
+    "section": "Appetizers",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "shrimp & potato empanadas",
+    "description": "yellow corn masa, pimento peppers, harissa remoulade, jalapeno relish",
+    "price": "$16.00",
+    "section": "Appetizers",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "pork belly burnt ends",
+    "description": "hoisin & cider glaze, green papaya salad, smoked almonds, thai basil",
+    "price": "$18.00",
+    "section": "Appetizers",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "pierogies",
+    "description": "farmer cheese & potato filling, caramelized onions, sour cream, fried leeks (v)",
+    "price": "$14.00",
+    "section": "Appetizers",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "coal-roasted beets",
+    "description": "pistachio butter, black garlic vinaigrette, burrata, fried kale chips, chile sea salt (v)",
+    "price": "$15.00",
+    "section": "Appetizers",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "roasted brussels sprouts",
+    "description": "bacon lardons, apple butter, maple & mustard dressing, toasted pumpkin seeds",
+    "price": "$16.00",
+    "section": "Appetizers",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "wood-grilled hanger steak",
+    "description": "citrus marinade, duck fat potatoes, black garlic aioli, charred tomato salsa, red wine demi",
+    "price": "$36.00",
+    "section": "Entrees",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "wood-grilled 8oz filet mignon",
+    "description": "spinach mashed potatoes, truffle au poivre",
+    "price": "$70.00",
+    "section": "Entrees",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "oven-roasted swordfish",
+    "description": "smoked almond romesco, sauteed swiss chard, blistered cherry tomatoes, citrus butter",
+    "price": "$36.00",
+    "section": "Entrees",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "grilled 12oz. pork chop",
+    "description": "german potato salad, apple cider brine, glazed carrots, plum wine gravy",
+    "price": "$38.00",
+    "section": "Entrees",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "caribbean jerk chicken",
+    "description": "grilled half chicken, charred citrus yogurt, mango sauce, fried plantains, shallot aioli",
+    "price": "$30.00",
+    "section": "Entrees",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "wagyu burger",
+    "description": "tomato jam, smoked cheddar, roasted shallot aioli, brioche bun, house-cut french fries",
+    "price": "$22.00",
+    "section": "Entrees",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "shrimp & grits",
+    "description": "smoked gouda grits, chorizo butter, zucchini & corn chow chow, fried leeks",
+    "price": "$32.00",
+    "section": "Entrees",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "seared duck breast",
+    "description": "lavender & coriander spiced, celeriac puree, smoked escarole, fried feneel, blood orange chimichurri",
+    "price": "$42.00",
+    "section": "Entrees",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "wood-grilled 14oz NY strip",
+    "description": "bone marrow mac & cheese skillet, roasted garlic butter",
+    "price": "$72.00",
+    "section": "Entrees",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "n'duja carbonara",
+    "description": "spicy cured sausage, pancetta, peas, mafaldine pasta, poached egg, pecorino cheese",
+    "price": "$31.00",
+    "section": "Entrees",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "london fog creme brulee",
+    "description": "spa city early grey, vanilla sugar, whipped cream (gf)",
+    "price": "$13.00",
+    "section": "Desserts",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "s'mores cake",
+    "description": "chocolate cake, graham cracker crust, white chocolate & marshmallow sauce",
+    "price": "$14.00",
+    "section": "Desserts",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "warm apple cobbler",
+    "description": "local spiced honeycrisp apples, french vanilla ice cream, whipped cream",
+    "price": "$14.00",
+    "section": "Desserts",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "hot cocoa bread pudding",
+    "description": "parker house rolls, mini marshmallows, chocolate sauce, whipped cream",
+    "price": "$15.00",
+    "section": "Desserts",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "cinnamon & cranberry 75",
+    "description": "harahorn gin, lemon juice, house-made cinnamon & cranberry syrup, topped with graham beck sparkling rose",
+    "price": "$16",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "holiday egg nog",
+    "description": "dark demerara rum, harvey’s cream sherry, almond milk, egg, heavy cream, nutmeg, vanilla",
+    "price": "$14",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "pineapple rum sour",
+    "description": "planteray dark rum, fruitful pineapple liqueur, molasses syrup, lemon juice, egg whites, ground nutmeg",
+    "price": "$16",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "brown butter old fashioned",
+    "description": "brown butter-washed pinhook bourbon, magdala orange liqueur, orange & cherry bitters, amarena cherry, orange twist",
+    "price": "$21",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "dirty french",
+    "description": "massenez liqueur de roquefort, grey goose, blue cheese stuffed olives, olive juice",
+    "price": "$21",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "bouche’s boulevardier",
+    "description": "willett old bardstown bourbon, cacao nib infused carpano antica, lo-fi gentian amaro",
+    "price": "$18",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "gimlet riff",
+    "description": "titos vodka, celery root, cardamom simple syrup, lime juice, celery salt & pepper rim, cardamom & celery bitters",
+    "price": "$16",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "classic emerald",
+    "description": "single malt red breast irish whiskey, antica vermouth, orange bitters, orange peel",
+    "price": "$21",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "the grinch",
+    "description": "midori melon liqueur, peppermint schnapps, simple syrup, pineapple juice, candy cane rim",
+    "price": "$14",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "new york sidecar",
+    "description": "mac’s apple brandy, cointreau, lemon juice, sugar rim",
+    "price": "$18",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "tequila “espresso” martini",
+    "description": "lalo tequila, mellet coffee liqueur, kru coffee cold brew",
+    "price": "$16",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "blue honey margarita",
+    "description": "casco viejo tequila, magdala orange liqueur, gifford au piment d-espelette liqueur, gifford blue curacao, honey & red pepper agave, house-made hot honey glaze, red pepper & salt rim",
+    "price": "$19",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "saratoga cocktail",
+    "description": "martel cognac, jim beam rye whisky, antica vermouth, angostura & orange bitters",
+    "price": "$22",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "“espresso” martini",
+    "description": "kru coffee cold brew, awakened coffee vodka, kahlua, vanilla extract",
+    "price": "$16",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "salted caramel “espresso” martini",
+    "description": "kru coffee cold brew, awakened coffee vodka, kahlua, faber caramel vodka, salted caramel rim",
+    "price": "$16",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "cereal milk white russian",
+    "description": "tito’s vodka, toasted corn flakes, cereal milk, meletti coffee liqueur",
+    "price": "$15",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "chocolate raspberry martini",
+    "description": "dorda double chocolate liqueur, grey goose vodka, chambord liqueur, chocolate bitters, shaved dark & white chocolate",
+    "price": "$19",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "cassis flip",
+    "description": "gifford cassis noir de bourgogne, whole egg, confectioner’s sugar, milk",
+    "price": "$14",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "toddy lemonade",
+    "description": "fresh squeezed lemonade, house-made infused black tea, cloves, cinnamon, mace, lemon garnish",
+    "price": "$10",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "the not russian",
+    "description": "lyre’s coffee n/a liqueur, kru coffee cold brew, heavy cream, demerara syrup",
+    "price": "$12",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "cranberry & cinnamon mule",
+    "description": "house-made cranberry & cinnamon simple syrup, ginger beer, cranberry juice, cranberry garnish",
+    "price": "$10",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "“espresso” no-tini",
+    "description": "lyre’s non-alcoholic coffee spirit, kru coffee cold brew, vanilla extract, espresso beans",
+    "price": "$12",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "shirley temple",
+    "description": "house-made grenadine, sprite, lime & cherry garnish",
+    "price": "$6",
+    "section": "Cocktails",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktail Menu"
+  },
+  {
+    "name": "CHAMPAGNE",
+    "description": "geoffroy,champagne blend, champagne, france | 2021",
+    "price": "$75",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "CHAMPAGNE",
+    "description": "vueve clicquot,champagne blend, champagne, france | nv",
+    "price": "$175",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "ITALY",
+    "description": "ca’del bosco,chardonnay,pinot blanc,pinot noir, franciacorta, italy | nv",
+    "price": "$65",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "LEBANON",
+    "description": "massaya,(rose) cinsault, beqaa valley, lebanon | 2023",
+    "price": "$40",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "SWITZERLAND",
+    "description": "chateau d’auvernier,(rose) pinot noir, auvernier, switzerland | 2021",
+    "price": "$60",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "PROVENCE",
+    "description": "la bernarde,(rose) cinsault,grenache,syrah, cotes de provence, france | 2024",
+    "price": "$45",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "– white wine –",
+    "description": null,
+    "price": null,
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "PICPOUL DE PINET",
+    "description": "bonny doon vineyard,picpoul, king city, california, usa | 2023",
+    "price": "$45",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "GREECE",
+    "description": "mylonas,savatiano, retsina, greece | nv",
+    "price": "$45",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "SOUTH AFRICA",
+    "description": "great heart wines,chenin blanc, swartland, south africa | 2021",
+    "price": "$55",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "AUSTRIA",
+    "description": "gobelsburg,gruner veltliner, kamptal, austria | 2023",
+    "price": "$60",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "SPAIN",
+    "description": "txomin etxaniz,hondarrabi zuri, getaria, txakolina, spain | 2024",
+    "price": "$48",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "RAIS BAIXAS",
+    "description": "lagar d cervera,albarino, galicia, spain | 2023",
+    "price": "$55",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "SANCERRE",
+    "description": "raimbault noel et jean-luc,sauvignon blanc, sury-en vaux, france | 2024",
+    "price": "$71",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "NEW ZEALAND",
+    "description": "huia,sauvignon blanc, marlborough, new zealand | 2024",
+    "price": "$45",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "SWITZERLAND",
+    "description": "maison gillard,chasselas, sion, switzerland | 2022",
+    "price": "$60",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "MEXICO",
+    "description": "RGMX (rivero gonzales winery),chardonnay, chenin blanc,coahuilo, mexico | 2024",
+    "price": "$60",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "CHABLIS",
+    "description": "domaine de chantmerle,chardonnay, chablis, france | 2023",
+    "price": "$66",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "BURGUNDY",
+    "description": "lafon,chardonnay, macon-macon, burgundy, france | 2023",
+    "price": "$70",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "RUSSIAN RIVER VALLEY",
+    "description": "hartford court,chardonnay, sonoma county, usa | 2023",
+    "price": "$65",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "NAPA VALLEY",
+    "description": "duckhorn,chardonnay, st. helena, california, usa | 2022",
+    "price": "$70",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "MUSCADET SEVRE & MAINE",
+    "description": "domaine longelier,melon de ourgogne, loire, france | 2024",
+    "price": "$35",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "ALSACE",
+    "description": "domaine christopher mittnacht,pinot blanc, alsace, france | 2024",
+    "price": "$45",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "ALSACE",
+    "description": "domaine weinbach,gewurtztraminer, alsace, france | 2020",
+    "price": "$78",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "GERMANY",
+    "description": "selbach-oster, (sweet-trocken)reisling, mosel, germany | 2020",
+    "price": "$49",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "GERMANY",
+    "description": "muller-catoir, (dry)reisling, pfalz, germany | 2023",
+    "price": "$57",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "FINGER LAKES",
+    "description": "dr. konstantin frank,pinot gris, hammondsport, ny, usa | 2023",
+    "price": "$45",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "VINHO VERDE",
+    "description": "anselmo mendes,alvarinho, melgaco, portugal| 2024",
+    "price": "$45",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "FRANCE",
+    "description": "domaine pregnes,viognier, pays d’oc, france | 2024",
+    "price": "$51",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "ITALY",
+    "description": "tenuta la giustiniana,cortese, gavi, italy | 2023",
+    "price": "$45",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "ITALY",
+    "description": "cantina terlano-kellerci torlano,pinot bianco, alto adige, sudtuirol, italy | 2021",
+    "price": "$80",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "HUNGARY",
+    "description": "kvasinger,furmint, tokaji, hungary | 2022",
+    "price": "$55",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "WILLAMETTE",
+    "description": "failla,pinot noir, willamette, oregon, usa | 2022",
+    "price": "$65",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "BURGUNDY",
+    "description": "loc bourgogne,pinot noir, bourgogne hautes-cotes de beaune, france | 2022",
+    "price": "$60",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "BURGUNDY",
+    "description": "jean-marc millot,pinot noir, gevery chambertin, cote de nuits, france | 2023",
+    "price": "$135",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "GERMANY",
+    "description": "weingut ziereisen,spatburgunder (pinot noir), baden, germany | 2022",
+    "price": "$45",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "JURA",
+    "description": "domaine rolet,trousseau, arbois, france | 2022",
+    "price": "$72",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "ISRAEL",
+    "description": "hermon, golan heights winery,red blend, galilee, israel | 2024",
+    "price": "$45",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "BEKAAVALLEY",
+    "description": "chateau musar,cabernet/cinsaut, bekaa valley, lebanon | 2020",
+    "price": "$72",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "SPAIN",
+    "description": "dominio de anza,tempranillo, alavesa, spain | 2023",
+    "price": "$69",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "ARGENTINA",
+    "description": "zuccardi, “concreto”,malbec, altamira, argentina | 2022",
+    "price": "$84",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "ARGENTINA",
+    "description": "altar uco,malbec, tupungato, argentina | 2023",
+    "price": "$54",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "CHATEAUNEUF DE PAPE",
+    "description": "domaine lafond,southern rhone blend, rhone valley, france | 2021",
+    "price": "$90",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "GIGONDAS",
+    "description": "domaine du cayron,southern rhone blend, rhone, france | 2021",
+    "price": "$78",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "BORDEAUX",
+    "description": "la grangere vins biologiques france,bordeaux red blend, saint emilion grand cru, france | 2019",
+    "price": "$75",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "BORDEAUX",
+    "description": "chateau de landiras,bordeaux blend, graves, france | 2020",
+    "price": "$55",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "CHIANTI CLASSICO",
+    "description": "giacomo mori,sangiovese, toscana, italy | 2021",
+    "price": "$75",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "AMARONE RIPASSO VALOPICELLA CLASSICO",
+    "description": "rischio reale,valipolicello blend, ripasso, italy | 2015",
+    "price": "$125",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "BAROLO",
+    "description": "azienda agricola silvio grasso,nebbiolo, barolo, italy | 2021",
+    "price": "$84",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "ITALY",
+    "description": "piaggia, il sasso,chianti blend, carmignano, tuscany, italy | 2022",
+    "price": "$75",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "SWITZERLAND",
+    "description": "maison gillard, dole des monts,pinot noir/gamay, sion, switzerland | 2020",
+    "price": "$84",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "CHILE",
+    "description": "clos de luz,carmenere, central valley, chile | 2022",
+    "price": "$45",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "URUGUAY",
+    "description": "pablo fallabrino,tannat, canelones, uraguay | 2018",
+    "price": "$45",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "AUSTRALIA",
+    "description": "kirkton estate, the james,shiraz, hunter valley, australia | 2021",
+    "price": "$45",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "AUSTRALIA",
+    "description": "ben haines,red blend, victoria, australia | 2022",
+    "price": "$51",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "MEXICO",
+    "description": "RGMX (rivero gonzales winery),syrah, coahuilo, mexico | 2023",
+    "price": "$72",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "PASOROBLES",
+    "description": "harvey & harriet,bordeaux blend, san luis, luis obispo county, california, usa | 2022",
+    "price": "$57",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "NAPA",
+    "description": "turley juvenile,zinfandel, napa valley valley, california, usa | 2023",
+    "price": "$82",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "NAPA",
+    "description": "silver ghost,cabernet sauvignon, napa valley, california, usa | 2023",
+    "price": "$81",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "NAPA",
+    "description": "jax vineyards, cabernet sauvignon, napa valley, california, usa | 2021",
+    "price": "$120",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "ALEXANDER VALLEY",
+    "description": "the calling wine,cabernet sauvignon, sonoma county, california, usa, | 2020",
+    "price": "$117",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "white ½ bottles",
+    "description": null,
+    "price": null,
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "chardonnay",
+    "description": "talley vineyards • central coast, california, usa • 2023 |",
+    "price": "$31",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "sauvignon blanc",
+    "description": "domaine cailbourdin • les cris, pouilly-fume, france • 2023 |",
+    "price": "$28",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "red ½ bottles",
+    "description": null,
+    "price": null,
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "cabernet sauvignon",
+    "description": "beringer vineyards • knights valley, california, usa • 2019 |",
+    "price": "$38",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  },
+  {
+    "name": "nebbiolo",
+    "description": "paolo scavino • langhe, nebbiolo, italy • 2022 |",
+    "price": "$42",
+    "section": "Wine",
+    "restaurant_name": "Seneca",
+    "restaurant_url": "https://seneca-saratoga.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wine Menu"
+  }
+]

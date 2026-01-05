@@ -1,0 +1,342 @@
+[
+  {
+    "name": "In a Lil' Haze - NEIPA",
+    "description": "ABV: 6.2%; Part of the \"In a Haze\" series; Infused with Pineapple",
+    "price": "13oz - $7.00",
+    "section": "Beer",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Beer",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Restitution - NEIPA",
+    "description": "ABV: 6.8%; SPB flagship hazy IPA; Widely distributed locally",
+    "price": "13oz - $7.00",
+    "section": "Beer",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Beer",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Slap Juice - NEIPA",
+    "description": "ABV: 7%; Juicy IPA; One of Terry's favorites",
+    "price": "13oz - $7.00",
+    "section": "Beer",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Beer",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "The Gringo - Mexican Lager",
+    "description": "ABV: 4.5%; Served with a lime slice",
+    "price": "16oz - $7.00",
+    "section": "Beer",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Beer",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Iron Springs Amber",
+    "description": "ABV: 5.2%; Ballston Spa's classic amber ale",
+    "price": "16oz - $7.00",
+    "section": "Beer",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Beer",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Ballston Southies Stout",
+    "description": "ABV: 4.5%; Dry Irish stout",
+    "price": "13oz - $7.00",
+    "section": "Beer",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Beer",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Head in the Clouds (Fruited Sour)",
+    "description": "ABV: 6.3%; Apricot, strawberry and mango; Perfect spring drink",
+    "price": "13oz - $7.00",
+    "section": "Beer",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Beer",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Pear-ly Know Ya (Fruited Sour)",
+    "description": "ABV: 6%; Pear sour",
+    "price": "13oz - $7.00",
+    "section": "Beer",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Beer",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Pig E. Smalls",
+    "description": "ABV: 5.7%; West Coast IPA",
+    "price": "16oz - $7.00",
+    "section": "Beer",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Beer",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Czechs and Balance",
+    "description": "ABV: 4.8%; Czech pilsner; Very drinkable",
+    "price": "16oz - $7.00",
+    "section": "Beer",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Beer",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "99 Problems...but the Wit ain't one",
+    "description": "ABV: 5.2%; Orange Wit; Served with an orange slice",
+    "price": "16oz - $7.00",
+    "section": "Beer",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Beer",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "SPB Hard Seltzer",
+    "description": "ABV: 6%",
+    "price": "16oz - $7.00",
+    "section": "Beer",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Beer",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Hudson North Cider Co.",
+    "description": "ABV: 5%; Classic hard cider; Gluten free",
+    "price": "13oz - $7.00",
+    "section": "Beer",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Beer",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Road Soda",
+    "description": "ABV: 6%; Limited release!; Hard root beer",
+    "price": "16oz - $7.00",
+    "section": "Beer",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Beer",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Wine Options",
+    "description": null,
+    "price": "$8",
+    "section": "Beer",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Beer",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Chardonnay",
+    "description": null,
+    "price": "$8",
+    "section": "Wine",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Wine",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Merlot-Malbec",
+    "description": null,
+    "price": "$8",
+    "section": "Wine",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Wine",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Riesling",
+    "description": null,
+    "price": "$8",
+    "section": "Wine",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Wine",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "Flights of 4 (5oz.)",
+    "description": "Sample a few beers and/or seltzer flavors",
+    "price": "$10",
+    "section": "Flights",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Flights",
+    "menu_name": "Beer Menu"
+  },
+  {
+    "name": "The Figgy Piggy",
+    "description": "House ricotta, mozzarella, sliced figs, prosciutto, arugula, balsamic drizzle, parmesan",
+    "price": "$15.00",
+    "section": "Pizza",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Pizza",
+    "menu_name": "Pizza Menu"
+  },
+  {
+    "name": "3 Lil' Pigs",
+    "description": "House tomato sauce, mozzarella, farm bacon, pepperoni, pineapple, parmesan",
+    "price": "$15.00",
+    "section": "Pizza",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Pizza",
+    "menu_name": "Pizza Menu"
+  },
+  {
+    "name": "Old School",
+    "description": "House tomato sauce, mozzarella, homemade fennel sausage, caramelized onions, bell peppers, parmesan",
+    "price": "$15.00",
+    "section": "Pizza",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Pizza",
+    "menu_name": "Pizza Menu"
+  },
+  {
+    "name": "The Rita",
+    "description": "House tomato sauce, fresh mozzarella, basil, parmesan",
+    "price": "$13.00",
+    "section": "Pizza",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Pizza",
+    "menu_name": "Pizza Menu"
+  },
+  {
+    "name": "Shroomin'",
+    "description": "House ricotta, mozzarella, mushrooms, caramelized onions, truffle oil drizzle, parmesan",
+    "price": "$13.00",
+    "section": "Pizza",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Pizza",
+    "menu_name": "Pizza Menu"
+  },
+  {
+    "name": "Dill Pickle Pizza",
+    "description": "Mozzarella, dill pickles, ranch, hot honey drizzle, parmesan",
+    "price": "$13.00",
+    "section": "Pizza",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Pizza",
+    "menu_name": "Pizza Menu"
+  },
+  {
+    "name": "The Roni",
+    "description": "House tomato sauce, mozzarella, big pepperoni, hot honey, parmesan",
+    "price": "$13.00",
+    "section": "Pizza",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Pizza",
+    "menu_name": "Pizza Menu"
+  },
+  {
+    "name": "Nashville Hot",
+    "description": "Mozzarella, spicy fried chicken, dill pickles, ranch, hot honey drizzle, hot sauce, parmesan",
+    "price": "$15.00",
+    "section": "Pizza",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Pizza",
+    "menu_name": "Pizza Menu"
+  },
+  {
+    "name": "Chicken Bacon Ranch",
+    "description": "Mozzarella, grilled chicken, farm bacon, ranch drizzle, parmesan",
+    "price": "$15.00",
+    "section": "Pizza",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Pizza",
+    "menu_name": "Pizza Menu"
+  },
+  {
+    "name": "The Troublemaker",
+    "description": "House tomato sauce, mozzarella, meatballs, ricotta, caramelized onions, parmesan",
+    "price": "$15.00",
+    "section": "Pizza",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Pizza",
+    "menu_name": "Pizza Menu"
+  },
+  {
+    "name": "The Brando",
+    "description": "House tomato sauce, mozzarella, soppressata, homemade fennel sausage, pepperoni, hot honey drizzle, parmesan",
+    "price": "$15.00",
+    "section": "Pizza",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Pizza",
+    "menu_name": "Pizza Menu"
+  },
+  {
+    "name": "The Hipster",
+    "description": "House tomato sauce, mozzarella, mushrooms, caramelized onions, bell peppers, black olives, parmesan",
+    "price": "$13.00",
+    "section": "Pizza",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Pizza",
+    "menu_name": "Pizza Menu"
+  },
+  {
+    "name": "The Plain Jane",
+    "description": "House tomato sauce, mozzarella, parmesan",
+    "price": "$13.00",
+    "section": "Pizza",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Pizza",
+    "menu_name": "Pizza Menu"
+  },
+  {
+    "name": "Big Bavarian Pretzel",
+    "description": null,
+    "price": "$12.00",
+    "section": "Pizza",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Pizza",
+    "menu_name": "Pizza Menu"
+  },
+  {
+    "name": "Cheesy Bread",
+    "description": null,
+    "price": "$13.00",
+    "section": "Pizza",
+    "restaurant_name": "Speckled Pig Brewing Co.",
+    "restaurant_url": "https://speckledpigbrewing.com/",
+    "menu_type": "Pizza",
+    "menu_name": "Pizza Menu"
+  }
+]

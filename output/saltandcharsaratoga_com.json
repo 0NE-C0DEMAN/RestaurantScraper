@@ -1,0 +1,692 @@
+[
+  {
+    "name": "The Broadway Tower",
+    "description": "oysters, kombu-cured salmon, tuna tartare, crab, shrimp cocktail, mignonette add lobster +$42",
+    "price": "$95 for 2+ | $185 for 4+",
+    "section": "Raw & Chilled",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Shrimp Cocktail",
+    "description": "citrus, avocado, lemon, cocktail sauce",
+    "price": "$27",
+    "section": "Raw & Chilled",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Tuna Tartare",
+    "description": "garlic, ginger, cucumber, shiso, sesame, soy sauce",
+    "price": "$26",
+    "section": "Raw & Chilled",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Oysters On The 1/2 Shell",
+    "description": "cucumber mignonette on the side · add caviar +MP",
+    "price": "MP",
+    "section": "Raw & Chilled",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Jumbo Lump Crab Cocktail",
+    "description": "avocado mousse, hackleback caviar, saffron pickled shallots",
+    "price": "$28",
+    "section": "Raw & Chilled",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "American Wagyu Beef Carpaccio",
+    "description": "blood orange, agrodolce, fennel, pistachio glass",
+    "price": "$29",
+    "section": "Raw & Chilled",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Baeri Royal Caviar",
+    "description": "quail egg, chives, creme fraîche, blini, chopped shallots",
+    "price": "$140 | $260",
+    "section": "Caviar",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Kristal Caviar",
+    "description": "quail egg, chives, creme fraîche, blini, chopped shallots",
+    "price": "$130 | $230",
+    "section": "Caviar",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Oscietre Prestige Caviar",
+    "description": "quail egg, chives, creme fraîche, blini, chopped shallots",
+    "price": "$160 | $285",
+    "section": "Caviar",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Oscietre Gold Caviar",
+    "description": "quail egg, chives, creme fraîche, blini, chopped shallots",
+    "price": "$250 | $450",
+    "section": "Caviar",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Five Onion Bisque",
+    "description": "crispy chevre, chive oil",
+    "price": "$18",
+    "section": "Appetizers & Salads",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Maple Glazed Pork Belly",
+    "description": "creamy polenta, black garlic demi, chili brittle",
+    "price": "$24",
+    "section": "Appetizers & Salads",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Cod Brandade Fritters",
+    "description": "spicy aioli, smoked trout roe",
+    "price": "$18",
+    "section": "Appetizers & Salads",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Seafood Gratine \"Coquilles St. Jacques\"",
+    "description": "lobster, scallops, catch of the day, mussels",
+    "price": "$32",
+    "section": "Appetizers & Salads",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Salt & Char Salad",
+    "description": "mixed greens, cherry tomatoes, cucumber, shaved fennel, shaved carrots, citrus vinaigrette",
+    "price": "$16",
+    "section": "Appetizers & Salads",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Wedge Salad",
+    "description": "tomato, onion, bacon, crispy fennel, ewe's blue cheese",
+    "price": "$18",
+    "section": "Appetizers & Salads",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Burrata Salad",
+    "description": "poached pear, walnut lavash, arugula",
+    "price": "$18",
+    "section": "Appetizers & Salads",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Little Gem Caesar",
+    "description": "quail egg, whole anchovy, focaccia, parmesan",
+    "price": "$18",
+    "section": "Appetizers & Salads",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Seared Bison Loin",
+    "description": "sweet potato apple hash, cranberry demi",
+    "price": "$62",
+    "section": "Main Course",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Nori Encrusted Ahi Tuna",
+    "description": "yuzu broth, accompanied by a spicy tuna vegetable sushi roll",
+    "price": "$56",
+    "section": "Main Course",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Asian Style Shrimp",
+    "description": "sushi rice, black bean coconut broth, pickled bok choi",
+    "price": "$48",
+    "section": "Main Course",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Duck Three Ways",
+    "description": "seared breast, white bean cassoulet",
+    "price": "$54",
+    "section": "Main Course",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Seared Scallops",
+    "description": "lobster risotto, crab salsa",
+    "price": "$54",
+    "section": "Main Course",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Roasted Hen",
+    "description": "root vegetables barley, stout demi",
+    "price": "$46",
+    "section": "Main Course",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Short Rib Ravioli",
+    "description": "veal stock, crispy onions",
+    "price": "$42",
+    "section": "Main Course",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "7oz Filet Mignon",
+    "description": null,
+    "price": "$65",
+    "section": "Signature Cuts",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "9oz Filet Mignon",
+    "description": null,
+    "price": "$85",
+    "section": "Signature Cuts",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "16oz Bone-In Filet Mignon",
+    "description": null,
+    "price": "$95",
+    "section": "Signature Cuts",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "7oz Wagyu Top Cap",
+    "description": null,
+    "price": "MP",
+    "section": "Signature Cuts",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "16oz Pork Chop",
+    "description": null,
+    "price": "$43",
+    "section": "Signature Cuts",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "12oz NY Strip Steak",
+    "description": null,
+    "price": "$69",
+    "section": "Signature Cuts",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "14oz Pork Chop",
+    "description": null,
+    "price": "$43",
+    "section": "Signature Cuts",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "16oz Delmonico Steak",
+    "description": null,
+    "price": "$95",
+    "section": "Signature Cuts",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "18oz Dry-Aged Kansas City Strip Steak",
+    "description": null,
+    "price": "$89",
+    "section": "Signature Cuts",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "A5 Miyazaki Wagyu",
+    "description": null,
+    "price": "MP",
+    "section": "Signature Cuts",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Dry-Aged Steak Feature",
+    "description": null,
+    "price": "MP",
+    "section": "Signature Cuts",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Pan Seared Salmon",
+    "description": null,
+    "price": "$40",
+    "section": "From The Sea",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Scallops",
+    "description": null,
+    "price": "$16 per pc",
+    "section": "From The Sea",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Seared Seabass",
+    "description": null,
+    "price": "$49",
+    "section": "From The Sea",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "MaÎtre d' Butter",
+    "description": null,
+    "price": "$5",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Lobster Butter",
+    "description": null,
+    "price": "$5",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Truffle Butter",
+    "description": null,
+    "price": "$5",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Angry Butter",
+    "description": null,
+    "price": "$5",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Chimichurri",
+    "description": null,
+    "price": "$8",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Au Poivre",
+    "description": null,
+    "price": "$8",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Bearnaise",
+    "description": null,
+    "price": "$8",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Bordelaise",
+    "description": null,
+    "price": "$8",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Horseradish Cream",
+    "description": null,
+    "price": "$8",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Gorgonzola Cream",
+    "description": null,
+    "price": "$8",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "2g Shaved Truffles",
+    "description": null,
+    "price": "$20",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Oscar Style",
+    "description": null,
+    "price": "$44",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Maine Jumbo Lobster Tail",
+    "description": null,
+    "price": "MP",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "King Crab Leg",
+    "description": null,
+    "price": "MP",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Potato Dauphinoise",
+    "description": "bacon, creme fraiche, chives | add crab or lobster +MP",
+    "price": "$18",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Cipollini Onions",
+    "description": null,
+    "price": "$14",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Crispy Brussels",
+    "description": "malt gastique, lardons, apple",
+    "price": "$13",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Truffle Pommes Frites",
+    "description": "garlic aioli",
+    "price": "$18",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Assorted Wild Mushrooms",
+    "description": "chestnut, oyster, shitake, roasted garlic, thyme",
+    "price": "$15",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Butter poached Asparagus",
+    "description": "truffle hollandaise",
+    "price": "$12",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Mac & Cheese",
+    "description": "aged cheddar cheese sauce, add crab or lobster +MP",
+    "price": "$18",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Creamy Mashed Potatoes",
+    "description": null,
+    "price": "$12",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Creamed Spinach",
+    "description": null,
+    "price": "$14",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Parmigiana Risotto",
+    "description": "add crab or lobster +MP",
+    "price": "$15",
+    "section": "Sauces & Additions",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Affogatto",
+    "description": "choice of amaretto or bailey’s house-made ice cream, coffee liquor, vodka & our signature espresso",
+    "price": "$17",
+    "section": "House-Made Sweets",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dessert",
+    "menu_name": "Dessert Menu"
+  },
+  {
+    "name": "Ice Cream & Sorbet",
+    "description": "chef selected sample of house-made ice creams & sorbets",
+    "price": "$16",
+    "section": "House-Made Sweets",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dessert",
+    "menu_name": "Dessert Menu"
+  },
+  {
+    "name": "Opera Cake",
+    "description": "almond sponge cake, chocolate ganache, coffee syrup",
+    "price": "$15",
+    "section": "House-Made Sweets",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dessert",
+    "menu_name": "Dessert Menu"
+  },
+  {
+    "name": "Classic Key Lime Pie",
+    "description": "raspberry sauce",
+    "price": "$15",
+    "section": "House-Made Sweets",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dessert",
+    "menu_name": "Dessert Menu"
+  },
+  {
+    "name": "Crème Brûlée",
+    "description": "chef selected seasonal flavors",
+    "price": "$14",
+    "section": "House-Made Sweets",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dessert",
+    "menu_name": "Dessert Menu"
+  },
+  {
+    "name": "Seasonal Cheesecake",
+    "description": "provided by Saratoga Dessert Bar",
+    "price": "$16",
+    "section": "House-Made Sweets",
+    "restaurant_name": "Salt & Char",
+    "restaurant_url": "https://saltandcharsaratoga.com/",
+    "menu_type": "Dessert",
+    "menu_name": "Dessert Menu"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Crab Rangoon Dip",
+    "description": "lump crab meat, mascarpone, sweet chili sauce, scallions, fried wonton chips",
+    "price": "$16",
+    "section": "Shareables",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CUCUMBER SALAD",
+    "description": "truffle soy sauce, tahini dressing, chili oil, fresh dill",
+    "price": "$11",
+    "section": "Shareables",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Saigon Street BBQ Wings",
+    "description": "smoky sweet vietnamese bbq sauce, scallion lime gremolata, rice noodle salad, cucumber ranch",
+    "price": "$17",
+    "section": "Shareables",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CRISPY FRIED SHRIMP",
+    "description": "sweet chili mayo, furikake seasoning, baby green leaf",
+    "price": "$16",
+    "section": "Shareables",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Tokyo Poutine",
+    "description": "togarashi dusted tater tots, cheddar cheese curds, japanese curry gravy, furikake, scallions",
+    "price": "$16",
+    "section": "Shareables",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Fried Brussels Sprouts",
+    "description": "fish sauce caramel, togarashi spiced peanuts, black garlic molasses",
+    "price": "$15",
+    "section": "Shareables",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Fried Bologna Katsu Sliders",
+    "description": "thick-cut mortadella, kings hawaiian rolls, kewpie dijonaise, black garlic tonkatsu sauce, cabbage",
+    "price": "$15",
+    "section": "Shareables",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Wok-Roasted Broccoli",
+    "description": "garlic & chili glaze, whipped lemon & sesame ricotta, black vinegar honey, toasted pumpkin seeds",
+    "price": "$15",
+    "section": "Shareables",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Spanish Fried Rice",
+    "description": "bomba rice, mortadella pieces, grilled shrimp,  peas, egg, sofrito, pickled onions",
+    "price": "$17",
+    "section": "Shareables",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Beef Barbacoa Tacos",
+    "description": "shoyu-braised short ribs, shishito & tomatillo chow chow, chipotle aioli, scallions",
+    "price": "$16",
+    "section": "Shareables",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "ROASTED BEETS",
+    "description": "caramelized coconut, curried cashew butter, thai basil chimichurri, kaffir lime yogurt, toasted coconut",
+    "price": "$14",
+    "section": "Shareables",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CHINESE-STYLE CRISPY BEEF",
+    "description": "teres major, shishito peppers, onions, bell peppers, scallions, hoisin sticky glaze",
+    "price": "$19",
+    "section": "Shareables",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Tuna Tartare",
+    "description": "crispy rice cake, yuzu avocado, sweet soy, jalapeno, spicy mayo, fried shallot",
+    "price": "$16",
+    "section": "Shareables",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Steamed Pork Dumplings",
+    "description": "pork & cabbage mix, chili oil, black vinegar, ramen broth, sesame seed, scallions",
+    "price": "$15",
+    "section": "Shareables",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Meatloaf Bao Buns",
+    "description": "ground beef, tomato & black vinegar glaze, carrot jam, fried onions",
+    "price": "$15",
+    "section": "Bao Buns",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BUFFALO CHICKEN BAO BUNS",
+    "description": "crispy chicken, thai chili buffalo sauce, shishito pepper ranch, house dill pickles",
+    "price": "$14",
+    "section": "Bao Buns",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Pulled Pork Bao Buns",
+    "description": "smoked pork shoulder, Carolina gold bbq sauce, sweet cabbage slaw",
+    "price": "$14",
+    "section": "Bao Buns",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "French Dip Bao Buns",
+    "description": "shaved roast beef, caramelized onions, wasabi cream sauce, everything bagel spice, ramen broth au jus",
+    "price": "$15",
+    "section": "Bao Buns",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "FRIED MOZZARELLA BAO BUNS",
+    "description": "pickled plum melba sauce, thai basil, toasted sesame seeds",
+    "price": "$13",
+    "section": "Bao Buns",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Chili Garlic Noodles",
+    "description": "crispy pork, ginger scallion sauce, shiitake mushrooms, chili oil, pecorino, hand-cut noodles",
+    "price": "$18",
+    "section": "Noodles",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "HANGOVER NOODLES",
+    "description": "shrimp, rice noodles, pickled peppers, thai peanut sauce, napa cabbage, fried egg, crushed wontons",
+    "price": "$19",
+    "section": "Noodles",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "SHANGHAI SCALLION NOODLES",
+    "description": "shaved bulgogi beef, dark soy, scallion oil, napa cabbage, lo-mein noodles",
+    "price": "$18",
+    "section": "Noodles",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "RAMEN CACIO E PEPE",
+    "description": "toasted black pepper, olive oil, butter, edamame, scallions, ramen noodles, pink peppercorns",
+    "price": "$17",
+    "section": "Noodles",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Pork Belly",
+    "description": "roasted pork & chicken broth, miso cured egg, shiitake mushrooms, seared pork belly, scallions",
+    "price": "$23",
+    "section": "Ramen",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BIRRIA",
+    "description": "braised short rib, ancho chili broth, red onions, sliced jalapenos, cilantro, radish, cheesy tortilla",
+    "price": "$23",
+    "section": "Ramen",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BBQ Shrimp",
+    "description": "binchotan grilled shrimp, coconut curry broth, n’duja chili butter, blistered cherry tomatoes, charred corn",
+    "price": "$22",
+    "section": "Ramen",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Veggie",
+    "description": "butternut squash, baby bok choy, shiitake mushrooms, miso vegetable broth, pumpkin seeds, porcini & sage chili oil, pea shoots",
+    "price": "$20",
+    "section": "Ramen",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "EXTRA NOODLES",
+    "description": null,
+    "price": "$4",
+    "section": "Ramen Add-Ons",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "STEAMED PORK DUMPLING",
+    "description": null,
+    "price": "$5",
+    "section": "Ramen Add-Ons",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "DOUBLE BROTH",
+    "description": null,
+    "price": "$3",
+    "section": "Ramen Add-Ons",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "FRIED CHICKEN",
+    "description": null,
+    "price": "$5",
+    "section": "Ramen Add-Ons",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "ROASTED CORN",
+    "description": null,
+    "price": "$3",
+    "section": "Ramen Add-Ons",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CHILI OIL",
+    "description": null,
+    "price": "$2",
+    "section": "Ramen Add-Ons",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "SHIITAKE MUSHROOMS",
+    "description": null,
+    "price": "$3",
+    "section": "Ramen Add-Ons",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "edamame",
+    "description": null,
+    "price": "$3",
+    "section": "Ramen Add-Ons",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "MISO CURED EGG",
+    "description": null,
+    "price": "$3",
+    "section": "Ramen Add-Ons",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BABY BOK CHOY",
+    "description": null,
+    "price": "$3",
+    "section": "Ramen Add-Ons",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "bbq shrimp (2)",
+    "description": null,
+    "price": "$6",
+    "section": "Ramen Add-Ons",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "pork belly",
+    "description": null,
+    "price": "$6",
+    "section": "Ramen Add-Ons",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "STICKY PLUM CAKE",
+    "description": "butterscotch chips, miso caramel sauce, whipped cream",
+    "price": "$12",
+    "section": "Dessert",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Fig Spritz",
+    "description": "fruitful mission fig liqueur, poema cava brut rose, bittermen’s hopped grapefruit bitters, club soda, rosemary",
+    "price": "$15",
+    "section": "Cocktails",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "BLUEBERRY BLUES*",
+    "description": "alb vodka, blueberry-apricot lemonade",
+    "price": "$14",
+    "section": "Cocktails",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "YUZU G&T *",
+    "description": "roku gin, kaffir lime leaf, juniper, citrus confetti, yuzu tonic water",
+    "price": "$14",
+    "section": "Cocktails",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "IT’S GETTING HOT IN HERE...*",
+    "description": "…but please, keep your clothes on… tanteo chipotle tequila, italicus liqueur, blood orange, agave, lime, spicy salt rim",
+    "price": "$16",
+    "section": "Cocktails",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "CHESTNUT MAI TAI",
+    "description": "vanilla infused white rum, dry curacao, passionfruit, roasted chestnut orgeat, lemon",
+    "price": "$16",
+    "section": "Cocktails",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "DUNES OF THE CAPE",
+    "description": "rhea’s rum blend, soho lychee liqueur, pineapple, coconut, raspberry",
+    "price": "$15",
+    "section": "Cocktails",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "MAPLE SAGE OLD FASHIONED",
+    "description": "high west rye, maple, sage, lemon, angostura & orange bitters",
+    "price": "$16",
+    "section": "Cocktails",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Hot Sake Toddy",
+    "description": "jelinek plum liqueur, spiced plum, pomegranate & tamarind syrup, hot sake",
+    "price": "$15",
+    "section": "Cocktails",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "KOI POND",
+    "description": "red wine, cherry heering, montenegro amaro, dry curacao, cinnamon, blood orange, cranberry serves 2 people",
+    "price": "$27",
+    "section": "Cocktails",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "HAKUTSURU CHIKA CUP",
+    "description": "junmai sake – Japan – 200ml",
+    "price": "$14",
+    "section": "Sake",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "HAKUTSURU TANREI",
+    "description": "junmai sake – Japan – 180ml",
+    "price": "$15",
+    "section": "Sake",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "SHO CHIKU BAI MIO",
+    "description": "sparkling sake – Japan – 300ml",
+    "price": "$27",
+    "section": "Sake",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "SHO CHIKU BAI CREME DE SAKE",
+    "description": "nigiri sake – Japan – 300ml",
+    "price": "$24",
+    "section": "Sake",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "DASSAI BLUE DRY SAKE",
+    "description": "junmai sake – Hyde Park, NY – 375ml",
+    "price": "$33",
+    "section": "Sake",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "HOT OR COLD SAKE CARAFE",
+    "description": "Add fruitful liqueur: mango, guava, papaya $3",
+    "price": "$11",
+    "section": "Sake",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "BELLAFINA",
+    "description": "prosecco – Italy",
+    "price": "$12",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Poema",
+    "description": "Cava brut rose – Spain",
+    "price": "$13",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "FREIXENET",
+    "description": "pinot grigio – Italy",
+    "price": "$12",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "TWIN ISLANDS",
+    "description": "sauvignon blanc – New Zealand",
+    "price": "$13",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "DOUGH",
+    "description": "chardonnay – California",
+    "price": "$14",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "FIGUIERE",
+    "description": "rosé – France",
+    "price": "$13",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "KRASNO",
+    "description": "orange – Slovenia",
+    "price": "$13",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "TERRA D’ORO",
+    "description": "red zinfandel – California",
+    "price": "$12",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "FIRESTEED",
+    "description": "pinot noir – Oregon",
+    "price": "$14",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Joel Gott",
+    "description": "cabernet sauvignon – California",
+    "price": "$15",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "CATENA",
+    "description": "malbec – Argentina",
+    "price": "$13",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "SAPPORO",
+    "description": "lager – Japan – 4.9%",
+    "price": "$6",
+    "section": "Draft Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "MODELO ESPECIAL",
+    "description": "lager – Mexico – 4.5%",
+    "price": "$7",
+    "section": "Draft Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "ALLAGASH WHITE",
+    "description": "witbier – Portland, ME – 5.2%",
+    "price": "$7",
+    "section": "Draft Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "OTHER HALF FOREVER EVER",
+    "description": "session ipa – Brooklyn, NY – 4.7%",
+    "price": "$9",
+    "section": "Draft Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "SLOOP JUICE BOMB",
+    "description": "neipa – Hopewell Junction, NY – 6.5%",
+    "price": "$9",
+    "section": "Draft Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Rotational Draft",
+    "description": "ask your server",
+    "price": "MP",
+    "section": "Draft Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "MILLER LITE",
+    "description": "16oz – 4.2%",
+    "price": "$5",
+    "section": "Can Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "DRUTHERS ALL IN IPA",
+    "description": "16oz – 6.5%",
+    "price": "$9",
+    "section": "Can Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "EQUILIBRIUM MC2 DIPA",
+    "description": "16oz – 8.2%",
+    "price": "$11",
+    "section": "Can Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "GUINNESS",
+    "description": "14.9oz – 4.2%",
+    "price": "$9",
+    "section": "Can Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "NINE PIN SIGNATURE CIDER",
+    "description": "12oz – 6.7%",
+    "price": "$9",
+    "section": "Can Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "HIGH NOON HARD SELTZER",
+    "description": "12oz – 4.5%",
+    "price": "$8",
+    "section": "Can Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "SURFSIDE ICED TEA & LEMONADE + VODKA",
+    "description": "12oz – 4.5%",
+    "price": "$8",
+    "section": "Can Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "*MOCKTAIL",
+    "description": "any starred cocktail can be made as a mocktail",
+    "price": "$8",
+    "section": "Nonalcoholic",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "ATHLETIC N/A",
+    "description": "lager & ipa – 12oz",
+    "price": "$7",
+    "section": "Nonalcoholic",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "WOLFFER SPARKLING WHITE WINE N/A",
+    "description": "200ml",
+    "price": "$13",
+    "section": "Nonalcoholic",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "PER SE N/A CANNED COCKTAILS",
+    "description": "hibiscus margarita, old fashioned, negroni",
+    "price": "$10",
+    "section": "Nonalcoholic",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Drinks",
+    "menu_name": "Drink Menu"
+  },
+  {
+    "name": "Sapporo",
+    "description": null,
+    "price": "$5",
+    "section": "Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "Modelo",
+    "description": null,
+    "price": "$5",
+    "section": "Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "Allagash White",
+    "description": null,
+    "price": "$5",
+    "section": "Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "Northway Spa City Earl",
+    "description": null,
+    "price": "$5",
+    "section": "Beer",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "Hot/Cold Sake Carafe",
+    "description": null,
+    "price": "$8",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "Bellafina Prosecco",
+    "description": null,
+    "price": "$8",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "Freixenet Pinot Grigio",
+    "description": null,
+    "price": "$8",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "Terra D’Oro Red Zin",
+    "description": null,
+    "price": "$8",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "Catena Malbec",
+    "description": null,
+    "price": "$8",
+    "section": "Wine",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "FIG SPRITZ",
+    "description": "fruitful mission fig liqueur, poema cava brut rose, bittermen’s hopped grapefruit bitters, club soda, rosemary",
+    "price": "$10",
+    "section": "Cocktails",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "BLUEBERRY BLUES*",
+    "description": "alb vodka, blueberry-apricot lemonade",
+    "price": "$10",
+    "section": "Cocktails",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "Yuzu G&T*",
+    "description": "roku gin, kaffir lime leaf, juniper, citrus confetti, yuzu tonic water",
+    "price": "$10",
+    "section": "Cocktails",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "IT’S GETTING HOT IN HERE...*",
+    "description": "…but please, keep your clothes on… tanteo chipotle tequila, italicus liqueur, blood orange, agave, lime, spicy salt rim",
+    "price": "$10",
+    "section": "Cocktails",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "Dunes of the Cape",
+    "description": "rhea’s rum blend, soho lychee liqueur, pineapple, coconut, raspberry",
+    "price": "$10",
+    "section": "Cocktails",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "BAO BUNS:",
+    "description": "meatloaf buffalo chicken pulled pork french dip fried mozzarell",
+    "price": "*",
+    "section": "Food",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "RAMEN:",
+    "description": "pork belly birria bbq shrimp veggie",
+    "price": "*",
+    "section": "Food",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  },
+  {
+    "name": "Sake Bombs",
+    "description": "sapporo lager, cold sake",
+    "price": "$5",
+    "section": "Sake",
+    "restaurant_name": "Rhea",
+    "restaurant_url": "https://www.rhea-saratoga.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "Happy Hour Menu"
+  }
+]
