@@ -1,0 +1,1602 @@
+[
+  {
+    "name": "HOUSE MADE SOUPS OF THE DAY",
+    "description": "Daily selection of fresh soups",
+    "price": "Small $5 | Large $7",
+    "section": "STARTING GATE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "STARTING GATE"
+  },
+  {
+    "name": "FRENCH FRIES",
+    "description": "With Cheese Small $6 Large $8",
+    "price": "Small $4 | Large $6",
+    "section": "STARTING GATE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "STARTING GATE"
+  },
+  {
+    "name": "BATTERED MOZZARELLA STICKS",
+    "description": "Served with marinara or sriracha mayo",
+    "price": "$10",
+    "section": "STARTING GATE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "STARTING GATE"
+  },
+  {
+    "name": "CHICKEN TENDERS",
+    "description": "Served with a choice of bbq, buffalo, blue cheese, cajun mayo, honey mustard, or buffalo bleu",
+    "price": "$2.50 per Tender",
+    "section": "STARTING GATE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "STARTING GATE"
+  },
+  {
+    "name": "BONELESS CHICKEN WINGS",
+    "description": "Choice of Mild, Medium, Hot, BBQ, Honey BBQ or Garlic Parm served with celery & blue cheese",
+    "price": "(1 LB) $13",
+    "section": "STARTING GATE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "STARTING GATE"
+  },
+  {
+    "name": "BONE IN CHICKEN WINGS",
+    "description": "Choice of Mild, Medium, Hot, BBQ, Honey BBQ or Garlic Parm served with celery & blue cheese",
+    "price": "$15 a Dozen",
+    "section": "STARTING GATE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "STARTING GATE"
+  },
+  {
+    "name": "CHOOSE ONE: CHEESE QUESADILLA OR CHICKEN TENDERS OR GRILLED CHEESE",
+    "description": "Comes choice of french fries or potato chips, chocolate chip cookies & an applesauce",
+    "price": "$12",
+    "section": "KIDS MENU",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "KIDS MENU"
+  },
+  {
+    "name": "BALSAMIC CHICKEN WRAP",
+    "description": "Mixed greens tossed with crushed croutons parmesan cheese & balsamic dressing rolled in two flour tortillas with shaved chicken served with chips & pickle",
+    "price": "$12",
+    "section": "STABLE WRAPS",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "STABLE WRAPS"
+  },
+  {
+    "name": "CHICKEN CAESAR WRAP",
+    "description": "Crisp romaine tossed with crushed croutons parmesan cheese & caesar dressing rolled in two flour tortillas with shaved chicken served with chips & pickle",
+    "price": "$12",
+    "section": "STABLE WRAPS",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "STABLE WRAPS"
+  },
+  {
+    "name": "CHICKEN BACON RANCH WRAP",
+    "description": "Mixed greens tossed with crushed croutons parmesan cheese & ranch dressing rolled in two flour tortillas with shaved chicken & bacon served with chips & pickle",
+    "price": "$12",
+    "section": "STABLE WRAPS",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "STABLE WRAPS"
+  },
+  {
+    "name": "CHICKEN SALAD WRAP",
+    "description": "House made chicken salad with thinly sliced chicken finely diced celery & red onion cajun seasoning with & pepper & mayo with lettuce tomato bacon & cheddar cheese",
+    "price": "$13",
+    "section": "SALADS FROM THE TURF",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "SALADS FROM THE TURF"
+  },
+  {
+    "name": "GREEK CHICKEN WRAP",
+    "description": "Mixed green with shaved chicken chopped tomatoes onions olives cucumbers & feta cheese tossed in italian dressing rolled in two flour tortillas",
+    "price": "$12",
+    "section": "SALADS FROM THE TURF",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "SALADS FROM THE TURF"
+  },
+  {
+    "name": "ANTIPASTO",
+    "description": "Mixed greens salami sopresatta capicola pepperoni salami & provolone cheese banana peppers olives onions tomatoes roasted red peppers parmesan cheese with choice of dressing",
+    "price": "SM $7 | LG $13",
+    "section": "SALADS FROM THE TURF",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "SALADS FROM THE TURF"
+  },
+  {
+    "name": "CAESAR",
+    "description": "Crisp romaine croutons parmesan cheese & caesar dressing",
+    "price": "SM $5 | LG $10",
+    "section": "SALADS FROM THE TURF",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "SALADS FROM THE TURF"
+  },
+  {
+    "name": "CHEF",
+    "description": "Mixed greens julienned ham salami turkey & swiss cheese olives onions tomatoes with choice of dressing",
+    "price": "SM $7 | LG $13",
+    "section": "SALADS FROM THE TURF",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "SALADS FROM THE TURF"
+  },
+  {
+    "name": "CHICKEN CAESAR",
+    "description": "Crisp romaine with croutons parmesan cheese grilled chicken with caesar or balsamic dressing",
+    "price": "SM $7 | LG $13",
+    "section": "SALADS FROM THE TURF",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "SALADS FROM THE TURF"
+  },
+  {
+    "name": "COBB",
+    "description": "Mixed greens avocado bacon crumbled blue cheese grilled chicken hard boiled eggs onions tomatoes with choice of dressing",
+    "price": "SM $7 | LG $14",
+    "section": "SALADS FROM THE TURF",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "SALADS FROM THE TURF"
+  },
+  {
+    "name": "GARDEN",
+    "description": "Mixed greens carrots cukes olives onions & tomatoes choice of dressing",
+    "price": "SM $6 | LG $11",
+    "section": "SALADS FROM THE TURF",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "SALADS FROM THE TURF"
+  },
+  {
+    "name": "GREEK",
+    "description": "Mixed greens cukes olives onions tomatoes & feta cheese choice of dressing",
+    "price": "SM $7 | LG $13",
+    "section": "SALADS FROM THE TURF",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "SALADS FROM THE TURF"
+  },
+  {
+    "name": "PORTOBELLO",
+    "description": "Crisp romaine julienned blackened chicken & portobello mushrooms tomatoes & feta cheese with balsamic dressing",
+    "price": "SM $7 | LG $13",
+    "section": "SALADS FROM THE TURF",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "SALADS FROM THE TURF"
+  },
+  {
+    "name": "TURKEY & APPLE",
+    "description": "Crisp romaine julienned apples bacon cheddar cheese & roasted turkey with balsamic dressing",
+    "price": "SM $7 | LG $13",
+    "section": "SALADS FROM THE TURF",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "SALADS FROM THE TURF"
+  },
+  {
+    "name": "DRESSINGS",
+    "description": "balsamic, blue cheese, caesar, honey mustard, italian, oil/vinegar, ranch, russian, sriracha mayo",
+    "price": "",
+    "section": "SALADS FROM THE TURF",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "SALADS FROM THE TURF"
+  },
+  {
+    "name": "ADD PROTEIN",
+    "description": "grilled chicken, blackened chicken, buffalo tenders, chicken tenders, or grilled steak",
+    "price": "SM $3 | LG $5",
+    "section": "SALADS FROM THE TURF",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "SALADS FROM THE TURF"
+  },
+  {
+    "name": "COLD SANDWICH",
+    "description": "Choice of roasted turkey, roast beef, ham, chicken salad, or corned beef, comes with lettuce, tomato, & onion with choice of bread, cheese, & dressing",
+    "price": "6\" Sub or Bread $8 | 12\" Sub or Wrap $13",
+    "section": "QUARTER POLE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "QUARTER POLE"
+  },
+  {
+    "name": "ITALIAN MIX OR TUNA SANDWICH",
+    "description": "Comes with lettuce, tomato, & onion with a choice of bread, cheese, & dressing",
+    "price": "6\" Sub or Bread $9 | 12\" Sub or Wrap $15",
+    "section": "QUARTER POLE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "QUARTER POLE"
+  },
+  {
+    "name": "TRIPLE DECKER CLUB",
+    "description": "Choice of Ham, Roast Beef, Roasted Turkey with a choice of bread, cheese, & dressing with lettuce, tomato, & bacon",
+    "price": "$13",
+    "section": "QUARTER POLE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "QUARTER POLE"
+  },
+  {
+    "name": "BLT",
+    "description": "Choice of bread with bacon lettuce tomato & mayo",
+    "price": "6\" Sub or Bread $8 | 12\" Sub or Wrap $13",
+    "section": "EIGHTH POLE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "EIGHTH POLE"
+  },
+  {
+    "name": "CHEESEBURGER SUB",
+    "description": "Served with lettuce tomato caramelized onions choice of cheese & dressing",
+    "price": "6\" Sub or Bread $9 | 12\" Sub or Wrap $13",
+    "section": "EIGHTH POLE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "EIGHTH POLE"
+  },
+  {
+    "name": "CHICKEN PHILLY",
+    "description": "grilled chicken sliced thin with choice of american, mozzarella or provolone cheese onions mushrooms peppers etc add .75 per topping",
+    "price": "6\" Sub or Bread $9 | 12\" Sub or Wrap $13",
+    "section": "EIGHTH POLE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "EIGHTH POLE"
+  },
+  {
+    "name": "PARMIGIANA",
+    "description": "choice of chicken, meatball, sausage or steak with tomato sauce & mozzarella",
+    "price": "6\" Sub or Bread $9 | 12\" Sub or Wrap $13",
+    "section": "EIGHTH POLE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "EIGHTH POLE"
+  },
+  {
+    "name": "STEAK & CHEESE",
+    "description": "roasted house beef sliced thin with choice of american, mozzarella or provolone cheese onions mushrooms peppers etc add .75 per topping",
+    "price": "6\" Sub or Bread $9 | 12\" Sub or Wrap $13",
+    "section": "EIGHTH POLE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "EIGHTH POLE"
+  },
+  {
+    "name": "SUB A GLUTEN FREE HARD ROLL OR WRAP",
+    "description": null,
+    "price": "$3",
+    "section": "EIGHTH POLE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "EIGHTH POLE"
+  },
+  {
+    "name": "AFFIRMED",
+    "description": "1/2lb cheeseburger with bacon lettuce tomato & russian on a hard roll",
+    "price": "$12",
+    "section": "WINNERS CIRCLE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "WINNERS CIRCLE"
+  },
+  {
+    "name": "AMERICAN PHARAOH",
+    "description": "chicken cutlet bacon cheddar cheese lettuce tomato sriracha ranch hard roll",
+    "price": "$12",
+    "section": "WINNERS CIRCLE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "WINNERS CIRCLE"
+  },
+  {
+    "name": "BEHRENS",
+    "description": "steak roasted red peppers onions ai steak sauce provolone hard roll",
+    "price": "$12",
+    "section": "WINNERS CIRCLE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "WINNERS CIRCLE"
+  },
+  {
+    "name": "CAPRESE",
+    "description": "fresh mozzarella tomato basil balsamic dressing sourdough bread",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "CASA CREED (COLI)",
+    "description": "thinly sliced roast beef & turkey w/cole slaw on sour dough bread",
+    "price": "$12.00",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "CIGAR",
+    "description": "cajun chicken bacon cheddar cheese lettuce tomato hard roll",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "EASY GOER",
+    "description": "roasted turkey mushrooms swiss cheese lettuce tomato cran mayo hard roll",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "FLIGHT LINE",
+    "description": "steak caramelized onions american & provolone hard roll",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "FOUR STAR DAVE",
+    "description": "corned beef sauerkraut swiss russian rye bread",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "GO FOR WAND",
+    "description": "grilled steak onions & mushrooms provolone LT honey mayo hard roll",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "GOT STORMY",
+    "description": "roasted turkey sauerkraut swiss russian rye bread",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "GUN RUNNER",
+    "description": "chicken cutlet cheddar chopped pickles cajun mayo hard roll",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "JIM DANDY",
+    "description": "bbq roasted turkey bacon american cheese lettuce tomato hard roll",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "JUSTIFY",
+    "description": "roasted turkey caramelized apples bacon cheddar cran mayo sourdough",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "MAN O WAR",
+    "description": "bbq steak roasted red peppers cheddar cheese hard roll",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "POINT GIVEN",
+    "description": "roasted turkey bacon tomato cheddar cajun mayo sourdough bread",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "RACHEL ALEXANDER",
+    "description": "corned beef bacon swiss cheese horseradish mustard rye bread",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "SEA BISCUIT",
+    "description": "blackened chicken bacon cheddar cheese lettuce tomato cajun mayo hard roll",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "SHACKLEFORD",
+    "description": "fried eggplant portobellos roasted reds fresh mozzarella pesto mayo",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "STRIKE THE GOLD",
+    "description": "roasted turkey swiss lettuce tomato roasted garlic mayo rye bread",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "THUNDER GULCH",
+    "description": "breaded or shaved buffalo chicken blue cheese lettuce tomato hard roll",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "UPSET",
+    "description": "cajun steak bacon swiss cheese lettuce tomato hard roll",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "ZENYATTA",
+    "description": "grilled american cheese bacon or ham & tomato fresh basil on sour dough Gluten Free Roll or Wrap available add $3",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "TACOS",
+    "description": "choice of beef, medium spice chicken, steak, or veggies served in a soft flour tortilla or a hard corn tortilla with melted cheddar, side of salsa & shredded lettuce",
+    "price": "$2.50 each",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "QUESADILLA",
+    "description": "choice of beef, medium spiced chicken, steak, or veggies served in between two 8\" flour tortillas with melted cheddar, side of salsa, sour cream & shredded lettuce",
+    "price": "$12",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "TACO SALAD",
+    "description": "choice of beef, chicken, steak, or veg over greens, bean pep, olives, onions, toms on a fried tortilla or a hard shell with cheddar salsa & sour cream",
+    "price": "$13",
+    "section": "THE BACK STRETCH",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "THE BACK STRETCH"
+  },
+  {
+    "name": "8 CUT CHEESE PIZZA",
+    "description": "red or white garlic butter / toppings additional $2.50 half $4.50 whole",
+    "price": "$15",
+    "section": "FINISH LINE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "FINISH LINE"
+  },
+  {
+    "name": "24 CUT CHEESE PIZZA",
+    "description": "red or white garlic butter / toppings additional $3.50 half $6.50 whole",
+    "price": "$26",
+    "section": "FINISH LINE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "FINISH LINE"
+  },
+  {
+    "name": "GLUTEN FREE 10\" CAULIFLOWER PIZZA SHELL",
+    "description": "red or white garlic butter / toppings additional $2 half $4 whole",
+    "price": "$12",
+    "section": "FINISH LINE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "FINISH LINE"
+  },
+  {
+    "name": "TOPPINGS",
+    "description": "pepperoni sausage mushroom bacon ham pineapple meatball buffalo tenders garlic onion peppers broccoli fried eggplant jalapenos extra cheese",
+    "price": "",
+    "section": "FINISH LINE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "FINISH LINE"
+  },
+  {
+    "name": "PIZZA SLICE",
+    "description": "cheese or pepperoni slice",
+    "price": "$2.50",
+    "section": "FINISH LINE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "FINISH LINE"
+  },
+  {
+    "name": "KELLY'S TREATS",
+    "description": "an array of assorted fresh baked cookies brownies & more",
+    "price": "$3",
+    "section": "FINISH LINE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "FINISH LINE"
+  },
+  {
+    "name": "CANNED SODA",
+    "description": "coca cola diet coke sprite ginger ale orange root beer or bottled water",
+    "price": "$2.50",
+    "section": "FINISH LINE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "FINISH LINE"
+  },
+  {
+    "name": "ASSORTED ICED TEAS",
+    "description": "sweet tea, half & half tea, green tea, unsweetened tea, assorted snapples",
+    "price": "$3",
+    "section": "FINISH LINE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "FINISH LINE"
+  },
+  {
+    "name": "GATORADES",
+    "description": "fruit punch, lemon lime, or orange",
+    "price": "$3",
+    "section": "FINISH LINE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "FINISH LINE"
+  },
+  {
+    "name": "SARATOGA POLAND SPRING WATER",
+    "description": null,
+    "price": "$2.50",
+    "section": "FINISH LINE",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "FINISH LINE"
+  },
+  {
+    "name": "BREAKFAST SANDWICH",
+    "description": "Two eggs cooked OVER HARD on a grilled telisco famous hard roll with a choice of protein - bacon, ham, sausage, or steak & cheese - american, cheddar, mozzarella, provolone, or swiss",
+    "price": "$6.50",
+    "section": "BREAKFAST",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "BREAKFAST BURRITO",
+    "description": "two scrambled eggs cooked with onions & peppers with a choice of protein - bacon, buffalo chicken, ham, sausage, or steak & cheese - american, cheddar, mozzarella, provolone, or swiss, in a flour tortilla served with salsa & sour cream",
+    "price": "$7.95",
+    "section": "BREAKFAST",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "SEASONED HOME FRIES",
+    "description": "with cheese | Small $7 Large $11",
+    "price": "Small $5 | Large $9",
+    "section": "BREAKFAST",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "GRAND SLAM SCRAMBLED",
+    "description": "freshly scrambled eggs with S&P served with sides hickory smoked bacon or breakfast sausage links, seasoned home fries & sour dough toast with butter",
+    "price": "$13",
+    "section": "BREAKFAST",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "FRENCH TOAST",
+    "description": "cinnamon egg battered french toast served with choice of bacon or sausage links with home fries. maple syrup served on side",
+    "price": "$13",
+    "section": "BREAKFAST",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "BREAKFAST PIZZA",
+    "description": "freshly scrambled eggs poured over pizza dough with blend of cheddar & mozzarella cheese! Toppings additional 8cut $4 each | 8cut $6 each",
+    "price": "8 Cut $15.00 | 24 Cut $26.00",
+    "section": "BREAKFAST",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "TOASTED BAGEL",
+    "description": "plain or everything with choice of butter or cream cheese",
+    "price": "$3",
+    "section": "BREAKFAST",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Deli Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "BATTERED DIPPED MOZZARELLA STICKS",
+    "description": "Served with Melba & tomato sauce",
+    "price": "Half $50 | Full $90",
+    "section": "Starters",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "BONELESS WINGS",
+    "description": "Choice of Medium, Hot, BBQ, Honey BBQ, or Garlic Parm served with celery & blue cheese side",
+    "price": "Half $45 | Full $80",
+    "section": "Starters",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "BONE IN CHICKEN WINGS / $15 A DOZEN",
+    "description": "Choice of Mild, Medium, Hot, BBQ, Honey BBQ, or Garlic Parm served with celery & blue cheese",
+    "price": "",
+    "section": "Starters",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "BUFFALO WING DIP",
+    "description": "SSDP’s famous buffalo chicken incorporated into a queso blend of cheeses served with crispy corn tortilla chips",
+    "price": "Half $50 | Full $90",
+    "section": "Starters",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "CHICKEN TENDERS",
+    "description": "All white meat breaded tenders fried golden brown served with choice of dipping sauces",
+    "price": "Half $50 | Full $90",
+    "section": "Starters",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "ITALIAN MEATBALLS",
+    "description": "Nonina’s house made meatballs simmered in traditional tomato sauce served with dinner rolls",
+    "price": "Half $50 | Full $90",
+    "section": "Starters",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "PIZZA ROLLS",
+    "description": "Italian stuffed pizza rolls-choice of cheese, buffalo chicken, pepperoni, or sausage served with side of tomato sauce (choose own filling is an option)",
+    "price": "Half $60 | Full $110",
+    "section": "Starters",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "BALSAMIC & CAESAR CHICKEN WRAPS",
+    "description": "Chopped romaine tossed with crushed croutons parmesan cheese tossed in either balsamic or caesar dressing rolled in a flour tortilla",
+    "price": "Half $65 | Full $120",
+    "section": "Platters",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Platters"
+  },
+  {
+    "name": "CHEESE,CRACKER, & RONI",
+    "description": "Assorted crackers & cubed cheese & pepperonis with spicy mustard",
+    "price": "Half $50 | Full $90",
+    "section": "Platters",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Platters"
+  },
+  {
+    "name": "COLD SANDWICHES",
+    "description": "Assorted breads,cheese & meats(ham,turkey,roast beef) served with side of condiments,pickles,& potato chips",
+    "price": "Half $50 | Full $90",
+    "section": "Platters",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Platters"
+  },
+  {
+    "name": "COLD WRAPS",
+    "description": "Assorted cheese & meats(ham,turkey,roast beef) rolled in flour tortillas served with pickles & potato chips",
+    "price": "Half $65 | Full $120",
+    "section": "Cold Foods",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Cold Foods"
+  },
+  {
+    "name": "FRESH FRUIT",
+    "description": "Arrangement of cantaloupe,grapes,pineapple, & strawberries",
+    "price": "Half $50 | Full $90",
+    "section": "Cold Foods",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Cold Foods"
+  },
+  {
+    "name": "HOT SPECIALTY SANDWICHES",
+    "description": "Choose from our sandwich circle selection. Assortment of assortment of hot specialty sandwiches served with side of pickles & potato chips",
+    "price": "Half $80 | Full $150",
+    "section": "Cold Foods",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Cold Foods"
+  },
+  {
+    "name": "TACO PLATTER",
+    "description": "Choice of beef, chicken, steak, or veggie prepared soft shell tacos with mixed cheese with mixed greens arranged on a platter with shredded lettuce, salsa & sour cream side",
+    "price": "Half $85 | Full $150",
+    "section": "Cold Foods",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Cold Foods"
+  },
+  {
+    "name": "MEAT & CHEESE PLATTER",
+    "description": "Assorted cheeses & meats(ham,turkey,roast beef) served with side of lettuce,tomato, & deli rolls.Condiments,pickles & potato chips also served on the side.",
+    "price": "Half $55 | Full $110",
+    "section": "Cold Foods",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Cold Foods"
+  },
+  {
+    "name": "PARTY SUBS",
+    "description": "Famous giant Italian loaves of bread cut in half served with lettuce,tomato & choice of cheese & choice of ham,turkey or roast beef with chips,pickles & dressing on the side. For Italian mix add $10 half or $20 full",
+    "price": "Half $65 | Full $120",
+    "section": "Cold Foods",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Cold Foods"
+  },
+  {
+    "name": "ROASTED VEGETABLES",
+    "description": "Oven roasted marinated asparagus,broccoli,carrots,pepper medley, & red onion",
+    "price": "Half $55 | Full $100",
+    "section": "Cold Foods",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Cold Foods"
+  },
+  {
+    "name": "VEGETABLES & RANCH DIP",
+    "description": "Julienne cut broccoli,celery,carrots,English cucumbers, & peppers served with buttermilk ranch dressing",
+    "price": "Half $50 | Full $90",
+    "section": "Cold Foods",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Cold Foods"
+  },
+  {
+    "name": "ANTIPASTO",
+    "description": "Mixed greens julienned cappicola pepperonis salami & provolone cheese banana peppers olives onions tomatoes roasted red peppers parmesan cheese with choice of dressing",
+    "price": "Sm $7 | Lg $13",
+    "section": "Green Salads",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Green Salads"
+  },
+  {
+    "name": "CAESAR",
+    "description": "Crisp romaine croutons parmesan cheese & caesar dressing",
+    "price": "Sm $5 | Lg $10",
+    "section": "Green Salads",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Green Salads"
+  },
+  {
+    "name": "CHICKEN CAESAR",
+    "description": "Crisp romaine with croutons parmesan cheese grilled chicken with caesar or balsamic dressing",
+    "price": "Sm $7 | Lg $13",
+    "section": "Green Salads",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Green Salads"
+  },
+  {
+    "name": "CHEF",
+    "description": "Mixed greens julienned ham salami turkey & swiss cheese olives onions tomatoes with choice of dressing",
+    "price": "Sm $7 | Lg $13",
+    "section": "Green Salads",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Green Salads"
+  },
+  {
+    "name": "COBB",
+    "description": "Mixed greens avocado bacon crumbled blue cheese grilled chicken hard boiled eggs onions tomatoes with choice of dressing",
+    "price": "Sm $7 | Lg $14",
+    "section": "Green Salads",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Green Salads"
+  },
+  {
+    "name": "GARDEN",
+    "description": "Mixed greens carrots cukes olives onions tomatoes choice of dressing",
+    "price": "Sm $6 | Lg $12",
+    "section": "Green Salads",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Green Salads"
+  },
+  {
+    "name": "GREEK",
+    "description": "Mixed greens cukes olives onions tomatoes & feta cheese choice of dressing",
+    "price": "Sm $7 | Lg $13",
+    "section": "Green Salads",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Green Salads"
+  },
+  {
+    "name": "PORTOBELLO",
+    "description": "Crisp romaine julienned blackened chicken & portobello mushrooms tomatoes & feta cheese with balsamic dressing",
+    "price": "Sm $7 | Lg $13",
+    "section": "Green Salads",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Green Salads"
+  },
+  {
+    "name": "TURKEY & APPLE",
+    "description": "Crisp romaine julienned apples bacon cheddar cheese & roasted turkey with balsamic dressing",
+    "price": "Sm $7 | Lg $14",
+    "section": "Green Salads",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Green Salads"
+  },
+  {
+    "name": "BAKED ZITI",
+    "description": "ziti tossed in tomato sauce mozzarella & parmesan cooked golden brown",
+    "price": "Half $45 | Full $80",
+    "section": "Hot Entrées",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Hot Entrées"
+  },
+  {
+    "name": "CHICKEN MARSALA",
+    "description": "grilled chicken & mushrooms cooked in a sweet cream marsala sauce over choice of pasta",
+    "price": "Half $50 | Full $110",
+    "section": "Hot Entrées",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Hot Entrées"
+  },
+  {
+    "name": "CHICKEN PARMESAN",
+    "description": "italian breaded chicken cutlets covered with tomato sauce mozzarella & parmesan cheese baked golden brown",
+    "price": "Half $50 | Full $110",
+    "section": "Hot Entrées",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Hot Entrées"
+  },
+  {
+    "name": "CHICKEN PICATTA",
+    "description": "chicken cutlet with a caper lemon butter white wine sauce served over pasta",
+    "price": "Half $50 | Full $110",
+    "section": "Hot Entrées",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Hot Entrées"
+  },
+  {
+    "name": "EGGPLANT PARMESAN",
+    "description": "italian breaded eggplant rounds covered in tomato sauce mozzarella & parmesan cooked golden brown",
+    "price": "Half $50 | Full $90",
+    "section": "Hot Entrées",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Hot Entrées"
+  },
+  {
+    "name": "HOUSE MAC & CHEESE",
+    "description": "elbow macaroni tossed cheese sauce cooked golden brown",
+    "price": "Half $50 | Full $90",
+    "section": "Hot Entrées",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Hot Entrées"
+  },
+  {
+    "name": "MEAT LASAGNA",
+    "description": "layers of crumbled sweet sausage & meatballs mozzarella provolone & parmesan cheese & tomato sauce cooked golden brown",
+    "price": "Half $50 | Full $90",
+    "section": "Hot Entrées",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Hot Entrées"
+  },
+  {
+    "name": "PENNE ALA VODKA",
+    "description": "penne tossed in a sherry vodka pink sauce finished with parmesan & fresh basil. Add-ons: add chicken $15 half or $25 Full",
+    "price": "Half $50 | Full $110",
+    "section": "Hot Entrées",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Hot Entrées"
+  },
+  {
+    "name": "PULLED PORK",
+    "description": "slow roasted seasoned pork butt pulled off the bone tossed in cattlemens original bbq sauce served with side of cole slaw & dinner rolls",
+    "price": "Half $60 | Full $110",
+    "section": "Hot Entrées",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Hot Entrées"
+  },
+  {
+    "name": "SAUSAGE & PEPPERS",
+    "description": "sweet sausage rounds roasted with onions & peppers cut into bite size pieces served with side of dinner rolls",
+    "price": "Half $60 | Full $110",
+    "section": "Hot Entrées",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Hot Entrées"
+  },
+  {
+    "name": "SPAGHETTI & MEATBALLS",
+    "description": "spaghetti cooked al dente served with tomato sauce & house made meatballs with dinner rolls on side",
+    "price": "Half $50 | Full $90",
+    "section": "Hot Entrées",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Hot Entrées"
+  },
+  {
+    "name": "VEGETABLE STIR FRY",
+    "description": "medley of vegetables tossed a sesame teriyaki sauce served over white rice",
+    "price": "Half $50 | Full $90",
+    "section": "Hot Entrées",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Hot Entrées"
+  },
+  {
+    "name": "ADD PROTEIN",
+    "description": "grilled chicken, blackened chicken, buffalo tenders, chicken tenders, or grilled steak",
+    "price": "Sm $3 | Lg $5",
+    "section": "Hot Entrées",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Hot Entrées"
+  },
+  {
+    "name": "SALAD BOX LUNCH",
+    "description": "choice of a lg caesar or garden salad with grilled chicken a Nino's bakery fresh hard roll, chocolate chip cookies & a bottle of water",
+    "price": "$15 Per Box",
+    "section": "Boxed Lunches",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Boxed Lunches"
+  },
+  {
+    "name": "SANDWICH BOXED LUNCH",
+    "description": "on a Nino's famous hard roll choice of chicken salad, ham, turkey, or roast beef with lettuce, tomato, american cheese side of potato chips chocolate chip cookies & a bottle of water",
+    "price": "$15 Per Box",
+    "section": "Boxed Lunches",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Boxed Lunches"
+  },
+  {
+    "name": "WRAPPED BOXED LUNCH",
+    "description": "choice of chicken salad, ham, turkey, or roast beef with lettuce tomato american cheese rolled in a flour tortilla with a side of potato chips chocolate chip cookies & a bottle of water",
+    "price": "$13 Per Box",
+    "section": "Boxed Lunches",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Boxed Lunches"
+  },
+  {
+    "name": "ADD A SIDE OF FRUIT OR PASTA SALAD",
+    "description": null,
+    "price": "$1.50 Per Person",
+    "section": "Boxed Lunches",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Boxed Lunches"
+  },
+  {
+    "name": "TACO BAR",
+    "description": "choice of beef, chicken, steak, or veggie, sides of cheddar, lettuce, salsa, sour cream, & tortillas soft & hard (gluten free)",
+    "price": "$10.00 Per Person",
+    "section": "SSDP Taco Stand",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "SSDP Taco Stand"
+  },
+  {
+    "name": "QUESADILLA PLATTER",
+    "description": "Choice of Cheese, Buffalo Chicken, Seasoned Beef, Steak, or Veggie served with house made Salsa, Sour Cream, & Shredded lettuce on side.",
+    "price": "Half $60 | Full $110",
+    "section": "SSDP Taco Stand",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "SSDP Taco Stand"
+  },
+  {
+    "name": "BURRITO PLATTER",
+    "description": "Choice of beef, chicken, steak or veggie, Black or refried beans, rice, cheddar rolled in flour tortillas, lettuce, salsa & sour cream on side",
+    "price": "Half $65 | Full $120",
+    "section": "SSDP Taco Stand",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "SSDP Taco Stand"
+  },
+  {
+    "name": "HOUSE MADE CHIPS & SALSA",
+    "description": null,
+    "price": "Half $35 | Full $60",
+    "section": "SSDP Taco Stand",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "SSDP Taco Stand"
+  },
+  {
+    "name": "BLACK BEANS, REFRIED BEANS OR SPANISH RICE",
+    "description": null,
+    "price": "Half $40 | Full $75",
+    "section": "SSDP Taco Stand",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "SSDP Taco Stand"
+  },
+  {
+    "name": "GUACAMOLE",
+    "description": null,
+    "price": "$15",
+    "section": "SSDP Taco Stand",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "SSDP Taco Stand"
+  },
+  {
+    "name": "BLONDIES",
+    "description": null,
+    "price": "Half $45 | Full $80",
+    "section": "Desserts",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "BROWNIES",
+    "description": null,
+    "price": "Half $40 | Full $70",
+    "section": "Desserts",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "BROWNIES & COOKIES",
+    "description": null,
+    "price": "Half $45 | Full $80",
+    "section": "Desserts",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "COOKIES",
+    "description": null,
+    "price": "Half $40 | Full $70",
+    "section": "Desserts",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "RICE KRISPIE TREATS",
+    "description": null,
+    "price": "Half $40 | Full $75",
+    "section": "Desserts",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "CINNAMON CHURROS W/ CHOCOLATE DIPPING SAUCE",
+    "description": null,
+    "price": "Half $45 | Full $90",
+    "section": "Desserts",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "SARATOGA FAMOUS BREAKFAST SANDWICHES",
+    "description": "Choice of bacon, ham, sausage, steak, or veggie with two eggs cooked hard, Melted American cheese on a grilled hard roll served with Seasoned Home fries",
+    "price": "$10 Per Person",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "FRENCH TOAST",
+    "description": "cinnamon egg battered French toast served with choice of bacon or sausage links with home fries, maple syrup served on side",
+    "price": "$13",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "GRAND SLAM SCRAMBLED",
+    "description": "freshly scrambled eggs with S&P served with sides hickory smoked bacon or breakfast sausage links, seasoned home fries & sour dough toast with butter",
+    "price": "$13",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "BOXED UP BREAKFAST",
+    "description": "Packaged in a biodegradable to-go container one of our famous breakfast sandwiches, home fries, a granny smith apple (great for teams traveling to & from saratoga)",
+    "price": "$12 Per Person",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "BREAKFAST BURRITOS",
+    "description": "two scrambled eggs cooked with S&P grilled onions & peppers cheddar cheese with a choice of bacon ham sausage or steak rolled in a flour tortilla with sides of salsa sour cream & home fries",
+    "price": "$12 Per Person",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "BREAKFAST PIZZA / 8 CUT $20 24 CUT",
+    "description": "scrambled egg base covered with cheddar & mozzarella cheese with choice of protein-bacon,sausage,chicken,ham,sausage,or steak",
+    "price": "$33",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Catering",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "THE DALLY",
+    "description": "red pizza with blackened chicken bacon cheddar & mozzarella cooked golden brown then cajun remoulade drizzled over the top",
+    "price": "8CUT $20 | 24 CUT $33",
+    "section": "Pizza",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "DOMINO",
+    "description": "tomato sauce, fresh mozzarella & basil baked golden brown then fresh parmesan sprinkled over the top",
+    "price": "8CUT $18 | 24 CUT $28",
+    "section": "Pizza",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "THE WILKESY",
+    "description": "\"saussie pizza\"a breakfast pizza with a scrambled egg base shredded mozzarella & cheddar cheese with ham & crispy bacon",
+    "price": "8 CUT $23 | 24 CUT $35",
+    "section": "Pizza",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "J.SHARP",
+    "description": "red pizza fresh basil tomato jalapenos mushrooms & sausage",
+    "price": "8CUT $20 | 24 CUT $33",
+    "section": "Pizza",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "THE GARGAN",
+    "description": "red pizza bacon ham meatball pepperoni & sausage",
+    "price": "8CUT $28 | 24CUT $40",
+    "section": "Pizza",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "J.ABREU",
+    "description": "ranch base with breaded chicken bacon cheddar & mozzarella cheese",
+    "price": "8CUT $20 | 24CUT $33",
+    "section": "Pizza",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "RUDY ROD",
+    "description": "shredded buffalo banana peppers red onion cheddar & mozzarella cheese with blue cheese or ranch on side",
+    "price": "8CUT $28 | 24CUT $40",
+    "section": "Pizza",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "FLYING P STABLE",
+    "description": "red pizza with crumbled sausage caramelized onions & peppers",
+    "price": "8CUT $20 | 24CUT $33",
+    "section": "Pizza",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "THE FALCONEY",
+    "description": "red pizza with fresh garlic, roasted reds, salami & pepperoni",
+    "price": "8CUT $20 | 24CUT $33",
+    "section": "Pizza",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "SISTERSON JACK",
+    "description": "deconstructed esperanto dough boy tuned pizza, a scallion cream cheese white pizza with buffalo chicken, cheddar & mozzarella cheese",
+    "price": "8 CUT $20 | 24 CUT $35",
+    "section": "Pizza",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Pizza"
+  },
+  {
+    "name": "BAUER HAUER",
+    "description": "2 eggs over hard turkey, tomato, cheddar on grilled sour dough",
+    "price": "$8",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "BUENOS TARDES RAYMUNDO",
+    "description": "two eggs over hard with bacon, taco chicken & cheddar cheese on a hard roll",
+    "price": "$8",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "CANIZZO",
+    "description": "two eggs over hard with hot roast beef melted provolone & russian on grilled sour dough",
+    "price": "$8",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "CATALANO",
+    "description": "2 eggs over hard, grilled salami, melted provolone & spicy mustard on a grilled hard roll",
+    "price": "$8",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "CHAD BROWN",
+    "description": "two eggs fried hard blackened chicken bacon cheddar cheese & cajun mayo",
+    "price": "$8",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "D WAYNE LUKAS",
+    "description": "two eggs fried hard bacon lettuce tomato american cheese & mayo",
+    "price": "$8",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "DALLAS STEWART",
+    "description": "two scrambled eggs with ham onions peppers & swiss",
+    "price": "$8",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "DALE ROMANS",
+    "description": "two eggs scrambled with shaved buffalo chicken cheddar cheese & salsa",
+    "price": "$8",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "JAMES BOND",
+    "description": "two eggs fried hard avocado tomato & american cheese",
+    "price": "$8",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "KIERAN",
+    "description": "two eggs over hard with grilled A1 steak, peppers & cheddar cheese",
+    "price": "$8",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "MORLEY",
+    "description": "\"Bacon butt\" hickory smoked bacon piled high on buttery grilled country white bread with ketchup",
+    "price": "$8",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "NIKKI Z",
+    "description": "2 eggs over hard with bacon & american cheese on white bread \"not toasted\"",
+    "price": "$8",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Breakfast"
+  },
+  {
+    "name": "TODD PLETCHER",
+    "description": "two eggs fried hard bacon ham sausage & american cheese. Gluten Free Roll or Wrap available add $3",
+    "price": "$8",
+    "section": "Breakfast",
+    "restaurant_name": "Spring Street Deli & Pizzeria",
+    "restaurant_url": "https://springstreetdeli.net/",
+    "menu_type": "Specials",
+    "menu_name": "Breakfast"
+  }
+]
