@@ -1,0 +1,776 @@
+[
+  {
+    "name": "Oysters on the Half Shell",
+    "description": "Cocktail Sauce, Lemon | Add-ons: Add Caviar (MP)",
+    "price": "$24 | $47",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "STARTERS"
+  },
+  {
+    "name": "Jumbo Shrimp Cocktail",
+    "description": "(3) Cocktail Sauce, Lemon, Louie Aioli",
+    "price": "$24",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "STARTERS"
+  },
+  {
+    "name": "Chicken Wings",
+    "description": "(10) Gochujang, Blue Cheese",
+    "price": "$18",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "STARTERS"
+  },
+  {
+    "name": "Avocado Toast",
+    "description": "Avocado Mousse, Feta, Pickled Red Onion, Confit Mushrooms",
+    "price": "$18",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "STARTERS"
+  },
+  {
+    "name": "Land And Sea",
+    "description": "Beef Tartare, Tempura Shrimp, Crispy Rice, Furikake, Sweet Soy, Spicy Mayo",
+    "price": "$26",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "STARTERS"
+  },
+  {
+    "name": "Frito Misto",
+    "description": "Shrimp, Calamari, Shishito Peppers, Spicy Tomato",
+    "price": "$25",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "STARTERS"
+  },
+  {
+    "name": "Crab Tots",
+    "description": "Crab, Béarnaise, Preserved Lemon",
+    "price": "$25",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "STARTERS"
+  },
+  {
+    "name": "Chicory Caesar",
+    "description": "Romaine, Fennel, Sunchoke, Pine Nuts",
+    "price": "$18",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "Endive Salad",
+    "description": "Figs, Gorgonzola, Walnuts",
+    "price": "$18",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "Additions",
+    "description": "",
+    "price": "Chicken $9 | COULOTTE STEAK $11 | Salmon $9 | (2) JUMBO SHRIMP $16",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "Soup du Jour",
+    "description": "Ask Your Server",
+    "price": "MP",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "Chorizo Omelet",
+    "description": "Feta, Arugula, Tomato, Herb Salad",
+    "price": "$21",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "MAINS"
+  },
+  {
+    "name": "Short Rib Benedict",
+    "description": "Béarnaise, Herb Salad",
+    "price": "$26",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "MAINS"
+  },
+  {
+    "name": "French Toast",
+    "description": "Fried Chicken, Bacon Jam, Chipotle Butter, Maple",
+    "price": "$26",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "MAINS"
+  },
+  {
+    "name": "Dry Aged Burger",
+    "description": "Lettuce, Tomato, Onion, Cheddar, Steak Sauce Aioli, Potato Bun",
+    "price": "$25",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "MAINS"
+  },
+  {
+    "name": "Bison Burger",
+    "description": "Bacon Jam, Arugula, Comté Cheese",
+    "price": "$28",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "MAINS"
+  },
+  {
+    "name": "Chicken Club",
+    "description": "Bacon, Lettuce, Tomato, Avocado Mousse, Steak Sauce Aioli, Ciabatta",
+    "price": "$20",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "MAINS"
+  },
+  {
+    "name": "Chicken Salad Wrap",
+    "description": "Pine Nuts, Arugula, Tomato, Preserved Lemon Aioli",
+    "price": "$18",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "MAINS"
+  },
+  {
+    "name": "Steak Sandwich",
+    "description": "Coulotte Steak, Charred Onions, Steak Sauce, Gruyère, Local Mushrooms, Ciabatta",
+    "price": "$25",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "MAINS"
+  },
+  {
+    "name": "Pastrami Sandwich",
+    "description": "Fried Egg, Cheddar, Steak Sauce Aioli, Ciabatta",
+    "price": "$21",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "MAINS"
+  },
+  {
+    "name": "Steak Frites",
+    "description": "Filet Mignon, French Fries, Steak Sauce",
+    "price": "$45",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "MAINS"
+  },
+  {
+    "name": "Shrimp Linguini",
+    "description": "Shrimp, Asparagus, Jalapeño Pesto, Lemon",
+    "price": "$28",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "MAINS"
+  },
+  {
+    "name": "Add",
+    "description": "",
+    "price": "Add King Oyster Mushroom $4",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Lunch",
+    "menu_name": "MAINS"
+  },
+  {
+    "name": "Pork Wonton",
+    "description": "Ginger, Green Apple, Scallion, Curry Oil",
+    "price": "$21",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "STARTERS"
+  },
+  {
+    "name": "Crab Tater Tots",
+    "description": "Bearnaise, Preserved Lemon",
+    "price": "$18",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "STARTERS"
+  },
+  {
+    "name": "Land and Sea",
+    "description": "Torched Beef Tartare, Tempura Shrimp, Crispy Rice, Furikake, Sweet Soy, Spicy Mayo",
+    "price": "$26",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "STARTERS"
+  },
+  {
+    "name": "Fritto Misto",
+    "description": "Shrimp, Calamari, Cauliflower, Shishito Peppers, Spicy Tomato",
+    "price": "$25",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "STARTERS"
+  },
+  {
+    "name": "Chicken Wings",
+    "description": "(10) Gochujang, Blue Cheese",
+    "price": "$18",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "STARTERS"
+  },
+  {
+    "name": "Soup du Jour",
+    "description": "Ask Your Server",
+    "price": "MP",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "STARTERS"
+  },
+  {
+    "name": "Endive Salad",
+    "description": "Figs, Gorgonzola, Walnuts",
+    "price": "$18",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "Chicory Caesar",
+    "description": "Romaine, Fennel, Sunchoke, Pine Nuts",
+    "price": "$18",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "Oysters on the Half Shell",
+    "description": "Cocktail Sauce, Housemade Beer Vinegar, Lemon",
+    "price": "$24 | $47",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "RAW BAR"
+  },
+  {
+    "name": "Jumbo Shrimp Cocktail",
+    "description": "(3) Cocktail Sauce, Lemon, Louie Aioli",
+    "price": "$24",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "RAW BAR"
+  },
+  {
+    "name": "Gnocchi",
+    "description": "Short Rib, Celery Root, Kale, Parmesan",
+    "price": "$31",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "PASTA"
+  },
+  {
+    "name": "Pappardelle",
+    "description": "Rabbit Ragu, Fennel, Parmesan",
+    "price": "$30",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "PASTA"
+  },
+  {
+    "name": "Linguini",
+    "description": "Crab, Jalapeno Pesto, Cippolini Onions",
+    "price": "$39",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "PASTA"
+  },
+  {
+    "name": "Anolini",
+    "description": "Pumpkin with Brown Butter, Parmesan, Vincotto | Add-ons: Add Lump Crab Meat (MP)",
+    "price": "$39",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "PASTA"
+  },
+  {
+    "name": "Filet Mignon",
+    "description": "8oz., Potato Gratin, Comte, Broccolini, Cipploini",
+    "price": "$75",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "ENTREES"
+  },
+  {
+    "name": "Chicken Francaise",
+    "description": "Crab, Caviar, Spinach, Preserved Lemon, Potato Puree",
+    "price": "$39",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "ENTREES"
+  },
+  {
+    "name": "Osso Bucco",
+    "description": "Bone Marrow Risotto, Gremolata",
+    "price": "$60",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "ENTREES"
+  },
+  {
+    "name": "Norwegian Salmon",
+    "description": "Endive, Beets, Crab, Cauliflower, Béarnaise,",
+    "price": "$38",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "ENTREES"
+  },
+  {
+    "name": "Dry Aged Burger",
+    "description": "Lettuce, Tomato, Onion, Cheddar, Steak Sauce Aioli, Potato Bun, Pickle, Fries",
+    "price": "$25",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "ENTREES"
+  },
+  {
+    "name": "Ribeye",
+    "description": "Celery Root, Brussels Sprouts, Confit King Oyster Mushrooms, Bordelaise",
+    "price": "$95",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "ENTREES"
+  },
+  {
+    "name": "Root Vegetables",
+    "description": "Pecorino and Arugula",
+    "price": "$12",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SIDES"
+  },
+  {
+    "name": "Potato Purée",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SIDES"
+  },
+  {
+    "name": "Morrocan Cauliflower",
+    "description": "Shishito Peppers, Pickled Onion, Feta",
+    "price": "$12",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SIDES"
+  },
+  {
+    "name": "Chicken Tenders",
+    "description": "Honey Mustard, Fries",
+    "price": "$9",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Kids",
+    "menu_name": "KIDS ENTREES"
+  },
+  {
+    "name": "Macaroni and Cheese",
+    "description": "Orecchiette Pasta, Creamy Cheddar Cheese Sauce",
+    "price": "$10",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Kids",
+    "menu_name": "KIDS ENTREES"
+  },
+  {
+    "name": "Prime Jr. Burger",
+    "description": "4oz., Bun, Fries",
+    "price": "$14",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Kids",
+    "menu_name": "KIDS ENTREES"
+  },
+  {
+    "name": "Buttered Pasta",
+    "description": "Orecchiette with Butter",
+    "price": "$10",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Kids",
+    "menu_name": "KIDS ENTREES"
+  },
+  {
+    "name": "Brownie Skillet",
+    "description": "Dirty Chai, Coffee Caramel, Pecans, Ice Cream",
+    "price": "$15",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Desserts",
+    "menu_name": "DESSERTS"
+  },
+  {
+    "name": "Pumpkin Tiramisu",
+    "description": "Gingersnap, Pepitas, White Chocolate",
+    "price": "$14",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Desserts",
+    "menu_name": "DESSERTS"
+  },
+  {
+    "name": "Maple Crème Brulée",
+    "description": "Sweet Potato Mini Mac",
+    "price": "$15",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Desserts",
+    "menu_name": "DESSERTS"
+  },
+  {
+    "name": "Apple Cheddar Galette",
+    "description": "Red Currant, Salty Toffee, Vanilla Bean Ice Cream",
+    "price": "$13",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Desserts",
+    "menu_name": "DESSERTS"
+  },
+  {
+    "name": "Cranberry Cheesecake",
+    "description": "Pistachio, Cranberry Jam",
+    "price": "$14",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Desserts",
+    "menu_name": "DESSERTS"
+  },
+  {
+    "name": "Ta-Ta Fizz",
+    "description": "Tito’s, Pama, Lemon Juice, Agave, Prosecco, Lemon",
+    "price": "$16",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "SPECIALTY COCKTAILS"
+  },
+  {
+    "name": "Tokyo Mule",
+    "description": "Yuzu Vodka, Midori, Lime Juice, Ginger Beer, Cherry",
+    "price": "$16",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "SPECIALTY COCKTAILS"
+  },
+  {
+    "name": "Orchard Martini",
+    "description": "Fennel and Ginger Vodka, Pommes Vert Liqueur, Honey Syrup, Green Apple",
+    "price": "$17",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "SPECIALTY COCKTAILS"
+  },
+  {
+    "name": "Black Manhattan",
+    "description": "Basil Hayden Dark Rye, Averna, Angostura and Peychauds Bitters, Lemon Twist",
+    "price": "$17",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "SPECIALTY COCKTAILS"
+  },
+  {
+    "name": "Christmas in Cancun",
+    "description": "Lalo Blanco Tequila, Lime Juice, Cranberry Juice, Triple Sec, Agave, Rosemary",
+    "price": "$17",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "SPECIALTY COCKTAILS"
+  },
+  {
+    "name": "The Mezcal Whisper",
+    "description": "Casamigos Mezcal, Crème de Cacao, Orgeat Liqueur, Hot Agave, Orange Wedge",
+    "price": "$16",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "SPECIALTY COCKTAILS"
+  },
+  {
+    "name": "Earl Gray Cold Toddy",
+    "description": "Bourbon, Earl Gray Cold Tea, Honey Syrup, Dehydrated Orange, Star of Anise",
+    "price": "$16",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "SPECIALTY COCKTAILS"
+  },
+  {
+    "name": "Coors Light",
+    "description": "Domestic",
+    "price": "$6",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "DRAFT BEER"
+  },
+  {
+    "name": "Sam Adams Boston Lager",
+    "description": "Craft",
+    "price": "$7",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "DRAFT BEER"
+  },
+  {
+    "name": "Fiddlehead IPA",
+    "description": "Craft",
+    "price": "$8",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "DRAFT BEER"
+  },
+  {
+    "name": "Adirondack Cider",
+    "description": "Craft",
+    "price": "$6",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "DRAFT BEER"
+  },
+  {
+    "name": "Wolf Hollow Porter",
+    "description": "Craft",
+    "price": "$8",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "DRAFT BEER"
+  },
+  {
+    "name": "Ommegang Witte",
+    "description": "Craft",
+    "price": "$8",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "DRAFT BEER"
+  },
+  {
+    "name": "Modelo",
+    "description": "Import",
+    "price": "$7",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "DRAFT BEER"
+  },
+  {
+    "name": "Flower Power IPA",
+    "description": "Craft",
+    "price": "$8",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "DRAFT BEER"
+  },
+  {
+    "name": "Guiness",
+    "description": "Import",
+    "price": "$8",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "DRAFT BEER"
+  },
+  {
+    "name": "Peroni",
+    "description": "Import",
+    "price": "$7",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "DRAFT BEER"
+  },
+  {
+    "name": "Miller Lite",
+    "description": "Domestic",
+    "price": "$6",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "BOTTLES AND CANS"
+  },
+  {
+    "name": "Heineken & Heineken Silver",
+    "description": "Imports",
+    "price": "$7",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "BOTTLES AND CANS"
+  },
+  {
+    "name": "Coors Light",
+    "description": "Domestic",
+    "price": "$6",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "BOTTLES AND CANS"
+  },
+  {
+    "name": "Corona & Corona Light",
+    "description": "Imports",
+    "price": "$7",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "BOTTLES AND CANS"
+  },
+  {
+    "name": "Heineken 0.0",
+    "description": "Non-Alcoholic",
+    "price": "$5",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "BOTTLES AND CANS"
+  },
+  {
+    "name": "White Claw",
+    "description": "Imports",
+    "price": "$6",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "BOTTLES AND CANS"
+  },
+  {
+    "name": "Draft Beer",
+    "description": "Select Draft Beers",
+    "price": "$5",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "HAPPY HOUR"
+  },
+  {
+    "name": "Oysters",
+    "description": "",
+    "price": "$2",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "HAPPY HOUR"
+  },
+  {
+    "name": "Fritto Misto",
+    "description": "Shrimp, Calamari, Shishito Peppers, Spicy Tomato",
+    "price": "$15",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "HAPPY HOUR"
+  },
+  {
+    "name": "Red & White Wines",
+    "description": "Select",
+    "price": "$8",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "HAPPY HOUR"
+  },
+  {
+    "name": "Chicken Wings",
+    "description": "Gochujang, Blue Cheese",
+    "price": "$11",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "HAPPY HOUR"
+  },
+  {
+    "name": "Cocktails",
+    "description": "House Old Fashioned, Martini or Margarita",
+    "price": "$10",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "HAPPY HOUR"
+  },
+  {
+    "name": "Pita and Hummus",
+    "description": "Olives and Curry Oil",
+    "price": "$10",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "HAPPY HOUR"
+  },
+  {
+    "name": "Pork Wonton",
+    "description": "Ginger, Green Apple, Scallion, Curry Oil",
+    "price": "$16",
+    "restaurant_name": "Prime at Saratoga National",
+    "restaurant_url": "https://primeatsaratoganational.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "HAPPY HOUR"
+  }
+]

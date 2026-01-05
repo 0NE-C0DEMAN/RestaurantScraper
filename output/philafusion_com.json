@@ -1,0 +1,1577 @@
+[
+  {
+    "name": "SPICY MISO RAMEN",
+    "description": "Ramen noodle in spicy Miso broth topped with your choice of thin slice beef or Chashu (braised pork belly), cabbage, seaweeds, scallions, sesame seed and boiled egg",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "VEGETABLE RAMEN",
+    "description": "Ramen noodle in shoyu broth or Miso broth topped with shredded steamed vegetable seaweed, scallions, seasame seed and boiled egg.",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "HAKATA CLASSIC RAMEN",
+    "description": "Ramen Noodle in Tonkotsu (pork) broth or Miso broth topped Chashu (braised pork belly), cabbage, seaweed, pickle ginger, scallions, sesame, and boiled egg",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "BAMEE MOO DANG",
+    "description": "Egg noodle and bok choy in house clear broth topped with roast porkk, fried garlic, scallions and cilantro. With a choice of wonton, fish ball or fish tofu topping)",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "DUCK NOODLE SOUP",
+    "description": "Egg noodle and sliced roasted duck served with bean sprouts, black mushrooms and celery.",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "TOM YUM NOODLE SOUP",
+    "description": "Rice noodle with shrimp and grounded chicken in Thai hot & sour broth topped with fried wonton, grounded peanut and bean sprout, sprinkled with chili peppers, fried garlic, scallions and cilantro",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "BEEF STEW NOODLE SOUP",
+    "description": "Rice noodle or egg noodle and beef stew in Thai boat noodle broth topped with fried garlic, bean sprout, scallions and cilantro",
+    "price": "",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "KAO SOI (NOODLE CURRY)",
+    "description": "A choice of chicken, beef or tofu with noodle onion, bell pepper and scallion flavored with coconut curry, onion topped with crispy noodles.",
+    "price": "$10",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "PHO' SOUP",
+    "description": "**Vietnamese soup noodles in an aromatic broth, garnished w/ scallions, onions, and cilantro. **Served w/ bean sprouts, basil, mint and lime.",
+    "price": "Tofu & Vegetable $8 | Shredded Chicken $9 | Beef Eye Round $9 | Beef Brisket $9 | Shrimp $10 | Shrimp and Fish Ball $10 | Beef Eye Round & Brisket $10 | Seafood(shrimp,squid,scallop,fish ball $11 | Beef Eye Round, Brisket & Beef Ball $11",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "PAD KEE MOW (DRUNKEN NOODLE)",
+    "description": "Lomein noodle or large rice flat noodle stir-fried with shrimp, squid, scallop, carrots, bell peppers, zucchini, tomato and basil in Thai spicy sauce",
+    "price": "",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "WOK NOODLE"
+  },
+  {
+    "name": "LARDNA",
+    "description": "Stir-fried wide rice noodles topped with chicken, beef, pork, or tofu and chinese broccoli in Thai gravy sauce",
+    "price": "",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "WOK NOODLE"
+  },
+  {
+    "name": "PAD SEE EEW",
+    "description": "Large rice flat noodles stir-fried with house special soy sauce with chicken, beef, pork, or tofu, egg and Chinese broccoli",
+    "price": "",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "WOK NOODLE"
+  },
+  {
+    "name": "PAD THAI",
+    "description": "Rice noodle stir-fried in house Pad Thai sauce with chicken or tofu, bean sprouts, scallions, egg and crushed peanuts",
+    "price": "",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "WOK NOODLE"
+  },
+  {
+    "name": "LOMEIN",
+    "description": "Stir-fried yellow noodle with chicken, beef, pork or tofu, snow peas, carrots, bamboo shoot and bean sprouts",
+    "price": "",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "WOK NOODLE"
+  },
+  {
+    "name": "LARDNA",
+    "description": "Stir-fried wide rice noodles topped with chicken, beef, pork, or tofu and chinese broccoli in Thai gravy sauce",
+    "price": "",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "WOK NOODLE"
+  },
+  {
+    "name": "PAD KEE MOW (DRUNKEN NOODLE)",
+    "description": "Lomein noodle or large rice flat noodle stir-fried with shrimp, squid, scallop, carrots, bell peppers, zucchini, tomato and basil in Thai spicy sauce",
+    "price": "",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "WOK NOODLE"
+  },
+  {
+    "name": "YAKI UDON",
+    "description": "Stir-fried Udon noodle with vegetable and choice of chicken, beef, pork or tofu in house japanese stir-fried sauce",
+    "price": "",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "WOK NOODLE"
+  },
+  {
+    "name": "CRISPY PAD THAI",
+    "description": "Crispy yellow noodles tossed with chicken OR tofu , bean sprouts, egg, scallions, and crushed peanuts. Chicken, beef, pork, or tofu 10 Shrimp, scallop, or squid 11",
+    "price": "",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "WOK NOODLE"
+  },
+  {
+    "name": "PAD THAI",
+    "description": "Rice noodle stir-fried in house Pad Thai sauce with chicken or tofu, bean sprouts, scallions, egg and crushed peanuts",
+    "price": "",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "WOK NOODLE"
+  },
+  {
+    "name": "PAD SEE EEW",
+    "description": "Large rice flat noodles stir-fried with house special soy sauce with chicken, beef, pork, or tofu, egg and Chinese broccoli",
+    "price": "",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "WOK NOODLE"
+  },
+  {
+    "name": "RICE VERMICELLI NOODLE WITH GRILLED PORK",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "RICE VERMICELLI NOODLES"
+  },
+  {
+    "name": "RICE VERMICELLI NOODLE WITH GARLIC SHRIMP",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "RICE VERMICELLI NOODLES"
+  },
+  {
+    "name": "RICE VERMICELLI NOODLE WITH CHICKEN THAI BASIL",
+    "description": "Minced chicken in Thai basil sauce",
+    "price": "$10",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "RICE VERMICELLI NOODLES"
+  },
+  {
+    "name": "ROAST PORK FRIED RICE",
+    "description": "Stir-fried roast pork, vegetables and egg",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "FRIED RICE"
+  },
+  {
+    "name": "VEGETABLE FRIED RICE",
+    "description": "Stir-fried rice with tofu, mixed vegetables and egg",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "FRIED RICE"
+  },
+  {
+    "name": "THAI BASIL FRIED RICE",
+    "description": "Stir-fried rice with minced chicken or tofu with basil leaves, chili peppers, onions and scallions.",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "FRIED RICE"
+  },
+  {
+    "name": "PAD PAK RUAM MIT",
+    "description": "Sauteed fried tofu and fresh garden vegetables in a light brown sauce.",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "BOK CHOY",
+    "description": "Sauteed bok choy with black mushroom",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "ROAST PORK AND BOILED EGG",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "ROAST DUCK AND BOILED EGG",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "GENERAL TAO'S CHICKEN",
+    "description": "Chunky crispy chicken with red pepper",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "BIBIMBAB",
+    "description": "A famous Korean rice dish with a choice of sliced beef or pork with special seasoned steamed vegetables on rice topped with sunny side up egg. Served with spicy Korean sauce and Korean side dishes",
+    "price": "$12",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "KALBI",
+    "description": "A traditional Korean barbeque prime ribs. Served with Korean side dishes and white rice",
+    "price": "$16",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "KIMCHI CHIGAE",
+    "description": "A spicy stew of kimchee, pork, scallions, sliced rice cake and tofu. Served with Korean side dishes and white rice.",
+    "price": "$10",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "ASIAN BEEF STEW",
+    "description": "Slow cooked beef stew with spices and steamed bok choy in delicate beef broth. Served with white rice.",
+    "price": "$11",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "SESAME CHICKEN",
+    "description": "Chunky crispy chicken with sweet & sour sauce",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "GARLIC BEEF, PORK, OR CHICKEN",
+    "description": "",
+    "price": "$10",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "GREEN CURRY CURRY",
+    "description": "Choice of your favorite meat or tofu with vegetables in green curry. Served with white rice",
+    "price": "Chicken, Beef, Pork, OR tofu $9 | Shrimp, Scallop, Squid, OR Duck $11",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "SOON DOO BOO CHIGAE",
+    "description": "A spicy soft tofu stew with seafood and scallions. Served with Korean side dishes and white rice.",
+    "price": "$10",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "BULGOI",
+    "description": "Tender, thinly sliced beef marinated in a special sauce. Served with Korean side dishes and white rice.",
+    "price": "$10",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "GAI GRA PROW",
+    "description": "Grounded chicken with Thai basil sauce",
+    "price": "$11",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "SPICY KOREAN PORK",
+    "description": "Sliced pork in a sweet and spicy soy sauce and chili paste. Served with Korean side dishes and white rice.",
+    "price": "$10",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "KAR NAR NUM MAN HOI",
+    "description": "Sauteed Chinese Broccoli",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "PHIL LUNCH SPECIALS"
+  },
+  {
+    "name": "SUSHI LUNCH",
+    "description": "Assorted sushi nigiris and California Roll. Serve with chefâs salad",
+    "price": "$11",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "SUSHI BAR"
+  },
+  {
+    "name": "MAKIMONO COMBO",
+    "description": "Choice of 3 Rolls: California roll, Tuna roll, Salmon Roll, Yellowtail Roll, Avocado roll, Cucumber roll, Sweet Potato roll.",
+    "price": "$12",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Lunch",
+    "menu_name": "SUSHI BAR"
+  },
+  {
+    "name": "FRIED CALAMARI",
+    "description": "Fried garlic squid served with house sweet chili sauce",
+    "price": "$8",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "STEAMED MUSSEL",
+    "description": "Steamed mussel with Thai basil and galangal served with Thai seafood sauce",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "CRAB RANGOON",
+    "description": "Crispy wonton skin filled with cream cheese, crabmeat, carrot and onion served with sweet and sour sauce",
+    "price": "$6",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "CRISPY FISH BALL",
+    "description": "Fried fish ball, served with sweet & sour sauce",
+    "price": "$6",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "ASIAN WINGS",
+    "description": "Chicken wings with a choice of your favorite sauce",
+    "price": "6 pcs $6 | 12 pcs $10",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "EDAMAME",
+    "description": "Steamed soy bean lightly salted",
+    "price": "$6",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "CRISPY SPRING ROLLS",
+    "description": "Mixed vegetable and clear noodle wrapped with spring roll skin, fried and served with house sweet & sour sauce.",
+    "price": "$6",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "FRESH ROLLS",
+    "description": "Lettuce, carrot, vermicelli noodle and basil, with Shrimp or Tofu, wrapped in rice paper, served with house special sauce topped with crushed peanut",
+    "price": "$7",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "GYOZA",
+    "description": "Steamed pork or vegetable Japanese dumpling served with ginger dipping sauce sauce",
+    "price": "$6",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "SHUMAI",
+    "description": "Steamed Pork or Shrimp shumai served with ginger dipping sauce",
+    "price": "$6",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "SWEET POTATO FRIES",
+    "description": "Crispy sweet potato tempura served with Eel sauce",
+    "price": "$6",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "MOO YANG (THAI BBQ PORK)",
+    "description": "Marinated pork (Thai style) served with sweet chili sauce",
+    "price": "$7",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "KAKI FRY",
+    "description": "Fried oyster served with house special sauce",
+    "price": "$7",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "SCALLION PAJUN",
+    "description": "Korean scallion pancake",
+    "price": "$7",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "BUNS",
+    "description": "Two steamed buns filled with lettuce and your choice of Asian Roast Pork or Braised Pork Belly",
+    "price": "$7",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "FISH TOFU",
+    "description": "Fried fish tofu, served with sweet chili sauce",
+    "price": "$6",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "MISO SOUP",
+    "description": "",
+    "price": "$2.50",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SOUP"
+  },
+  {
+    "name": "TOM YUM GOOG",
+    "description": "Shrimp, red onion, tomato, and mushroom in Thai creamy hot and sour broth seasoned with Thai herb, lemon juice, scallions, and cilantro.",
+    "price": "$6",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SOUP"
+  },
+  {
+    "name": "KING OF THE SEA",
+    "description": "Mixed seafood in spicy hot and sour broth flavored with mushroom, Thai herb, lemon juice, scallions, cilantro, and hot chili basil.",
+    "price": "$7",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SOUP"
+  },
+  {
+    "name": "WONTON SOUP",
+    "description": "Marinated minced chicken in wonton wrapper and scallions in chicken broth",
+    "price": "$5",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SOUP"
+  },
+  {
+    "name": "YUM TALAY",
+    "description": "Mixed seafood with onion, tomato, scallions, mixed with chili paste and spicy lime juice sauce, topped with cilantro",
+    "price": "$12",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SALAD"
+  },
+  {
+    "name": "YUM MA MA",
+    "description": "Ramen noodle, minced chicken, shrimp, tomato and red onion mixed with chili paste and spicy lime juice sauce, topped with scallions and cilantro",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SALAD"
+  },
+  {
+    "name": "SOM TUM (PAPAYA SALAD)",
+    "description": "Shredded green papaya with a choice of Shrimp or Tofu, tomatoes, carrots, peanuts in a spicy, sweet and sour lime juice sauce",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SALAD"
+  },
+  {
+    "name": "GREEN SALAD",
+    "description": "Fresh green salad with house sesame dressing or peanut dressing",
+    "price": "$4",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SALAD"
+  },
+  {
+    "name": "SEAWEED SALAD",
+    "description": "Cold seasoned green seaweed",
+    "price": "$6",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SALAD"
+  },
+  {
+    "name": "SOM TUM TOD (CRISPY PAPAYA SALAD)",
+    "description": "Lightly batter fried shredded green papaya with tomatoes, carrots and peanuts in a spicy lime juice",
+    "price": "$11",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SALAD"
+  },
+  {
+    "name": "SPICY CHICKEN SALAD",
+    "description": "Grounded chicken, red onion, scallions, and chili powder mixed with house special lime dressing topped with peanut and cilantro",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SALAD"
+  },
+  {
+    "name": "PHO' SOUP",
+    "description": "Vietnamese soup noodles in an aromatic broth, garnished w/ scallions, onions, and cilantro. Served w/ bean sprouts, basil, mint and lime.",
+    "price": "Shredded Chicken $12 | Beef Eye Round $12 | Beef Brisket $12 | Tofu & Vegetable $12 | Shrimp $13 | Beef Eye Round & Brisket $13 | Beef Eye Round, Brisket & Beef Ball $14 | Shrimp and Fish Ball $14 | Seafood(shrimp,squid,scallop,fish ball $15",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "UDON SOUP",
+    "description": "A choice of chicken, beef, pork or mixed vegetables w/ white wheat udon noodle in hot japanese broth",
+    "price": "$12",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "DUCK NOODLE SOUP",
+    "description": "Egg noodle and sliced roasted duck served with bean sprouts, black mushrooms and celery.",
+    "price": "$12",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "KAO SOI (NOODLE CURRY)",
+    "description": "A choice of chicken, beef or tofu with noodle onion, bell pepper and scallion flavored with coconut curry, onion topped with crispy noodles.",
+    "price": "$13",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "SPICY MISO RAMEN",
+    "description": "Ramen noodle in spicy Miso broth topped with your choice of thin slice beef or Chashu (braised pork belly), cabbage, seaweeds, scallions, sesame seed and boiled egg",
+    "price": "$14",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "VEGETABLE RAMEN",
+    "description": "Ramen noodle in shoyu broth or Miso broth topped with shredded steamed vegetable seaweed, scallions, seasame seed and boiled egg.",
+    "price": "$14",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "HAKATA CLASSIC RAMEN",
+    "description": "Ramen Noodle in Tonkotsu (pork) broth or Miso broth topped Chashu (braised pork belly), cabbage, seaweed, pickle ginger, scallions, sesame, and boiled egg",
+    "price": "$14",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "BEEF STEW NOODLE SOUP",
+    "description": "Rice noodle or egg noodle and beef stew in Thai boat noodle broth topped with fried garlic, bean sprout, scallions and cilantro",
+    "price": "$13",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "TOM YUM NOODLE SOUP",
+    "description": "Rice noodle with shrimp and grounded chicken in Thai hot & sour broth topped with fried wonton, grounded peanut and bean sprout, sprinkled with chili peppers, fried garlic, scallions and cilantro",
+    "price": "$12",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "BAMEE MOO DANG",
+    "description": "Egg noodle and bok choy in house clear broth topped with roast porkk, fried garlic, scallions and cilantro. With a choice of wonton, fish ball or fish tofu topping)",
+    "price": "$12",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "NOODLE SOUP"
+  },
+  {
+    "name": "CRISPY PAD THAI",
+    "description": "(choice of chicken or tofu) Crispy yellow noodles tossed with chicken OR tofu , bean sprouts, egg, scallions, and crushed peanuts",
+    "price": "$13",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "WOK NOODLE (DINNER)"
+  },
+  {
+    "name": "LOMEIN",
+    "description": "Stir-fried yellow noodle with chicken, beef, pork or tofu, snow peas, carrots, bamboo shoot and bean sprouts",
+    "price": "$12",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "WOK NOODLE (DINNER)"
+  },
+  {
+    "name": "LARDNA",
+    "description": "Stir-fried wide rice noodles topped with chicken, beef, pork, or tofu and chinese broccoli in Thai gravy sauce",
+    "price": "$12",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "WOK NOODLE (DINNER)"
+  },
+  {
+    "name": "PAD THAI",
+    "description": "Rice noodle stir-fried in house Pad Thai sauce with chicken or tofu, bean sprouts, scallions, egg and crushed peanuts",
+    "price": "$12",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "WOK NOODLE (DINNER)"
+  },
+  {
+    "name": "PAD SEE EEW",
+    "description": "Large rice flat noodles stir-fried with house special soy sauce with chicken, beef, pork, or tofu, egg and Chinese broccoli",
+    "price": "$12",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "WOK NOODLE (DINNER)"
+  },
+  {
+    "name": "SEAFOOD KEE MOW (DRUNKEN NOODLE)",
+    "description": "Lomein noodle or large rice flat noodle stir-fried with shrimp, squid, scallop, carrots, bell peppers, zucchini, tomato and basil in Thai spicy sauce",
+    "price": "$14",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "WOK NOODLE (DINNER)"
+  },
+  {
+    "name": "YAKI UDON",
+    "description": "Stir-fried Udon noodle with vegetable and choice of chicken, beef, pork or tofu in house japanese stir-fried sauce",
+    "price": "$12",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "WOK NOODLE (DINNER)"
+  },
+  {
+    "name": "RICE VERMICELLI NOODLE WITH GRILLED PORK",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "RICE VERMICELLI NOODLES (DINNER)"
+  },
+  {
+    "name": "RICE VERMICELLI NOODLE WITH CHICKEN THAI BASIL",
+    "description": "Minced chicken in Thai basil sauce",
+    "price": "$14",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "RICE VERMICELLI NOODLES (DINNER)"
+  },
+  {
+    "name": "RICE VERMICELLI NOODLE WITH SEAFOOD BASIL",
+    "description": "Mixed seafood in Thai basil sauce",
+    "price": "$15",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "RICE VERMICELLI NOODLES (DINNER)"
+  },
+  {
+    "name": "RICE VERMICELLI NOODLE WITH GARLIC SEAFOOD",
+    "description": "",
+    "price": "$15",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "RICE VERMICELLI NOODLES (DINNER)"
+  },
+  {
+    "name": "RICE VERMICELLI NOODLE WITH GARLIC SHRIMP",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "RICE VERMICELLI NOODLES (DINNER)"
+  },
+  {
+    "name": "THAI BASIL FRIED RICE",
+    "description": "Stir-fried rice with minced chicken or tofu with basil leaves, chili peppers, onions and scallions.",
+    "price": "$11",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "FRIED RICE"
+  },
+  {
+    "name": "MANGO FRIED RICE",
+    "description": "Stir-fried rice w/ chicken and shrimp, mango, egg, onions, carrots, green peas, cashew nuts and curry powder",
+    "price": "$12",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "FRIED RICE"
+  },
+  {
+    "name": "ROAST PORK FRIED RICE",
+    "description": "Stir-fried roast pork, vegetables and egg",
+    "price": "$12",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "FRIED RICE"
+  },
+  {
+    "name": "VEGETABLE FRIED RICE",
+    "description": "Stir-fried rice with tofu, mixed vegetables and egg",
+    "price": "$11",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "FRIED RICE"
+  },
+  {
+    "name": "PAD PAK RUAM MIT ENTREE",
+    "description": "Sauteed fried tofu and fresh garden vegetables in a light brown sauce",
+    "price": "$14",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "MEAT & VEGETABLE ENTREES"
+  },
+  {
+    "name": "ROAST PORK AND BOILED EGG ENTREE",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "MEAT & VEGETABLE ENTREES"
+  },
+  {
+    "name": "DUCK GRA PROW ENTREE",
+    "description": "Crispy boneless duck with Thai basil sauce",
+    "price": "$20",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "MEAT & VEGETABLE ENTREES"
+  },
+  {
+    "name": "KAR NAR NUM MAN HOI ENTREE",
+    "description": "Sauteed Chinese Broccoli",
+    "price": "$14",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "MEAT & VEGETABLE ENTREES"
+  },
+  {
+    "name": "SEAFOOD GRA PROW ENTREE",
+    "description": "Mixed seafood Thai basil sauce",
+    "price": "$19",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "MEAT & VEGETABLE ENTREES"
+  },
+  {
+    "name": "GAI GRA PROW ENTREE",
+    "description": "Grounded chicken with Thai basil sauce",
+    "price": "$16",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "MEAT & VEGETABLE ENTREES"
+  },
+  {
+    "name": "SESAME CHICKEN ENTREE",
+    "description": "Chunky crispy chicken with sweet and sour sauce",
+    "price": "$15",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "MEAT & VEGETABLE ENTREES"
+  },
+  {
+    "name": "BOK CHOY ENTREE",
+    "description": "Sauteed bok choy with black mushroom",
+    "price": "$14",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "MEAT & VEGETABLE ENTREES"
+  },
+  {
+    "name": "GARLIC SEAFOOD ENTREE",
+    "description": "",
+    "price": "$17",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "MEAT & VEGETABLE ENTREES"
+  },
+  {
+    "name": "GENERAL TAO'S CHICKEN ENTREE",
+    "description": "Chunky crispy chicken with red pepper",
+    "price": "$15",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "MEAT & VEGETABLE ENTREES"
+  },
+  {
+    "name": "GARLIC SHRIMP ENTREE",
+    "description": "",
+    "price": "$15",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "MEAT & VEGETABLE ENTREES"
+  },
+  {
+    "name": "GARLIC BEEF, PORK, OR CHICKEN",
+    "description": "",
+    "price": "$13",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "MEAT & VEGETABLE ENTREES"
+  },
+  {
+    "name": "ROAST DUCK AND BOILED EGG ENTREE",
+    "description": "",
+    "price": "$14",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "MEAT & VEGETABLE ENTREES"
+  },
+  {
+    "name": "EEL SAUCE",
+    "description": "",
+    "price": "$1",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "TOPPINGS AND SIDE ORDERS"
+  },
+  {
+    "name": "PEANUT SAUCE",
+    "description": "",
+    "price": "$1",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "TOPPINGS AND SIDE ORDERS"
+  },
+  {
+    "name": "HONEY SESAME DRESSING",
+    "description": "",
+    "price": "$1",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "TOPPINGS AND SIDE ORDERS"
+  },
+  {
+    "name": "STEAMED VEGGIES",
+    "description": "",
+    "price": "$4",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "TOPPINGS AND SIDE ORDERS"
+  },
+  {
+    "name": "NOODLE",
+    "description": "",
+    "price": "Egg Noodle $3.50 | Wide Rice Noodle $3.50 | Vermicelli Noodle $3.50 | Udon Noodle $3.50 | Rice Noodle $3.50 | Lomein Noodle $3.50",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "TOPPINGS AND SIDE ORDERS"
+  },
+  {
+    "name": "STICKY RICE",
+    "description": "",
+    "price": "$2.25",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "TOPPINGS AND SIDE ORDERS"
+  },
+  {
+    "name": "BROWN RICE",
+    "description": "",
+    "price": "$2.25",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "TOPPINGS AND SIDE ORDERS"
+  },
+  {
+    "name": "BOILED EGG",
+    "description": "",
+    "price": "$1.50",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "TOPPINGS AND SIDE ORDERS"
+  },
+  {
+    "name": "CHASHU",
+    "description": "",
+    "price": "$3.50",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "TOPPINGS AND SIDE ORDERS"
+  },
+  {
+    "name": "FISH TOFU",
+    "description": "",
+    "price": "$2",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "TOPPINGS AND SIDE ORDERS"
+  },
+  {
+    "name": "WHITE RICE",
+    "description": "",
+    "price": "$1.75",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "TOPPINGS AND SIDE ORDERS"
+  },
+  {
+    "name": "BIBIMBAB",
+    "description": "A famous Korean rice dish with a choice of sliced beef or pork with special seasoned steamed vegetables on rice topped with sunny side up egg. Served with spicy Korean sauce and Korean side dishes",
+    "price": "$16",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "CASSEROLE AND SIZZLING"
+  },
+  {
+    "name": "BULGOI",
+    "description": "Tender, thinly sliced beef marinated in a special sauce. Served with Korean side dishes and white rice.",
+    "price": "$16",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "CASSEROLE AND SIZZLING"
+  },
+  {
+    "name": "KALBI",
+    "description": "A traditional Korean barbeque prime ribs. Served with Korean side dishes and white rice",
+    "price": "$16",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "CASSEROLE AND SIZZLING"
+  },
+  {
+    "name": "SPICY KOREAN PORK",
+    "description": "Sliced pork in a sweet and spicy soy sauce and chili paste. Served with Korean side dishes and white rice.",
+    "price": "$16",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "CASSEROLE AND SIZZLING"
+  },
+  {
+    "name": "KIMCHI CHIGAE",
+    "description": "A spicy stew of kimchee, pork, scallions, sliced rice cake and tofu. Served with Korean side dishes and white rice.",
+    "price": "$16",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "CASSEROLE AND SIZZLING"
+  },
+  {
+    "name": "CHICKEN MASSAMAN CURRY",
+    "description": "Tender chicken in Massaman curry with cashew nut and sweet potato. Served with cucumber sauce and steamed white rice.",
+    "price": "$18",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "CASSEROLE AND SIZZLING"
+  },
+  {
+    "name": "MANGO CURRY",
+    "description": "Shrimp and chicken, mango chunk, tomato, squash, bell pepper and baby corn in house special curry sauce. Served with white rice.",
+    "price": "$18",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "CASSEROLE AND SIZZLING"
+  },
+  {
+    "name": "EMERALD CURRY",
+    "description": "Tender beef in green curry and coconut milk with green vegetables. Served with white rice.",
+    "price": "$18",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "CASSEROLE AND SIZZLING"
+  },
+  {
+    "name": "ASIAN BEEF STEW",
+    "description": "Slow cooked beef stew with spices and steamed bok choy in delicate beef broth. Served with white rice.",
+    "price": "$17",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "CASSEROLE AND SIZZLING"
+  },
+  {
+    "name": "SOON DOO BOO CHIGAE",
+    "description": "A spicy soft tofu stew with seafood and scallions. Served with Korean side dishes and white rice.",
+    "price": "$16",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "CASSEROLE AND SIZZLING"
+  },
+  {
+    "name": "ASIAN STEAK",
+    "description": "Grilled Asian marinated New York strip with garden vegetables. Served with white rice",
+    "price": "$19",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Dinner",
+    "menu_name": "CASSEROLE AND SIZZLING"
+  },
+  {
+    "name": "SUSHI PIZZA",
+    "description": "Crispy wonton topped with sushi rice, crab stick, mayo, masago, avocado, fresh salmon, sesame seed, and Japanese sweet sauce.",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "REFRESHING"
+  },
+  {
+    "name": "PHILA FUSION TOWER",
+    "description": "Layers of sushi rice, mixed with fresh tuna & crab stick with spicy mayo, and avocado guacamole. Served with Eel sauce and fried wonton.",
+    "price": "$10",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "REFRESHING"
+  },
+  {
+    "name": "SALMON TARTARE",
+    "description": "Raw salmon mixed with cucumber, shallot, scallions, and house special sauce.",
+    "price": "$11",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "REFRESHING"
+  },
+  {
+    "name": "SUSHI STARTER",
+    "description": "5 pieces of assorted sushi (Chefâs Choice)",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "REFRESHING"
+  },
+  {
+    "name": "SASHIMI STARTER",
+    "description": "SASHIMI STARTER",
+    "price": "$11",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "REFRESHING"
+  },
+  {
+    "name": "SALMON SKIN SALAD",
+    "description": "Salmon skin topped with cashew nuts, masago, scallions, and sweet & spicy sauce.",
+    "price": "$7",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "REFRESHING"
+  },
+  {
+    "name": "JALAPENO HAMACHI",
+    "description": "Thin sliced yellowtail with Ponzu sauce and sliced jalapeno.",
+    "price": "$11",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "REFRESHING"
+  },
+  {
+    "name": "TUNA UKKE",
+    "description": "Raw tuna in spicy sauce mixed with orange, cucumber, scallions, and sesame oil",
+    "price": "$10",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "REFRESHING"
+  },
+  {
+    "name": "HAMACHI / YELLOWTAIL",
+    "description": "",
+    "price": "$2.50",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI / SASHIMI"
+  },
+  {
+    "name": "KANI / CRAB STICK",
+    "description": "",
+    "price": "$2.00",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI / SASHIMI"
+  },
+  {
+    "name": "MAGURO / TUNA",
+    "description": "",
+    "price": "$2.50",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI / SASHIMI"
+  },
+  {
+    "name": "AVOCADO, CUCUMBER, OR ASPARAGUS",
+    "description": "",
+    "price": "$1.50",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI / SASHIMI"
+  },
+  {
+    "name": "EBI / SHRIMP",
+    "description": "",
+    "price": "$2.00",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI / SASHIMI"
+  },
+  {
+    "name": "UNAGI / EEL",
+    "description": "",
+    "price": "$2.50",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI / SASHIMI"
+  },
+  {
+    "name": "SAKE / SALMON",
+    "description": "",
+    "price": "$2.50",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI / SASHIMI"
+  },
+  {
+    "name": "MASAGO / SMELT EGG",
+    "description": "",
+    "price": "$2.50",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI / SASHIMI"
+  },
+  {
+    "name": "SHRIMP TEMPURA ROLL",
+    "description": "Shrimp tempura, avocado, asparagus, and masago",
+    "price": "$10",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI ROLLS"
+  },
+  {
+    "name": "DAIMYO MAKI ROLL",
+    "description": "Tuna, salmon, yellowtail, avocado, asparagus, scallions, and masago",
+    "price": "$12",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI ROLLS"
+  },
+  {
+    "name": "GREEN WAVE ROLL",
+    "description": "Fish tempura, asparagus, and scallions with avocado on top, fish tempura on the side served with spicy mayo",
+    "price": "$14",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI ROLLS"
+  },
+  {
+    "name": "PHOENIX ROLL",
+    "description": "Crab sticks, cucumber, lettuce, spicy mayo, and sesame seed rolled inside out topped with salmon, blazed with torch, and sprinkled with masago.",
+    "price": "$14",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI ROLLS"
+  },
+  {
+    "name": "ANACONDA ROLL",
+    "description": "Crunchy oysters, romaine, asparagus, scallions, and sesame seed, rolled inside out, topped with eel and avocado, and sprinkled with masago.",
+    "price": "$16",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI ROLLS"
+  },
+  {
+    "name": "CALIFORNIA ROLL",
+    "description": "Crab, avocado, cucumber, masago, and sesame seed",
+    "price": "$6",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI ROLLS"
+  },
+  {
+    "name": "AVOCADO CUCUMBER ROLL",
+    "description": "Avocado and cucumber roll",
+    "price": "$6",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI ROLLS"
+  },
+  {
+    "name": "SWEET POTATO ROLL",
+    "description": "Sweet potato tempura roll served with Japanese sweet sauce",
+    "price": "$7",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI ROLLS"
+  },
+  {
+    "name": "SALMON AVOCADO ROLL",
+    "description": "",
+    "price": "$7",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI ROLLS"
+  },
+  {
+    "name": "TUNA ROLL / SALMON ROLL / YELLOWTAIL ROLL",
+    "description": "A choice of tuna, salmon, OR yellowtail rolled with scallions",
+    "price": "$6",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI ROLLS"
+  },
+  {
+    "name": "SPICY TUNA ROLL / SPICY SALMON ROLL",
+    "description": "Spicy tuna OR spicy salmon, cucumber, scallions and sesame seed topped with sliced jalapeno",
+    "price": "$8",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Sushi Bar",
+    "menu_name": "SUSHI ROLLS"
+  },
+  {
+    "name": "CHEESECAKE TEMPURA",
+    "description": "",
+    "price": "$5",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Desserts and Beverages",
+    "menu_name": "DESSERTS"
+  },
+  {
+    "name": "BANANA TEMPURA WITH ICE CREAM",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Desserts and Beverages",
+    "menu_name": "DESSERTS"
+  },
+  {
+    "name": "MOCHI ICE CREAM",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Desserts and Beverages",
+    "menu_name": "DESSERTS"
+  },
+  {
+    "name": "GREEN TEA ICE CREAM",
+    "description": "",
+    "price": "$3.50",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Desserts and Beverages",
+    "menu_name": "DESSERTS"
+  },
+  {
+    "name": "CHEESECAKE",
+    "description": "",
+    "price": "$4",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Desserts and Beverages",
+    "menu_name": "DESSERTS"
+  },
+  {
+    "name": "RED BEAN ICE CREAM",
+    "description": "",
+    "price": "$3.50",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Desserts and Beverages",
+    "menu_name": "DESSERTS"
+  },
+  {
+    "name": "BOK CHOY ENTREE",
+    "description": "Sauteed bok choy with black mushroom",
+    "price": "$14",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Desserts and Beverages",
+    "menu_name": "BEVERAGES"
+  },
+  {
+    "name": "SPICY MISO RAMEN",
+    "description": "Ramen noodle in spicy Miso broth topped with your choice of thin slice beef or Chashu (braised pork belly), cabbage, seaweeds, scallions, sesame seed and boiled egg",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Desserts and Beverages",
+    "menu_name": "BEVERAGES"
+  },
+  {
+    "name": "VEGETABLE RAMEN",
+    "description": "Ramen noodle in shoyu broth or Miso broth topped with shredded steamed vegetable seaweed, scallions, seasame seed and boiled egg.",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Desserts and Beverages",
+    "menu_name": "BEVERAGES"
+  },
+  {
+    "name": "HAKATA CLASSIC RAMEN",
+    "description": "Ramen Noodle in Tonkotsu (pork) broth or Miso broth topped Chashu (braised pork belly), cabbage, seaweed, pickle ginger, scallions, sesame, and boiled egg",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Desserts and Beverages",
+    "menu_name": "BEVERAGES"
+  },
+  {
+    "name": "PHO' SOUP",
+    "description": "**Vietnamese soup noodles in an aromatic broth, garnished w/ scallions, onions, and cilantro. **Served w/ bean sprouts, basil, mint and lime.",
+    "price": "Tofu & Vegetable $8 | Shredded Chicken $9 | Beef Eye Round $9 | Beef Brisket $9 | Shrimp $10 | Shrimp and Fish Ball $10 | Beef Eye Round & Brisket $10 | Seafood(shrimp,squid,scallop,fish ball $11 | Beef Eye Round, Brisket & Beef Ball $11",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Desserts and Beverages",
+    "menu_name": "BEVERAGES"
+  },
+  {
+    "name": "BEEF STEW NOODLE SOUP",
+    "description": "Rice noodle or egg noodle and beef stew in Thai boat noodle broth topped with fried garlic, bean sprout, scallions and cilantro",
+    "price": "",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Desserts and Beverages",
+    "menu_name": "BEVERAGES"
+  },
+  {
+    "name": "KAO SOI (NOODLE CURRY)",
+    "description": "A choice of chicken, beef or tofu with noodle onion, bell pepper and scallion flavored with coconut curry, onion topped with crispy noodles.",
+    "price": "$10",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Desserts and Beverages",
+    "menu_name": "BEVERAGES"
+  },
+  {
+    "name": "BAMEE MOO DANG",
+    "description": "Egg noodle and bok choy in house clear broth topped with roast porkk, fried garlic, scallions and cilantro. With a choice of wonton, fish ball or fish tofu topping)",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Desserts and Beverages",
+    "menu_name": "BEVERAGES"
+  },
+  {
+    "name": "DUCK NOODLE SOUP",
+    "description": "Egg noodle and sliced roasted duck served with bean sprouts, black mushrooms and celery.",
+    "price": "$9",
+    "restaurant_name": "Phila Fusion",
+    "restaurant_url": "https://philafusion.com/",
+    "menu_type": "Desserts and Beverages",
+    "menu_name": "BEVERAGES"
+  }
+]

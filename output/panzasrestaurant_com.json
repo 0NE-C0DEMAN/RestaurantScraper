@@ -1,0 +1,1451 @@
+[
+  {
+    "name": "Fried Calamari",
+    "description": "Lightly fried, served with spicy marinara or hot cherry peppers & lemon aioli",
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APERITIVI & SMALL PLATES"
+  },
+  {
+    "name": "Clams Casino",
+    "description": "Whole clams, bacon, seasoned vegetable stuffing",
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APERITIVI & SMALL PLATES"
+  },
+  {
+    "name": "Ma Panza's Meatballs",
+    "description": "Slow-simmered meatballs, San Marzano tomatoes, creamy ricotta, pecorino romano",
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APERITIVI & SMALL PLATES"
+  },
+  {
+    "name": "Bruschetta Trio",
+    "description": "Served with toasted artisan bread • classic tomato • butternut squash, sage & ricotta • wild mushroom, goat cheese & thyme",
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APERITIVI & SMALL PLATES"
+  },
+  {
+    "name": "Mozzarella Fritta",
+    "description": "House marinara, parmesan reggiano",
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APERITIVI & SMALL PLATES"
+  },
+  {
+    "name": "Jumbo Shrimp Cocktail",
+    "description": "Three chilled jumbo shrimp, house-made cocktail sauce",
+    "price": "$21",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APERITIVI & SMALL PLATES"
+  },
+  {
+    "name": "Chef Dan's Utica Greens for two",
+    "description": "Escarole, pancetta, prosciutto, hot cherry peppers, oreganata & pecorino romano",
+    "price": "$21",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APERITIVI & SMALL PLATES"
+  },
+  {
+    "name": "Cacio e Pepe Gnocchi",
+    "description": "Cracked peppercorn, pecorino romano",
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "APERITIVI & SMALL PLATES"
+  },
+  {
+    "name": "Insalata Mista",
+    "description": "Mixed greens, house Italian dressing",
+    "price": "$12",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SALADS & MARKET PICKS"
+  },
+  {
+    "name": "Autumn Salad",
+    "description": "Butternut squash, shaved apples, spiced pepitas, goat cheese, apple cider vinaigrette, zucchini bread croutons",
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SALADS & MARKET PICKS"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Romaine lettuce, shaved parmesan reggiano, anchovies, house garlic croutons",
+    "price": "$13",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SALADS & MARKET PICKS"
+  },
+  {
+    "name": "Bryant Salad",
+    "description": "Red wine poached pears, gorgonzola crumbles, candied walnuts, white balsamic vinaigrette",
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SALADS & MARKET PICKS"
+  },
+  {
+    "name": "Rigatoni with Meatballs or Sausage",
+    "description": "Rigatoni, house marinara, choice of meatballs or Italian sausage",
+    "price": "$34",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "PRIMI"
+  },
+  {
+    "name": "Chicken & Sausage Riggies",
+    "description": "Upstate classic- chicken, sausage, peppers & onions, spicy vodka sauce",
+    "price": "$38",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "PRIMI"
+  },
+  {
+    "name": "Casino Style Linguini White Clam Sauce",
+    "description": "White clam sauce, casino-style aromatics, bacon, toasted breadcrumbs",
+    "price": "$38",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "PRIMI"
+  },
+  {
+    "name": "Shrimp Carbonara",
+    "description": "North Country bacon, jumbo shrimp, peas, egg yolk, pecorino romano",
+    "price": "$42",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "PRIMI"
+  },
+  {
+    "name": "Chicken Piccata",
+    "description": "Pan-seared chicken, shallots, mushrooms, crispy capers, lemon butter sauce over pasta",
+    "price": "$36",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SECONDI"
+  },
+  {
+    "name": "Chicken Milanese",
+    "description": "Panko-crusted chicken breast, lemon beurre blanc, arugula-tomato salad",
+    "price": "$38",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SECONDI"
+  },
+  {
+    "name": "Chicken Parmigiana “Panza’s 1938 Original”",
+    "description": "Breaded chicken cutlet, house marinara, melted mozzarella, side of pasta",
+    "price": "$36",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SECONDI"
+  },
+  {
+    "name": "Aunt Celia's Eggplant Parmigiana",
+    "description": "Layered eggplant with house marinara, melted mozzarella, side of pasta - Just like Aunt Celia made it",
+    "price": "$36",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SECONDI"
+  },
+  {
+    "name": "Andrew's Italian Sausage & Peppers Parmigiana",
+    "description": "Italian sausage with sauteed peppers, marinara & melted mozzarella, served with a side of pasta",
+    "price": "$38",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SECONDI"
+  },
+  {
+    "name": "Ma Panza's Pork Chop",
+    "description": "Our signature pork chop, vinegar peppers, balsamic glaze, seasonal vegetable & potato",
+    "price": "$42",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SECONDI"
+  },
+  {
+    "name": "Veal Brettone",
+    "description": "Tender veal medallions, artichokes, mushrooms, jumbo shrimp lemon butter sauce",
+    "price": "$48",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SECONDI"
+  },
+  {
+    "name": "Veal Parmigiana",
+    "description": "Breaded veal cutlet, house marinara, melted mozzarella, side of pasta",
+    "price": "$40",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SECONDI"
+  },
+  {
+    "name": "Limoncello Shrimp",
+    "description": "Jumbo shrimp, limoncello glaze over preserved lemon risotto, sweet peas",
+    "price": "$42",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SECONDI"
+  },
+  {
+    "name": "Butternut Squash Risotto",
+    "description": "Sage, brown butter, toasted pepitas",
+    "price": "$34",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SECONDI"
+  },
+  {
+    "name": "Crispy Duckling A'la Flike",
+    "description": "Crispy half duckling, fig honey glaze, seasonal vegetable & potato",
+    "price": "$42",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SECONDI"
+  },
+  {
+    "name": "New York Strip Steak",
+    "description": "12 oz New York strip- your choice of au poivre sauce or house made steak sauce seasonal vegetable & potato",
+    "price": "$56",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SECONDI"
+  },
+  {
+    "name": "Chef Dan's Steak & Greens",
+    "description": "Sliced sirloin over sautéed Utica greens, cherry pepper marmalade",
+    "price": "$56",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SECONDI"
+  },
+  {
+    "name": "Steak Frites",
+    "description": "Grilled hanger steak, parmesan truffle fries, chimichurri",
+    "price": "$40",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Dinner",
+    "menu_name": "SECONDI"
+  },
+  {
+    "name": "NV Moscato I.G.T. Caposaldo, Lombardy, IT",
+    "description": null,
+    "price": "$12",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "NV Prosecco, Bianca Vigna, Veneto, IT",
+    "description": null,
+    "price": "$13",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "NV Moet & Chandon, Imperial Brut Champagne, FR",
+    "description": null,
+    "price": "$38",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "2022 Chardonnay, Josh Reserve, North Coast, CA",
+    "description": null,
+    "price": "$14",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "2021 Chardonnay, The Calling, Sonoma, CA",
+    "description": null,
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "Riesling, Shades of Blue, Mosel, Germany",
+    "description": null,
+    "price": "$12",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "Sauvignon Blanc, The Crossings, Marlborough,NZ",
+    "description": null,
+    "price": "$14",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "Rose, Fleurs de Prairie, Languedoc, FR",
+    "description": null,
+    "price": "$16",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "Pinot Grigio, Barone Fini, Valdadige D.O.C.",
+    "description": null,
+    "price": "$12",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "Pinot Grigio, Santa Margherita, Alto Adige",
+    "description": null,
+    "price": "$22",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "Pinot Noir, 2021 Firesteed, Oregon",
+    "description": null,
+    "price": "$12",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "2021 Pinot Noir, The Calling, Russian River, CA",
+    "description": null,
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "Cabernet Sauvignon, 2020, Josh Cellars, CA",
+    "description": null,
+    "price": "$14",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "Cabernet Sauvignon, 2022 Bezel, By Cakebread, Paso Robles, CA",
+    "description": null,
+    "price": "$20",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "Merlot, 2020 Alexander Valley, Sonoma, CA",
+    "description": null,
+    "price": "$15",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "Malbec, 2023, Antigal, “Uno”, Mendoza, AR",
+    "description": null,
+    "price": "$14",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "Italian Red, 2021 Illuminati, “Riparosso”, Montepulciano",
+    "description": null,
+    "price": "$12",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "Chianti, 2022 Banfi “Superiore”, Sangiovese",
+    "description": null,
+    "price": "$12",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Wines by the glass"
+  },
+  {
+    "name": "NV Moscato I.G.T. Caposaldo, Lombardy, IT",
+    "description": null,
+    "price": "$46",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Sparkling & Champagne"
+  },
+  {
+    "name": "NV Prosecco, Bianca Vigna, Veneto, IT",
+    "description": null,
+    "price": "$48",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Sparkling & Champagne"
+  },
+  {
+    "name": "NV Caprari, Lambrusco dell’Emilia, Reggio Emilia, IT",
+    "description": null,
+    "price": "$48",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Sparkling & Champagne"
+  },
+  {
+    "name": "NV Bouvet “Signature”, Loire Valley, FR",
+    "description": null,
+    "price": "$38",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Sparkling & Champagne"
+  },
+  {
+    "name": "NV Moet & Chandon, Imperial Brut, Champagne, FR",
+    "description": null,
+    "price": "$120",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Sparkling & Champagne"
+  },
+  {
+    "name": "NV Veuve Clicquot “Yellow Label” Reims, FR",
+    "description": null,
+    "price": "$130",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Sparkling & Champagne"
+  },
+  {
+    "name": "2015 Roederer “Cristal”, Champagne, FR",
+    "description": null,
+    "price": "$495",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Sparkling & Champagne"
+  },
+  {
+    "name": "2012 Dom Perignon, Champagne, FR",
+    "description": null,
+    "price": "$495",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Sparkling & Champagne"
+  },
+  {
+    "name": "2023 Stags’ Leap Winery, Napa Valley, CA",
+    "description": null,
+    "price": "$80",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Chardonnay"
+  },
+  {
+    "name": "2022 Josh Reserve, North Coast, CA",
+    "description": null,
+    "price": "$52",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Chardonnay"
+  },
+  {
+    "name": "2023 The Calling, Sonoma, CA",
+    "description": null,
+    "price": "$70",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Chardonnay"
+  },
+  {
+    "name": "2021 Ramey “Rochioli” Russian River Valley, CA",
+    "description": null,
+    "price": "$80",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Chardonnay"
+  },
+  {
+    "name": "2023 Far Niente “Post and Beam”, Napa Valley, CA",
+    "description": null,
+    "price": "$65",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Chardonnay"
+  },
+  {
+    "name": "2022 Cakebread, Napa Valley, CA",
+    "description": null,
+    "price": "$110",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Chardonnay"
+  },
+  {
+    "name": "2023 Rombauer, Carneros, CA",
+    "description": null,
+    "price": "$80",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Chardonnay"
+  },
+  {
+    "name": "2022 Kistler, Les Noisetiers, Sonoma Coast, CA",
+    "description": null,
+    "price": "$110",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Chardonnay"
+  },
+  {
+    "name": "2022 Louis Jadot Chassagne-Montrachet, Burgundy, FR",
+    "description": null,
+    "price": "$160",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Chardonnay"
+  },
+  {
+    "name": "2022 Domaine Ferret Pouilly-Fuissé, Burgundy, FR",
+    "description": null,
+    "price": "$90",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Chardonnay"
+  },
+  {
+    "name": "2023 Riesling, Shades of Blue Mosel, Germany",
+    "description": null,
+    "price": "$46",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Other Varietals"
+  },
+  {
+    "name": "2021 Sauvignon Blanc, The Crossings, Marlborough, NZ",
+    "description": null,
+    "price": "$52",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Other Varietals"
+  },
+  {
+    "name": "2023 Sauvignon Blanc, Marlborough Vines, Marlborough NZ",
+    "description": null,
+    "price": "$48",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Other Varietals"
+  },
+  {
+    "name": "2024 Sauvignon Blanc, Château de Sancerre, Sancerre, Loire, FR",
+    "description": null,
+    "price": "$70",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Other Varietals"
+  },
+  {
+    "name": "2024 Rose Fleurs de Prairie, Languedoc, FR",
+    "description": null,
+    "price": "$62",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Other Varietals"
+  },
+  {
+    "name": "2024 Rose Whispering Angel, Provence, FR",
+    "description": null,
+    "price": "$78",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Other Varietals"
+  },
+  {
+    "name": "2024 Pinot Grigio, Barone Fini, Valdadige D.O.C",
+    "description": null,
+    "price": "$46",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Whites"
+  },
+  {
+    "name": "2024 Pinot Grigio, Santa Margherita, Alto Adige",
+    "description": null,
+    "price": "$78",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Whites"
+  },
+  {
+    "name": "2024 Vermentino, Banfi “La Pettegola”, Tuscany",
+    "description": null,
+    "price": "$80",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Whites"
+  },
+  {
+    "name": "2023 Soave Classico, Pra “Otto”, Veneto",
+    "description": null,
+    "price": "$62",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Whites"
+  },
+  {
+    "name": "2023 Falanghina, La Capranera, Campania",
+    "description": null,
+    "price": "$40",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Whites"
+  },
+  {
+    "name": "2024 Montecappone Verdicchio dei Castelli di Jesi, Marche",
+    "description": null,
+    "price": "$30",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Whites"
+  },
+  {
+    "name": "2024 Gavi, Bricco Serra, Piedmont",
+    "description": null,
+    "price": "$33",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Whites"
+  },
+  {
+    "name": "2022 Gewurztraminer, Terlano, Alto Adige",
+    "description": null,
+    "price": "$50",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Whites"
+  },
+  {
+    "name": "2023 Frascati Superiore,Marchese, Lazio",
+    "description": null,
+    "price": "$32",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Whites"
+  },
+  {
+    "name": "2022 Illuminati, “Riparosso”, Montepulciano",
+    "description": null,
+    "price": "$46",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "2021 Banfi Chianti “Superiore”, Sangiovese | T",
+    "description": null,
+    "price": "$46",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "2022 Banfi “Aska” Super Tuscan",
+    "description": null,
+    "price": "$78",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "Cab | Cab Franc",
+    "description": null,
+    "price": "$78",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "2020 Sempre Ricordare, Sangiovese | Cab",
+    "description": null,
+    "price": "$60",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "2023 Frescobaldi “Remole” Sangiovese | Cab",
+    "description": null,
+    "price": "$36",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "2022 Antinori, Chianti Classico Riserva",
+    "description": null,
+    "price": "$70",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "2022 Antinori, “Tucale In Label” Chianti Classico Riserva",
+    "description": null,
+    "price": "$68",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "2020 Ruffino, “Ducale D’oro” Gold Label, Chianti Classico Riserva",
+    "description": null,
+    "price": "$90",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "2023 Castello Banfi, Rosso di Montalcino",
+    "description": null,
+    "price": "$48",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "2020 Nardi, Brunello di Montalcino",
+    "description": null,
+    "price": "$120",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "2019 Caprili, Brunello di Montalcino",
+    "description": null,
+    "price": "$100",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "2021 Tignanello, Super Tuscan Sang",
+    "description": null,
+    "price": "$240",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "Cab | Cab Franc",
+    "description": null,
+    "price": "$240",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "2022 Sassicaia, Super Tuscan,",
+    "description": null,
+    "price": "$450",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "Cab | Cab Franc",
+    "description": null,
+    "price": "$450",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Tuscany"
+  },
+  {
+    "name": "2023 Masi, “Bonacosta”, Valpolicella, Veneto",
+    "description": null,
+    "price": "$38",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Other Regions"
+  },
+  {
+    "name": "2021 Righetti, Amarone, Veneto",
+    "description": null,
+    "price": "$75",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Other Regions"
+  },
+  {
+    "name": "2018 Rischiò Reale, Ripasso, Veneto",
+    "description": null,
+    "price": "$55",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Other Regions"
+  },
+  {
+    "name": "2020 Sella, Nero d’Avola, Sicily",
+    "description": null,
+    "price": "$75",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Other Regions"
+  },
+  {
+    "name": "2023 Tormaresca, Primitivo, Salento",
+    "description": null,
+    "price": "$42",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Other Regions"
+  },
+  {
+    "name": "2023 Francesco Cirelli, Dolcetto d’Alba",
+    "description": null,
+    "price": "$48",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Other Regions"
+  },
+  {
+    "name": "2021 Pertinace, Barbera d’Alba",
+    "description": null,
+    "price": "$40",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Other Regions"
+  },
+  {
+    "name": "2020 Prunotto, “Bussia”, Barolo, Piedmont",
+    "description": null,
+    "price": "$120",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Other Regions"
+  },
+  {
+    "name": "2020 Franco Amoroso, Barbaresco, Piedmont",
+    "description": null,
+    "price": "$60",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Italian Reds | Other Regions"
+  },
+  {
+    "name": "2022 Firesteed, Oregon",
+    "description": null,
+    "price": "$46",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Pinot Noir"
+  },
+  {
+    "name": "2022 The Calling, Russian River, CA",
+    "description": null,
+    "price": "$68",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Pinot Noir"
+  },
+  {
+    "name": "2023 Copain,Sonoma Coast, CA",
+    "description": null,
+    "price": "$85",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Pinot Noir"
+  },
+  {
+    "name": "2023 La Follette, “Los Primeros”",
+    "description": null,
+    "price": "$100",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Pinot Noir"
+  },
+  {
+    "name": "Russian River Valley, CA",
+    "description": null,
+    "price": "$100",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Pinot Noir"
+  },
+  {
+    "name": "2020 Kosta Browne, Santa Rita Hills, CA",
+    "description": null,
+    "price": "$200",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Pinot Noir"
+  },
+  {
+    "name": "2023 Resonance, Willamette Valley, OR",
+    "description": null,
+    "price": "$60",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Pinot Noir"
+  },
+  {
+    "name": "2020 Kistler “Freestone-Occidental”",
+    "description": null,
+    "price": "$125",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Pinot Noir"
+  },
+  {
+    "name": "Sonoma Coast, CA",
+    "description": null,
+    "price": "$125",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Pinot Noir"
+  },
+  {
+    "name": "2021 Maggy Hawk, Jolie, Anderson Valley, CA",
+    "description": null,
+    "price": "$150",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Pinot Noir"
+  },
+  {
+    "name": "2022 Merlot, Alexander Valley, CA",
+    "description": null,
+    "price": "$58",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Compelling Reds"
+  },
+  {
+    "name": "2021 Orin Swift “Abstract” Grenache | Petite Syrah, Napa Valley, CA",
+    "description": null,
+    "price": "$110",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Compelling Reds"
+  },
+  {
+    "name": "2022 | Aventure “Optimus” | Syrah | Cabernet | Petit Verdot, Paso Robles, CA",
+    "description": null,
+    "price": "$110",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Compelling Reds"
+  },
+  {
+    "name": "2020 Stags’ Leap Winery, Petite Sirah Napa Valley, CA",
+    "description": null,
+    "price": "$76",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Compelling Reds"
+  },
+  {
+    "name": "2020 Penfolds “Bin 28” Shiraz",
+    "description": null,
+    "price": "$68",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Compelling Reds"
+  },
+  {
+    "name": "2023 Antigal, “Uno” | Malbec, Mendoza, AR",
+    "description": null,
+    "price": "$52",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Compelling Reds"
+  },
+  {
+    "name": "2022 Jean Palacios, Placeres, Bierzo, SP",
+    "description": null,
+    "price": "$48",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Compelling Reds"
+  },
+  {
+    "name": "2021 Château La Nerthe-Châteauneuf-du- Pape, Rhone, FR",
+    "description": null,
+    "price": "$120",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Compelling Reds"
+  },
+  {
+    "name": "2021 Clarendon, Saint Emilion, Bordeaux, FR",
+    "description": null,
+    "price": "$60",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Compelling Reds"
+  },
+  {
+    "name": "2018 Château Haut-Brion, Bordeaux, FR",
+    "description": null,
+    "price": "$850",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Compelling Reds"
+  },
+  {
+    "name": "2023 Josh Cellars, CA",
+    "description": null,
+    "price": "$52",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2022 Bezel, By Cakebread, Paso Robles, CA",
+    "description": null,
+    "price": "$78",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2021 Faust, By Orin Joseph Carr, Paso Robles, CA",
+    "description": null,
+    "price": "$70",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2022 Louis Martini, Napa Valley, CA",
+    "description": null,
+    "price": "$75",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2022 Orin Swift “Palermo”, Napa Valley, CA",
+    "description": null,
+    "price": "$110",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2022 Stag’s Leap Wine Cellars “Artemis”, Napa Valley, CA",
+    "description": null,
+    "price": "$130",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2021 Anakota, Knights Valley, CA",
+    "description": null,
+    "price": "$140",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2022 Connus, Napa Valley, CA",
+    "description": null,
+    "price": "$160",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2021 Silver Oak, Alexander Valley, CA",
+    "description": null,
+    "price": "$160",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2008 Cakebread, Napa Valley, CA",
+    "description": null,
+    "price": "$150",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2018 Mondavi/Rothschild “Opus One” Napa Valley, CA",
+    "description": null,
+    "price": "$450",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2023 Shafer “One Point Five”, Napa Valley, CA",
+    "description": null,
+    "price": "$160",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2021 Groth, “Reserve”, Napa Valley, CA",
+    "description": null,
+    "price": "$220",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2021 Dominus, “Estate”, Napa Valley, CA",
+    "description": null,
+    "price": "$500",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2017 Robert Mondavi Estate, Napa Valley, CA",
+    "description": null,
+    "price": "$200",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2021 Chimney Rock, Stags’ Leap Napa Valley, CA",
+    "description": null,
+    "price": "$150",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2019 Ink Grade, Napa Valley, CA",
+    "description": null,
+    "price": "$150",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2016 Heitz Cellar, Napa Valley, CA",
+    "description": null,
+    "price": "$180",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2021 Brave, Mount Veeder, CA",
+    "description": null,
+    "price": "$240",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2021 Georges de Latour by BV",
+    "description": "\"Private Reserve\" Napa Valley, CA",
+    "price": "$500",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "2019 Joseph Phelps “Insignia” Napa Valley, CA",
+    "description": null,
+    "price": "$500",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Wine",
+    "menu_name": "Cabernet Sauvignon"
+  },
+  {
+    "name": "Chairman of the Board",
+    "description": "Chivas Regal, Drambuie, Orange Bitters, orange twist on the rocks",
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "Up-Saged",
+    "description": "One With Life Tequilla, Sage Simple Syrup, Pamplemousse, Grapefruit Juice",
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "The Hedley",
+    "description": "Bib & Tucker Bourbon, Cherry Bitters, Bing Cherry Juice, Lemon Juice",
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "Ol' Blue Eyes",
+    "description": "Tanqueray Gin, Cointreau, Crème de Violette Liqueur, Lemon Juice",
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "Pecan't Resist",
+    "description": "Woodford Bourbon, Pecan Simple Syrup, Pecan Bitters",
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "Cast Me Another",
+    "description": "Maker's Mark 46, Blueberry Simple Syrup, Blueberry Bitters, Splash Club",
+    "price": "$18",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "ARANCINI",
+    "description": "(3)",
+    "price": "$9",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HAPPY HOUR BITES"
+  },
+  {
+    "name": "MEATBALL SLIDERS",
+    "description": "(2)",
+    "price": "$9",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HAPPY HOUR BITES"
+  },
+  {
+    "name": "PARMESAN TRUFFLE POLENTA FRIES",
+    "description": "(4)",
+    "price": "$9",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HAPPY HOUR BITES"
+  },
+  {
+    "name": "FRIED MOZZARELLA BITES",
+    "description": "(4)",
+    "price": "$9",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HAPPY HOUR BITES"
+  },
+  {
+    "name": "HOUSE POURS",
+    "description": "COCKTAIL +2",
+    "price": "$9",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HAPPY HOUR BITES"
+  },
+  {
+    "name": "APEROL SPRITZ",
+    "description": "",
+    "price": "$9",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HAPPY HOUR BITES"
+  },
+  {
+    "name": "DRAFTS",
+    "description": "",
+    "price": "$6",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HAPPY HOUR BITES"
+  },
+  {
+    "name": "HOUSE WINE",
+    "description": "JOSH CELLARS CABERNET\nBANFI CHIANTI\nJOSH CHARDONNAY\nCROSSINGS SAUVIGNON BLANC\nBARONE FINI PINOT GRIGIO",
+    "price": "$9",
+    "restaurant_name": "Panza's Restaurant",
+    "restaurant_url": "https://www.panzasrestaurant.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HAPPY HOUR BITES"
+  }
+]

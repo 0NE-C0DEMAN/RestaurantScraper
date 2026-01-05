@@ -1,0 +1,227 @@
+[
+  {
+    "name": "GREEK SCAMPI",
+    "description": "Our most popular! Three jumbo shrimp sautéed scampi style, served on garlic toast,then topped with melted feta & herb cheese.",
+    "price": "$24",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "CLAMS BIANCO (White Sauce)",
+    "description": "Steamed Long Island Littlenecks finished in a zesty white wine butter sauce. Served with garlic bread for dipping.",
+    "price": "$26 / dozen",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "CLAMS PISSCILLIPO (Red Sauce)",
+    "description": "Long Island Littlenecks steamed in white wine, finished in marinara sauce. Served with garlic bread.",
+    "price": "$26 / dozen",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "SHRIMP COCKTAIL",
+    "description": "Four ice cold jumbo shrimp. Served with cocktail sauce.",
+    "price": "$21",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "MEATBALLS OR SAUSAGE",
+    "description": "Side of homemade meatballs or locally made sausage.",
+    "price": "$10",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Side of ricotta cheese",
+    "description": "",
+    "price": "$7",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "ROASTED EGGPLANT",
+    "description": "Sliced eggplant roasted, layered with ricotta, spinach, roasted red peppers, baked with mozzarella cheese, finished with marinara sauce and pesto. Served over linguine",
+    "price": "$33",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "entrée"
+  },
+  {
+    "name": "CHICKEN, BROCCOLI, GARLIC & OLIVE OIL",
+    "description": "A healthy combination of chicken, broccoli, garlic & olive oil tossed with penne pasta, chicken stock and Parmesan",
+    "price": "$30",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "entrée"
+  },
+  {
+    "name": "CHICKEN PARMIGIANA",
+    "description": "Boneless breast of chicken, hand breaded in our seasoned breadcrumbs. Baked with mozzarella cheese and tomato sauce. Served with linguine",
+    "price": "$33",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "entrée"
+  },
+  {
+    "name": "CHICKEN PICATTA",
+    "description": "Boneless chicken breast dusted with seasoned flour and pan seared with shallots and capers finished in a white wine, lemon butter sauce.  Served over linguine...",
+    "price": "$36",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "entrée"
+  },
+  {
+    "name": "CHICKEN MARSALA",
+    "description": "Chicken breast sautéed with shallots, mushrooms and the best Marsala sauce in the area!  Served over linguine",
+    "price": "$36",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "entrée"
+  },
+  {
+    "name": "VEAL PARMIGIANA",
+    "description": "Hand cut Plume De Veau veal, lightly breaded with our flavorful breadcrumbs, topped with mozzarella cheese and tomato sauce. Served with linguine",
+    "price": "$40",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "entrée"
+  },
+  {
+    "name": "VEAL AND PEPPERS",
+    "description": "World famous Plume De Veau veal seared then simmered in our tomato sauce, tossed with roasted green peppers and served over linguine",
+    "price": "$40",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "entrée"
+  },
+  {
+    "name": "NY STRIP STEAK",
+    "description": "A 16-ounce hand trimmed NY Strip Steak topped with our Montreal seasoning, then char grilled to order. Served with potato & vegetable du jour. | Add-ons: Add mushrooms $7 / Add onions $7 / Topped with crumbled Bleu Cheese $8",
+    "price": "$55",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "entrée"
+  },
+  {
+    "name": "HADDOCK FRANCAISE",
+    "description": "Fresh Haddock filet lightly egg battered and sautéed.  Finished with a shallot white wine butter sauce.  Served with potato and vegetable du jour",
+    "price": "$36",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "entrée"
+  },
+  {
+    "name": "LEMON HADDOCK",
+    "description": "A daily special...Fresh Haddock filet baked with lemon butter breadcrumbs. Served with potato and vegetable du jour",
+    "price": "$36",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "entrée"
+  },
+  {
+    "name": "SHRIMP FRA DIAVOLO",
+    "description": "Sautéed jumbo shrimp in a splash of sherry and a touch of olive oil, with spicy marinara sauce.  Served over linguine",
+    "price": "$36",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "entrée"
+  },
+  {
+    "name": "SHRIMP & SCALLOPS MARINARA",
+    "description": "Fresh sea scallops and jumbo shrimp sautéed with our own zesty marinara.  Served over linguine",
+    "price": "$39",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "entrée"
+  },
+  {
+    "name": "SHRIMP GENOASE",
+    "description": "Lightly battered jumbo shrimp sautéed in garlic and shallots, flamed with Sherry wine and finished with cream.  Served over linguine",
+    "price": "$39",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "entrée"
+  },
+  {
+    "name": "CHEESE RAVIOLI",
+    "description": "Large Queen Ann of Brooklyn ravioli filled with ricotta cheese, topped with our famous tomato sauce",
+    "price": "$26",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "entrée"
+  },
+  {
+    "name": "BAKED LASAGNA",
+    "description": "Our homemade lasagna... Famous for over 102 years",
+    "price": "$29",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "entrée"
+  },
+  {
+    "name": "PENNELL’S OWN TOMATO SAUCE",
+    "description": "A simmering recipe since 1922",
+    "price": "$24",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "Pasta entrée"
+  },
+  {
+    "name": "MARINARA",
+    "description": "Pennell’s own chunky and zesty marinara",
+    "price": "$24",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "Pasta entrée"
+  },
+  {
+    "name": "MEATBALLS",
+    "description": "Homemade and smothered with our famous tomato sauce",
+    "price": "$28",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "Pasta entrée"
+  },
+  {
+    "name": "HOT SAUSAGE",
+    "description": "Fresh Italian sausage with tomato sauce",
+    "price": "$28",
+    "restaurant_name": "Pennell's Restaurant",
+    "restaurant_url": "https://www.pennellsrestaurant.com/",
+    "menu_type": "Menu",
+    "menu_name": "Pasta entrée"
+  }
+]

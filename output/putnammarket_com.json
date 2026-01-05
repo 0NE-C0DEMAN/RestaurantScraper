@@ -1,0 +1,2232 @@
+[
+  {
+    "name": "Smoked Vanilla",
+    "description": null,
+    "price": "$5.50 | $6",
+    "section": "ESPRESSO DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "ESPRESSO DRINKS"
+  },
+  {
+    "name": "Coconut Turmeric",
+    "description": null,
+    "price": "$5.50 | $6",
+    "section": "ESPRESSO DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "ESPRESSO DRINKS"
+  },
+  {
+    "name": "Lavender Mocha",
+    "description": null,
+    "price": "$5.50 | $6",
+    "section": "ESPRESSO DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "ESPRESSO DRINKS"
+  },
+  {
+    "name": "Caramel Shroom",
+    "description": null,
+    "price": "$5.50 | $6",
+    "section": "ESPRESSO DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "ESPRESSO DRINKS"
+  },
+  {
+    "name": "Campfire",
+    "description": null,
+    "price": "$5.50 | $6",
+    "section": "HOT COCOA DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HOT COCOA DRINKS"
+  },
+  {
+    "name": "Hazelnut",
+    "description": null,
+    "price": "$5.50 | $6",
+    "section": "HOT COCOA DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HOT COCOA DRINKS"
+  },
+  {
+    "name": "Mocha",
+    "description": null,
+    "price": "$5.50 | $6",
+    "section": "HOT COCOA DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HOT COCOA DRINKS"
+  },
+  {
+    "name": "Turmeric Vanilla",
+    "description": null,
+    "price": "$5.50 | $6",
+    "section": "HOT COCOA DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HOT COCOA DRINKS"
+  },
+  {
+    "name": "Spiced Shroom",
+    "description": null,
+    "price": "$5.50 | $6",
+    "section": "HOT COCOA DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HOT COCOA DRINKS"
+  },
+  {
+    "name": "Lemon Ginger",
+    "description": null,
+    "price": "$4",
+    "section": "ICED TEA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "ICED TEA"
+  },
+  {
+    "name": "Raspberry Lavender",
+    "description": null,
+    "price": "$4",
+    "section": "ICED TEA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "ICED TEA"
+  },
+  {
+    "name": "Coconut Ginger",
+    "description": null,
+    "price": "$4",
+    "section": "ICED TEA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "ICED TEA"
+  },
+  {
+    "name": "Matcha Raspberry",
+    "description": null,
+    "price": "$4",
+    "section": "ICED TEA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "ICED TEA"
+  },
+  {
+    "name": "Honey Grilled",
+    "description": null,
+    "price": "$4.25",
+    "section": "LEMONADE",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "LEMONADE"
+  },
+  {
+    "name": "Raspberry Lavender",
+    "description": null,
+    "price": "$4.25",
+    "section": "LEMONADE",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "LEMONADE"
+  },
+  {
+    "name": "Raspberry",
+    "description": null,
+    "price": "$4.25",
+    "section": "LEMONADE",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "LEMONADE"
+  },
+  {
+    "name": "Coconut Ginger",
+    "description": null,
+    "price": "$4.25",
+    "section": "LEMONADE",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "LEMONADE"
+  },
+  {
+    "name": "CARAMEL APPLE",
+    "description": "cider + oak + caramel",
+    "price": "$9",
+    "section": "HARD CIDER SIGNATURES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HARD CIDER SIGNATURES"
+  },
+  {
+    "name": "VANILLA CHAI APPLE FIZZ",
+    "description": "cider + chai + vanilla",
+    "price": "$9",
+    "section": "HARD CIDER SIGNATURES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HARD CIDER SIGNATURES"
+  },
+  {
+    "name": "GREEN APPLE MATCHA",
+    "description": "cider + matcha + vanilla",
+    "price": "$9",
+    "section": "HARD CIDER SIGNATURES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HARD CIDER SIGNATURES"
+  },
+  {
+    "name": "SHANDY",
+    "description": "beer + lemon",
+    "price": "$9",
+    "section": "BEER SIGNATURES*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "BEER SIGNATURES*"
+  },
+  {
+    "name": "BERRY SMASH",
+    "description": "beer + lemon + raspberry",
+    "price": "$9",
+    "section": "BEER SIGNATURES*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "BEER SIGNATURES*"
+  },
+  {
+    "name": "OAK BARREL WINE SPRITZER",
+    "description": "white wine + oak",
+    "price": "$14",
+    "section": "WINE SIGNATURES*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "WINE SIGNATURES*"
+  },
+  {
+    "name": "GINGER SPRITZER",
+    "description": "white wine + ginger + sprite",
+    "price": "$14",
+    "section": "WINE SIGNATURES*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "WINE SIGNATURES*"
+  },
+  {
+    "name": "CITRUS SPRITZ",
+    "description": "white wine + lemonade",
+    "price": "$14",
+    "section": "WINE SIGNATURES*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "WINE SIGNATURES*"
+  },
+  {
+    "name": "LAVENDER WINE SPRITZER",
+    "description": "red wine + lavender + sprite",
+    "price": "$14",
+    "section": "WINE SIGNATURES*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "WINE SIGNATURES*"
+  },
+  {
+    "name": "BERRY WINE FIZZ",
+    "description": "red wine + raspberry + sprite",
+    "price": "$14",
+    "section": "WINE SIGNATURES*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "WINE SIGNATURES*"
+  },
+  {
+    "name": "TURMERIC LATTE BLEND",
+    "description": "warming spices support skin glow, gut health, & immunity. Contains organic coconut milk powder, turmeric, ginger, cinnamon, cardamom, black pepper.",
+    "price": null,
+    "section": "TURMERIC • MATCHA • SHROOM • COCOA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "TURMERIC • MATCHA • SHROOM • COCOA"
+  },
+  {
+    "name": "PURE MATCHA",
+    "description": "for energy, focus, & cellular health. Shade- grown & cold-processed for maximum antioxidant & amino acids.",
+    "price": null,
+    "section": "TURMERIC • MATCHA • SHROOM • COCOA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "TURMERIC • MATCHA • SHROOM • COCOA"
+  },
+  {
+    "name": "SHROOM SHIELD",
+    "description": "functional shrooms for immunity & stress defense. Contains coconut milk powder, cacao, reishi & turkey tail mushroom extract, cinnamon, sea salt, monk fruit extract.",
+    "price": null,
+    "section": "TURMERIC • MATCHA • SHROOM • COCOA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "TURMERIC • MATCHA • SHROOM • COCOA"
+  },
+  {
+    "name": "PUTNAM HOT CHOCOLATE",
+    "description": "combines a big dollop of locally made Sundae's Best bittersweet fudge sauce with half & half for the decadent hot chocolate that you absolutely deserve.",
+    "price": null,
+    "section": "TURMERIC • MATCHA • SHROOM • COCOA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "TURMERIC • MATCHA • SHROOM • COCOA"
+  },
+  {
+    "name": "drip",
+    "description": "for here $2.50",
+    "price": "Regular $2.75 | Large $3.25",
+    "section": "HOT DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HOT DRINKS"
+  },
+  {
+    "name": "espresso 2x",
+    "description": "extra shot $1.50",
+    "price": "$3",
+    "section": "HOT DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HOT DRINKS"
+  },
+  {
+    "name": "americano",
+    "description": null,
+    "price": "Regular $3.75 | Large $4.25",
+    "section": "HOT DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HOT DRINKS"
+  },
+  {
+    "name": "cortado",
+    "description": "oat or almond $1",
+    "price": "$4.25",
+    "section": "HOT DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HOT DRINKS"
+  },
+  {
+    "name": "latte or cappuccino",
+    "description": "*available iced",
+    "price": "Regular $4.50 | Large $5",
+    "section": "HOT DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HOT DRINKS"
+  },
+  {
+    "name": "chai latte",
+    "description": null,
+    "price": "Regular $5.5 | Large $6",
+    "section": "HOT DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HOT DRINKS"
+  },
+  {
+    "name": "matcha latte",
+    "description": null,
+    "price": "Regular $5.5 | Large $6",
+    "section": "HOT DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HOT DRINKS"
+  },
+  {
+    "name": "hot chocolate",
+    "description": null,
+    "price": "Regular $4 | Large $4.5",
+    "section": "HOT DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HOT DRINKS"
+  },
+  {
+    "name": "hot tea",
+    "description": null,
+    "price": "Regular $3.25 | Large $3.75",
+    "section": "HOT DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "HOT DRINKS"
+  },
+  {
+    "name": "PUTNAM BLEND",
+    "description": "medium roast beans from Guatemala, Colombia & Peru, sweet, subtle notes of chocolate & caramel",
+    "price": null,
+    "section": "DRIP COFFEES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "DRIP COFFEES"
+  },
+  {
+    "name": "BROADWAY BLEND",
+    "description": "dark roast blend from Sumatra, Guatemala & Ethiopia, think fragrant chocolate with tart wine",
+    "price": null,
+    "section": "DRIP COFFEES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "DRIP COFFEES"
+  },
+  {
+    "name": "COSTA RICAN TARRAZU",
+    "description": "medium roast smooth single- origin coffee with aromatic notes of silky milk chocolate.",
+    "price": null,
+    "section": "DRIP COFFEES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "DRIP COFFEES"
+  },
+  {
+    "name": "FTO SUMATRAN",
+    "description": "medium-dark roast. Single-origin with a rustic & sweet aroma; full bodied with earthy, warming notes.",
+    "price": null,
+    "section": "DRIP COFFEES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "DRIP COFFEES"
+  },
+  {
+    "name": "BLACK PEARL",
+    "description": "espresso blend multi-region blend with notes of cacao, citrus, & wine, perfect for espresso.",
+    "price": null,
+    "section": "OUR ESPRESSOS:",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "OUR ESPRESSOS:"
+  },
+  {
+    "name": "DECAF EUROPEAN ESPRESSO",
+    "description": "espresso blend blend of Colombian & Sumatran beans, well balanced and full bodied with smooth earthy notes, perfect to brighten any afternoon.",
+    "price": null,
+    "section": "OUR ESPRESSOS:",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Café",
+    "menu_name": "OUR ESPRESSOS:"
+  },
+  {
+    "name": "Smoked Vanilla",
+    "description": null,
+    "price": "$5.50 | $6",
+    "section": "ESPRESSO DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "ESPRESSO DRINKS"
+  },
+  {
+    "name": "Coconut Turmeric",
+    "description": null,
+    "price": "$5.50 | $6",
+    "section": "ESPRESSO DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "ESPRESSO DRINKS"
+  },
+  {
+    "name": "Lavender Mocha",
+    "description": null,
+    "price": "$5.50 | $6",
+    "section": "ESPRESSO DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "ESPRESSO DRINKS"
+  },
+  {
+    "name": "Caramel Shroom",
+    "description": null,
+    "price": "$5.50 | $6",
+    "section": "ESPRESSO DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "ESPRESSO DRINKS"
+  },
+  {
+    "name": "Campfire",
+    "description": null,
+    "price": "$5 | $5.50",
+    "section": "HOT COCOA DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HOT COCOA DRINKS"
+  },
+  {
+    "name": "Hazelnut",
+    "description": null,
+    "price": "$5 | $5.50",
+    "section": "HOT COCOA DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HOT COCOA DRINKS"
+  },
+  {
+    "name": "Mocha",
+    "description": null,
+    "price": "$5 | $5.50",
+    "section": "HOT COCOA DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HOT COCOA DRINKS"
+  },
+  {
+    "name": "Turmeric Vanilla",
+    "description": null,
+    "price": "$5 | $5.50",
+    "section": "HOT COCOA DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HOT COCOA DRINKS"
+  },
+  {
+    "name": "Spiced Shroom",
+    "description": null,
+    "price": "$5 | $5.50",
+    "section": "HOT COCOA DRINKS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HOT COCOA DRINKS"
+  },
+  {
+    "name": "Lemon Ginger",
+    "description": null,
+    "price": "$4",
+    "section": "ICED TEA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "ICED TEA"
+  },
+  {
+    "name": "Raspberry Lavender",
+    "description": null,
+    "price": "$4",
+    "section": "ICED TEA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "ICED TEA"
+  },
+  {
+    "name": "Coconut Ginger",
+    "description": null,
+    "price": "$4",
+    "section": "ICED TEA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "ICED TEA"
+  },
+  {
+    "name": "Matcha Raspberry",
+    "description": null,
+    "price": "$4",
+    "section": "ICED TEA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "ICED TEA"
+  },
+  {
+    "name": "Honey Grilled",
+    "description": null,
+    "price": "$4.25",
+    "section": "LEMONADE",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "LEMONADE"
+  },
+  {
+    "name": "Raspberry Lavender",
+    "description": null,
+    "price": "$4.25",
+    "section": "LEMONADE",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "LEMONADE"
+  },
+  {
+    "name": "Raspberry",
+    "description": null,
+    "price": "$4.25",
+    "section": "LEMONADE",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "LEMONADE"
+  },
+  {
+    "name": "Coconut Ginger",
+    "description": null,
+    "price": "$4.25",
+    "section": "LEMONADE",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "LEMONADE"
+  },
+  {
+    "name": "OAK BARREL WINE SPRITZER",
+    "description": "white wine + oak",
+    "price": "$10",
+    "section": "WINE SIGNATURES*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "WINE SIGNATURES*"
+  },
+  {
+    "name": "GINGER SPRITZER",
+    "description": "white wine + ginger + sprite",
+    "price": "$10",
+    "section": "WINE SIGNATURES*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "WINE SIGNATURES*"
+  },
+  {
+    "name": "CITRUS SPRITZ",
+    "description": "white wine + lemonade",
+    "price": "$10",
+    "section": "WINE SIGNATURES*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "WINE SIGNATURES*"
+  },
+  {
+    "name": "LAVENDER SPRITZER",
+    "description": "red wine + lavender + sprite",
+    "price": "$10",
+    "section": "WINE SIGNATURES*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "WINE SIGNATURES*"
+  },
+  {
+    "name": "BERRY WINE FIZZ",
+    "description": "red wine + raspberry + sprite *available alcohol free",
+    "price": "$10",
+    "section": "WINE SIGNATURES*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "WINE SIGNATURES*"
+  },
+  {
+    "name": "CARAMEL APPLE",
+    "description": "cider + oak + caramel",
+    "price": "$7",
+    "section": "HARD CIDER SIGNATURES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HARD CIDER SIGNATURES"
+  },
+  {
+    "name": "VANILLA CHAI APPLE",
+    "description": "cider + chai + vanilla",
+    "price": "$7",
+    "section": "HARD CIDER SIGNATURES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HARD CIDER SIGNATURES"
+  },
+  {
+    "name": "GREEN APPLE",
+    "description": "cider + matcha + vanilla",
+    "price": "$7",
+    "section": "HARD CIDER SIGNATURES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HARD CIDER SIGNATURES"
+  },
+  {
+    "name": "SHANDY",
+    "description": "beer + lemon",
+    "price": "$7",
+    "section": "BEER SIGNATURES*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "BEER SIGNATURES*"
+  },
+  {
+    "name": "BERRY SMASH",
+    "description": "beer + lemon + raspberry *available alcohol free",
+    "price": "$7",
+    "section": "BEER SIGNATURES*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "BEER SIGNATURES*"
+  },
+  {
+    "name": "CURATOR WHITE WINE BLEND",
+    "description": null,
+    "price": "$7",
+    "section": "HAPPY HOUR",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HAPPY HOUR"
+  },
+  {
+    "name": "CURATOR RED WINE BLEND",
+    "description": null,
+    "price": "$7",
+    "section": "HAPPY HOUR",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HAPPY HOUR"
+  },
+  {
+    "name": "HUDSON NORTH CIDER",
+    "description": null,
+    "price": "$4",
+    "section": "HAPPY HOUR",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HAPPY HOUR"
+  },
+  {
+    "name": "SLOOP JUICE IPA",
+    "description": null,
+    "price": "$5",
+    "section": "HAPPY HOUR",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HAPPY HOUR"
+  },
+  {
+    "name": "NARRANGANSETT",
+    "description": null,
+    "price": "$4",
+    "section": "HAPPY HOUR",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "HAPPY HOUR"
+  },
+  {
+    "name": "TURMERIC LATTE BLEND",
+    "description": "warming spices support skin glow, gut health, & immunity.",
+    "price": null,
+    "section": "TURMERIC • MATCHA • SHROOM • COCOA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "TURMERIC • MATCHA • SHROOM • COCOA"
+  },
+  {
+    "name": "PURE MATCHA",
+    "description": "for energy, focus, & cellular health. Shade-grown & cold-processed for maximum antioxidant & amino acids.",
+    "price": null,
+    "section": "TURMERIC • MATCHA • SHROOM • COCOA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "TURMERIC • MATCHA • SHROOM • COCOA"
+  },
+  {
+    "name": "SHROOM SHIELD",
+    "description": "functional shrooms for immunity & stress defense. Contains coconut milk powder.",
+    "price": null,
+    "section": "TURMERIC • MATCHA • SHROOM • COCOA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "TURMERIC • MATCHA • SHROOM • COCOA"
+  },
+  {
+    "name": "PUTNAM HOT CHOCOLATE",
+    "description": "combines a big dollop of locally made Sundae's Best bittersweet fudge sauce with half & half for the decadent hot chocolate that you absolutely deserve.",
+    "price": null,
+    "section": "TURMERIC • MATCHA • SHROOM • COCOA",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Happy Hour",
+    "menu_name": "TURMERIC • MATCHA • SHROOM • COCOA"
+  },
+  {
+    "name": "FRESH COFFEE: REGULAR or DECAF",
+    "description": "each service box holds 12 cups and is disposable. comes with cups, stirrers, milk & sweeteners.",
+    "price": "$24 / BOX",
+    "section": "FOR MEETINGS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "FOR MEETINGS"
+  },
+  {
+    "name": "THE MARKET SPECIAL",
+    "description": "A delicious lunch of assorted sandwiches (putnam, congress, paradise, hathorn, karista), with pasta salad and a platter of cookies and brownies.",
+    "price": "$19.50 PER PERSON/LI",
+    "section": "FOR MEETINGS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "FOR MEETINGS"
+  },
+  {
+    "name": "THE PREMIUM SPECIAL",
+    "description": "Even more impressive, with half a sandwich per person, (assortment includes putnam, congress, paradise, karista, hathorn), with fresh fruit salad, pasta salad and a platter of our scratch-baked cookies and brownies.",
+    "price": "$21.50 PER PERSON/L2",
+    "section": "FOR MEETINGS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "FOR MEETINGS"
+  },
+  {
+    "name": "THE WRAP SPECIAL",
+    "description": "Easy to eat wraps: roast turkey & american, ham & swiss, roast beef & provolone, chicken salad, fresh vegetables & provolone along with pasta salad, and a platter of cookies and brownies.",
+    "price": "$17.50 PER PERSON/L5",
+    "section": "FOR MEETINGS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "FOR MEETINGS"
+  },
+  {
+    "name": "THE SANDWICH PACK",
+    "description": "a choice of sandwich with lettuce & tomato( roast turkey & mayo, roast beef & russian, ham & dijon, or hummus), potato chips, and a giant freshly-baked cookie.",
+    "price": "$19",
+    "section": "BOXED LUNCHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "BOXED LUNCHES"
+  },
+  {
+    "name": "THE EXECUTIVE PACK",
+    "description": "choice of sandwich, potato chips, & a giant freshly-baked cookie. putnam- smoked turkey, brie & honey mustard; congress- hickory chicken salad; hathorn- roast beef & horseradish cheddar; paradise- smoked ham, cheddar, dijon & cranberry mayo; karista- fresh mozzarella, roasted red peppers & pesto mayo",
+    "price": "$22",
+    "section": "BOXED LUNCHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "BOXED LUNCHES"
+  },
+  {
+    "name": "THE SALAD PACK",
+    "description": "includes a choice of a freshly made salad: apple-cheddar-walnut, hickory chicken salad on greens, or albacore tuna salad on greens. It comes with baguette & a giant freshly-baked cookie.",
+    "price": "$21",
+    "section": "BOXED LUNCHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "BOXED LUNCHES"
+  },
+  {
+    "name": "ASSORTED ENTREES & SIDES",
+    "description": "hickory chicken salad, curried chicken salad, tuna salad, pesto tortellini, sesame noodles, potato salad, kale salad, maple chipotle meatballs, broccoli salad...",
+    "price": "$13.99 lb",
+    "section": "GOURMET BUFFET",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "GOURMET BUFFET"
+  },
+  {
+    "name": "HOUSE-MADE SOUPS",
+    "description": "chicken noodle, tomato parmesan, weekly specials",
+    "price": null,
+    "section": "GOURMET BUFFET",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "GOURMET BUFFET"
+  },
+  {
+    "name": "PUTNAM",
+    "description": "smoked turkey, brie & honey mustard",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "HIGH ROCK",
+    "description": "free range turkey, cheddar & cranberry mayo",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "CONGRESS",
+    "description": "hickory chicken salad & mayo",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "GLORIA",
+    "description": "curried chicken salad & mayo (contains almonds & raisins)",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "CHARLIE",
+    "description": "smoked turkey, cheddar, coleslaw, red onion & russian",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "GOVERNOR",
+    "description": "cracked pepper turkey, provolone, avocado, herb mayo",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "STEEPLE",
+    "description": "cracked pepper turkey, american, bacon & mayo",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "CATHARINE",
+    "description": "turkey, cheddar, bacon, avocado, sprouts & russian",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "PANDORA",
+    "description": "chicken breast, provolone, red onion, bbq & mayo",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "TYRONE'S CAESAR WRAP",
+    "description": "chicken breast, dried cranberries, parmesan, romaine & house-made caesar",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "HATHORN",
+    "description": "roast beef & horseradish cheddar spread",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "GUNPOWDER",
+    "description": "roast beef, cheddar, onion, bbq & mayo",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "ROYAL",
+    "description": "roast beef, blue cheese, mango chutney, sprouts & mayo",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "EMPIRE",
+    "description": "roast beef, roast turkey, cheddar, onion & russian",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "HAMILTON",
+    "description": "new york corned beef, swiss & russian",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "OLYMPIAN",
+    "description": "smoked ham, brie, apple & honey mustard",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "PARADISE",
+    "description": "smoked ham, cheddar, dijon & cranberry mayo",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "ORENDA",
+    "description": "genoa salami, fresh mozzarella & pesto mayo",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "ZALAMA",
+    "description": "ham, genoa salami, provolone, onion, banana peppers, oil & red wine vinegar",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "ADELPHI",
+    "description": "prosciutto, provolone, roasted peppers & pesto mayo",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "GLACIER",
+    "description": "house-made tuna salad, cucumber, onion & mayo",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "TALLULAH",
+    "description": "gruyère, avocado spread, sprouts & herb mayo",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "KARISTA",
+    "description": "fresh mozzarella, roasted red peppers & pesto mayo",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "ROSEMARY",
+    "description": "hummus, cucumber, carrots & sprouts",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "APPOLOS",
+    "description": "hummus, feta, cuke, red onion, banana peppers",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "GRILLED CHICKEN CAESAR",
+    "description": "on romaine",
+    "price": "$16.50",
+    "section": "SALADS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "CHICKEN & KALE CAESAR",
+    "description": "",
+    "price": "$16.50",
+    "section": "SALADS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "CHICKEN & MANDARIN",
+    "description": "oranges, almonds, carrots, red cabbage on romaine with sesame ginger dressing",
+    "price": "$16.50",
+    "section": "SALADS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "HICKORY CHICKEN",
+    "description": "salad with cucumbers, onions & tomatoes",
+    "price": "$16.50",
+    "section": "SALADS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "CURRIED CHICKEN",
+    "description": "salad with cucumbers, onions & tomatoes",
+    "price": "$16.50",
+    "section": "SALADS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "HOUSE-MADE TUNA",
+    "description": "salad with onions, cucumbers, & tomatoes",
+    "price": "$16.50",
+    "section": "SALADS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "APPLE & CHEDDAR",
+    "description": "with walnuts",
+    "price": "$16.50",
+    "section": "SALADS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "CALIFORNIA",
+    "description": "salad with feta, avocado, red onion, olives & roasted red peppers",
+    "price": "$16.50",
+    "section": "SALADS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "COBB",
+    "description": "salad with chicken breast, bacon, avocado & blue cheese",
+    "price": "$16.50",
+    "section": "SALADS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "WHOLE SANDWICH",
+    "description": "",
+    "price": "$16.50",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "HALF SANDWICH",
+    "description": "",
+    "price": "$9",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "SOUP & 1/2 SANDWICH",
+    "description": "",
+    "price": "$15",
+    "section": "SANDWICHES",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "SPECIALTY SALAD",
+    "description": "",
+    "price": "$16.50",
+    "section": "SALADS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "HALF SALAD",
+    "description": "",
+    "price": "$9",
+    "section": "SALADS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "SOUP & 1/2 SALAD",
+    "description": "",
+    "price": "$15",
+    "section": "SALADS",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Sandwiches & Salads",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "PICNIC CHICKEN PLATTER",
+    "description": "SERVES 10-15 sliced parmesan all-natural chicken breasts with hickory smoke aioli.",
+    "price": "$95",
+    "section": "cold entrée platters",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "cold entrée platters"
+  },
+  {
+    "name": "CHICKEN BREAST PLATTER",
+    "description": "sliced all-natural chicken breast served with cranberry mayonnaise.",
+    "price": "$70 small | $95 medium | $130 large",
+    "section": "cold entrée platters",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "cold entrée platters"
+  },
+  {
+    "name": "BEEF TENDERLOIN PLATTER",
+    "description": "rare & thinly sliced, with grilled onions & roasted red bell peppers, accompanied by our horseradish sauce.",
+    "price": "$160 small | $225 medium | $335 large",
+    "section": "cold entrée platters",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "cold entrée platters"
+  },
+  {
+    "name": "POACHED SALMON PLATTER",
+    "description": "sliced and served with our sour cream dill sauce.",
+    "price": "$125 small | $195 medium | $295 large",
+    "section": "cold entrée platters",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "cold entrée platters"
+  },
+  {
+    "name": "BAGUETTE PIECES (8)",
+    "description": "",
+    "price": "$7.99",
+    "section": "cold entrée platters",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "cold entrée platters"
+  },
+  {
+    "name": "MINI-CROISSANTS (8)",
+    "description": "sliced to accommodate sandwiches",
+    "price": "$12.99",
+    "section": "cold entrée platters",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "cold entrée platters"
+  },
+  {
+    "name": "JAMBALAYA WITH RICE",
+    "description": "chicken, shrimp, andouille sausage, tomatoes & vegetables.",
+    "price": "$110",
+    "section": "heat and serve entrées (serve 8-12)",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "heat and serve entrées (serve 8-12)"
+  },
+  {
+    "name": "PUTNAM DRY-RUBBED PULLED PORK",
+    "description": "",
+    "price": "$75",
+    "section": "heat and serve entrées (serve 8-12)",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "heat and serve entrées (serve 8-12)"
+  },
+  {
+    "name": "LIP-SMACKIN' MAC'N'CHEESE",
+    "description": "a special blend of 4 cheeses; the ultimate mac & cheese.",
+    "price": "$65",
+    "section": "heat and serve entrées (serve 8-12)",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "heat and serve entrées (serve 8-12)"
+  },
+  {
+    "name": "TORTELLINI, MARINARA & MEATBALLS",
+    "description": "",
+    "price": "$60",
+    "section": "heat and serve entrées (serve 8-12)",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "heat and serve entrées (serve 8-12)"
+  },
+  {
+    "name": "HOME MADE LASAGNE",
+    "description": "beef & sausage or roasted vegetable. **also available gluten free, made with polenta,+$10",
+    "price": "$80",
+    "section": "heat and serve entrées (serve 8-12)",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "heat and serve entrées (serve 8-12)"
+  },
+  {
+    "name": "CLASSIC QUICHE",
+    "description": "quiche lorraine / roasted vegetable",
+    "price": "(serves 8 - 10) $30",
+    "section": "for the morning",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "for the morning"
+  },
+  {
+    "name": "EGG FRITTATA",
+    "description": "served in wedges, at room temperature. gluten free. mushroom & gruyere / ham & swiss",
+    "price": "(serves 8 - 10) $28",
+    "section": "for the morning",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "for the morning"
+  },
+  {
+    "name": "START OF THE DAY",
+    "description": "an assortment of our freshly baked scones and muffins.",
+    "price": "$35 small | $52 medium | $70 large",
+    "section": "for the morning",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "for the morning"
+  },
+  {
+    "name": "BAGELS & CREAM CHEESE",
+    "description": "fresh bagels, assorted flavors, with cream cheese.",
+    "price": "$40 small | $57 medium | $75 large",
+    "section": "for the morning",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "for the morning"
+  },
+  {
+    "name": "THE NEW YORKER",
+    "description": "smoked salmon, red onion, tomatoes, capers & lemon wedges. served with fresh bagels, cream cheese, & butter.",
+    "price": "$98 small | $145 medium | $200 large",
+    "section": "for the morning",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "for the morning"
+  },
+  {
+    "name": "FRUITS OF THE SEASON",
+    "description": "a beautiful arrangement of sliced fruits, including melon, pineapple, strawberries & grapes. great any time of day.",
+    "price": "$48 small | $68 medium | $95 large",
+    "section": "for the morning",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "for the morning"
+  },
+  {
+    "name": "YOGURT & GRANOLA PLATTER",
+    "description": "bowls of organic vanilla Greek yogurt, sliced strawberries, and freshly-made fruit & nut granola.",
+    "price": "(serves 8 - 10) $40",
+    "section": "for the morning",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "for the morning"
+  },
+  {
+    "name": "FRESH COFFEE, REGULAR OR DECAF*",
+    "description": "we freshly grind the beans for each box, which serves 12 cups. the service pot is disposable. comes with cups, stirrers, milk & sweeteners.",
+    "price": "$24 PER BOX",
+    "section": "for the morning",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "for the morning"
+  },
+  {
+    "name": "PUTNAM POTATO SALAD",
+    "description": "red potatoes, red peppers, red onions & fresh spinach.",
+    "price": null,
+    "section": "side salads",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "side salads"
+  },
+  {
+    "name": "FRESH FRUIT SALAD",
+    "description": "bite-sized melon, pineapple, strawberries & grapes.",
+    "price": null,
+    "section": "side salads",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "side salads"
+  },
+  {
+    "name": "BOWTIE PASTA SALAD*",
+    "description": "tossed with fresh spinach, sundried tomatoes & evoo",
+    "price": null,
+    "section": "side salads",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "side salads"
+  },
+  {
+    "name": "PESTO TORTELLINI SALAD*",
+    "description": "cheese tortellini & grape tomatoes tossed in basil pesto.",
+    "price": null,
+    "section": "side salads",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "side salads"
+  },
+  {
+    "name": "PUTNAM SESAME NOODLES",
+    "description": "with red bell pepper & sesame-soy sauce.",
+    "price": null,
+    "section": "side salads",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "side salads"
+  },
+  {
+    "name": "MEXICAN STREET CORN QUINOA SALAD",
+    "description": "with poblano & red peppers, cilantro & chili-lime dressing.",
+    "price": null,
+    "section": "side salads",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "side salads"
+  },
+  {
+    "name": "CAPRESE MOZZARELLA SALAD",
+    "description": "marinated baby mozzarella balls with grape tomatoes.",
+    "price": null,
+    "section": "side salads",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "side salads"
+  },
+  {
+    "name": "PUTNAM BROCCOLI SALAD",
+    "description": "a family recipe: broccoli, bacon, apples & raisins.",
+    "price": null,
+    "section": "side salads",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "side salads"
+  },
+  {
+    "name": "ROASTED VEGETABLE PLATTER & SPINACH DIP",
+    "description": "red & yellow peppers, zucchini, & summer squash.",
+    "price": "$48 small | $68 medium | $95 large",
+    "section": "side salads",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "side salads"
+  },
+  {
+    "name": "TOSSED OR CAESAR SALAD",
+    "description": null,
+    "price": "$32 small | $48 medium | $70 large",
+    "section": "green salads*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "green salads*"
+  },
+  {
+    "name": "LEAF SPINACH SALAD",
+    "description": "blue cheese, dried cranberries, walnuts & balsamic vinaigrette.",
+    "price": null,
+    "section": "green salads*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "green salads*"
+  },
+  {
+    "name": "PUTNAM KALE SALAD",
+    "description": "almonds, dried cranberries, grapes & lemon vinaigrette.",
+    "price": "$48 small | $68 medium | $95 large",
+    "section": "green salads*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "green salads*"
+  },
+  {
+    "name": "SWEET TEMPTATIONS*",
+    "description": "home-made cookies & brownies.",
+    "price": "$40 small | $55 medium | $70 large",
+    "section": "desserts",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "desserts"
+  },
+  {
+    "name": "PUTNAM SAMPLER",
+    "description": "almond fingers, macaroons, cheesecake brownies & chocolate-drizzled strawberries. all gluten free, all delicious!",
+    "price": "$45 small | $60 medium | $75 large",
+    "section": "desserts",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "desserts"
+  },
+  {
+    "name": "PUTNAM TREATS*",
+    "description": "12 chocolate-dipped chocolate chip cookies with 12 assorted mini-cupcakes, all with festive sprinkles.",
+    "price": "$40",
+    "section": "desserts",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "desserts"
+  },
+  {
+    "name": "MINI CUPCAKE PLATTER",
+    "description": "assorted flavors, made to eat in 2 bites. 25 cupcakes, made from scratch from here at the market.",
+    "price": "$45",
+    "section": "desserts",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "desserts"
+  },
+  {
+    "name": "CHICKEN CAESAR SALAD",
+    "description": "romaine with chicken, parmesan & our Caesar dressing",
+    "price": null,
+    "section": "entrée salads*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "entrée salads*"
+  },
+  {
+    "name": "COBB SALAD",
+    "description": "mixed greens with chopped chicken breast, bacon, tomato, blue cheese and avocado, with our balsamic vinaigrette",
+    "price": null,
+    "section": "entrée salads*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "entrée salads*"
+  },
+  {
+    "name": "GREEK SALAD",
+    "description": "mixed greens with chickpeas, roasted red peppers, cucumbers, kalamata olives and feta, with our balsamic vinaigrette",
+    "price": null,
+    "section": "entrée salads*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "entrée salads*"
+  },
+  {
+    "name": "SARATOGA SALAD",
+    "description": "baby spinach with chicken breast, dried cranberries, toasted walnuts, blue cheese and balsamic vinaigrette",
+    "price": "$60 small | $80 medium | $115 large",
+    "section": "entrée salads*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "entrée salads*"
+  },
+  {
+    "name": "SPECIALTY SANDWICH PLATTER",
+    "description": "an assortment of our most popular deli sandwiches heaped high on a tray, dill pickles on the side: putnam- smoked turkey, brie & honey mustard; hathorn- roast beef & horseradish cheddar spread; congress- hickory chicken salad; paradise- smoked ham, swiss, dijon & cranberry mayo; karista-fresh mozzarella, roasted peppers & pesto mayo",
+    "price": "$16.50 per sandwich",
+    "section": "sandwiches*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "sandwiches*"
+  },
+  {
+    "name": "AMERICAN WRAP PLATTER",
+    "description": "classics on whole wheat wraps: house-roasted turkey, american & mayo; roast beef, provolone & russian; hickory chicken salad; smoked ham, swiss & dijon; and fresh vegetables, provolone & herb mayo.",
+    "price": "$14 per sandwich",
+    "section": "sandwiches*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "sandwiches*"
+  },
+  {
+    "name": "PETITE CROISSANT SANDWICHES",
+    "description": "great for a book club or a shower. tasty & simple: hickory chicken salad; roast turkey & cranberry mayo; fresh mozzarella, roasted peppers & pesto mayo; smoked ham & honey mustard on mini-croissants.",
+    "price": "$5.50 each",
+    "section": "sandwiches*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "sandwiches*"
+  },
+  {
+    "name": "PUTNAM SIGNATURE BAGUETTE SANDWICHES",
+    "description": "a delicious assortment, including: caesar chicken; turkey, apple & honey mustard; prosciutto, provolone & balsamic vinaigrette; tomato, mozzarella & pesto mayo",
+    "price": "Small $60 | Medium $90 | Large $150",
+    "section": "sandwiches*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "sandwiches*"
+  },
+  {
+    "name": "CLASSIC DELI PLATTER",
+    "description": "roast beef, cracked pepper turkey & smoked ham along with swiss & american cheese on a platter, lettuce, tomatoes, condiments & dill pickles, and an assortment of breads.",
+    "price": "Small $88 | Medium $135 | Large $220",
+    "section": "deli platters",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "deli platters"
+  },
+  {
+    "name": "THE MORNING MEETING SPECIAL",
+    "description": "an assortment of our homemade muffins & scones, with a fresh fruit tray.",
+    "price": "$10 per person",
+    "section": "specials for businesses & gatherings*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "specials for businesses & gatherings*"
+  },
+  {
+    "name": "FRESH COFFEE, REGULAR OR DECAF*",
+    "description": "each service box holds 12 cups and is disposable. comes with cups, stirrers, milk & sweeteners.",
+    "price": "$24 PER BOX",
+    "section": "specials for businesses & gatherings*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "specials for businesses & gatherings*"
+  },
+  {
+    "name": "THE MARKET SPECIAL",
+    "description": "a delicious lunch of specialty deli sandwiches, with pasta salad and a platter of cookies and brownies.",
+    "price": "$19.50 per person",
+    "section": "specials for businesses & gatherings*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "specials for businesses & gatherings*"
+  },
+  {
+    "name": "THE PREMIUM SPECIAL",
+    "description": "even more impressive, with half a specialty deli sandwich per person, with fresh fruit salad, pasta salad and a platter of our scratch-baked cookies and brownies.",
+    "price": "$21.50 per person",
+    "section": "specials for businesses & gatherings*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "specials for businesses & gatherings*"
+  },
+  {
+    "name": "THE WRAP SPECIAL",
+    "description": "easy to eat wraps: roast beef, provolone & russian, chicken salad, house-roasted turkey, american & mayo, smoked ham, swiss & dijon, and fresh vegetables, provolone & herb mayo along with pasta salad, cookies & brownies.",
+    "price": "$17.50 per person",
+    "section": "specials for businesses & gatherings*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "specials for businesses & gatherings*"
+  },
+  {
+    "name": "THE GRAND CHARCUTERIE PLATTER",
+    "description": "french brie, spanish manchego, vt cheddar & herbed chevre complement slices of salami and prosciutto. dried apricots, figs, & cranberries along with fresh strawberries & red grapes add contrast and color. almonds, olives & hot honey bring pizzazz. we add port wine cheese spread to the medium platter. comes with crackers.",
+    "price": "Small $125 | Medium $180 | Large $290",
+    "section": "charcuterie & grazing platters",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "charcuterie & grazing platters"
+  },
+  {
+    "name": "TASTE OF ITALY",
+    "description": "slices of genoa salami, chianti salami, and prosciutto with marinated mozzarella, mixed olives, stuffed cherry peppers, and long stemmed artichokes.",
+    "price": "$100",
+    "section": "charcuterie & grazing platters",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "charcuterie & grazing platters"
+  },
+  {
+    "name": "MEZZE DIPPING PLATTER",
+    "description": "house-made hummus, spinach dip, harissa, herbed chevre, mixed olives and stuffed grape leaves with bell peppers. broccoli and carrots for dipping.",
+    "price": "$85",
+    "section": "charcuterie & grazing platters",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "charcuterie & grazing platters"
+  },
+  {
+    "name": "DIRECT FROM FRANCE",
+    "description": "slices of ham with country style pâté, herbed chevre, st andré cheese, assorted olives, mustard, strawberries, red grapes and cornichons.",
+    "price": "$100",
+    "section": "charcuterie & grazing platters",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "charcuterie & grazing platters"
+  },
+  {
+    "name": "CUSTOM CHEESE PLATTER*",
+    "description": "we arrange your selection with dried & fresh fruit. sliced baguette & crackers come on the side. Pick 3 cheeses: triple-crème brie / st andré / goat gouda / aged gouda / parrano / manchego",
+    "price": "$65",
+    "section": "charcuterie & grazing platters",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "charcuterie & grazing platters"
+  },
+  {
+    "name": "PATÉ & CHEESE PLATTER*",
+    "description": "french brie and imported gruyere with country style pâté, truffled chicken liver mousse pâté, cornichons, red grapes & strawberries with sliced baguette & crackers on the side.",
+    "price": "$95",
+    "section": "charcuterie & grazing platters",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "charcuterie & grazing platters"
+  },
+  {
+    "name": "SKEWER PLATTER",
+    "description": "18 skewers of each, pick 2: mozzarella, tomato & basil / prosciutto, melon & grape / melon, pineapple & strawberry / ham, cheddar & cornichon / pesto tortellini & grape tomato / salami, provolone & olive",
+    "price": "$70",
+    "section": "charcuterie & grazing platters",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "charcuterie & grazing platters"
+  },
+  {
+    "name": "PUTNAM STUFFED BREAD",
+    "description": "a rustic loaf filled our spinach dip, surrounded with bread cubes, broccoli, carrots, celery, cucumber & red bell pepper.",
+    "price": "$60",
+    "section": "classic appetizers",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "classic appetizers"
+  },
+  {
+    "name": "ASIAN DUMPLINGS & POTSTICKERS",
+    "description": "all are accompanied by creamy teriyaki dipping sauce",
+    "price": null,
+    "section": "classic appetizers",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "classic appetizers"
+  },
+  {
+    "name": "50 bite-sized seafood dumplings",
+    "description": null,
+    "price": "$75",
+    "section": "classic appetizers",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "classic appetizers"
+  },
+  {
+    "name": "50 bite-sized chicken teriyaki potstickers",
+    "description": null,
+    "price": "$65",
+    "section": "classic appetizers",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "classic appetizers"
+  },
+  {
+    "name": "50 bite-sized edamame dumplings vegetarian",
+    "description": null,
+    "price": "$65",
+    "section": "classic appetizers",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "classic appetizers"
+  },
+  {
+    "name": "DIM SUM TRIO",
+    "description": "an assortment of seafood, chicken, & edamame dumplings with creamy teriyaki dipping sauce.",
+    "price": "$75",
+    "section": "classic appetizers",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "classic appetizers"
+  },
+  {
+    "name": "MINI QUICHE SQUARES",
+    "description": "60 bite-sized house-made quiche squares, to serve at room temperature. includes roasted vegetable and classic quiche lorraine.",
+    "price": "$55",
+    "section": "classic appetizers",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "classic appetizers"
+  },
+  {
+    "name": "SEAFOOD PLATTER",
+    "description": "20 colossal poached shrimp, 15 dim sum & 15 bite-sized crabcakes with lemon wedges, cocktail sauce & old bay dipping sauce.",
+    "price": "$125",
+    "section": "classic appetizers",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "classic appetizers"
+  },
+  {
+    "name": "MINI CRABCAKES WITH OLD BAY DIPPING SAUCE",
+    "description": "pan-grilled crab cakes served with seasoned dipping sauce.",
+    "price": "$72 (24 crabcakes) | $108 (36 crabcakes) | $180 (60 crabcakes)",
+    "section": "classic appetizers",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "classic appetizers"
+  },
+  {
+    "name": "CLASSIC SHRIMP PLATTER",
+    "description": "colossal shrimp with lemon wedges & zingy cocktail sauce.",
+    "price": "$72 (24 shrimp) | $108 (36 shrimp) | $180 (60 shrimp)",
+    "section": "classic appetizers",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "classic appetizers"
+  },
+  {
+    "name": "THAI PEANUT CHICKEN SATAY PLATER",
+    "description": "skewered chicken tenderloin with peanut dipping sauce.",
+    "price": "$70 (24 skewers) | $105 (36 skewers) | $170 (60 skewers)",
+    "section": "classic appetizers",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "classic appetizers"
+  },
+  {
+    "name": "PUTNAM MEATBALLS*",
+    "description": "great for parties, 60 bite-sized beef meatballs. serve warm. maple chipotle / tomato parmesan",
+    "price": "$60",
+    "section": "classic appetizers",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "classic appetizers"
+  },
+  {
+    "name": "PINWHEEL PLATTER*",
+    "description": "bite-sized pinwheel wraps include roast beef & horseradish -cheddar spread; avocado, sprouts, spinach & herb mayo; and smoked turkey, cheddar & honey mustard.",
+    "price": "Small $45 (32 pc) | Medium $65 (48 pc) | Large $110 (80 pc)",
+    "section": "classic appetizers",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "classic appetizers"
+  },
+  {
+    "name": "PUTNAM DIPS FOR ENTERTAINING",
+    "description": "Freshly made, ready to serve. garlic hummus / spinach & water chestnut",
+    "price": "$8.99 PINT",
+    "section": "classic appetizers",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Catering",
+    "menu_name": "classic appetizers"
+  },
+  {
+    "name": "Cupcakes",
+    "description": "Choose the cupcake base:\nYellow Red Wine Red Velvet\nChocolate GF Yellow or Chocolate\nCarrot Vegan Yellow or Chocolate\nChoose a Buttercream Frosting:\nVanilla Almond Coconut\nChocolate Peanut Butter Lemon\nRaspberry Cream Cheese\nFinishing Touches:\nCaramel Drizzle Fresh Coconut\nChocolate Drizzle Chocolate Dipped\nAssorted Sprinkles\nPremium Fillings (+25¢):\nPastry Cream Chocolate Mousse\nLemon Curd Raspberry Preserve\nCoconut Cream Fresh Strawberry Preserve",
+    "price": "$4.95 each",
+    "section": "Cupcakes",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Cupcakes"
+  },
+  {
+    "name": "6\"",
+    "description": "",
+    "price": "$40",
+    "section": "Sizes & Prices",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Sizes & Prices"
+  },
+  {
+    "name": "8\"",
+    "description": "",
+    "price": "$55",
+    "section": "Sizes & Prices",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Sizes & Prices"
+  },
+  {
+    "name": "10\"",
+    "description": "",
+    "price": "$70",
+    "section": "Sizes & Prices",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Sizes & Prices"
+  },
+  {
+    "name": "12\"",
+    "description": "",
+    "price": "$90",
+    "section": "Sizes & Prices",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Sizes & Prices"
+  },
+  {
+    "name": "14\"",
+    "description": "",
+    "price": "$110",
+    "section": "Sizes & Prices",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Sizes & Prices"
+  },
+  {
+    "name": "6\"",
+    "description": "",
+    "price": "$50",
+    "section": "Sizes & Prices",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Sizes & Prices"
+  },
+  {
+    "name": "8\"",
+    "description": "",
+    "price": "$65",
+    "section": "Sizes & Prices",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Sizes & Prices"
+  },
+  {
+    "name": "10\"",
+    "description": "",
+    "price": "$85",
+    "section": "Sizes & Prices",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Sizes & Prices"
+  },
+  {
+    "name": "12\"",
+    "description": "",
+    "price": "$105",
+    "section": "Sizes & Prices",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Sizes & Prices"
+  },
+  {
+    "name": "14\"",
+    "description": "",
+    "price": "$130",
+    "section": "Sizes & Prices",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Sizes & Prices"
+  },
+  {
+    "name": "9\"X13\"",
+    "description": "",
+    "price": "$60",
+    "section": "Sizes & Prices",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Sizes & Prices"
+  },
+  {
+    "name": "11\"X15\"",
+    "description": "",
+    "price": "$75",
+    "section": "Sizes & Prices",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Sizes & Prices"
+  },
+  {
+    "name": "12\"X18\"",
+    "description": "",
+    "price": "$100",
+    "section": "Sizes & Prices",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Sizes & Prices"
+  },
+  {
+    "name": "15\"X22\"",
+    "description": "",
+    "price": "$135",
+    "section": "Sizes & Prices",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Sizes & Prices"
+  },
+  {
+    "name": "Carrot Cake.",
+    "description": "carrot cake rich with pineapple & coconut, with cream cheese buttercream frosting. (Nut free) *Also available gluten free, +$10",
+    "price": null,
+    "section": "Our Favorite Cakes*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Our Favorite Cakes*"
+  },
+  {
+    "name": "Luscious Lemon.",
+    "description": "yellow cake, lemon curd filling & lemon buttercream frosting.",
+    "price": null,
+    "section": "Our Favorite Cakes*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Our Favorite Cakes*"
+  },
+  {
+    "name": "Raspberry Blackout.",
+    "description": "chocolate cake with raspberry preserve filling, chocolate buttercream frosting and raspberry preserve glaze.",
+    "price": null,
+    "section": "Our Favorite Cakes*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Our Favorite Cakes*"
+  },
+  {
+    "name": "Strawberry Shortcake.",
+    "description": "yellow cake, house-made fresh strawberry preserve filling and vanilla buttercream frosting with fresh strawberry decoration.",
+    "price": null,
+    "section": "Our Favorite Cakes*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Our Favorite Cakes*"
+  },
+  {
+    "name": "Death by Chocolate.",
+    "description": "chocolate cake with chocolate buttercream frosting, and dark chocolate ganache drip.",
+    "price": null,
+    "section": "Our Favorite Cakes*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Our Favorite Cakes*"
+  },
+  {
+    "name": "Peanut Butter Explosion.",
+    "description": "chocolate cake, peanut butter buttercream frosting with dark chocolate ganache drip and mini peanut butter cup decoration.",
+    "price": null,
+    "section": "Our Favorite Cakes*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Our Favorite Cakes*"
+  },
+  {
+    "name": "Coconut Snowball.",
+    "description": "yellow cake, coconut cream filling, coconut buttercream frosting, covered with fresh coconut.",
+    "price": null,
+    "section": "Our Favorite Cakes*",
+    "restaurant_name": "Putnam Market",
+    "restaurant_url": "https://putnammarket.com/",
+    "menu_type": "Custom Cakes",
+    "menu_name": "Our Favorite Cakes*"
+  }
+]
