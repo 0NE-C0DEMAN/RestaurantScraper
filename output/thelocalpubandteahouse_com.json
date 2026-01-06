@@ -1,0 +1,1282 @@
+[
+  {
+    "name": "'Local' Fries",
+    "description": "hand cut & twice cooked",
+    "price": "$10.00",
+    "section": "Starters",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "Poutine 'Local' Fries",
+    "description": "melted cheddar & gravy. Add-ons: Cheese Curds +$3.00",
+    "price": "$12.00",
+    "section": "Starters",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "Fried Pickles",
+    "description": "served with a cucumber wasabi aioli",
+    "price": "$12.00",
+    "section": "Starters",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "Tater Tots",
+    "description": "house made with black pepper & parm",
+    "price": "$12.00",
+    "section": "Starters",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "Chicken Fingers",
+    "description": "house made & antibiotic free with celery & blue cheese - choice of buffalo or bbq sauce",
+    "price": "$14.00",
+    "section": "Starters",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "Wings",
+    "description": "mild, medium, hot, habañero mango, sweet chili, bbq, sal's sauce, hot honey, garlic parm, house dry rub wings",
+    "price": "10 Wings $16.00 | 20 Wings $26.00",
+    "section": "Starters",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "Potato pancake",
+    "description": "two potato pancakes served with sour cream and green onions",
+    "price": "$11.00",
+    "section": "Starters",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "'The Local' Burger",
+    "description": "chargrilled beef with lettuce, tomato & onion served on a bun",
+    "price": "$15.00",
+    "section": "Burgers",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Burgers"
+  },
+  {
+    "name": "Local Farm Burger",
+    "description": "8oz grass fed organic locally raised angus beef, handmade daily on a bun",
+    "price": "$17.00",
+    "section": "Burgers",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Burgers"
+  },
+  {
+    "name": "Veggie Burger",
+    "description": "house made with pineapple, poblano, chickpeas, pickled radish & tzatziki",
+    "price": "$15.00",
+    "section": "Burgers",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Burgers"
+  },
+  {
+    "name": "One-Eye Burger",
+    "description": "our famous local burger topped with an over-easy egg & bacon with homefries served on a bun with lettuce, tomato and onion",
+    "price": "$19.00",
+    "section": "Burgers",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Burgers"
+  },
+  {
+    "name": "2 - 2 - 2",
+    "description": "2 eggs any style, 2 slices of bacon & 2 pancakes",
+    "price": "$14.00",
+    "section": "Brunch",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "French Toast",
+    "description": "egg battered hearty potato bread, powdered sugar and maple syrup",
+    "price": "$11.00",
+    "section": "Brunch",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Homemade Pancakes",
+    "description": "three fluffy pancakes",
+    "price": "$10.00",
+    "section": "Brunch",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Two Eggs*",
+    "description": "two eggs any style, toast, bacon, ham or sausage",
+    "price": "$10.00",
+    "section": "Brunch",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Big Omelette*",
+    "description": "3 items from our adds list with toast",
+    "price": "$14.00",
+    "section": "Brunch",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Breakfast Burrito",
+    "description": "scrambled eggs, sausage, home fries, cheddar, queso & bean mix with salsa & sour cream on the side",
+    "price": "$13.00",
+    "section": "Brunch",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Irish Breakfast*",
+    "description": "2 eggs any style, irish bacon & sausage, with grilled tomato & toast",
+    "price": "$14.00",
+    "section": "Brunch",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Mushroom Tartine*",
+    "description": "2 eggs, any style, over sautéed mushrooms on ciabatta, ale mustard cheese sauce, tomato & scallions",
+    "price": "$15.00",
+    "section": "Brunch",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Breakfast BLT*",
+    "description": "our blt topped with 2 eggs any style, on sourdough with mayonnaise",
+    "price": "$15.00",
+    "section": "Brunch",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Breakfast Skillet",
+    "description": "ham, bacon, sausage, home fries, scrambled eggs with cheese",
+    "price": "$14.00",
+    "section": "Brunch",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Eggs Benedict",
+    "description": "2 poached eggs on an english muffin topped with hollandaise sauce. Add-ons: Bacon, Sausage or Ham +$2.00 / Irish Bacon +$3.00 / Smoked Salmon +$5.00",
+    "price": "$11.00",
+    "section": "Brunch",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "The Eye Opener",
+    "description": "our famous poutine fries topped with 2 eggs any style, bacon & sour cream. Add-ons: Cheese Curds +$2.00",
+    "price": "$13.00",
+    "section": "Brunch",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "The Irish Open*",
+    "description": "english muffin topped with 2 over easy eggs, melted cheddar, hash, tomatoes & choice of bacon, ham or sausage",
+    "price": "$14.00",
+    "section": "Brunch",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "Breakfast Sandwich",
+    "description": "2 eggs any style with cheese on a roll",
+    "price": "$9.00",
+    "section": "Brunch",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch"
+  },
+  {
+    "name": "House Salad",
+    "description": "field greens, tomatoes, croutons, cucumbers & onion",
+    "price": "$11.00",
+    "section": "Salads",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Fish 'N' Chips",
+    "description": "a classic done right - house beer battered haddock served with local fries & coleslaw",
+    "price": "$20.00",
+    "section": "Pub Fare",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Pub Fare"
+  },
+  {
+    "name": "Grilled Chicken",
+    "description": "served on warm naan with lettuce, tomato, onion & garlic herb mayo",
+    "price": "$16.00",
+    "section": "Sandwiches",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "description": "swiss, pepperjack, and cheddar on rockhill sourdough",
+    "price": "$14.00",
+    "section": "Sandwiches",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "Pulled Prok",
+    "description": "slow cooked pulled pork with bbq sauce, fried onions & coleslaw on a brioche bun",
+    "price": "$16.00",
+    "section": "Sandwiches",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "Toast or English Muffin",
+    "description": null,
+    "price": "$1.00",
+    "section": "Brunch Sides",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch Sides"
+  },
+  {
+    "name": "Homefries",
+    "description": null,
+    "price": "$4.00",
+    "section": "Brunch Sides",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch Sides"
+  },
+  {
+    "name": "Bacon, Ham or Sausage Patty",
+    "description": null,
+    "price": "$4.00",
+    "section": "Brunch Sides",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch Sides"
+  },
+  {
+    "name": "Irish Bacon",
+    "description": null,
+    "price": "$5.00",
+    "section": "Brunch Sides",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch Sides"
+  },
+  {
+    "name": "Smoked Salmon",
+    "description": null,
+    "price": "$5.00",
+    "section": "Brunch Sides",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch Sides"
+  },
+  {
+    "name": "Corned Beef Hash",
+    "description": null,
+    "price": "$4.00",
+    "section": "Brunch Sides",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch Sides"
+  },
+  {
+    "name": "Grilled Tomato",
+    "description": null,
+    "price": "$2.00",
+    "section": "Brunch Sides",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch Sides"
+  },
+  {
+    "name": "Egg any Style",
+    "description": "Sub Egg Whites",
+    "price": "$2.50",
+    "section": "Brunch Sides",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch Sides"
+  },
+  {
+    "name": "Sub Egg Whites",
+    "description": null,
+    "price": "$3.00",
+    "section": "Brunch Sides",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Brunch Sides"
+  },
+  {
+    "name": "Yum Yum - Single Pancake",
+    "description": "Add Blueberries or Chocolate Chips. Add-ons: Blueberries or Chocolate Chips +$1.00",
+    "price": "$5.00",
+    "section": "Kids",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Kids"
+  },
+  {
+    "name": "I Don't Know",
+    "description": "kids love chicken fingers antibiotic free & fried to order not frozen",
+    "price": "$8.00",
+    "section": "Kids",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Kids"
+  },
+  {
+    "name": "I'm Not Hungry*",
+    "description": "grilled cheese sandwic",
+    "price": "$7.00",
+    "section": "Kids",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Kids"
+  },
+  {
+    "name": "I Want Mac N Cheese",
+    "description": "Kids can't resist kraft mac n' cheese",
+    "price": "$7.00",
+    "section": "Kids",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Kids"
+  },
+  {
+    "name": "I'm a Vegetarian Now*",
+    "description": "good old pb&j sandwich",
+    "price": "$7.00",
+    "section": "Kids",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Kids"
+  },
+  {
+    "name": "I Don't Care",
+    "description": "hot dog",
+    "price": "$7.00",
+    "section": "Kids",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Kids"
+  },
+  {
+    "name": "I Don't Want That",
+    "description": "grilled salmon. Add-ons: Apples or Veggies +$1.00",
+    "price": "$12.00",
+    "section": "Kids",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Kids"
+  },
+  {
+    "name": "Roasted Red Peppers",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Sautéed Mushrooms",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Sautéed Onions",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Jalapeños",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Cucumbers",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Black Olives",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Sour Cream",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Salsa",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Crumbled Blue Cheese",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Cheddar Cheese",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Swiss Cheese",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Goat Cheese",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Smoked Gouda Cheese",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Bacon",
+    "description": null,
+    "price": "$2.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Sriracha Mayo",
+    "description": null,
+    "price": "$2.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Blue Cheese Dressing",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Tzatziki Sauce",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Sals Sauce",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Maple Vinaigrette",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Roasted Red Pepper Ranch",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Ranch Dressing",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Russian Dressing",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Barbeque Sauce",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Wing Sauce",
+    "description": null,
+    "price": "$1.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Melba Sauce",
+    "description": null,
+    "price": "$2.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Avocado",
+    "description": null,
+    "price": "$3.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Coleslaw",
+    "description": null,
+    "price": "$2.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Tempeh",
+    "description": null,
+    "price": "$7.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Gravy",
+    "description": null,
+    "price": "$2.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Bread & Butter",
+    "description": null,
+    "price": "$3.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Guacamole",
+    "description": "Sm/Large Option",
+    "price": "Large Option $2.00 | 00 Option $4.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Pesto",
+    "description": null,
+    "price": "$2.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Hand-Cut Fries",
+    "description": null,
+    "price": "$4.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Sweet Potato Fries",
+    "description": null,
+    "price": "$6.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Gluten Free Bun",
+    "description": null,
+    "price": "$3.50",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Ciabatta",
+    "description": "Half",
+    "price": "Half $1.00 | 00 Full $2.00",
+    "section": "Adds",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Adds"
+  },
+  {
+    "name": "Monday",
+    "description": "Starters 'Local' Fries hand cut & twice cooked. Add-ons: Cheese Curds +$3.00 / Bacon, Sausage or Ham +$2.00 / Irish Bacon +$3.00 / Smoked Salmon +$5.00 / Cheese Curds +$2.00 / grilled chicken, salmon patty or tempeh +$7.00 / Blueberries or Chocolate Chips +$1.00 / Apples or Veggies +$1.00 / Rose Liquor +$1.00",
+    "price": "twice cooked $10.00 | gravy $12.00 | Cheese Curds $3.00 | gravy $12.00 | gravy $12.00 | bbq sauce $14.00 | $16.00 | $26.00 | green onions $11.00 | a bun $15.00 | a bun $17.00 | a bun $15.00 | and onion $19.00 | bbq sauce $14.00 | French Toast $2.00 | green onions $11.00 | twice cooked $10.00 | Chocolate Chips $1.50 | twice cooked $10.00 | bbq sauce $14.00 | the side $13.00 | bbq sauce $14.00 | a bun $15.00 | a bun $15.00 | bbq sauce $14.00 | green onions $11.00 | French Toast $2.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | the side $13.00 | French Toast $2.00 | bbq sauce $14.00 | a roll $9.00 | French Toast $2.00 | or tempeh $7.00 | gravy $12.00 | green onions $11.00 | French Toast $2.00 | coleslaw $20.00 | Cheese Curds $3 | $2 | $4 | twice cooked $1 | $2 | $16.00 | bbq sauce $14.00 | $16.00 | English Muffin $1.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Smoked Salmon $5.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | French Toast $2.00 | any Style $2.50 | Cheese Curds $3.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | English Muffin $1.00 | not frozen $8.00 | or tempeh $7.00 | or tempeh $7.00 | or tempeh $7.00 | or tempeh $7.00 | gravy $12.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | French Toast $2.00 | French Toast $2.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | French Toast $2.00 | Cheese Curds $3.00 | French Toast $2.00 | or tempeh $7.00 | French Toast $2.00 | Cheese Curds $3.00 | French Toast $2.00 | 00 Homefries $4.00 | French Toast $2.00 | 00 Homefries $4.00 | Potato Fries $6.00 | Free Bun $3.50 | English Muffin $1.00 | French Toast $2.00 | a roll $9.00 | English Muffin $1.00 | French Toast $2.00 | Potato Fries $6.00 | green onions $11.00 | a roll $9.00 | English Muffin $1.00 | French Toast $2.00 | twice cooked $10.00 | twice cooked $10.00 | English Muffin $1.00 | English Muffin $1.00 | twice cooked $10.00 | 00 Homefries $4.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | Potato Fries $6.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Smoked Salmon $5.00 | Potato Fries $6.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | English Muffin $1.00 | English Muffin $1.00 | 00 Homefries $4.00 | English Muffin $1.00 | English Muffin $1.00 | Smoked Salmon $5.00 | Potato Fries $6.00 | English Muffin $1.00 | English Muffin $1.00 | Smoked Salmon $5 | the side $13",
+    "section": "Specials",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Specials"
+  },
+  {
+    "name": "Tuesday",
+    "description": "Starters 'Local' Fries hand cut & twice cooked. Add-ons: Cheese Curds +$3.00 / Bacon, Sausage or Ham +$2.00 / Irish Bacon +$3.00 / Smoked Salmon +$5.00 / Cheese Curds +$2.00 / grilled chicken, salmon patty or tempeh +$7.00 / Blueberries or Chocolate Chips +$1.00 / Apples or Veggies +$1.00 / Rose Liquor +$1.00",
+    "price": "twice cooked $10.00 | gravy $12.00 | Cheese Curds $3.00 | gravy $12.00 | gravy $12.00 | bbq sauce $14.00 | $16.00 | $26.00 | green onions $11.00 | a bun $15.00 | a bun $17.00 | a bun $15.00 | and onion $19.00 | bbq sauce $14.00 | French Toast $2.00 | green onions $11.00 | twice cooked $10.00 | Chocolate Chips $1.50 | twice cooked $10.00 | bbq sauce $14.00 | the side $13.00 | bbq sauce $14.00 | a bun $15.00 | a bun $15.00 | bbq sauce $14.00 | green onions $11.00 | French Toast $2.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | the side $13.00 | French Toast $2.00 | bbq sauce $14.00 | a roll $9.00 | French Toast $2.00 | or tempeh $7.00 | gravy $12.00 | green onions $11.00 | French Toast $2.00 | coleslaw $20.00 | Cheese Curds $3 | $2 | $4 | twice cooked $1 | $2 | $16.00 | bbq sauce $14.00 | $16.00 | English Muffin $1.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Smoked Salmon $5.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | French Toast $2.00 | any Style $2.50 | Cheese Curds $3.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | English Muffin $1.00 | not frozen $8.00 | or tempeh $7.00 | or tempeh $7.00 | or tempeh $7.00 | or tempeh $7.00 | gravy $12.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | French Toast $2.00 | French Toast $2.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | French Toast $2.00 | Cheese Curds $3.00 | French Toast $2.00 | or tempeh $7.00 | French Toast $2.00 | Cheese Curds $3.00 | French Toast $2.00 | 00 Homefries $4.00 | French Toast $2.00 | 00 Homefries $4.00 | Potato Fries $6.00 | Free Bun $3.50 | English Muffin $1.00 | French Toast $2.00 | a roll $9.00 | English Muffin $1.00 | French Toast $2.00 | Potato Fries $6.00 | green onions $11.00 | a roll $9.00 | English Muffin $1.00 | French Toast $2.00 | twice cooked $10.00 | twice cooked $10.00 | English Muffin $1.00 | English Muffin $1.00 | twice cooked $10.00 | 00 Homefries $4.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | Potato Fries $6.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Smoked Salmon $5.00 | Potato Fries $6.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | English Muffin $1.00 | English Muffin $1.00 | 00 Homefries $4.00 | English Muffin $1.00 | English Muffin $1.00 | Smoked Salmon $5.00 | Potato Fries $6.00 | English Muffin $1.00 | English Muffin $1.00 | Smoked Salmon $5 | the side $13",
+    "section": "Specials",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Specials"
+  },
+  {
+    "name": "Wednesday",
+    "description": "Starters 'Local' Fries hand cut & twice cooked. Add-ons: Cheese Curds +$3.00 / Bacon, Sausage or Ham +$2.00 / Irish Bacon +$3.00 / Smoked Salmon +$5.00 / Cheese Curds +$2.00 / grilled chicken, salmon patty or tempeh +$7.00 / Blueberries or Chocolate Chips +$1.00 / Apples or Veggies +$1.00 / Rose Liquor +$1.00",
+    "price": "twice cooked $10.00 | gravy $12.00 | Cheese Curds $3.00 | gravy $12.00 | gravy $12.00 | bbq sauce $14.00 | $16.00 | $26.00 | green onions $11.00 | a bun $15.00 | a bun $17.00 | a bun $15.00 | and onion $19.00 | bbq sauce $14.00 | French Toast $2.00 | green onions $11.00 | twice cooked $10.00 | Chocolate Chips $1.50 | twice cooked $10.00 | bbq sauce $14.00 | the side $13.00 | bbq sauce $14.00 | a bun $15.00 | a bun $15.00 | bbq sauce $14.00 | green onions $11.00 | French Toast $2.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | the side $13.00 | French Toast $2.00 | bbq sauce $14.00 | a roll $9.00 | French Toast $2.00 | or tempeh $7.00 | gravy $12.00 | green onions $11.00 | French Toast $2.00 | coleslaw $20.00 | Cheese Curds $3 | $2 | $4 | twice cooked $1 | $2 | $16.00 | bbq sauce $14.00 | $16.00 | English Muffin $1.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Smoked Salmon $5.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | French Toast $2.00 | any Style $2.50 | Cheese Curds $3.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | English Muffin $1.00 | not frozen $8.00 | or tempeh $7.00 | or tempeh $7.00 | or tempeh $7.00 | or tempeh $7.00 | gravy $12.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | French Toast $2.00 | French Toast $2.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | French Toast $2.00 | Cheese Curds $3.00 | French Toast $2.00 | or tempeh $7.00 | French Toast $2.00 | Cheese Curds $3.00 | French Toast $2.00 | 00 Homefries $4.00 | French Toast $2.00 | 00 Homefries $4.00 | Potato Fries $6.00 | Free Bun $3.50 | English Muffin $1.00 | French Toast $2.00 | a roll $9.00 | English Muffin $1.00 | French Toast $2.00 | Potato Fries $6.00 | green onions $11.00 | a roll $9.00 | English Muffin $1.00 | French Toast $2.00 | twice cooked $10.00 | twice cooked $10.00 | English Muffin $1.00 | English Muffin $1.00 | twice cooked $10.00 | 00 Homefries $4.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | Potato Fries $6.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Smoked Salmon $5.00 | Potato Fries $6.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | English Muffin $1.00 | English Muffin $1.00 | 00 Homefries $4.00 | English Muffin $1.00 | English Muffin $1.00 | Smoked Salmon $5.00 | Potato Fries $6.00 | English Muffin $1.00 | English Muffin $1.00 | Smoked Salmon $5 | the side $13",
+    "section": "Specials",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Specials"
+  },
+  {
+    "name": "Thursday",
+    "description": "Starters 'Local' Fries hand cut & twice cooked. Add-ons: Cheese Curds +$3.00 / Bacon, Sausage or Ham +$2.00 / Irish Bacon +$3.00 / Smoked Salmon +$5.00 / Cheese Curds +$2.00 / grilled chicken, salmon patty or tempeh +$7.00 / Blueberries or Chocolate Chips +$1.00 / Apples or Veggies +$1.00 / Rose Liquor +$1.00",
+    "price": "twice cooked $10.00 | gravy $12.00 | Cheese Curds $3.00 | gravy $12.00 | gravy $12.00 | bbq sauce $14.00 | $16.00 | $26.00 | green onions $11.00 | a bun $15.00 | a bun $17.00 | a bun $15.00 | and onion $19.00 | bbq sauce $14.00 | French Toast $2.00 | green onions $11.00 | twice cooked $10.00 | Chocolate Chips $1.50 | twice cooked $10.00 | bbq sauce $14.00 | the side $13.00 | bbq sauce $14.00 | a bun $15.00 | a bun $15.00 | bbq sauce $14.00 | green onions $11.00 | French Toast $2.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | the side $13.00 | French Toast $2.00 | bbq sauce $14.00 | a roll $9.00 | French Toast $2.00 | or tempeh $7.00 | gravy $12.00 | green onions $11.00 | French Toast $2.00 | coleslaw $20.00 | Cheese Curds $3 | $2 | $4 | twice cooked $1 | $2 | $16.00 | bbq sauce $14.00 | $16.00 | English Muffin $1.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Smoked Salmon $5.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | French Toast $2.00 | any Style $2.50 | Cheese Curds $3.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | English Muffin $1.00 | not frozen $8.00 | or tempeh $7.00 | or tempeh $7.00 | or tempeh $7.00 | or tempeh $7.00 | gravy $12.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | French Toast $2.00 | French Toast $2.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | French Toast $2.00 | Cheese Curds $3.00 | French Toast $2.00 | or tempeh $7.00 | French Toast $2.00 | Cheese Curds $3.00 | French Toast $2.00 | 00 Homefries $4.00 | French Toast $2.00 | 00 Homefries $4.00 | Potato Fries $6.00 | Free Bun $3.50 | English Muffin $1.00 | French Toast $2.00 | a roll $9.00 | English Muffin $1.00 | French Toast $2.00 | Potato Fries $6.00 | green onions $11.00 | a roll $9.00 | English Muffin $1.00 | French Toast $2.00 | twice cooked $10.00 | twice cooked $10.00 | English Muffin $1.00 | English Muffin $1.00 | twice cooked $10.00 | 00 Homefries $4.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | Potato Fries $6.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Smoked Salmon $5.00 | Potato Fries $6.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | English Muffin $1.00 | English Muffin $1.00 | 00 Homefries $4.00 | English Muffin $1.00 | English Muffin $1.00 | Smoked Salmon $5.00 | Potato Fries $6.00 | English Muffin $1.00 | English Muffin $1.00 | Smoked Salmon $5 | the side $13",
+    "section": "Specials",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Specials"
+  },
+  {
+    "name": "Friday",
+    "description": "Starters 'Local' Fries hand cut & twice cooked. Add-ons: Cheese Curds +$3.00 / Bacon, Sausage or Ham +$2.00 / Irish Bacon +$3.00 / Smoked Salmon +$5.00 / Cheese Curds +$2.00 / grilled chicken, salmon patty or tempeh +$7.00 / Blueberries or Chocolate Chips +$1.00 / Apples or Veggies +$1.00 / Rose Liquor +$1.00",
+    "price": "twice cooked $10.00 | gravy $12.00 | Cheese Curds $3.00 | gravy $12.00 | gravy $12.00 | bbq sauce $14.00 | $16.00 | $26.00 | green onions $11.00 | a bun $15.00 | a bun $17.00 | a bun $15.00 | and onion $19.00 | bbq sauce $14.00 | French Toast $2.00 | green onions $11.00 | twice cooked $10.00 | Chocolate Chips $1.50 | twice cooked $10.00 | bbq sauce $14.00 | the side $13.00 | bbq sauce $14.00 | a bun $15.00 | a bun $15.00 | bbq sauce $14.00 | green onions $11.00 | French Toast $2.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | the side $13.00 | French Toast $2.00 | bbq sauce $14.00 | a roll $9.00 | French Toast $2.00 | or tempeh $7.00 | gravy $12.00 | green onions $11.00 | French Toast $2.00 | coleslaw $20.00 | Cheese Curds $3 | $2 | $4 | twice cooked $1 | $2 | $16.00 | bbq sauce $14.00 | $16.00 | English Muffin $1.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Smoked Salmon $5.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | French Toast $2.00 | any Style $2.50 | Cheese Curds $3.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | English Muffin $1.00 | not frozen $8.00 | or tempeh $7.00 | or tempeh $7.00 | or tempeh $7.00 | or tempeh $7.00 | gravy $12.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | French Toast $2.00 | French Toast $2.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | French Toast $2.00 | Cheese Curds $3.00 | French Toast $2.00 | or tempeh $7.00 | French Toast $2.00 | Cheese Curds $3.00 | French Toast $2.00 | 00 Homefries $4.00 | French Toast $2.00 | 00 Homefries $4.00 | Potato Fries $6.00 | Free Bun $3.50 | English Muffin $1.00 | French Toast $2.00 | a roll $9.00 | English Muffin $1.00 | French Toast $2.00 | Potato Fries $6.00 | green onions $11.00 | a roll $9.00 | English Muffin $1.00 | French Toast $2.00 | twice cooked $10.00 | twice cooked $10.00 | English Muffin $1.00 | English Muffin $1.00 | twice cooked $10.00 | 00 Homefries $4.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | Potato Fries $6.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Smoked Salmon $5.00 | Potato Fries $6.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | English Muffin $1.00 | English Muffin $1.00 | 00 Homefries $4.00 | English Muffin $1.00 | English Muffin $1.00 | Smoked Salmon $5.00 | Potato Fries $6.00 | English Muffin $1.00 | English Muffin $1.00 | Smoked Salmon $5 | the side $13",
+    "section": "Specials",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Specials"
+  },
+  {
+    "name": "Saturday-Sunday",
+    "description": "Starters 'Local' Fries hand cut & twice cooked. Add-ons: Cheese Curds +$3.00 / Bacon, Sausage or Ham +$2.00 / Irish Bacon +$3.00 / Smoked Salmon +$5.00 / Cheese Curds +$2.00 / grilled chicken, salmon patty or tempeh +$7.00 / Blueberries or Chocolate Chips +$1.00 / Apples or Veggies +$1.00 / Rose Liquor +$1.00",
+    "price": "twice cooked $10.00 | gravy $12.00 | Cheese Curds $3.00 | gravy $12.00 | gravy $12.00 | bbq sauce $14.00 | $16.00 | $26.00 | green onions $11.00 | a bun $15.00 | a bun $17.00 | a bun $15.00 | and onion $19.00 | bbq sauce $14.00 | French Toast $2.00 | green onions $11.00 | twice cooked $10.00 | Chocolate Chips $1.50 | twice cooked $10.00 | bbq sauce $14.00 | the side $13.00 | bbq sauce $14.00 | a bun $15.00 | a bun $15.00 | bbq sauce $14.00 | green onions $11.00 | French Toast $2.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | the side $13.00 | French Toast $2.00 | bbq sauce $14.00 | a roll $9.00 | French Toast $2.00 | or tempeh $7.00 | gravy $12.00 | green onions $11.00 | French Toast $2.00 | coleslaw $20.00 | Cheese Curds $3 | $2 | $4 | twice cooked $1 | $2 | $16.00 | bbq sauce $14.00 | $16.00 | English Muffin $1.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Smoked Salmon $5.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | French Toast $2.00 | any Style $2.50 | Cheese Curds $3.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | English Muffin $1.00 | not frozen $8.00 | or tempeh $7.00 | or tempeh $7.00 | or tempeh $7.00 | or tempeh $7.00 | gravy $12.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | French Toast $2.00 | French Toast $2.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | French Toast $2.00 | Cheese Curds $3.00 | French Toast $2.00 | or tempeh $7.00 | French Toast $2.00 | Cheese Curds $3.00 | French Toast $2.00 | 00 Homefries $4.00 | French Toast $2.00 | 00 Homefries $4.00 | Potato Fries $6.00 | Free Bun $3.50 | English Muffin $1.00 | French Toast $2.00 | a roll $9.00 | English Muffin $1.00 | French Toast $2.00 | Potato Fries $6.00 | green onions $11.00 | a roll $9.00 | English Muffin $1.00 | French Toast $2.00 | twice cooked $10.00 | twice cooked $10.00 | English Muffin $1.00 | English Muffin $1.00 | twice cooked $10.00 | 00 Homefries $4.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | Potato Fries $6.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Smoked Salmon $5.00 | Potato Fries $6.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | English Muffin $1.00 | English Muffin $1.00 | 00 Homefries $4.00 | English Muffin $1.00 | English Muffin $1.00 | Smoked Salmon $5.00 | Potato Fries $6.00 | English Muffin $1.00 | English Muffin $1.00 | Smoked Salmon $5 | the side $13",
+    "section": "Specials",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Specials"
+  },
+  {
+    "name": "Mimosa",
+    "description": "sparkling wine with orange juice, cranberry, apple, grapefruit or pineapple. Add-ons: Rose Liquor +$1.00",
+    "price": "$9.00",
+    "section": "Cocktails",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "Rochester Sunshine",
+    "description": "a western new york classic orange juice & Genesee beer",
+    "price": "$6.00",
+    "section": "Cocktails",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "Bellini",
+    "description": "with peach vodka, prosecco and orange juice",
+    "price": "$11.00",
+    "section": "Cocktails",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "Classic Bloody Mary",
+    "description": "vodka & house made bloody mary mix, garnished with olive, lemon & celery",
+    "price": "$9.00",
+    "section": "Cocktails",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "Fire & Ice",
+    "description": "cooperstown bourbon and roots mastiha sweet liqueur",
+    "price": "$10.00",
+    "section": "Cocktails",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "Classic Moscow Mule",
+    "description": "For Mango Habanero For Kentucky Rye",
+    "price": "$10.00",
+    "section": "Cocktails",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "14 Rotating Drafts & Extensive Bottle Selection",
+    "description": "Starters 'Local' Fries hand cut & twice cooked. Add-ons: Cheese Curds +$3.00 / Bacon, Sausage or Ham +$2.00 / Irish Bacon +$3.00 / Smoked Salmon +$5.00 / Cheese Curds +$2.00 / grilled chicken, salmon patty or tempeh +$7.00 / Blueberries or Chocolate Chips +$1.00 / Apples or Veggies +$1.00 / Rose Liquor +$1.00",
+    "price": "twice cooked $10.00 | gravy $12.00 | Cheese Curds $3.00 | gravy $12.00 | gravy $12.00 | bbq sauce $14.00 | $16.00 | $26.00 | green onions $11.00 | a bun $15.00 | a bun $17.00 | a bun $15.00 | and onion $19.00 | bbq sauce $14.00 | French Toast $2.00 | green onions $11.00 | twice cooked $10.00 | Chocolate Chips $1.50 | twice cooked $10.00 | bbq sauce $14.00 | the side $13.00 | bbq sauce $14.00 | a bun $15.00 | a bun $15.00 | bbq sauce $14.00 | green onions $11.00 | French Toast $2.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | the side $13.00 | French Toast $2.00 | bbq sauce $14.00 | a roll $9.00 | French Toast $2.00 | or tempeh $7.00 | gravy $12.00 | green onions $11.00 | French Toast $2.00 | coleslaw $20.00 | Cheese Curds $3 | $2 | $4 | twice cooked $1 | $2 | $16.00 | bbq sauce $14.00 | $16.00 | English Muffin $1.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Smoked Salmon $5.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | French Toast $2.00 | any Style $2.50 | Cheese Curds $3.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | English Muffin $1.00 | not frozen $8.00 | or tempeh $7.00 | or tempeh $7.00 | or tempeh $7.00 | or tempeh $7.00 | gravy $12.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | French Toast $2.00 | French Toast $2.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | English Muffin $1.00 | French Toast $2.00 | Cheese Curds $3.00 | French Toast $2.00 | or tempeh $7.00 | French Toast $2.00 | Cheese Curds $3.00 | French Toast $2.00 | 00 Homefries $4.00 | French Toast $2.00 | 00 Homefries $4.00 | Potato Fries $6.00 | Free Bun $3.50 | English Muffin $1.00 | French Toast $2.00 | a roll $9.00 | English Muffin $1.00 | French Toast $2.00 | Potato Fries $6.00 | green onions $11.00 | a roll $9.00 | English Muffin $1.00 | French Toast $2.00 | twice cooked $10.00 | twice cooked $10.00 | English Muffin $1.00 | English Muffin $1.00 | twice cooked $10.00 | 00 Homefries $4.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | Potato Fries $6.00 | Smoked Salmon $5.00 | 00 Homefries $4.00 | 00 Homefries $4.00 | Smoked Salmon $5.00 | Potato Fries $6.00 | Cheese Curds $3.00 | Smoked Salmon $5.00 | English Muffin $1.00 | English Muffin $1.00 | 00 Homefries $4.00 | English Muffin $1.00 | English Muffin $1.00 | Smoked Salmon $5.00 | Potato Fries $6.00 | English Muffin $1.00 | English Muffin $1.00 | Smoked Salmon $5 | the side $13",
+    "section": "Beer",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beer"
+  },
+  {
+    "name": "64 oz Growler",
+    "description": "glass logo growler",
+    "price": "$10.00",
+    "section": "Growlers",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Growlers"
+  },
+  {
+    "name": "Saratoga Sparkling Water",
+    "description": null,
+    "price": "$4.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Orange Juice",
+    "description": "Option",
+    "price": "$3.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Cranberry Juice",
+    "description": "Option",
+    "price": "$3.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Pineapple Juice",
+    "description": "Option",
+    "price": "$3.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Grapefruit Juice",
+    "description": "Option",
+    "price": "$3.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Coke",
+    "description": null,
+    "price": "$4.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Diet Coke",
+    "description": null,
+    "price": "$4.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Sprite",
+    "description": null,
+    "price": "$4.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Ginger Ale",
+    "description": null,
+    "price": "$4.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Moutain Dew",
+    "description": null,
+    "price": "$4.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Unsweetened Tea",
+    "description": null,
+    "price": "$4.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Lemonade",
+    "description": null,
+    "price": "$4.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Arnold Palmer",
+    "description": null,
+    "price": "$4.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Milk",
+    "description": "Option",
+    "price": "$3.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Chocolate Milk",
+    "description": "Option",
+    "price": "$4.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Root Beer",
+    "description": null,
+    "price": "$5.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "Ginger Beer",
+    "description": null,
+    "price": "$4.00",
+    "section": "Beverages",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Beverages"
+  },
+  {
+    "name": "House Coffee",
+    "description": null,
+    "price": "$4.00",
+    "section": "Coffee",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "Cold Brew",
+    "description": "Option",
+    "price": "$5.00",
+    "section": "Coffee",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "Double Espresso",
+    "description": null,
+    "price": "$3.00",
+    "section": "Coffee",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "Cafe latte",
+    "description": "Oat Milk Flavor Shot Van,Salted Caramel, French Van, Hazelnut",
+    "price": "$5.00",
+    "section": "Coffee",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "Cappuccino",
+    "description": "Oat Milk Flavor Shot Van,Salted Caramel, French Van, Hazelnut",
+    "price": "$4.00",
+    "section": "Coffee",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "Ice Latte",
+    "description": "Option",
+    "price": "$5.00",
+    "section": "Coffee",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Coffee"
+  },
+  {
+    "name": "'The Local' House Blend Herbal",
+    "description": "Organic Teas Personal pot (3 cups)",
+    "price": "$5 | $13",
+    "section": "Organic Teas",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Organic Teas"
+  },
+  {
+    "name": "Irish Breakfast Caffeinated",
+    "description": "Organic Teas Personal pot (3 cups)",
+    "price": "$5 | $13",
+    "section": "Organic Teas",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Organic Teas"
+  },
+  {
+    "name": "Earl Grey Caffeinated",
+    "description": "Organic Teas Personal pot (3 cups)",
+    "price": "$5 | $13",
+    "section": "Organic Teas",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Organic Teas"
+  },
+  {
+    "name": "Japanese Sencha Lightly Caffeinated",
+    "description": "Organic Teas Personal pot (3 cups)",
+    "price": "$5 | $13",
+    "section": "Organic Teas",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Organic Teas"
+  },
+  {
+    "name": "Four Biggies Lightly Caffeinated",
+    "description": "Organic Teas Personal pot (3 cups)",
+    "price": "$5 | $13",
+    "section": "Organic Teas",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Organic Teas"
+  },
+  {
+    "name": "Honey Chai Decaffeinated",
+    "description": "Organic Teas Personal pot (3 cups)",
+    "price": "$5 | $13",
+    "section": "Organic Teas",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Organic Teas"
+  },
+  {
+    "name": "African Elixir (Vanilla Honey) Herbal Decaffeinated",
+    "description": "Organic Teas Personal pot (3 cups)",
+    "price": "$5 | $13",
+    "section": "Organic Teas",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Organic Teas"
+  },
+  {
+    "name": "Meeting of the Mints Herbal",
+    "description": "Organic Teas Personal pot (3 cups)",
+    "price": "$5 | $13",
+    "section": "Organic Teas",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Organic Teas"
+  },
+  {
+    "name": "Parisian Red Herbal",
+    "description": "Organic Teas Personal pot (3 cups)",
+    "price": "$5 | $13",
+    "section": "Organic Teas",
+    "restaurant_name": "The Local Pub and Teahouse",
+    "restaurant_url": "https://www.thelocalpubandteahouse.com/",
+    "menu_type": "Menu",
+    "menu_name": "Organic Teas"
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Crab Cakes",
+    "description": "Lemon crème fraiche, greens GF",
+    "price": "$22",
+    "section": "Small Plates",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "Grilled Flatbread",
+    "description": "Fresh mozzarella, basil, marinated tomatoes",
+    "price": "$16",
+    "section": "Small Plates",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "Seared Tuna",
+    "description": "Cucumber rounds, wasabi crème fraiche GF",
+    "price": "$19",
+    "section": "Small Plates",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "Meatballs",
+    "description": "Beef, housemade sauce GF",
+    "price": "$14",
+    "section": "Small Plates",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "Grilled Pita",
+    "description": "Hummus, marinated olives & feta",
+    "price": "$14",
+    "section": "Small Plates",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "Duck Fat Truffle Fries",
+    "description": "Hand cut, truffle oil, parmesan, garlic mayo GF",
+    "price": "$15",
+    "section": "Small Plates",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "Shrimp Cocktail",
+    "description": "Cocktail sauce, lemon slices GF",
+    "price": "$20",
+    "section": "Small Plates",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "Chips & Salsa",
+    "description": "Fresh fried tortilla chips, housemade salsa GF",
+    "price": "$8",
+    "section": "Small Plates",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "Soup",
+    "description": "French Onion / Soup du jour",
+    "price": "$7 / $10",
+    "section": "Small Plates",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "House Salad GF",
+    "description": null,
+    "price": "1/2 Salad $8 | Full Salad $14",
+    "section": "Salads",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Arugula Salad",
+    "description": "Grilled peaches, red onion, burrata GF",
+    "price": "$9 | $16",
+    "section": "Salads",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Classic Caesar",
+    "description": "Romaine, parmesan cheese, croutons, Caesar dressing.\nAdd-ons: Add: Chicken $8 / Shrimp $20",
+    "price": "$8 | $14",
+    "section": "Salads",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Fromage",
+    "description": "Goat & Cow soft w/ honey",
+    "price": "",
+    "section": "Cheese & Charcuterie",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Cheese & Charcuterie"
+  },
+  {
+    "name": "Single Item",
+    "description": "comes with nuts, crostini, grapes, fig jam",
+    "price": "$10 | Three Items $27",
+    "section": "Cheese & Charcuterie",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Cheese & Charcuterie"
+  },
+  {
+    "name": "Balsamic & Cipollini",
+    "description": "Small batch Wisconsin cheese, sweet & savory",
+    "price": "",
+    "section": "Cheese & Charcuterie",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Cheese & Charcuterie"
+  },
+  {
+    "name": "Manchego",
+    "description": "Sheep, herbal & firm, LaManchaga, Spain",
+    "price": "",
+    "section": "Cheese & Charcuterie",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Cheese & Charcuterie"
+  },
+  {
+    "name": "Vino Rosso",
+    "description": "Small batch Wisconsin cheese, red wine soaked, sweet & nutty",
+    "price": "",
+    "section": "Cheese & Charcuterie",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Cheese & Charcuterie"
+  },
+  {
+    "name": "Sharp Cheddar",
+    "description": "Cow, creamy Cabot Creamery, VT",
+    "price": "",
+    "section": "Cheese & Charcuterie",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Cheese & Charcuterie"
+  },
+  {
+    "name": "Hot Soppressata",
+    "description": "Spicy Italian salami",
+    "price": "",
+    "section": "Cheese & Charcuterie",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Cheese & Charcuterie"
+  },
+  {
+    "name": "Prosciutto Crudo",
+    "description": "Thinly sliced dry cured ham",
+    "price": "",
+    "section": "Cheese & Charcuterie",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Cheese & Charcuterie"
+  },
+  {
+    "name": "Genoa Salami",
+    "description": "Dry cured, unsmoked salami",
+    "price": "",
+    "section": "Cheese & Charcuterie",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Cheese & Charcuterie"
+  },
+  {
+    "name": "Classic Burger",
+    "description": "Lettuce, tomato, onion, choice of cheese",
+    "price": "$16",
+    "section": "Sandwiches",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "The Inn's Chicken Sandwich",
+    "description": "Cranberry mayonnaise, Granny Smith apple, swiss cheese, lettuce and tomato",
+    "price": "$16",
+    "section": "Sandwiches",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "Blackbean Burger",
+    "description": "Housemade blackbean patty, lettuce, tomato, onion, choice of cheese, BBQ sauce",
+    "price": "$15",
+    "section": "Sandwiches",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "Hannah's Beef Brisket",
+    "description": "Family heirloom recipe, potato & vegetable du jour GF",
+    "price": "$34",
+    "section": "Signature Dishes",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Signature Dishes"
+  },
+  {
+    "name": "Chicken Francaise",
+    "description": "Egg batter, parmesan cheese, lemon butter, long grain wild rice, vegetable du jour",
+    "price": "$31",
+    "section": "Signature Dishes",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Signature Dishes"
+  },
+  {
+    "name": "Seared Tuna",
+    "description": "Cucumber salad, long grain wild rice, pineapple & mango salsa GF",
+    "price": "$38",
+    "section": "Signature Dishes",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Signature Dishes"
+  },
+  {
+    "name": "French Cut Pork Chop",
+    "description": "Bourbon mollasses glaze, truffle fries & vegetable du jour GF",
+    "price": "$47",
+    "section": "Signature Dishes",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Signature Dishes"
+  },
+  {
+    "name": "Fra Diavolo",
+    "description": "Shrimp, andouille sausage, spicy tomato sauce, linguine",
+    "price": "$38",
+    "section": "Signature Dishes",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Signature Dishes"
+  },
+  {
+    "name": "The Inn's Primavera",
+    "description": "Spinach, sun dried tomatoes, olives, shiitaki mushrooms, pappardelle",
+    "price": "$25",
+    "section": "Signature Dishes",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Signature Dishes"
+  },
+  {
+    "name": "Steak Au Poivre",
+    "description": "10oz. NY Strip, peppercorn, cream, demi-glace potato & vegetable du jour GF",
+    "price": "$46",
+    "section": "Signature Dishes",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Signature Dishes"
+  },
+  {
+    "name": "Homemade Ice Cream",
+    "description": "All desserts made in house",
+    "price": "$8 each GF",
+    "section": "Desserts",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "Espresso Crème Brûlée",
+    "description": null,
+    "price": "$10 GF",
+    "section": "Desserts",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "Flourless Chocolate Cake",
+    "description": null,
+    "price": "$10 GF",
+    "section": "Desserts",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "Key Lime Pie",
+    "description": null,
+    "price": "$10",
+    "section": "Desserts",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Desserts"
+  },
+  {
+    "name": "Brewed Coffee",
+    "description": null,
+    "price": "$4",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  },
+  {
+    "name": "Hot Tea",
+    "description": null,
+    "price": "$2",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  },
+  {
+    "name": "Espresso",
+    "description": null,
+    "price": "$2",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  },
+  {
+    "name": "Cappuccino",
+    "description": null,
+    "price": "$10",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  },
+  {
+    "name": "Grand Marnier",
+    "description": null,
+    "price": "$12",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  },
+  {
+    "name": "Romana Sambuca",
+    "description": null,
+    "price": "$11",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  },
+  {
+    "name": "Romana Sambuca Black",
+    "description": null,
+    "price": "$11",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  },
+  {
+    "name": "Chambord",
+    "description": null,
+    "price": "$11",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  },
+  {
+    "name": "Baileys",
+    "description": null,
+    "price": "$11",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  },
+  {
+    "name": "Kahlua",
+    "description": null,
+    "price": "$11",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  },
+  {
+    "name": "Frangelico",
+    "description": null,
+    "price": "$11",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  },
+  {
+    "name": "Amaretto",
+    "description": null,
+    "price": "$11",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  },
+  {
+    "name": "Drambuie",
+    "description": null,
+    "price": "$11",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  },
+  {
+    "name": "Courvoisier VS",
+    "description": null,
+    "price": "$12",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  },
+  {
+    "name": "Rémy Martin VSOP",
+    "description": null,
+    "price": "$15",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  },
+  {
+    "name": "Dom B&B",
+    "description": null,
+    "price": "$12",
+    "section": "Coffee & Cordials",
+    "restaurant_name": "The Inn at Saratoga",
+    "restaurant_url": "http://www.theinnatsaratoga.com/",
+    "menu_type": "Food & Drinks",
+    "menu_name": "Coffee & Cordials"
+  }
+]

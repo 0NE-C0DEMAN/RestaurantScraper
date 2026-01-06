@@ -1,0 +1,1292 @@
+[
+  {
+    "name": "BISCUIT BASKET",
+    "description": "Served With A Seasonal Butter",
+    "price": "$9",
+    "section": "SHAREABLES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "CHICKEN WINGS",
+    "description": "Buffalo | Garlic Parm | Nashville Hot",
+    "price": "$14",
+    "section": "SHAREABLES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "CRISPY BRUSSELS SPROUTS",
+    "description": "Crispy Seasoned Brussels Sprouts, Honey Mustard",
+    "price": "$14",
+    "section": "SHAREABLES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "TRUFFLE FRIES",
+    "description": "Grana Padano, Truffle Oil, Fried Egg, Roasted Rosemary Garlic Aioli",
+    "price": "$16",
+    "section": "SHAREABLES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "DEVILED EGGS",
+    "description": "Arugula, Crispy Smoked Bacon, Heirloom Cherry Tomatoes, House-Made Pickles",
+    "price": "$13",
+    "section": "SHAREABLES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "AVOCADO TOAST",
+    "description": "Toasted Wheatberry Bread, Smashed Avocado, Cucumber, Heirloom Cherry Tomatoes, Microgreens",
+    "price": "$14",
+    "section": "SHAREABLES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "SEASONAL SALAD",
+    "description": "Roasted Beets, Goat Cheese, Bacon Lardons, Candied Pecans, Mixed Greens, Balsamic Vinaigrette",
+    "price": "$17",
+    "section": "SALADS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "WEDGE",
+    "description": "Iceberg, Spiced Honey, Bacon Lardons, Walnuts, Cherry Tomatoes, Granny Smith Apples, Blue Cheese Dressing",
+    "price": "$16",
+    "section": "SALADS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "NICOISE",
+    "description": "Harvest Greens, Soft Boiled Egg, Heirloom Cherry Tomatoes, Greek Olives, Potatoes, Quinoa, Red Wine Mustard Vinaigrette, Fried Capers",
+    "price": "$16",
+    "section": "SALADS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BABY KALE CAESAR",
+    "description": "Baby Kale, White Anchovy, Parmigiano, House Croutons",
+    "price": "$15",
+    "section": "SALADS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BUTTERMILK PANCAKES",
+    "description": null,
+    "price": "$14",
+    "section": "SWEETS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BRIOCHE FRENCH TOAST",
+    "description": null,
+    "price": "$14",
+    "section": "SWEETS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "CHICKEN & WAFFLES",
+    "description": null,
+    "price": "$19",
+    "section": "SWEETS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "EGGS YOUR WAY",
+    "description": "Two Eggs, Choice of Meat & Toast",
+    "price": "$14",
+    "section": "FROM THE HEN",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "THE MERC OMELETTE",
+    "description": "Bacon, Arugula, Tomato, Cheddar, Herb Oil, Choice of Toast",
+    "price": "$15",
+    "section": "FROM THE HEN",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "FRIENDS WITH BENEDICTS",
+    "description": "Poached Eggs, Toasted English Muffin, Hollandaise, Smoked Canadian Bacon",
+    "price": "$17",
+    "section": "FROM THE HEN",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "CARNITAS BENNY",
+    "description": "Poached Eggs, Toasted English Muffin, House-Smoked Pork, Chipotle Hollandaise, Pickled Red Onion, Chives",
+    "price": "$19",
+    "section": "FROM THE HEN",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BREAKFAST SAMMY",
+    "description": "Brioche Bun, Two Fried Eggs, Choice of Meat and Cheese",
+    "price": "$15",
+    "section": "FROM THE HEN",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BREAKFAST BLT",
+    "description": "Sourdough, Two Fried Eggs, Arugula, Bacon, Tomato, Pesto Mayo",
+    "price": "$17",
+    "section": "FROM THE HEN",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BREAKFAST BURRITO",
+    "description": "Scrambled Eggs, Applewood Smoked Bacon, Cheddar, Red Rice, Black Beans, Smashed Avocado, Pico De Gallo, Salsa Verde, Salsa Roja, Sour Cream, Cotija Cheese",
+    "price": "$19",
+    "section": "FROM THE HEN",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BISCUITS & GRAVY",
+    "description": "Two Eggs Over Buttermilk Biscuits, Sage Sausage Gravy",
+    "price": "$18",
+    "section": "FROM THE HEN",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "NO HUEVOS RANCHEROS",
+    "description": "Butternut Squash, Black Beans, Spinach, Quinoa, Caramelized Onions, Soy Chorizo, Smashed Avocado, Pico De Gallo, Choice of Toast",
+    "price": "$18",
+    "section": "FROM THE HEN",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "THE MERC BURGER",
+    "description": "2 Smashed Patties, House-Made Pickles, Comeback Sauce, American, Brioche Bun",
+    "price": "$19",
+    "section": "SAMMIES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "SARATOGA SMASH",
+    "description": "2 Smashed Patties, Maple Bacon jam, Pickled Red Onion, Arugula, Garlic Rosemary Aioli, Smoked Cheddar, Brioche Bun",
+    "price": "$24",
+    "section": "SAMMIES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "CRISPY CHICKEN SANDWICH",
+    "description": "Coleslaw, House-Made Pickles, White BBQ Sauce",
+    "price": "$19",
+    "section": "SAMMIES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "ADULT GRILLED CHEESE",
+    "description": "Sourdough, Swiss, Cheddar, Caramelized Onions, Rosemary Butter",
+    "price": "$18",
+    "section": "SAMMIES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BBQ PULLED PORK",
+    "description": "House-Smoked Pork, Carolina BBQ Sauce, Coleslaw",
+    "price": "$19",
+    "section": "SAMMIES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "QUINOA BLACK BEAN BURGER",
+    "description": "Smashed Avocado, Crispy Onions, Pico De Gallo, Veganaise",
+    "price": "$19",
+    "section": "SAMMIES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "Bacon, Sausage Links, Canadian Bacon",
+    "description": null,
+    "price": "$4",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "Toast (Sourdough, Wheatberry, Rye, Gluten Free)",
+    "description": null,
+    "price": "$2",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "Breakfast Potatoes, Tater Tots, Fries",
+    "description": null,
+    "price": "$6",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "Buttermilk Biscuit",
+    "description": null,
+    "price": "$3",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "French Toast",
+    "description": null,
+    "price": "$6",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "Pancake",
+    "description": null,
+    "price": "$7",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "Waffle",
+    "description": null,
+    "price": "$8",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "MARINATED OLIVES",
+    "description": "Assorted Olives, Seasoned Olive Oil",
+    "price": "$7",
+    "section": "SNACKS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "FRIED PICKLES",
+    "description": "Battered House-Made Pickles, Side of Comeback Sauce",
+    "price": "$7",
+    "section": "SNACKS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "TOMATO BISQUE",
+    "description": "Herb Oil, Balsamic Glaze, Herbed Crostini",
+    "price": "$8 | $11",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CHICKEN WINGS",
+    "description": "Buffalo | Garlic Parm | Nashville Hot",
+    "price": "$14",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CRISPY BRUSSEL SPROUTS",
+    "description": "Crispy Seasoned Brussel Sprouts, Honey Mustard",
+    "price": "$14",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "TRUFFLE FRIES",
+    "description": "Grana Padano, Truffle Oil, Fried Egg, Roasted Rosemary Garlic Aioli",
+    "price": "$16",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "DEVILED EGGS",
+    "description": "Arugula, Crispy Smoked Bacon, Heirloom Cherry Tomatoes, House-Made Pickles",
+    "price": "$13",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "SWEET POTATO CROQUETTE",
+    "description": "Smoked Cheddar, Hot Honey, Cajun Remoulade",
+    "price": "$15",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "SPINACH ARTICHOKE DIP",
+    "description": "Served With Crostini",
+    "price": "$15",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "PIGS IN A BLANKET",
+    "description": "Jalapeno-Cheddar Sauce & Honey Mustard Sauce",
+    "price": "$15",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "MUSSELS",
+    "description": "Garlic, Lemon, White Wine, Fennel Pollen, Crostini",
+    "price": "$18",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "SEASONAL SALAD",
+    "description": "Roasted Beets, Goat Cheese, Bacon Lardons, Candied Pecans, Mixed Greens, Balsamic Vinaigrette",
+    "price": "$17",
+    "section": "SALADS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "WEDGE",
+    "description": "Iceberg, Spiced Honey, Bacon Lardons, Walnuts, Cherry Tomatoes, Granny Smith Apples, Blue Cheese Dressing",
+    "price": "$16",
+    "section": "SALADS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "NICOISE",
+    "description": "Harvest Greens, Soft Boiled Egg, Heirloom Cherry Tomatoes, Greek Olives, Potatoes, Quinoa, Red Wine Mustard Vinaigrette, Fried Capers",
+    "price": "$16",
+    "section": "SALADS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BABY KALE CAESAR",
+    "description": "Baby Kale, White Anchovy, Parmigiano, House Croutons",
+    "price": "$15",
+    "section": "SALADS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "THE MERC BURGER",
+    "description": "2 Smashed Patties, House-Made Pickles, Comeback Sauce, American, Brioche Bun",
+    "price": "$19",
+    "section": "SAMMIES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "SARATOGA SMASH",
+    "description": "2 Smashed Patties, Maple Bacon Jam, Pickled Red Onion, Arugula, Garlic Rosemary Aioli, Smoked Cheddar, Brioche Bun",
+    "price": "$24",
+    "section": "SAMMIES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CRISPY CHICKEN SANDWICH",
+    "description": "Coleslaw, House-Made Pickles, White BBQ Sauce",
+    "price": "$19",
+    "section": "SAMMIES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "ADULT GRILLED CHEESE",
+    "description": "Sourdough, Swiss, Cheddar, Caramelized Onions, Rosemary Butter",
+    "price": "$18",
+    "section": "SAMMIES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BBQ PULLED PORK",
+    "description": "House-Smoked Pork, Carolina BBQ Sauce, Coleslaw",
+    "price": "$19",
+    "section": "SAMMIES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "QUINOA BLACK BEAN BURGER",
+    "description": "Smashed Avocado, Crispy Onions, Pico De Gallo, Veganaise",
+    "price": "$19",
+    "section": "SAMMIES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "FRIED CHICKEN & GRAVY",
+    "description": "Sausage Gravy, Brussels Sprouts, Buttermilk Biscuit",
+    "price": "$27",
+    "section": "ENTREES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "JAMBALAYA",
+    "description": "Andouille Sausage, Shrimp, Holy Trinity, Tomato Stew, Rice",
+    "price": "$29",
+    "section": "ENTREES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "HERB-CRUSTED SALMON",
+    "description": "Crusted Atlantic Salmon, Mashed Potatoes, Escarole & Beans",
+    "price": "$36",
+    "section": "ENTREES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BRAISED SHORT RIB",
+    "description": "Mashed Potatoes, Heirloom Carrots, Veal Demi",
+    "price": "$39",
+    "section": "ENTREES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "STEAK FRITES",
+    "description": "14oz Prime NY Strip, French Fries, Chimichurri",
+    "price": "$48",
+    "section": "ENTREES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "PORK CHOP",
+    "description": "Mashed Sweet Potatoes, Broccolini, Spicy BBQ",
+    "price": "$37",
+    "section": "ENTREES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "FRENCH TOAST BREAD PUDDING",
+    "description": "Granny Smith Apples, Cinnamon Custard, Topped With Candied Walnuts, Maple Syrup, Powdered Sugar",
+    "price": "$10",
+    "section": "DESSERT",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CHOCOLATE MOUSSE CAKE",
+    "description": "Triple Layer, Chocolate Mousse Filling, Chocolate Ganache",
+    "price": "$10",
+    "section": "DESSERT",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "MIXED BERRY TART",
+    "description": "Filled With Vanilla Cream, Assorted Berries",
+    "price": "$10",
+    "section": "DESSERT",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Broccolini",
+    "description": null,
+    "price": "$8",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Mashed Potatoes",
+    "description": null,
+    "price": "$8",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Mashed Sweet Potatoes",
+    "description": null,
+    "price": "$8",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Heirloom Carrots",
+    "description": null,
+    "price": "$8",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Escarole & Beans",
+    "description": null,
+    "price": "$8",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Fries & Tots",
+    "description": null,
+    "price": "$6",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Truffle Fries & Tots",
+    "description": null,
+    "price": "$8",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Brussels Sprouts",
+    "description": null,
+    "price": "$8",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Sausage Gravy",
+    "description": null,
+    "price": "$6",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "Jambalaya",
+    "description": null,
+    "price": "$10",
+    "section": "SIDES",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "MIMOSA",
+    "description": "OJ, Blood Orange, Apple Cider or Cranberry",
+    "price": "$39",
+    "section": "BRUNCH COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "BELLINI",
+    "description": "Peach Nectar, Prosecco",
+    "price": "$39",
+    "section": "BRUNCH COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "BLOODY MARY",
+    "description": "Vodka, The Merc Bloody Mary Mix",
+    "price": "$14",
+    "section": "BRUNCH COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "FLORADORA",
+    "description": "Gin, Raspberry, Lime, Ginger Beer",
+    "price": "$14",
+    "section": "BRUNCH COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "APEROL SPRITZ",
+    "description": "Aperol, Prosecco, Club Soda",
+    "price": "$14",
+    "section": "BRUNCH COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "HUGO SPRITZ",
+    "description": "Prosecco, Elderflower, Lime, Mint, Club Soda",
+    "price": "$14",
+    "section": "BRUNCH COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "MARGARITA",
+    "description": "Tequila, Triple Sec, Lime",
+    "price": "$14",
+    "section": "BRUNCH COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "Flavors +1",
+    "description": "MOSCOW MULE 14 Vodka, Lime, Fever Tree Ginger Beer",
+    "price": "$1",
+    "section": "BRUNCH COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "Flavors +1",
+    "description": null,
+    "price": "$1",
+    "section": "BRUNCH COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "THE ESPRESSO MARTINI",
+    "description": "Vodka, Coffee Liqueur, Espresso",
+    "price": "$15",
+    "section": "BRUNCH COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "IRISH COFFEE",
+    "description": "Irish Whiskey, Demerara, Dark Roast, Heavy Cream",
+    "price": "$11",
+    "section": "BRUNCH COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "GRASSHOPPER",
+    "description": "Peppermint, Cocao, Cream, Chocolate Shavings",
+    "price": "$14",
+    "section": "BRUNCH COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "MARGARITA",
+    "description": "Tequila, Triple Sec, Lime",
+    "price": "$14",
+    "section": "THE CLASSICS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "Seasonal Flavor +1:",
+    "description": null,
+    "price": "$1",
+    "section": "THE CLASSICS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "MOSCOW MULE",
+    "description": "Vodka, Lime, Fever Tree Ginger Beer",
+    "price": "$14",
+    "section": "THE CLASSICS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "Seasonal Flavor +1:",
+    "description": null,
+    "price": "$1",
+    "section": "THE CLASSICS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "OLD FASHIONED",
+    "description": "Bourbon, Demerara, Bitters Blend",
+    "price": "$14",
+    "section": "THE CLASSICS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "AMERICAN TRILOGY",
+    "description": "Apple Brandy, Rye, Demerara, Orange BItters",
+    "price": "$14",
+    "section": "THE CLASSICS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "PENECILLIN",
+    "description": "Bourbon, Ginger, Honey, Lemon, Islay Spritz",
+    "price": "$14",
+    "section": "THE CLASSICS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "PAPER PLANE",
+    "description": "Bourbon, Amaro, Aperol, Lemon",
+    "price": "$14",
+    "section": "THE CLASSICS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "DARK & STORMY",
+    "description": "Dark Rum, Ginger, Lime, Club, Bitters",
+    "price": "$14",
+    "section": "THE CLASSICS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "BEES KNEES",
+    "description": "Gin, Honey, Lemon",
+    "price": "$14",
+    "section": "THE CLASSICS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "APEROL SPRITZ",
+    "description": "Aperol, Prosecco, Club Soda",
+    "price": "$14",
+    "section": "THE CLASSICS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "HUGO SPRITZ",
+    "description": "Prosecco, Elderflower, Lime, Mint, Club Soda",
+    "price": "$14",
+    "section": "THE CLASSICS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "THE ESPRESSO MARTINI",
+    "description": "Vodka, Coffee Liqueur, Espresso",
+    "price": "$15",
+    "section": "THE CLASSICS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "THE ALIBI",
+    "description": "Rye, Sweet Vermouth, Amaro, Maple, Bitters Blend",
+    "price": "$16",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "TAKING THE CURE",
+    "description": "Bourbon, Rye, Ginger, Lemon, Almond",
+    "price": "$16",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "SNAP DECISION",
+    "description": "Gin, Snap Pea, Lime, Mint",
+    "price": "$16",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "MINT CONDITION",
+    "description": "Vodka, Peppermint, Cocao, Espresso",
+    "price": "$16",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "SCARLET SOLSTICE",
+    "description": "Tequila, Aperol, Raspberry, Lime",
+    "price": "$16",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "FIRESIDE GLOW",
+    "description": "Bourbon, Pear, Honey, Lemon, Bitters",
+    "price": "$16",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "BERRY BITTER",
+    "description": "Gin, Campari, Blackberry",
+    "price": "$15",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Cocktails Menu"
+  },
+  {
+    "name": "JUICE BOMB",
+    "description": null,
+    "price": "$8",
+    "section": "ON TAP",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "FIDDLEHEAD",
+    "description": null,
+    "price": "$8",
+    "section": "ON TAP",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "ALLAGASH WHITE",
+    "description": null,
+    "price": "$8",
+    "section": "ON TAP",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "POST SHIFT",
+    "description": null,
+    "price": "$8",
+    "section": "ON TAP",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "WOLF HOLLOW",
+    "description": null,
+    "price": "$8",
+    "section": "ON TAP",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "CHERRY RAZZ",
+    "description": null,
+    "price": "$8",
+    "section": "ON TAP",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "PEACH CRUSHER",
+    "description": null,
+    "price": "$8",
+    "section": "ON TAP",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "MAD ELF",
+    "description": null,
+    "price": "$10",
+    "section": "ON TAP",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "GUINNESS",
+    "description": null,
+    "price": "$8",
+    "section": "ON TAP",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "NEON RAINBOWS",
+    "description": null,
+    "price": "$8",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "FLOWER POWER",
+    "description": null,
+    "price": "$8",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "MOBIUS",
+    "description": null,
+    "price": "$11",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "NEW YORK",
+    "description": null,
+    "price": "$8",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "TASTEFUL DECEPTION",
+    "description": null,
+    "price": "$9",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "COORS LIGHT",
+    "description": null,
+    "price": "$6",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "MILLER LITE",
+    "description": null,
+    "price": "$6",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "CORONA",
+    "description": null,
+    "price": "$6",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "NINE PIN",
+    "description": null,
+    "price": "$9",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "SURFSIDE",
+    "description": null,
+    "price": "$7",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "ATHLETIC BREWING",
+    "description": null,
+    "price": "$6",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "ATHLETIC BREWING",
+    "description": null,
+    "price": "$6",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  },
+  {
+    "name": "ATHLETIC BREWING",
+    "description": null,
+    "price": "$6",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Merc Saratoga",
+    "restaurant_url": "https://www.themercsaratoga.com/",
+    "menu_type": "Beer & Wine",
+    "menu_name": "Beer & Wine Menu"
+  }
+]

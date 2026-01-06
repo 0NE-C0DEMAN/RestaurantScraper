@@ -291,273 +291,213 @@ def fetch_beverages_html_with_playwright(url: str) -> Optional[str]:
 
 
 def parse_beverages_html(html: str) -> List[Dict]:
-    """Parse beverages menu from HTML (structured Untappd data)"""
+    """
+    Parse beverages menu from HTML (structured Untappd data)
+    
+    Structure:
+    - Section headers: <h3 class="section-name">THE BASICS</h3>
+    - Menu items: <div class="menu-item"> (with class "item-bg-color menu-item clearfix one-col")
+    - Item name: <h4 class="item-name"> > <a> > <span id="..."> (the span contains the name)
+    - Category: <span class="item-category">Light Lager</span> (inside the h4)
+    - ABV: <span class="item-abv">4.2% ABV</span>
+    - Brewery: <span class="brewery"> > <a> (the link text is the brewery name)
+    - Size: <span class="type">12oz</span> (inside div.container-list)
+    - Price: <span class="price"> contains text like "4.00" (the $ is in a hidden span)
+    """
     soup = BeautifulSoup(html, 'html.parser')
     items = []
-    
-    # The beverages page uses Untappd integration with structured HTML
-    # Structure: div.menu-item > div.item > div.item-details
-    # Section headers: h3.section-name
-    # Beer name: h4.item-name > a > span
-    # Beer type: span.item-category
-    # ABV: span.item-abv
-    # Brewery: span.brewery > a
-    # Size: span.type (inside div.container-list)
-    # Price: span.price (contains text like "4.00")
     
     # Find all menu items
     menu_items = soup.find_all('div', class_='menu-item')
     
-    if menu_items:
-        print(f"    Found {len(menu_items)} menu items - parsing structured data...")
+    if not menu_items:
+        print("    [ERROR] No menu items found with class 'menu-item'")
+        # Fallback to image processing if no structured items found
+        img_tags = soup.find_all('img')
+        beverage_images = []
+        for img in img_tags:
+            src = img.get('src') or img.get('data-src') or img.get('data-lazy-src')
+            if src:
+                src_lower = src.lower()
+                if any(keyword in src_lower for keyword in ['beverage', 'beer', 'wine', 'cocktail', 'drink', 'menu']):
+                    if 'logo' not in src_lower:
+                        if src.startswith('http'):
+                            beverage_images.append(src)
+                        elif src.startswith('//'):
+                            beverage_images.append(f"https:{src}")
+                        elif src.startswith('/'):
+                            beverage_images.append(f"https://www.hideawaysaratoga.com{src}")
         
-        current_section = "Beverages"  # Default section
-        
-        for menu_item in menu_items:
-            # Find section - look for nearest h3.section-name before this item
-            section_header = menu_item.find_previous('h3', class_='section-name')
-            if section_header:
-                current_section = section_header.get_text(strip=True)
-            
-            # Find item-details div
-            item_details = menu_item.find('div', class_='item-details')
-            if not item_details:
-                continue
-            
-            # Extract beer name from h4.item-name > a > span
-            h4_name = item_details.find('h4', class_='item-name')
-            if not h4_name:
-                continue
-            
-            # Get the span inside the link
-            name_link = h4_name.find('a')
-            if not name_link:
-                continue
-            
-            name_span = name_link.find('span')
-            if not name_span:
-                continue
-            
-            beer_name = name_span.get_text(strip=True)
-            if not beer_name:
-                continue
-            
-            # Extract beer type from span.item-category
-            category_span = h4_name.find('span', class_='item-category')
-            beer_type = category_span.get_text(strip=True) if category_span else None
-            
-            # Extract ABV from span.item-abv
-            abv_span = item_details.find('span', class_='item-abv')
-            abv_text = abv_span.get_text(strip=True) if abv_span else None
-            
-            # Extract brewery from span.brewery > a
-            brewery_span = item_details.find('span', class_='brewery')
-            brewery_name = None
-            if brewery_span:
-                brewery_link = brewery_span.find('a')
-                if brewery_link:
-                    brewery_name = brewery_link.get_text(strip=True)
-            
-            # Build description
-            description_parts = []
-            if beer_type:
-                description_parts.append(beer_type)
-            if abv_text:
-                description_parts.append(abv_text)
-            if brewery_name:
-                description_parts.append(f"Brewery: {brewery_name}")
-            description = " | ".join(description_parts) if description_parts else None
-            
-            # Extract size and price from div.container-list
-            container_list = item_details.find('div', class_='container-list')
-            size = None
-            price_value = None
-            
-            if container_list:
-                # Find size from span.type
-                type_span = container_list.find('span', class_='type')
-                if type_span:
-                    size = type_span.get_text(strip=True)
+        # If we found beverage images, process them with Gemini
+        if beverage_images and GEMINI_AVAILABLE and GEMINI_API_KEY:
+            print(f"    Found {len(beverage_images)} beverage menu image(s) - using Gemini as fallback")
+            for i, image_url in enumerate(beverage_images, 1):
+                print(f"    Processing beverage image {i}/{len(beverage_images)}...")
                 
-                # Find price from span.price
+                # Download image
+                image_filename = f"hideaway_beverages_{i}.jpg"
+                image_path = Path(f"temp/hideaway_images/{image_filename}")
+                
+                if download_image(image_url, image_path):
+                    print(f"      [OK] Downloaded image")
+                    
+                    # Extract menu items using Gemini
+                    beverage_items = extract_menu_from_image_with_gemini(
+                        image_path,
+                        "Beverages Menu",
+                        "Beverages",
+                        "Beverages"
+                    )
+                    items.extend(beverage_items)
+                    print(f"      [OK] Extracted {len(beverage_items)} items from image")
+                else:
+                    print(f"      [ERROR] Failed to download image")
+        
+        return items
+    
+    print(f"    Found {len(menu_items)} menu items - parsing structured data...")
+    
+    current_section = "Beverages"  # Default section
+    
+    for menu_item in menu_items:
+        # Find section - look for nearest h3.section-name before this item
+        section_header = menu_item.find_previous('h3', class_='section-name')
+        if section_header:
+            current_section = section_header.get_text(strip=True)
+        
+        # Find item-details div
+        item_details = menu_item.find('div', class_='item-details')
+        if not item_details:
+            continue
+        
+        # Extract beer name from h4.item-name > a > span
+        h4_name = item_details.find('h4', class_='item-name')
+        if not h4_name:
+            continue
+        
+        # Get the link inside h4
+        name_link = h4_name.find('a')
+        if not name_link:
+            continue
+        
+        # Get the span inside the link (this contains the beer name)
+        name_span = name_link.find('span')
+        if not name_span:
+            # Fallback: get text directly from link
+            beer_name = name_link.get_text(strip=True)
+        else:
+            beer_name = name_span.get_text(strip=True)
+        
+        if not beer_name:
+            continue
+        
+        # Extract beer type/category from span.item-category (inside h4)
+        category_span = h4_name.find('span', class_='item-category')
+        beer_type = category_span.get_text(strip=True) if category_span else None
+        
+        # Extract ABV from span.item-abv
+        abv_span = item_details.find('span', class_='item-abv')
+        abv_text = abv_span.get_text(strip=True) if abv_span else None
+        
+        # Extract brewery from span.brewery > a
+        brewery_span = item_details.find('span', class_='brewery')
+        brewery_name = None
+        if brewery_span:
+            brewery_link = brewery_span.find('a')
+            if brewery_link:
+                brewery_name = brewery_link.get_text(strip=True)
+        
+        # Build description
+        description_parts = []
+        if beer_type:
+            description_parts.append(beer_type)
+        if abv_text:
+            description_parts.append(abv_text)
+        if brewery_name:
+            description_parts.append(f"Brewery: {brewery_name}")
+        description = " | ".join(description_parts) if description_parts else None
+        
+        # Extract size and price from div.container-list
+        container_list = item_details.find('div', class_='container-list')
+        sizes = []
+        prices = []
+        
+        if container_list:
+            # Find all container-item divs (there might be multiple sizes)
+            container_items = container_list.find_all('div', class_='conatiner-item')
+            
+            if container_items:
+                # Multiple sizes available
+                for container_item in container_items:
+                    container_row = container_item.find('div', class_='container-row')
+                    if container_row:
+                        # Get size
+                        type_span = container_row.find('span', class_='type')
+                        size = type_span.get_text(strip=True) if type_span else None
+                        
+                        # Get price
+                        price_span = container_row.find('span', class_='price')
+                        if price_span:
+                            # Get all text from price span (e.g., "4.00" or "$4.00")
+                            price_text = price_span.get_text(strip=True)
+                            # Extract number (might have $ or other text)
+                            price_match = re.search(r'(\d+\.?\d*)', price_text)
+                            if price_match:
+                                price_value = price_match.group(1)
+                                if size:
+                                    sizes.append(size)
+                                    prices.append(price_value)
+                                else:
+                                    prices.append(price_value)
+            else:
+                # Single size/price
+                type_span = container_list.find('span', class_='type')
+                size = type_span.get_text(strip=True) if type_span else None
+                
                 price_span = container_list.find('span', class_='price')
                 if price_span:
-                    # Get all text from price span (e.g., "4.00" or "$4.00")
                     price_text = price_span.get_text(strip=True)
-                    # Extract number (might have $ or other text)
                     price_match = re.search(r'(\d+\.?\d*)', price_text)
                     if price_match:
                         price_value = price_match.group(1)
-            
-            # Format price
-            if price_value:
-                if size:
-                    price = f"{size} ${price_value}"
-                else:
-                    price = f"${price_value}"
+                        if size:
+                            sizes.append(size)
+                            prices.append(price_value)
+                        else:
+                            prices.append(price_value)
+        
+        # Format price
+        if prices:
+            if len(prices) == 1 and len(sizes) == 1:
+                # Single size and price
+                price = f"{sizes[0]} ${prices[0]}"
+            elif len(prices) == 1:
+                # Single price, no size
+                price = f"${prices[0]}"
+            elif len(prices) == len(sizes):
+                # Multiple sizes and prices
+                price_parts = [f"{sizes[i]} ${prices[i]}" for i in range(len(prices))]
+                price = " | ".join(price_parts)
             else:
-                price = "Price not listed"
-            
-            item = {
-                "name": beer_name,
-                "description": description,
-                "price": price,
-                "section": current_section,
-                "restaurant_name": "The Hideaway",
-                "restaurant_url": "https://www.hideawaysaratoga.com/",
-                "menu_type": "Beverages",
-                "menu_name": "Beverages Menu"
-            }
-            
-            items.append(item)
-    
-    print(f"      [OK] Extracted {len(items)} items from structured HTML")
-    
-    # If no structured items found, check for images as fallback
-    if not items:
-        img_tags = soup.find_all('img')
-        beverage_images = []
-        for img in img_tags:
-            src = img.get('src') or img.get('data-src') or img.get('data-lazy-src')
-            if src:
-                src_lower = src.lower()
-                if any(keyword in src_lower for keyword in ['beverage', 'beer', 'wine', 'cocktail', 'drink', 'menu']):
-                    if 'logo' not in src_lower:
-                        if src.startswith('http'):
-                            beverage_images.append(src)
-                        elif src.startswith('//'):
-                            beverage_images.append(f"https:{src}")
-                        elif src.startswith('/'):
-                            beverage_images.append(f"https://www.hideawaysaratoga.com{src}")
+                # Mismatch - just join prices
+                price = " | ".join([f"${p}" for p in prices])
+        else:
+            price = "Price not listed"
         
-        # If we found beverage images, process them with Gemini
-        if beverage_images and GEMINI_AVAILABLE and GEMINI_API_KEY:
-            print(f"    Found {len(beverage_images)} beverage menu image(s) - using Gemini as fallback")
-            for i, image_url in enumerate(beverage_images, 1):
-                print(f"    Processing beverage image {i}/{len(beverage_images)}...")
-                
-                # Download image
-                image_filename = f"hideaway_beverages_{i}.jpg"
-                image_path = Path(f"temp/hideaway_images/{image_filename}")
-                
-                if download_image(image_url, image_path):
-                    print(f"      [OK] Downloaded image")
-                    
-                    # Extract menu items using Gemini
-                    beverage_items = extract_menu_from_image_with_gemini(
-                        image_path,
-                        "Beverages Menu",
-                        "Beverages",
-                        "Beverages"
-                    )
-                    items.extend(beverage_items)
-                    print(f"      [OK] Extracted {len(beverage_items)} items from image")
-                else:
-                    print(f"      [ERROR] Failed to download image")
-    
-    return items
-                # Get the first span that's not a category span
-                for span in name_spans:
-                    span_text = span.get_text(strip=True)
-                    # Skip if it's a category or style span
-                    if span.get('class') and ('item-category' in span.get('class') or 'item-style' in span.get('class')):
-                        continue
-                    if span_text and len(span_text) > 2:
-                        beer_name = span_text
-                        break
-            
-            # Method 2: From link's direct text content (excluding nested elements)
-            if not beer_name:
-                # Get text directly from link, but exclude nested span texts
-                link_direct_text = []
-                for child in link.children:
-                    if isinstance(child, str):
-                        text = child.strip()
-                        if text:
-                            link_direct_text.append(text)
-                if link_direct_text:
-                    beer_name = ' '.join(link_direct_text).strip()
-            
-            # Method 3: From link's full text (fallback)
-            if not beer_name:
-                link_text = link.get_text(strip=True)
-                if link_text and len(link_text) > 2:
-                    beer_name = link_text
-            
-            # Method 4: From h4 - extract text from the link part only
-            if not beer_name and h4_item:
-                # Find the link in h4 and get its text
-                h4_link = h4_item.find('a')
-                if h4_link:
-                    h4_link_text = h4_link.get_text(strip=True)
-                    if h4_link_text:
-                        beer_name = h4_link_text
-                else:
-                    # Fallback: get all h4 text except category
-                    h4_text = h4_item.get_text(separator=' ', strip=True)
-                    # Remove category spans
-                    for cat_span in h4_item.find_all('span', class_='item-category'):
-                        cat_text = cat_span.get_text(strip=True)
-                        if cat_text in h4_text:
-                            h4_text = h4_text.replace(cat_text, '').strip()
-                    if h4_text:
-                        beer_name = h4_text
-            
-            item = {
-                "name": beer_name,
-                "description": description,
-                "price": price,
-                "section": current_section,
-                "restaurant_name": "The Hideaway",
-                "restaurant_url": "https://www.hideawaysaratoga.com/",
-                "menu_type": "Beverages",
-                "menu_name": "Beverages Menu"
-            }
-            
-            items.append(item)
-    
-    # If no structured items found, check for images as fallback
-    if not items:
-        img_tags = soup.find_all('img')
-        beverage_images = []
-        for img in img_tags:
-            src = img.get('src') or img.get('data-src') or img.get('data-lazy-src')
-            if src:
-                src_lower = src.lower()
-                if any(keyword in src_lower for keyword in ['beverage', 'beer', 'wine', 'cocktail', 'drink', 'menu']):
-                    if 'logo' not in src_lower:
-                        if src.startswith('http'):
-                            beverage_images.append(src)
-                        elif src.startswith('//'):
-                            beverage_images.append(f"https:{src}")
-                        elif src.startswith('/'):
-                            beverage_images.append(f"https://www.hideawaysaratoga.com{src}")
+        item = {
+            "name": beer_name,
+            "description": description,
+            "price": price,
+            "section": current_section,
+            "restaurant_name": "The Hideaway",
+            "restaurant_url": "https://www.hideawaysaratoga.com/",
+            "menu_type": "Beverages",
+            "menu_name": "Beverages Menu"
+        }
         
-        # If we found beverage images, process them with Gemini
-        if beverage_images and GEMINI_AVAILABLE and GEMINI_API_KEY:
-            print(f"    Found {len(beverage_images)} beverage menu image(s) - using Gemini as fallback")
-            for i, image_url in enumerate(beverage_images, 1):
-                print(f"    Processing beverage image {i}/{len(beverage_images)}...")
-                
-                # Download image
-                image_filename = f"hideaway_beverages_{i}.jpg"
-                image_path = Path(f"temp/hideaway_images/{image_filename}")
-                
-                if download_image(image_url, image_path):
-                    print(f"      [OK] Downloaded image")
-                    
-                    # Extract menu items using Gemini
-                    beverage_items = extract_menu_from_image_with_gemini(
-                        image_path,
-                        "Beverages Menu",
-                        "Beverages",
-                        "Beverages"
-                    )
-                    items.extend(beverage_items)
-                    print(f"      [OK] Extracted {len(beverage_items)} items from image")
-                else:
-                    print(f"      [ERROR] Failed to download image")
+        items.append(item)
     
+    print(f"    [OK] Extracted {len(items)} items from structured HTML")
     return items
 
 
