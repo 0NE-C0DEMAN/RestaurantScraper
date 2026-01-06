@@ -1,0 +1,392 @@
+[
+  {
+    "name": "HOUSE MADE SARATOGA CHIPS",
+    "description": "Served with Sour Cream & Onion Dip",
+    "price": "$5",
+    "section": "Starters",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "TACO DEL DIA",
+    "description": "Daily Taco Special",
+    "price": "$7",
+    "section": "Starters",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "CRAB DIP & CROSTINIS",
+    "description": "Maryland Crab & Herb Cream Cheese, Toasted Ciabatta Bread",
+    "price": "$16",
+    "section": "Starters",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "CHEESE PLATE",
+    "description": "Chef’s Daily Assortment of Cheeses, Olives, Prosciutto, Flatbread Crackers",
+    "price": "$17",
+    "section": "Starters",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "PRETZEL STICKS & HOT CHEDDAR",
+    "description": "Salted Bavarian Soft Pretzels, Aged Cheddar Dip",
+    "price": "$12",
+    "section": "Starters",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "SOUTHWEST CHICKEN EGGROLLS",
+    "description": "Served with Chipotle Ranch Sauce",
+    "price": "$13",
+    "section": "Starters",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "WEDGE SALAD",
+    "description": "Baby Iceberg, Diced Tomato, Onion, Bacon, Blue Cheese Crumble & Dressing. Add-ons: Grilled Chicken, Salmon, or Steak +$9",
+    "price": "$17",
+    "section": "Soup & Salad",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "CAESAR SALAD",
+    "description": "Chopped Romaine, House Croutons, Romano, Asiago, Anchovies, Caesar Dressing. Add-ons: Grilled Chicken, Salmon, or Steak +$9",
+    "price": "$15",
+    "section": "Soup & Salad",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "GARDEN SALAD",
+    "description": "Mixed Greens, Fresh Cut Vegetables, Choice of Dressing. Add-ons: Grilled Chicken, Salmon, or Steak +$9",
+    "price": "$13",
+    "section": "Soup & Salad",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "CAPRESE SALAD",
+    "description": "Sliced Mozzarella, Heirloom Tomato, Fresh Basil, Olive Oil & Balsamic Reduction. Add-ons: Grilled Chicken, Salmon, or Steak +$9",
+    "price": "$15",
+    "section": "Soup & Salad",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "NUT & BERRY SALAD",
+    "description": "Mixed Greens, Strawberries, Blueberries, Blue Cheese Crumbles, Walnuts, White Balsamic Dressing. Add-ons: Grilled Chicken, Salmon, or Steak +$9",
+    "price": "$17",
+    "section": "Soup & Salad",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "NEW ENGLAND CLAM CHOWDER",
+    "description": null,
+    "price": "$7",
+    "section": "Soup & Salad",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "SOUP OF THE DAY",
+    "description": null,
+    "price": "$5",
+    "section": "Soup & Salad",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "MARGHERITA PIZZA",
+    "description": "Tomato, Fresh Mozzarella, Garlic Parmesan, Fresh Basil",
+    "price": "$16",
+    "section": "Table Fare",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "THE CHICKEN SANDWICH",
+    "description": "Lettuce, Tomato, Onion, Mayo, Toasted Brioche",
+    "price": "$17",
+    "section": "Table Fare",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "THE BURGER",
+    "description": "Lettuce, Tomato, Onion, Toasted Brioche Bun. Add-ons: Cheese +$1.50",
+    "price": "$18",
+    "section": "Table Fare",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "BLACK BEAN BURGER",
+    "description": "Lettuce, Tomato, Onion, Guacamole, Fried Onions, Toasted Brioche",
+    "price": "$17",
+    "section": "Table Fare",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "THE REUBEN",
+    "description": "Beer-Braised House Made Corned Beef, Sauerkraut, Thousand Island, Swiss Cheese, Marble Rye (Also Available with Turkey)",
+    "price": "$18",
+    "section": "Table Fare",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "CHICKEN TENDERS & FRIES",
+    "description": "Crispy Breaded Chicken Tenderloins & French Fries. Served with your choice of BBQ, Honey Mustard, Ranch or Blue Cheese. Toss in Buffalo, Garlic Parmesan, or Honey Chipotle $2. Add-ons: your choice of BBQ, Honey Mustard, Ranch or Blue Cheese.                      Toss in Buffalo, Garlic Parmesan, or Honey Chipotle +$2",
+    "price": "$17",
+    "section": "Table Fare",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "BRAISED BEEF PHILLY",
+    "description": "House Braised Chuck Roast, Caramelized Onion, Bell Pepper, Toasted Hoagie, Melted Mozzarella Cheese",
+    "price": "$19",
+    "section": "Table Fare",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "TURKEY BLT",
+    "description": "Green Leaf Lettuce, Sliced Tomato, Applewood Bacon, Mayo. Choice of White, Wheat or Rye Toast",
+    "price": "$17",
+    "section": "Table Fare",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "GRILLED VEGETABLE WRAP",
+    "description": "Grilled Portabellas, Zucchini, Red Bell Pepper, Asparagus, Red Onion, Goat Cheese, Hummus Spread, Mixed Greens in Spinach Wrap",
+    "price": "$17",
+    "section": "Table Fare",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "FISH FRY",
+    "description": "8oz Beer Battered Cod, Old Bay Fries, Coleslaw, House Made Tartar Sauce",
+    "price": "$24",
+    "section": "Table Fare",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "PASTA YOUR WAY",
+    "description": "Fettuccini or Penne Pasta with Choice of: Alfredo, Lemon Wine, Marinara, or Tomato Cream Sauce. Add-ons: Grilled Chicken, Salmon or Steak +$9",
+    "price": "$21",
+    "section": "Entree",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "SPICY HONEY SALMON",
+    "description": "Roasted 8oz Canadian Filet Pineapple Coconut Rice, Vegetable, Spicy Honey Chipotle Glaze",
+    "price": "$32",
+    "section": "Entree",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "MAC & CHEESE",
+    "description": "Elbow Macaroni, Aged Cheddar Cream Sauce, Crispy Fried Onions. Add-ons: Buffalo Chicken +$9",
+    "price": "$22",
+    "section": "Entree",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "STEAK FRITES",
+    "description": "Pan Seared 12oz NY Strip Steak, House Cut Steak Fries with Truffle Oil and Parmesan",
+    "price": "$34",
+    "section": "Entree",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "PAN SEARED FILET MEDALLIONS",
+    "description": "Seared Beef Tenderloin, Mashed potato, Vegetable, Brandy Peppercorn Sauce",
+    "price": "$37",
+    "section": "Entree",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "LEMON GARLIC COD",
+    "description": "Broiled Atlantic Cod, Wild Rice pilaf, Vegetable, Lemon Garlic Butter",
+    "price": "$29",
+    "section": "Entree",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "BRAISED CHICKEN FLORENTINE",
+    "description": "Braised Chicken Thigh, Mashed Potato Croquettes, Sauteed Spinach, Boursin Cream, Blistered Garlic Cherry Tomatoes",
+    "price": "$27",
+    "section": "Entree",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "FIVE BERRY TART",
+    "description": "Layered Vanilla Pastry, Vanilla Cream and Sponge Cake, topped with Blueberries, Raspberries, Red Currants, Strawberries, Powdered Sugar",
+    "price": "$8",
+    "section": "Desserts",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "CHOCOLATE FLOURLESS TORTE",
+    "description": "Chocolate Ganache Coated Dense Dark Chocolate Cake, Berry Sauce",
+    "price": "$7",
+    "section": "Desserts",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "ITALIAN RUM CAKE",
+    "description": "Sliced Almond Cream",
+    "price": "$8",
+    "section": "Desserts",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "TURTLE CHEESECAKE",
+    "description": "Crushed Candied Pecans, Chocolate Chips, Chocolate & Caramel Syrup",
+    "price": "$9",
+    "section": "Desserts",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "ICE CREAM",
+    "description": null,
+    "price": "$6",
+    "section": "Desserts",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "CHICKEN TENDERS",
+    "description": "Served with French Fries",
+    "price": "$12",
+    "section": "KIDS MENU",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "MAC N CHEESE",
+    "description": "Served with Veggie Sticks",
+    "price": "$10",
+    "section": "KIDS MENU",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "BAKED SALMON",
+    "description": "Served with Salad",
+    "price": "$14",
+    "section": "KIDS MENU",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "CHEESEBURGER",
+    "description": "Served with French Fries",
+    "price": "$12",
+    "section": "KIDS MENU",
+    "restaurant_name": "Diamond Club Restaurant",
+    "restaurant_url": "https://www.diamondclubrestaurantsaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  }
+]

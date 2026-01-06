@@ -1,0 +1,652 @@
+[
+  {
+    "name": "Spinach Artichoke",
+    "description": "served with Tortilla Chips. Add-ons: add baked Breadsticks $3.00",
+    "price": "$14.99",
+    "section": "Appetizers",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Buffalo Chicken",
+    "description": "served with Tortilla Chips. Add-ons: add baked Breadsticks $3.00",
+    "price": "$14.99",
+    "section": "Appetizers",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Stuffed Portobella Mushrooms",
+    "description": "Roasted Red Peppers - Artichoke - Spinach Blend of Cheese - Panko",
+    "price": "$14.99",
+    "section": "Appetizers",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Dip Trio",
+    "description": "Guacamole - Queso - Salsa with Tortilla Chips",
+    "price": "$14.99",
+    "section": "Appetizers",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Buffalo Rangoons",
+    "description": "Fried Buffalo Chicken Wing Dip Wontons Topped with Buffalo Sauce and Bleu Crumbles - with Blue Cheese, Celery, Carrots",
+    "price": "$16.99",
+    "section": "Appetizers",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Shrimp Skewers",
+    "description": "Grilled Cajun Shrimp - Chipotle Lime Aioli - Arugula Salad",
+    "price": "$17.99",
+    "section": "Appetizers",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Nachos",
+    "description": "Queso - Cheddar Jack - Guacamole - Lettuce - Onions - Tomatoes - Jalapeño topped with Chicken or Pulled Pork and served with Salsa & Sour Cream",
+    "price": "$18.99",
+    "section": "Appetizers",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Queso & Pretzels",
+    "description": "with Pretzel Bites",
+    "price": "$14.99",
+    "section": "Appetizers",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Fresh Breadsticks",
+    "description": "with Tomato Bisque or Queso",
+    "price": "$12.99",
+    "section": "Appetizers",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Potstickers",
+    "description": "choice of Pork or Spinach Artichoke with Thai Chili",
+    "price": "$14.99",
+    "section": "Appetizers",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Truffle Parmesan Fries",
+    "description": "White Truffle Oil - Garlic Aioli - Parmesan Cheese",
+    "price": "$12.99",
+    "section": "Appetizers",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Chicken Wings",
+    "description": "Bone-in (gf) or Boneless. Sauces: Buffalo - Hot - BBQ - Thai Chili - Garlic Parmesan - Carolina Gold - Nashville Hot Honey - Nanola Style - Peanut Butter & Jelly - Kickin' Bourbon - Korean BBQ - Spicy Peach. Dry Rubs: Salt & Vinegar - Cajun - Lemon Pepper served with Bleu Cheese & Veggies",
+    "price": "A Dozen $16.99 | Two Dozen $32.99",
+    "section": "Appetizers",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Pan Fried Brussel Sprouts",
+    "description": "Bacon - Candied Walnuts - Onion - Honey Sriracha",
+    "price": "$15.99",
+    "section": "Appetizers",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Harvest Flatbread",
+    "description": "Apple Bacon Chutney - Cheddar Jack Cheese - Chicken - Arugula - Maple drizzle",
+    "price": "$16.99",
+    "section": "Appetizers",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Soup of the Day",
+    "description": "Daily selection of fresh soups",
+    "price": "$Market Price",
+    "section": "Soups & Salads",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Tomato Bisque",
+    "description": "Tomato based soup",
+    "price": "Cup $6.99 | Bowl $8.99",
+    "section": "Soups & Salads",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "French Onion",
+    "description": "French onion soup",
+    "price": "Crock $8.99",
+    "section": "Soups & Salads",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Harvest Salad",
+    "description": "Grilled Chicken - Apples - Candied Walnuts - Cheddar - Cucumber - Red Onion - Apple Cider Vinaigrette",
+    "price": "$19.99",
+    "section": "Soups & Salads",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Caesar",
+    "description": "Romaine - House Croutons - Shaved Parmesan",
+    "price": "$12.99",
+    "section": "Soups & Salads",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Cobb",
+    "description": "grilled Chicken - Bacon - Bleu Crumbles - Egg - Croutons - Onion - Tomato Cucumber with choice of dressing",
+    "price": "$19.99",
+    "section": "Soups & Salads",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "The Chopped Salads",
+    "description": "Crispy or Grilled Chicken - Pickles - Celery - Bacon - Bleu Crumbles - tossed with Ranch. Buffalo / Nashville Hot / Carolina Gold / BBQ",
+    "price": "$19.99",
+    "section": "Soups & Salads",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Parmesan Romaine Wedge",
+    "description": "Bacon - Tomato - shaved Parmesan - Balsamic Glaze Parmesan Peppercorn",
+    "price": "$14.99",
+    "section": "Soups & Salads",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Santa Fe Chicken",
+    "description": "Romaine - Blackened Chicken - Cheddar - Corn - Black Beans Tomato - Onion - Guacamole - Ranch. Add-ons: chicken +$6 / filet tips +$8 / shrimp +$8 / salmon +$8",
+    "price": "$18.99",
+    "section": "Soups & Salads",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Chicken Sandwiches",
+    "description": "Our famous chicken sandwiches can be made fried or grilled. Options: Americano (Lettuce, Tomato, Cheddar, Pickles, Garlic Aioli) / Hideaway Style (Pepper Jack, Coleslaw, Haystack Onions, choice of Buffalo, Nashville, BBQ) / Maple Apple (Apple Bacon Chutney, Maple Syrup, Cheddar, Lettuce)",
+    "price": "$18.99",
+    "section": "Sandwiches",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Reuben",
+    "description": "Corned Beef or roasted Turkey - Kraut - Swiss - Russian - Rye",
+    "price": "$17.99",
+    "section": "Sandwiches",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Philly Cheesesteak",
+    "description": "Shaved Steak or Chicken - Peppers - Onions - Provolone. Add-ons: add Mushrooms $1.00",
+    "price": "$16.99",
+    "section": "Sandwiches",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Cubano",
+    "description": "Ham, Pulled Pork, Pickles, Swiss pickled Red Onion, Mustard",
+    "price": "$17.99",
+    "section": "Sandwiches",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Tuscan Turkey",
+    "description": "Spinach Artichoke Dip, Provolone Turkey, Roasted Red Pepper",
+    "price": "$16.99",
+    "section": "Sandwiches",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Filet Sandwich",
+    "description": "Filet Mignon, Mushrooms, Haystack Onions Tiger Sauce, Swiss, grilled Ciabatta",
+    "price": "$20.99",
+    "section": "Sandwiches",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Meatloaf",
+    "description": "Bacon Wrapped Meatloaf Cheddar, side of Gravy",
+    "price": "$17.99",
+    "section": "Sandwiches",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Veggie",
+    "description": "Stuffed Portobello - Swiss - Lettuce - Tomato - Onion - Balsamic Glaze grilled Brioche",
+    "price": "$16.99",
+    "section": "Sandwiches",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Pulled Pork",
+    "description": "Roasted Pork - BBQ - Coleslaw - Haystack Onions",
+    "price": "$16.99",
+    "section": "Sandwiches",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Chicken & Waffles",
+    "description": "Fried Chicken - Sugar Pearl Waffles - 100% Pure Maple Syrup. Add-ons: Make it Spicy $1.00 / add Cheddar & Bacon $3.00",
+    "price": "$16.99",
+    "section": "Sandwiches",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Grilled Shrimp Po'Boy",
+    "description": "Blackened Shrimp - Pickles - shredded Lettuce - Tomato Remoulade - grilled Hoagie - with Coleslaw on the side",
+    "price": "$18.99",
+    "section": "Sandwiches",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Club Sandwich",
+    "description": "Turkey, Ham, or BLT - choice of Bread. Add-ons: add Cheese $2.00",
+    "price": "$18.99",
+    "section": "Sandwiches",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Hideaway Homestead",
+    "description": "Chicken & Biscuits: Chicken, Vegetables, Gravy, Biscuits / Pot Roast: Tender Beef, Gravy, Mixed Vegetables, Mashed / Meatloaf: Bacon Wrapped Meatloaf, Gravy, Brussels, Mashed",
+    "price": "$26.99",
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Honey Sriracha Power Bowl",
+    "description": "Grilled Chicken - Basmati Rice - Guacamole - Corn - Peppers - Onions - Black Beans - Honey Sriracha drizzle. Sub Filet Tips or Salmon 7.00",
+    "price": "$24.99",
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Hideaway \"Famous\" Bowl",
+    "description": "Southern Fried Chicken - Gravy - blended Cheese - Mashed Potatoes - Sweet Corn",
+    "price": "$24.99",
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Hand Cut Steaks",
+    "description": "Mashed Potato - Vegetable Choice",
+    "price": "12oz NY Strip $37.99 | Twin 5oz Filets $46.99",
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Accentuate Your Steak",
+    "description": "Blackened 1.00 / Compound Butter 2.00 / Cabernet Reduction 3.00 / Bleu Cheese Fondue 4.00",
+    "price": null,
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Mac & Cheese",
+    "description": "House Made Cheese Sauce - Penne",
+    "price": "$24.99",
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Buffalo Chicken",
+    "description": "Buffalo Chicken - Bleu Crumbles",
+    "price": "$28.99",
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Pulled Pork",
+    "description": "Haystack Onions - BBQ - Pork",
+    "price": "$27.99",
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Surf & Turf",
+    "description": "Twin 5oz Filets - Scallops - Shrimp - Crab Cake - Mashed Potato - Roasted Brussels",
+    "price": "$56.99",
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "New Orleans Pasta",
+    "description": "Blackened Chicken - Shrimp - Broccoli - Alfredo - Penne - fresh baked Breadstick",
+    "price": "$29.99",
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Seafood",
+    "description": "Shrimp - seared Scallops - Lemon - Garlic",
+    "price": "$34.99",
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Tuscan Chicken",
+    "description": "Chicken - Cherry Tomato - Spinach - Roasted Red Pepper",
+    "price": "$29.99",
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Filet Tip",
+    "description": "Filet Tips - Mushroom - Gravy - Haystack Onion",
+    "price": "$34.99",
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "The Hideaway's General Tso's",
+    "description": "fried Chicken - Broccoli - Basmati Rice - Gochujang",
+    "price": "$27.99",
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Baked Seafood Platter",
+    "description": "Shrimp - Scallops - Crab Cakes - Basmati Rice - Broccoli - Lemon Wine Cream Sauce",
+    "price": "$34.99",
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Glazed Grilled Chicken or Atlantic Salmon",
+    "description": "with Basmati Rice and Broccolini - grilled Chicken",
+    "price": "$25.99 | Salmon $32.99",
+    "section": "Entrees",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Caramel Apple Pie",
+    "description": "Caramel Apple Pie",
+    "price": null,
+    "section": "Desserts",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Reese's Peanut Butter Pie",
+    "description": "Reese's Peanut Butter Pie",
+    "price": null,
+    "section": "Desserts",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Flourless Chocolate Cake",
+    "description": "Flourless Chocolate Cake",
+    "price": null,
+    "section": "Desserts",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Triple Berry Cheesecake",
+    "description": "Triple Berry Cheesecake",
+    "price": null,
+    "section": "Desserts",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "Carrot Cake",
+    "description": "Carrot Cake",
+    "price": null,
+    "section": "Desserts",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Main Menu",
+    "menu_name": "Main Menu"
+  },
+  {
+    "name": "JUICES",
+    "description": "Orange Juice / Apple Juice / Cranberry Juice / Pineapple Juice / Grapefruit Juice",
+    "price": "$3.50",
+    "section": "Beverages",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "MILK",
+    "description": "Whole Milk / Chocolate Milk",
+    "price": "$2.95",
+    "section": "Beverages",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "COFFEE",
+    "description": "Regular or Decaf",
+    "price": "$2.50",
+    "section": "Beverages",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "TEA",
+    "description": "Hot or Iced",
+    "price": "$2.50",
+    "section": "Beverages",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "FOUNTAIN SODA",
+    "description": "Coca-Cola Products",
+    "price": "$2.95",
+    "section": "Beverages",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "BOTTLED WATER",
+    "description": "",
+    "price": "$1.95",
+    "section": "Beverages",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Canned Soda",
+    "description": null,
+    "price": "$2.50",
+    "section": "Beverages",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Bottled Water",
+    "description": null,
+    "price": "$2.50",
+    "section": "Beverages",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Juice",
+    "description": null,
+    "price": "$3.00",
+    "section": "Beverages",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  }
+]

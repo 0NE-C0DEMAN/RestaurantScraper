@@ -1,0 +1,582 @@
+[
+  {
+    "name": "LEMON RICOTTA PANCAKES",
+    "description": "As seen on Beat Bobby Flay 2 fresh lemon and ricotta pancakes. Light, fluffy, and delicious. Fresh blueberries and blueberry compote.",
+    "price": "$17.75",
+    "section": "Sweet Mimi’s Signatures",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "CINNAMON ROLL PANCAKES",
+    "description": "2 fluffy oversized buttermilk pancakes, decadent cinnamon roll filling, maple glaze, homemade whipped cream. Created by kids for all pancake lovers, a Sweet Mimi’s tradition.",
+    "price": "$17.75",
+    "section": "Sweet Mimi’s Signatures",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "BACON PANCAKES",
+    "description": "As seen on CBS’ The Talk 3 buttermilk pancakes, crispy bacon in and out, homemade salted caramel sauce, and whipped cream.",
+    "price": "$17.75",
+    "section": "Sweet Mimi’s Signatures",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "CLASSIC OMELETTE",
+    "description": "3 egg* omelette (Substitute egg whites only +2) Choose three add-ons (+1.50 per additional) Cheese: Cheddar, American, Swiss, fresh mozzarella, goat, feta Meat: Applewood smoked bacon, pork or chicken sausage Vegetables: Peppers, onions, sautéed mushroom, tomatoes, roasted asparagus, garlic spinach, caramelized onion",
+    "price": "$16.50",
+    "section": "Sweet Mimi’s Classics",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "ALL AMERICAN EGGS",
+    "description": "Eggs* served your style",
+    "price": "$1",
+    "section": "Sweet Mimi’s Classics",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "ROMAN EGGS",
+    "description": "Roasted asparagus, crispy prosciutto, 2 eggs* over easy, heirloom cherry tomatoes, shaved Parmesan, grilled ciabatta",
+    "price": "$17.50",
+    "section": "Sweet Mimi’s Classics",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "CHARLIE’S SANDWICH",
+    "description": "Two eggs* omelette style, American cheese, applewood smoked bacon, toasted English muffin",
+    "price": "$9.50",
+    "section": "Breakfast Sandwiches",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "SARATOGA SANDWICH",
+    "description": "Two eggs* your style, sausage patty, Vermont extra-sharp white cheddar, famous flaky homemade biscuit",
+    "price": "$13.50",
+    "section": "Breakfast Sandwiches",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "ITALIAN SANDWICH",
+    "description": "Two eggs* your style, prosciutto, garlic spinach, fresh mozzarella, pesto, sliced tomato, grilled rosemary ciabatta",
+    "price": "$12.50",
+    "section": "Breakfast Sandwiches",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "BISTRO SANDWICH",
+    "description": "Two eggs* your style, applewood smoked bacon, sliced tomato, avocado, grilled buttery croissant",
+    "price": "$12.50",
+    "section": "Breakfast Sandwiches",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "JEANNETTE’S SIGNATURE BUTTERMILK PANCAKES",
+    "description": "Made from scratch in small batches all day, whipped cream Full stack short stack solo ",
+    "price": "$3",
+    "section": "Sweet Sweet Breakfast",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "BUTTERMILK WAFFLE",
+    "description": "Light and fluffy buttermilk waffle, whipped cream",
+    "price": "$11",
+    "section": "Sweet Sweet Breakfast",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "CHALLAH FRENCH TOAST",
+    "description": "Thick-cut challah, Madagascar vanilla and cinnamon custard, strawberry compote, fresh strawberries (GF upon request)",
+    "price": "$16.75",
+    "section": "Sweet Sweet Breakfast",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "MIMI’S PARFAIT",
+    "description": "Greek plain yogurt, homemade granola, blackberries, fresh strawberries, honey drizzle",
+    "price": "$11.75",
+    "section": "Lighter Fare",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "MAX’S VEGGIE PLATTER",
+    "description": null,
+    "price": "$11.75",
+    "section": "Lighter Fare",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "OLD FASHIONED OATMEAL",
+    "description": "Organic rolled oatmeal, choice of 3 toppings: Currants, cranberries, walnuts, brown sugar, cream, or maple syrup. HOMEMADE GRANOLA 10.50 Oats, almonds, coconut, brown sugar, and maple syrup. Served with milk and fresh berries. (Available in our bakery by the pound). Add-ons: fresh berries +$3.50",
+    "price": "$16.75",
+    "section": "Lighter Fare",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "HOMEMADE GRANOLA",
+    "description": "Oats, almonds, coconut, brown sugar, and maple syrup. Served with milk and fresh berries. (Available in our bakery by the pound) PLAIN OR SEEDED BAGEL 6 Plain cream cheese or peanut butter",
+    "price": "$10.50",
+    "section": "Lighter Fare",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "PLAIN OR SEEDED BAGEL",
+    "description": "Plain cream cheese or peanut butter PB&J CLASSIC 7 on thick-cut challah",
+    "price": "$6",
+    "section": "Lighter Fare",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "PB&J CLASSIC",
+    "description": "on thick-cut challah GRILLED CROISSANT 4 with butter",
+    "price": "$7",
+    "section": "Lighter Fare",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "GRILLED CROISSANT",
+    "description": "with butter",
+    "price": "$4",
+    "section": "Lighter Fare",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "APPLEWOOD SMOKED BACON",
+    "description": null,
+    "price": "$5",
+    "section": "Accompaniments",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "ALL NATURAL PORT OR CHICKEN SAUSAGE LINKS",
+    "description": null,
+    "price": "$6.25",
+    "section": "Accompaniments",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "PORK SAUSAGE PATTY (gf)",
+    "description": null,
+    "price": "$5",
+    "section": "Accompaniments",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "FAVORITE GRILLED HOME FRIES",
+    "description": "Cheddar home fries Serving for two 12, for one 5.75 or bacon +2. Add-ons: roasted jalapeños +$1.50",
+    "price": "$4.50",
+    "section": "Accompaniments",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "SLICED AVOCADO WHOLE 6 OR HALF",
+    "description": null,
+    "price": "$3",
+    "section": "Accompaniments",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "SIDE OF HONEY BUTTER",
+    "description": null,
+    "price": "$2.50",
+    "section": "Accompaniments",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "TOAST",
+    "description": "Whole wheat, 8 grain, rye, english muffin, sourdough, grilled ciabatta Udi (gf) 3.50",
+    "price": "$2.75",
+    "section": "Accompaniments",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "FRESH FRUIT",
+    "description": "Cantaloupe, strawberry, pineapple, and blackberry fruit cup 6, berries only 7, sliced banana 3, or half ruby-red grapefruit 3.25",
+    "price": "",
+    "section": "Accompaniments",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "SCOOP OF SARATOGA GELATO",
+    "description": "(ask about our seasonal flavors)",
+    "price": "$3.50",
+    "section": "Accompaniments",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Cafe Menus"
+  },
+  {
+    "name": "Specialty Toasted  Marshmallow Hot Cocoa!,",
+    "description": "Creamy hot cocoa with toasted marshmallow syrup, homemade marshmallow slightly torched to garnish.",
+    "price": "$7.75",
+    "section": "Sweet Mimi’s January Specials",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specials",
+    "menu_name": "Specials Menus"
+  },
+  {
+    "name": "HOT COCOA,",
+    "description": null,
+    "price": "$6.75",
+    "section": "Sweet Mimi’s January Specials",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specials",
+    "menu_name": "Specials Menus"
+  },
+  {
+    "name": "WINTER WONDERLAND SALAD,",
+    "description": "Boston hydro Bibb, arugula, supremed orange, sliced avocado, pickled red onion, toasted macrona almonds. Citrus vinaigrette. Grilled ciabatta.. Add-ons: roasted salmon, +$6.75",
+    "price": "$16.95",
+    "section": "Lunch",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specials",
+    "menu_name": "Specials Menus"
+  },
+  {
+    "name": "AVOCADO SMASH (V),",
+    "description": "Rockhill 8-grain toast, sliced ripened avocados, chia seeds, diced tomatoes, a sprinkle of Kosher salt, XVOO.. Add-ons: one egg your style +$3",
+    "price": "$17.95",
+    "section": "Lunch",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specials",
+    "menu_name": "Specials Menus"
+  },
+  {
+    "name": "BOWL OF VEGGIE CHILI & SALAD,",
+    "description": "Our delicious homemade chili, arugula salad, grilled ciabatta.",
+    "price": "$16.95",
+    "section": "Lunch",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specials",
+    "menu_name": "Specials Menus"
+  },
+  {
+    "name": "CLASSIC BLTA,",
+    "description": "Sourdough lightly toasted stacked with our delicious hardwood smoked bacon, fresh avocado, sliced tomatoes, Boston Bibb, garlic aioli. Cafe’s best seller!. Add-ons: one egg your style +$3",
+    "price": "$16.95",
+    "section": "Lunch",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specials",
+    "menu_name": "Specials Menus"
+  },
+  {
+    "name": "ROASTED SALMON BLT,",
+    "description": "Herb roasted Faroe Island Salmon. Grilled Brioche. Garlic aioli. Applewood smoked bacon. Boston Bibb Lettuce, Tomato.. Add-ons: avocado or one egg your style, +$3.00",
+    "price": "$21.00",
+    "section": "Lunch",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specials",
+    "menu_name": "Specials Menus"
+  },
+  {
+    "name": "CAPRESE PANINI, +16.95",
+    "description": "Rosemary ciabatta. Fresh mozzarella, sliced tomato, arugula, pesto.",
+    "price": "",
+    "section": "Lunch",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specials",
+    "menu_name": "Specials Menus"
+  },
+  {
+    "name": "TRUFFLED HOME-FRIES,",
+    "description": "Our delicious home-fries with X-TRA sharp cheddar. Imported Pecorino Romano cheese. Truffle oil drizzle.. Add-ons: bacon +$2",
+    "price": "$9.50 | $18.25",
+    "section": "Brunch",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specials",
+    "menu_name": "Specials Menus"
+  },
+  {
+    "name": "THE CANADIAN MONSIEUR,",
+    "description": "Brooklyn Challah, family farm raised Canadian Bacon, 2 eggs how you like, Imported Swiss, arugula. Dijon aioli.",
+    "price": "$15.50",
+    "section": "Brunch",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specials",
+    "menu_name": "Specials Menus"
+  },
+  {
+    "name": "WINTER SCRAMBLE,",
+    "description": "Herb roasted cauliflower, brussels sprouts, and blanched broccoli. caramelized shallots, crispy bacon, soft scrambled with 3 farm fresh eggs. Balsamic reduction. Shaved parmesan. Fresh basil.",
+    "price": "$20.95",
+    "section": "Brunch",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specials",
+    "menu_name": "Specials Menus"
+  },
+  {
+    "name": "MEXICAN BURRITO PLATTER,",
+    "description": "Flour tortilla filled with 2 eggs scrambled, Esposito’s chorizo, sautéed peppers, onions. We add a bit of home-fries and our homemade red beans. Finished with X-TRA sharp cheddar & habanero jack cheese. Homemade pico and guacamole.",
+    "price": "$21.95",
+    "section": "Brunch",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specials",
+    "menu_name": "Specials Menus"
+  },
+  {
+    "name": "CORNMEAL, CHEDDAR & SCALLION WAFFLE,",
+    "description": "Our homemade cornmeal waffle. Extra sharp cheddar cheese & scallions. Topped with 2 poached eggs & roasted brown sugar maple bacon. Fan favorite!",
+    "price": "$19.95",
+    "section": "Brunch",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specials",
+    "menu_name": "Specials Menus"
+  },
+  {
+    "name": "WINTER BLUES BAKED FRENCH TOAST,",
+    "description": "The freshest blueberries & blackberries, tossed with our Brooklyn Challah & our pure vanilla sweet custard. Baked with homemade syrup & streusel. Topped with Saratoga vanilla gelato & fresh berries on top. Vanilla mascarpone whipped cream to finish Blueberry compote.",
+    "price": "$19.95",
+    "section": "Brunch",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specials",
+    "menu_name": "Specials Menus"
+  },
+  {
+    "name": "Box of six",
+    "description": null,
+    "price": "$35",
+    "section": "Baked Goods",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Baked Goods",
+    "menu_name": "Baked Goods"
+  },
+  {
+    "name": "Homemade cinnamon butter",
+    "description": "– ½ quart $8",
+    "price": "",
+    "section": "Baked Goods",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Baked Goods",
+    "menu_name": "Baked Goods"
+  },
+  {
+    "name": "Sarabeth’s Jam",
+    "description": "– $12",
+    "price": "",
+    "section": "Baked Goods",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Baked Goods",
+    "menu_name": "Baked Goods"
+  },
+  {
+    "name": "One dozen assorted w/ honey butter",
+    "description": null,
+    "price": "$50",
+    "section": "Baked Goods",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Baked Goods",
+    "menu_name": "Baked Goods"
+  },
+  {
+    "name": "Six assorted w/ honey butter",
+    "description": null,
+    "price": "$25",
+    "section": "Baked Goods",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Baked Goods",
+    "menu_name": "Baked Goods"
+  },
+  {
+    "name": "One dozen assorted",
+    "description": null,
+    "price": "$45",
+    "section": "Baked Goods",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Baked Goods",
+    "menu_name": "Baked Goods"
+  },
+  {
+    "name": "One 9\" loaf",
+    "description": null,
+    "price": "$25",
+    "section": "Baked Goods",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Baked Goods",
+    "menu_name": "Baked Goods"
+  },
+  {
+    "name": "One 10\" bundt cake",
+    "description": null,
+    "price": "$35",
+    "section": "Baked Goods",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Baked Goods",
+    "menu_name": "Baked Goods"
+  },
+  {
+    "name": "One 9” coffee cake",
+    "description": null,
+    "price": "$30",
+    "section": "Baked Goods",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Baked Goods",
+    "menu_name": "Baked Goods"
+  },
+  {
+    "name": "1 lb. bag",
+    "description": null,
+    "price": "$9",
+    "section": "Baked Goods",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Baked Goods",
+    "menu_name": "Baked Goods"
+  },
+  {
+    "name": "OREO",
+    "description": ": chocolate cake layers, oreo mascarpone filling, vanilla mascarpone frosting.",
+    "price": "",
+    "section": "Specialty Cakes",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specialty Cakes",
+    "menu_name": "Specialty Cakes"
+  },
+  {
+    "name": "Peanut Butter Cup:",
+    "description": "chocolate cake layers, peanut butter buttercream, milk chocolate peanut butter ganache.",
+    "price": "",
+    "section": "Specialty Cakes",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specialty Cakes",
+    "menu_name": "Specialty Cakes"
+  },
+  {
+    "name": "Raspberry Mascarpone Ganache",
+    "description": ": chocolate cake layers, raspberry mascarpone filling, rich chocolate ganache, fresh fruit garnish.",
+    "price": "",
+    "section": "Specialty Cakes",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specialty Cakes",
+    "menu_name": "Specialty Cakes"
+  },
+  {
+    "name": "SMORE’s",
+    "description": ": chocolate cake, homemade marshmallow, chocolate buttercream, torched marshmallow. Graham garnish",
+    "price": "",
+    "section": "Specialty Cakes",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specialty Cakes",
+    "menu_name": "Specialty Cakes"
+  },
+  {
+    "name": "Tiramisu",
+    "description": ": Vanilla Cake, espresso Mascarpone filling and frosting, chocolate covered espresso beans",
+    "price": "",
+    "section": "Specialty Cakes",
+    "restaurant_name": "Sweet Mimi's Cafe & Bakery",
+    "restaurant_url": "https://sweetmimiscafe.com/",
+    "menu_type": "Specialty Cakes",
+    "menu_name": "Specialty Cakes"
+  }
+]

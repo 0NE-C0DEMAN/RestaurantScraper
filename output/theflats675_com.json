@@ -1,0 +1,1162 @@
+[
+  {
+    "name": "SHEET PAN NACHOS",
+    "description": "Tortilla chips, Monterey jack and cheddar cheeses, tomatoes, black olives, jalapeños, queso, black beans and guacamole served with your choice of braised short rib, chicken or pulled pork. Salsa and sour cream served on the side.",
+    "price": "$17.99",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "HUMMUS PLATE",
+    "description": "A house-made garlic hummus, feta cheese, roasted red pepper relish, kalamata olives, and cucumbers. Served with warm pita bread.",
+    "price": "$18.49",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "STEAMERS",
+    "description": "One dozen littleneck clams simmered in a garlic butter sauce served with toasted bread.",
+    "price": "$16.99",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "AFTERBURNERS",
+    "description": "Ten jumbo wings that are fried and tossed with our signature wing sauce and then finished in a 500-degree oven. Served with carrots and bleu cheese dressing.",
+    "price": "$17.99",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "ONION RINGS",
+    "description": "Thick cut onion rings served with smoky onion ranch.",
+    "price": "$10.99",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "TENDERLOIN BITES",
+    "description": "Tenderloin tips, sweet and spicy diablo sauce, horseradish cream sauce, garlic crostini's.",
+    "price": "$17.99",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "JUMBO LUMP CRAB CAKES",
+    "description": "Two seared jumbo lump crab cakes mixed with peppers, onions, cracker crumbs and secret spices drizzled with remoulade sauce.",
+    "price": "$18.49",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CRAB RAGOON CHEESESTIX",
+    "description": "Savory combination of cream cheese, mozzarella cheese and crab meat. Served with duck sauce",
+    "price": "$17.99",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "QUESADILLA",
+    "description": "Monterey jack, cheddar cheese, bacon, tomatoes and scallions served with your choice of braised short rib, chicken or pulled pork. Salsa and sour cream served on the side.",
+    "price": "$17.99",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "AHI TUNA*",
+    "description": "Seared tuna filet encrusted in everything seasoning, served cold with crispy leeks, pickled ginger, wonton strips, wasabi and ginger soy sauce.",
+    "price": "$18.49",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "LAMB LOLLIPOPS",
+    "description": "Three bone-in lamb chops over crispy polenta cakes topped with pomegranate yogurt glaze.",
+    "price": "$22.99",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "PULLED PORK LETTUCE CUPS",
+    "description": "Bib lettuce, slow cooked pulled pork, shredded carrots, purple cabbage, cashews and ginger soy sauce.",
+    "price": "$16.99",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "SALT & PEPPER CALAMARI",
+    "description": "Flash fried calamari, sauteed onions and sweet cherry peppers drizzled with a thai chili sauce.",
+    "price": "$16.99",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "WINGS",
+    "description": "Ten jumbo wings served with carrots, bleu cheese and tossed in your choice of sauce. Hot, medium, mild, barbeque, hot honey or garlic parmesan.",
+    "price": "$17.99",
+    "section": "APPETIZERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "FRENCH ONION",
+    "description": null,
+    "price": "$9",
+    "section": "SOUPS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "SOUP DU JOUR",
+    "description": null,
+    "price": "Cup $5 | Bowl $7",
+    "section": "SOUPS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "\"FLATS\" HOUSE CHOPPED",
+    "description": "Mixed greens, diced cucumbers, tomatoes, carrots, pickled red onions and craisins served with your choice of dressing.",
+    "price": "$11.99",
+    "section": "SALADS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CLASSIC CAESAR",
+    "description": "Romaine lettuce, parmesan cheese and freshly baked croutons tossed with our signature Caesar dressing.",
+    "price": "$11.99",
+    "section": "SALADS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "\"GROOMS ROAD\"",
+    "description": "Mixed greens, goat cheese, candied pecans, craisins and grilled chicken served with your choice of dressing.",
+    "price": "$17.99",
+    "section": "SALADS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "HOT HONEY CHICKEN",
+    "description": "Mixed greens, tomatoes, bleu cheese crumbles and hand-breaded chicken dipped in hot honey sauce. Served with homemade blue cheese dressing.",
+    "price": "$17.99",
+    "section": "SALADS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BLACK N' BLUE STEAK*",
+    "description": "Mixed greens, cajun grilled steak, tomatoes, bleu cheese crumbles, pickled red onions and balsamic glaze served with your choice of dressing.",
+    "price": "$18.99",
+    "section": "SALADS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "GRILLED SALMON SALAD",
+    "description": "Grilled salmon, mangos, avacado slices, tomatoes, pickled red onions and croutons served with southwest ranch.",
+    "price": "$23.99",
+    "section": "SALADS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BLACK AND BLUE*",
+    "description": "Cajun-seasoned burger, bleu cheese crumbles, applewood smoked bacon, vidalia onions, lettuce and tomato with garlic mayo.",
+    "price": "$18.99",
+    "section": "BURGERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BLACK BEAN",
+    "description": "House-made black bean burger, lettuce and tomato with chipotle mayo.",
+    "price": "$16.99",
+    "section": "BURGERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BACON AVOCADO CHICKEN",
+    "description": "Honey lime grilled chicken, lettuce, tomato, applewood smoked bacon, fresh avocado, garlic mayo and Monterey jack cheese.",
+    "price": "$18.99",
+    "section": "BURGERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "\"THE HANGOVER\"",
+    "description": "8 oz. steak burger topped with applewood smoked bacon, fried egg, lettuce, tomato, and onion rings with sweet chili sauce.",
+    "price": "$18.99",
+    "section": "BURGERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "\"THE REXFORD\"",
+    "description": "8 oz. steak burger, aged white cheddar cheese, Chardonnay garlic butter sauce, bib lettuce, roasted tomatoes with truffle aioli.",
+    "price": "$21.99",
+    "section": "BURGERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CLASSIC CHEESE*",
+    "description": "8 oz. steak burger, American cheese, lettuce, tomato and onion. Add-ons: Add Bacon for $1",
+    "price": "$16.99",
+    "section": "BURGERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BRAISED SHORT RIB FRENCH DIP",
+    "description": "Slow-roasted short rib topped with caramelized onions, banana peppers and shredded Swiss cheese on a toasted hoagie roll. Served with a side of au jus",
+    "price": "$19.49",
+    "section": "SANDWICHES\nAND WRAPS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CRISPY MAHI-MAHI",
+    "description": "Hand battered and fried Mahi-Mahi, lettuce, tomato and mango chutney on toasted ciabatta bread.",
+    "price": "$19.99",
+    "section": "SANDWICHES\nAND WRAPS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "RIBEYE PANINI",
+    "description": "12 oz. shaved ribeye steak, caramelized onions, NYS aged cheddar with a horseradish cream sauce on grilled panini bread.",
+    "price": "$19.99",
+    "section": "SANDWICHES\nAND WRAPS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "FLATS REUBEN",
+    "description": "Black pepper crusted pastrami, caramelized onion cheddar cheese, honey coleslaw and whole grain mustard on grilled sourdough rye.",
+    "price": "$19.49",
+    "section": "SANDWICHES\nAND WRAPS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "\"THE CRESCENT\" PANINI",
+    "description": "Oven roasted turkey, fresh mozzarella, tomato and basil pesto on grilled panini bread.",
+    "price": "$18.99",
+    "section": "SANDWICHES\nAND WRAPS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CHIPOTLE PULLED PORK",
+    "description": "Slow roasted pork shoulder, white cheddar cheese, fried banana peppers, honey chipotle sauce on a toasted ciabatta.",
+    "price": "$17.99",
+    "section": "SANDWICHES\nAND WRAPS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "\"THE LUNA\"",
+    "description": "Crispy chicken sandwich dipped in spicy honey garlic sauce topped with mango slaw and pickles on a toasted brioche roll.",
+    "price": "$19.49",
+    "section": "SANDWICHES\nAND WRAPS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "RATATOUILLE WRAP",
+    "description": "Eggplant, mushrooms, green and yellow squash, caramelized onions, roasted red peppers, lettuce, tomato and balsamic mayo served in an flour wrap.",
+    "price": "$17.99",
+    "section": "SANDWICHES\nAND WRAPS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CALIFORNIA CLUB WRAP",
+    "description": "Oven-roasted turkey, crispy bacon, Swiss cheese, avocado, lettuce, tomato and herbed mayo served in an flour wrap.",
+    "price": "$17.99",
+    "section": "SANDWICHES\nAND WRAPS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "TUSCAN CHICKEN WRAP",
+    "description": "Marinated grilled chicken breast, sweet red onions, fresh mozzarella, lettuce, roasted grape tomatoes and herb mayo in a flour wrap.",
+    "price": "$17.99",
+    "section": "SANDWICHES\nAND WRAPS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "SIRLOIN STEAK*",
+    "description": "10oz. grilled sirlion with five peppercorn butter, roasted cippolini onions, roasted potatoes and chef's vegetables.",
+    "price": "$33.99",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "RIBEYE STEAK*",
+    "description": "Hand-cut 14 oz. ribeye topped with garlic butter sauce. Served with roasted potatoes and chef's vegetable.",
+    "price": "$36.99",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "PORTERHOUSE PORK CHOP",
+    "description": "Fresh Porterhouse pork chop simmered in a New York state apple brandy demi glaze and topped with an apple chutney. Served with roasted potatoes and chef's vegetable.",
+    "price": "$28.99",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BOLOGNESE TAGLIATELLE",
+    "description": "Tagliatelle pasta, three meat blend, mirepoix, burgundy wine, tomato sauce.",
+    "price": "$25.99",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "SEAFOOD PASTA",
+    "description": "Shrimp, scallops, clams, jumbo lump crabmeat, olive oil, garlic and tomatoes tossed with linguini.",
+    "price": "$33.99",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "\"FLATS\" MAC N' CHEESE",
+    "description": "Cavatappi pasta baked in house-made béchamel cheese sauce. Add-ons: Add Buffalo Chicken 6 / Braised Short Rib 6",
+    "price": "$18.99",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "BLUE MOON FISH N' CHIPS",
+    "description": "Blue Moon hand-battered haddock served with our fresh cut fries, coleslaw, tartar and chili sauce.",
+    "price": "$22.99",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "SCOTTISH SALMON",
+    "description": "Baked 8oz. Scottish salmon fillet topped with fresh mango salsa. Served with orzo rice and chef's vegetable.",
+    "price": "$28.99",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "PAN ROASTED RED SNAPPER",
+    "description": "Red snapper, crabmeat, chives, lemon butter sauce, orzo rice and chefs vegetables.",
+    "price": "$31.99",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "\"LOUISIANA\" CHICKEN PASTA",
+    "description": "Fresh chicken sauteed with a spicy andouille sausage, tasso ham and tomatoes tossed in a creamy parmesan sauce over linguini.",
+    "price": "$26.99",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CHICKEN LIMONE",
+    "description": "Two fresh chicken breasts sauteed in a lemon garlic butter sauce served with orzo rice and chef's vegetables.",
+    "price": "$25.99",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CHICKEN STRIPS",
+    "description": "Hand-breaded chicken strips, coleslaw and fresh cut fries served with your choice of sauce.",
+    "price": "$18.99",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CHEF STEFAN'S\nAMAZING CARROT CAKE",
+    "description": null,
+    "price": "$9.49",
+    "section": "DESSERTS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "HOT FUDGE BROWNIE SUNDAE",
+    "description": null,
+    "price": "$9.49",
+    "section": "DESSERTS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "KEY LIME PIE",
+    "description": null,
+    "price": "$8.49",
+    "section": "DESSERTS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CRÈME BRÛLÉE",
+    "description": "Flavor changes weekly.",
+    "price": "$7.99",
+    "section": "DESSERTS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "FLOURLESS CHOCOLATE TORTE",
+    "description": null,
+    "price": "$8.99",
+    "section": "DESSERTS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Dinner",
+    "menu_name": "Dinner Menu"
+  },
+  {
+    "name": "CHICKEN N' WAFFLES",
+    "description": "Belgian waffles, fried buttermilk chicken, honey butter and maple syrup and served with home fries.",
+    "price": "$19.49",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "EGGS BENEDICT*",
+    "description": "English muffin, applewood smoked ham, poached eggs and hollandaise sauce served with home fries.",
+    "price": "$17.49",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "EGGS BENEDICT 675",
+    "description": "Benedict of the day served with home fries Ask you server for details.",
+    "price": "$19.49",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BREAKFAST QUESADILLA",
+    "description": "Scrambled eggs, bacon, sausage, tomatoes, scallions, Monterey jack and cheddar cheese served with home fries.",
+    "price": "$18.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BIRRIA SKILLET",
+    "description": "Cast iron skillet layered with slow roasted chuck roast, hash browns, pinto beans, fried eggs, cheddar jack cheese, diced tomatoes and tomatillo sauce and served with two flour tortillas.",
+    "price": "$19.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "SWEET POTATO BOWL*",
+    "description": "Sweet potato hash, chorizo sausage, poached eggs, avocado and chipotle hollandaise served with white toast.",
+    "price": "$18.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BREAKFAST TOSTADOS",
+    "description": "Two corn tostados, chorizo sausage, scrambled eggs, pinto beans, cheddar jack cheese, fresh pico de gallo, and sliced avocados served with home fries.",
+    "price": "$18.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BISCUITS & GRAVY",
+    "description": "Buttermilk biscuits with homemade sausage pepper gravy and 2 eggs any style and served with home fries.",
+    "price": "$17.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "TRIPLE CHOCOLATE WAFFLES",
+    "description": "Homemade Belgium chocolate waffles, sliced strawberries, hot fudge sauce, and whipped cream served with bacon or homemade sausage.",
+    "price": "$16.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "FRENCH TOAST BAKE",
+    "description": "Three pieces of cinnamon toast, cinnamon toast crunch coating, strawberries and whipped cream served with bacon or sausage.",
+    "price": "$17.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "CHOCOLATE CHIP PANCAKES",
+    "description": "Three pancakes topped with whipped cream and served with bacon or sausage.",
+    "price": "$15.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "DONUT FRENCH TOAST",
+    "description": "Three glazed donuts, raspberry filling, fresh raspberries, whipped cream and powdered sugar served with bacon or homemade sausage.",
+    "price": "$16.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "AVOCADO TOAST",
+    "description": "Multi-grain bread, two fried eggs, avocado mousse, roasted grape tomatoes and balsamic glaze served with home fries.",
+    "price": "$16.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "LOBSTER BREAKFAST TACOS",
+    "description": "Lobster, scrambled eggs, avocado and goat cheese served with home fries.",
+    "price": "$20.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "STEAK & EGGS*",
+    "description": "8 oz Strip steak, chimichurri sauce, roasted tomatoes and two eggs any style served with home fries.",
+    "price": "$22.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "THE VISCHER",
+    "description": "Fried chicken breast, andouille sausage, two fried eggs, cheddar and Monterey jack cheese in a biscuit topped with sausage gravy and served with home fries.",
+    "price": "$19.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BREAKFAST SANDWICH*",
+    "description": "Two eggs any style, American cheese, bacon or homemade sausage served on a brioche roll with home fries.",
+    "price": "$13.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BLACK BEAN BURGER",
+    "description": "Homemade black bean burger, chipotle aioli, red onions, lettuce and tomato on a brioche bun served with home fries.",
+    "price": "$16.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "HANGOVER BURGER*",
+    "description": "Steak burger, fried egg, applewood smoked bacon, onion ring, lettuce, tomato and sweet chili sauce served with home fries.",
+    "price": "$18.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "FRENCH ONION SOUP",
+    "description": "Caramelized onions, beef stock, croutons and gruyere cheese.",
+    "price": "$8.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "GROOMS ROAD SALAD",
+    "description": "Mixed greens, goat cheese, candied pecans, craisins and grilled chicken served with your choice of dressing.",
+    "price": "$17.49",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "CHICKEN STRIPS",
+    "description": "Hand-breaded chicken strips and home fries served with your choice of sauce.",
+    "price": "$16.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "TWO EGGS ANY STYLE*",
+    "description": null,
+    "price": "$5.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BACON OR HOMEMADE SAUSAGE",
+    "description": null,
+    "price": "$4.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "HOME FRIES",
+    "description": "Potatoes, peppers and onions.",
+    "price": "$4.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BISCUIT OR ENGLISH MUFFIN",
+    "description": null,
+    "price": "$2.49",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "TOAST",
+    "description": "White, multi-grain or rye.",
+    "price": "$2.49",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "PLAIN PANCAKE OR BELGIUM WAFFLE",
+    "description": null,
+    "price": "$5.99",
+    "section": "Brunch",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "UNLIMITED MIMOSAS",
+    "description": null,
+    "price": "$22",
+    "section": "Morning Libations",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "MIMOSA",
+    "description": "Champagne and orange juice.",
+    "price": "$9",
+    "section": "Morning Libations",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "CLASSIC BLOODY MARY",
+    "description": "Tito's vodka, house made mix, celery, lemon and lime. Add-ons: Add Chilled Shrimp $2 each",
+    "price": "$12",
+    "section": "Morning Libations",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "PROSECCO",
+    "description": null,
+    "price": "$11",
+    "section": "Morning Libations",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "PALOMA MIMOSA",
+    "description": "Jose Cuervo tequila, champagne, lime juice and pink grapefruit.",
+    "price": "$12",
+    "section": "Morning Libations",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BELLINI",
+    "description": "Champagne, peach schnapps and peach nectar.",
+    "price": "$11",
+    "section": "Morning Libations",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "PEAR COSMO",
+    "description": "Grey Goose pear vodka, Cointreau, cranberry juice and fresh lime juice.",
+    "price": "$14",
+    "section": "Morning Libations",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "BRUNCH SANGRIA",
+    "description": "Champagne, red wine, Chambord, cranberry and orange juice.",
+    "price": "$12",
+    "section": "Morning Libations",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "CHOCOLATE MARTINI",
+    "description": "Tito's vodka, chocolate liqueur, crème de cacao and half & half.",
+    "price": "$14",
+    "section": "Morning Libations",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "HOT BOOZY COFFEE",
+    "description": "Brandy, Grand Marnier, Kahlúa and coffee.",
+    "price": "$12",
+    "section": "Morning Libations",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "CHEF STEFAN'S AMAZING CARROT CAKE",
+    "description": null,
+    "price": "$9.49",
+    "section": "Sweet Endings",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "CRÈME BRÛLÉE",
+    "description": "Flavor changes weekly.",
+    "price": "$7.99",
+    "section": "Sweet Endings",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "CHOCOLATE TORTE",
+    "description": null,
+    "price": "$8.49",
+    "section": "Sweet Endings",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Brunch",
+    "menu_name": "Brunch Menu"
+  },
+  {
+    "name": "GROOMS ROAD",
+    "description": "Mixed greens, goat cheese, candied pecans, craisins and balsamic dressing",
+    "price": "$Half 35 / Full 70",
+    "section": "SALADS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "FLATS HOUSE CHOPPED",
+    "description": "Mixed greens, diced cucumber, tomato, carrots, pickled red onions and craisins served with balsamic vinaigrette dressing",
+    "price": "$Half 35 / Full 70",
+    "section": "SALADS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "CAESAR",
+    "description": "Romaine lettuce, parmesan/Romano cheese blend and croutons. Served with our creamy Caesar dressing on the side.",
+    "price": "$Half 25 / Full 50",
+    "section": "SALADS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "ADD GRILLED CHICKEN TO ANY SALAD",
+    "description": "",
+    "price": "$Half 20 / Full 40",
+    "section": "SALADS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "HUMMUS PLATTER",
+    "description": "Garlic and red pepper hummus, feta cheese, roasted red pepper strips, olive mix, cucumbers and toasted pita bread",
+    "price": "$Half 60 / Full 100",
+    "section": "PLATTERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "FRIED GREEN TOMATO PLATTER",
+    "description": "12 or 24 of our hand breaded fried green tomatoes each topped with pimento cheese, tomato jam and crumbled crispy bacon",
+    "price": "$Half 45 / Full 90",
+    "section": "PLATTERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "CRAB CAKES",
+    "description": "Pan seared jumbo lump crab cakes mixed with peppers, onions, cracker crumbs, served with remoulade sauce",
+    "price": "$10 - 70 / 12 - 120",
+    "section": "PLATTERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "QUESADILLA PLATTER",
+    "description": "2 of each of our chicken, steak and short rib quesadilla's all filled with cheese, bacon, tomatoes and scallions. Salsa and sour cream served in 8 ounce cups",
+    "price": "$6 - 60 / 12 - 120",
+    "section": "PLATTERS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "CHICKEN AND WAFFLES",
+    "description": "Savory jalapeno waffles, hand breaded buttermilk chicken with spicy honey butter",
+    "price": "$Half 80 / Full 150",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "CHICKEN LIMONE",
+    "description": "Pan sauteed chicken breast simmered with chicken stock, butter, oregano, and lemon juice served over rigatoni pasta",
+    "price": "$Half 80 / Full 155",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "OUR FAMOUS “LOUISIANA” CHICKEN PASTA",
+    "description": "Fresh diced chicken breast sauteed with spicy andouille sausage, tasso ham, and tomatoes tossed in a creamy parmesan sauce and rigatoni pasta",
+    "price": "$Half 90 / Full 170",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "VISHER FERRY CHICKEN",
+    "description": "Pan sauteed chicken breast simmered with smokey thick slab bacon, sweet onions, mushrooms, green peas in chicken jus cream sauce served over rigatoni pasta",
+    "price": "$Half 90 / Full 170",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "CHICKEN PARMESAN",
+    "description": "Herb crusted chicken breast, our house made marinara and topped with melted provolone cheese",
+    "price": "$Half 65 / Full 120",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "SAUSAGE AND PEPPERS",
+    "description": "Italian sausage roasted with sweet peppers and onions and pan drippings",
+    "price": "$Half 55 / Full 100",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "BAKED RIGATONI",
+    "description": "Rigatoni pasta topped with our house marinara, parmesan and romano cheese",
+    "price": "$Half 50 / Full 100",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "BAKED MAC N' CHEESE",
+    "description": "Cavatappi pasta baked in house made bechamel cheese sauce",
+    "price": "$Half 50 / Full 100",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "SHORT RIB PASTA",
+    "description": "Rigatoni pasta tossed with our 8 hour short rib, roasted carrots and sweet onions in natural pan gravy",
+    "price": "$Half 90 / Full 170",
+    "section": "ENTREES",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "CARROT CAKE",
+    "description": "",
+    "price": "$65",
+    "section": "DESSERTS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "PEANUT BUTTER PIE",
+    "description": "",
+    "price": "$65",
+    "section": "DESSERTS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  },
+  {
+    "name": "BROWNIE TRAY",
+    "description": "",
+    "price": "$60",
+    "section": "DESSERTS",
+    "restaurant_name": "The Flats Restaurant & Tavern",
+    "restaurant_url": "https://www.theflats675.com/",
+    "menu_type": "Catering",
+    "menu_name": "Catering Menu"
+  }
+]

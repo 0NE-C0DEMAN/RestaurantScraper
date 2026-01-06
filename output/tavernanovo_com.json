@@ -1,0 +1,1532 @@
+[
+  {
+    "name": "LOADED TATER TOTS",
+    "description": "Crispy tater tots topped with melted cheddar cheese, bacon bits, sour cream & green onions.",
+    "price": "$13",
+    "section": "Appetizers",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Fall and Winter Menu",
+    "menu_name": "Fall and Winter Menu"
+  },
+  {
+    "name": "HOUSE MADE SOUP OF THE DAY",
+    "description": "Daily selection of fresh soups",
+    "price": "Small $5 | Large $7",
+    "section": "Appetizers",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Fall and Winter Menu",
+    "menu_name": "Fall and Winter Menu"
+  },
+  {
+    "name": "CHICKEN CAESAR SALAD",
+    "description": "Crisp romaine lettuce tossed in caesar dressing with grilled chicken, croutons & parmesan cheese.",
+    "price": "$13",
+    "section": "Salads",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Fall and Winter Menu",
+    "menu_name": "Fall and Winter Menu"
+  },
+  {
+    "name": "FALL HARVEST SALAD",
+    "description": "Mixed greens tossed in cranberry vinaigrette with grilled chicken, sliced pears, goat cheese & candied pecans.",
+    "price": "$14",
+    "section": "Salads",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Fall and Winter Menu",
+    "menu_name": "Fall and Winter Menu"
+  },
+  {
+    "name": "SPICY BLACK BEAN BURGER",
+    "description": "House made black bean burger on a toasted bun with mixed greens, tomato & red onion. Served with a side of southwest ranch.",
+    "price": "$13",
+    "section": "Entrees",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Fall and Winter Menu",
+    "menu_name": "Fall and Winter Menu"
+  },
+  {
+    "name": "GRILLED CHEESE & SOUP",
+    "description": "Gooey grilled cheese sandwich made with cheddar cheese & served with a cup of our house made soup of the day.",
+    "price": "$12",
+    "section": "Entrees",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Fall and Winter Menu",
+    "menu_name": "Fall and Winter Menu"
+  },
+  {
+    "name": "CHICKEN BACON RANCH WRAP",
+    "description": "Grilled chicken, crispy bacon, cheddar cheese, lettuce, tomato & ranch dressing in a warm wrap.",
+    "price": "$13",
+    "section": "Entrees",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Fall and Winter Menu",
+    "menu_name": "Fall and Winter Menu"
+  },
+  {
+    "name": "COLD SANDWICH",
+    "description": "Choice of roasted turkey, roast beef, ham, chicken salad, or corned beef, comes with cheese. Add-ons: with lettuce, tomato, & onion | Small $7 Large $10 / with cheese | Small $6 Large $8",
+    "price": "6\" Sub or Bread $8 | 12\" Sub or Wrap $13",
+    "section": "Sandwiches",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Fall and Winter Menu",
+    "menu_name": "Fall and Winter Menu"
+  },
+  {
+    "name": "Fall and Winter Menu",
+    "description": "",
+    "price": null,
+    "section": "Menu",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Fall and Winter Menu",
+    "menu_name": "Fall and Winter Menu"
+  },
+  {
+    "name": "Cold Sandwich",
+    "description": "Choice of roasted turkey, roast beef, ham, chicken salad, or corned beef, comes with cheese. Add-ons: with cheese | Small $6 Large $8 / with lettuce, tomato, & onion | Small $7 Large $10",
+    "price": "6\" Sub or Bread $8 | 12\" Sub or Wrap $13",
+    "section": "Sandwiches",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Fall and Winter Menu",
+    "menu_name": "Fall and Winter Menu"
+  },
+  {
+    "name": "French 75",
+    "description": "Tanqueray gin, lemon juice, simple syrup, topped with La Marca prosecco",
+    "price": "$13",
+    "section": "Craft Cocktail Offerings",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "Dark 'n' Stormy",
+    "description": "Gosling's Black Seal rum & ginger beer, served with a lime wedge",
+    "price": "$12",
+    "section": "Craft Cocktail Offerings",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "Manhattan",
+    "description": "Bulleit Rye whiskey, Martini & Rossi sweet vermouth, Angostura bitters, served with a Luxardo cherry",
+    "price": "$14",
+    "section": "Craft Cocktail Offerings",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "Paloma",
+    "description": "Casamigos Blanco tequila, grapefruit soda, lime juice",
+    "price": "$13",
+    "section": "Craft Cocktail Offerings",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "Espresso Martini",
+    "description": "Absolut vodka, Kahlua, fresh espresso",
+    "price": "$14",
+    "section": "Craft Cocktail Offerings",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "Aperol Spritz",
+    "description": "Aperol, La Marca prosecco, soda water, served with an orange slice",
+    "price": "$12",
+    "section": "Craft Cocktail Offerings",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "WİNTER OF OUR DİSCONTENT",
+    "description": "TOMMYROTTER BOURBON, APEROL, AMARO NONINO, LEMON",
+    "price": "$15",
+    "section": "Winter Cocktail Features",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "FERNET ABOUT IT",
+    "description": "SAZERAC RYE, FERNET BRANCA, GİNGER ALE, SPICED CHERRY BİTTERS",
+    "price": "$15",
+    "section": "Winter Cocktail Features",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "LA VIE EN BLANCHE",
+    "description": "GREY GOOSE, WHİTE CRANBERRY, FRESH LIME, ORANGE LIQUEUR, ST. GERMAİN",
+    "price": "$15",
+    "section": "Winter Cocktail Features",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "THIS IS JUST TO SAY...",
+    "description": "GREY GOOSE, UME PLUM LIQUEUR, LEMON, ORANGE LIQUEUR, CHERRY",
+    "price": "$15",
+    "section": "Winter Cocktail Features",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "THYME WAITS FOR SNOWMAN",
+    "description": "BARR HİLL GİN, LEMON WASH, THYME LİQUEUR, HONEY",
+    "price": "$15",
+    "section": "Winter Cocktail Features",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "STOPPING BY WOODS",
+    "description": "PİNHOOK BOURBON, NOCINO WALNUT LIQUEUR, SWEET VERMOUTH, SPICED CRANBERRY BİTTERS",
+    "price": "$15",
+    "section": "Winter Cocktail Features",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "WİNTER AND SMOKE",
+    "description": "KNOB CREEK SMOKED MAPLE BOURBON, ANGOSTURA BİTTERS, AMARENA CHERRY, ORANGE",
+    "price": "$15",
+    "section": "Winter Cocktail Features",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "THE WINTER PEAR",
+    "description": "818 REPOSADO, FRESH LIME, SPICED PEAR LİQUEUR, PEAR NECTAR",
+    "price": "$15",
+    "section": "Winter Cocktail Features",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "SPRITZ AND SPARKLE",
+    "description": "HEMINGWAY: THE ORİGİNAL BELLİNİ\nPEACH MELBA: PROSCCO, WHITE PEACH NECTAR, FRAMBOISE\nTAVERNA TONİC: CAMPARİ, GRAPEFRUIT, BLOOD ORANGE LİQUEUR, PROSECCO\nORİGİNAL SPRİTZ: APEROL, PROSECCO, CLUB, ORANGE",
+    "price": "$14",
+    "section": "Winter Cocktail Features",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "TIRAMISU ME",
+    "description": "VANILLA VODKA, ESPRESSO LİQUEUR, TİRAMİSU LİQUEUR, MELETTİ CHOCOLATE, FRESHLY BREWED ESPRESSO",
+    "price": "$15",
+    "section": "ESPRESSİONS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "SHOT IN THE DARK",
+    "description": "TITO'S, ESPRESSO LIQUEUR, FRESHLY BREWED ESPRESSO",
+    "price": "$15",
+    "section": "ESPRESSİONS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "CRÈME BRULÉE",
+    "description": "VANILLA VODKA, CRÈME BRULÉE LİQUEUR, FRESHLY BREWED ESPRESSO",
+    "price": "$15",
+    "section": "ESPRESSİONS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "BUZZKİLL",
+    "description": "FRESHLY BREWED ESPRESSO, N/A COFFEE LIQUEUR, CREAM",
+    "price": "$13",
+    "section": "FAUXTAİLS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "WHISKEY A NO-GO",
+    "description": "RITUAL ZERO PROOF WHISKEY, ANGOSTURA ORANGE BİTTERS, ORANGE, SİMPLE SYRUP",
+    "price": "$13",
+    "section": "FAUXTAİLS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "WHAT DOESN'T TEQUILA YOU",
+    "description": "RITUAL ZERO PROOF TEQUILA, FRESH LIME, FEVER TREE SPARKLING BLOOD ORANGE",
+    "price": "$13",
+    "section": "FAUXTAİLS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "RESOLUTION SOLUTION",
+    "description": "N/A SPARKLING WHİTE TEA, PEAR NECTAR, CRANBERRY",
+    "price": "$13",
+    "section": "FAUXTAİLS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "FAUXGRONİ",
+    "description": "ST. AGRESTIS ORIGINAL PHONY WHITE NEGRONI",
+    "price": "$13",
+    "section": "FAUXTAİLS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "SKINNY SPRITZ",
+    "description": "AN N/A VERSION OF THE APEROL SPRITZ!",
+    "price": "$13",
+    "section": "FAUXTAİLS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Cocktails",
+    "menu_name": "Craft Cocktail Offerings"
+  },
+  {
+    "name": "ZARDETTO, Prosecco Brut Private Cuvée, Veneto, NV (91JS)",
+    "description": null,
+    "price": "$14",
+    "section": "WINES BY THE GLASS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ST. SUPERY, Sauvignon Blanc, California, Napa Valley, 2023 (93WE/91WS)",
+    "description": null,
+    "price": "$14",
+    "section": "WINES BY THE GLASS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "CAPOSALDO, Pinot Grigio, Italy, Veneto, 2023",
+    "description": null,
+    "price": "$14",
+    "section": "WINES BY THE GLASS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "GRAN PASSIONE, Red Blend, Italy, Veneto, 2022",
+    "description": null,
+    "price": "$14",
+    "section": "WINES BY THE GLASS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "PAOLO SARACCO, Moscato d'Asti, Italy, Piedmont, 2024",
+    "description": "orange blossoms, ruby grapefruit, vanilla, hints of wild herbs..layers of fruit in harmony with juicy acidity and a hint of spice..this is the bottle i pour for my wine students! (94WE)",
+    "price": "$14/48",
+    "section": "WINES BY THE GLASS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "SELLA & MOSCA, Vermentino di Gallura, \"MONTEORO\", Italy, Sardinia, 2023",
+    "description": "fresh as a daisy and crisp as an ocean breeze on a summer's day....notes of bright citrus, white pepper and a salinity that speaks of its homeland sardinia, surrounded by the sea...a benchmark for the category...you will find it a delicious starter sipper or to pair with lighter fare and seafood.",
+    "price": "$15/50",
+    "section": "WINES BY THE GLASS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ABBAZIA DI NOVACELLA, Grüner Veltliner, Italy, Alto Adige, 2023",
+    "description": "a rare gru-v from the alpine climes of northern italy...makes sense, really, as it is usually grown in austria and the alto adige region shares many climatic similarities...gruner veltliner finds itself very much at home with fall flavors...it is smooth and savory with typical notes of stone fruit, white pepper and nutmeg...it's GRU-V, baby...GRU-V. (93WA/90JS)",
+    "price": "$15/50",
+    "section": "WINES BY THE GLASS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "SONOMA-CUTRER, Chardonnay, Russian River Ranches, California, Sonoma, 2023",
+    "description": "great balance between zesty and creamy...a ripe and buttery palate but with ample salinity and bright tropical and citrus fruits to hold everything in perfect harmony...a zingy beam of lemon curd on the finish. (91JS)",
+    "price": "$15/50",
+    "section": "WINES BY THE GLASS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "POSTMARK BY DUCKHORN, Cabernet Sauvignon, California, Paso Robles, 2022",
+    "description": "paso robles cabs have legions of fans...this example is proof positive of the allure of paso...rich and generous with a palate full of boysenberry, plum and black raspberry jam...a touch of vanilla scented spice on the finish adds to the appeal of this voluptuous vamp. (93JS)",
+    "price": "$15/50",
+    "section": "WINES BY THE GLASS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "BLUE ROCK VINEYARDS, Baby Blue Red, California, Sonoma, 2021",
+    "description": "i am often asked what we sip at home...you know, just on a let's grill some burgers kind of evening...this is often the answer to that question...primarily cabernet sauvignon but pays homage to bordeaux incorporating all 5 classic bordeaux varietals in the blend...it just checks all the boxes and we hope you love it as much as we do. (92WE/90JS)",
+    "price": "$19/70",
+    "section": "WINES BY THE GLASS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ARGIANO, Rosso Toscana \"Non Confunditur\", Italy, Toscana, 2023",
+    "description": "latin for unique and unmistakable, this \"superbaby\" offers delicious currant and red fruits; approachable, fresh and lively..sangiovese, cabernet sauvignon and merlot..absolutely fabulous..surprisingly hard to get your hands on and a stunning value. (92JS)",
+    "price": "$15/50",
+    "section": "WINES BY THE GLASS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "AZELIA, Langhe Nebbiolo, Italy, Piedmont, 2022",
+    "description": "literally baby barolo, as the grapes come from azelia's barolo vineyards...this nebbiolo displays such purity and brightness on the nose and palate..wild roses, so typical of the varietal, are there in spades and the finish is luminous..zesty acidity and fully ripe tannins on display. (91DC)",
+    "price": "$17/60",
+    "section": "WINES BY THE GLASS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "CASTELLO DI VERRAZZANO, Chianti Classico, Italy, Tuscany, 2021",
+    "description": "certified organic and sustainable..one of the founding members of the consorzio del chianti classico, castello di verrazzano has produced wine for centuries..rich in flavors of blackberry and amarena cherry..incredible balance and structure..this is an outstanding wine. (92VM/91WA)",
+    "price": "$16/55",
+    "section": "WINES BY THE GLASS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "LUCE DELLE VITE, \"Lucente\", Super Tuscan, Italy, Tuscany, 2021",
+    "description": "this baby super tuscan has always been a favorite..bright cherry fruits with notes of smoke and dark red fruits..marvelous acidity makes this an exceptional food wine..nobody puts THIS baby in the corner. (94JS/9OWA)",
+    "price": "$18/65",
+    "section": "WINES BY THE GLASS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "CIPRIANI, Prosecco DOC, Brut, Italy, Veneto, NV",
+    "description": "from THE birthplace of prosecco and the original bellini at harry's bar in venice comes this super sippable sparkler...fine effervescence and perlage...dry with hints of citrus zest and almond skin...quite sippable on its own and positively perfect with calamari fritti.",
+    "price": "$15/50",
+    "section": "THE BUBBLES",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "BISOL, Desiderio Relio Rive di Guia Brut Valdobbiadene Prosecco Superiore, Italy, Veneto, 2023",
+    "description": "estate grown, single vineyard prosecco from on of the most famous producers of the wine...an elegant mousse..notes of crisp, granny smith apples and citrus..fresh, light and lively on the palate..a delightful sip with a lime zest tinged finish. (90WS)",
+    "price": "$85",
+    "section": "THE BUBBLES",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "FERRARI, Brut Rosé, Italy, Trentino-Alto Adige DOC, NV",
+    "description": "salmon pink in the glass with aromas of wild strawberries, hints of almond skin and ginger spice...well balanced, fresh and FUN. (92JS/90WA/90WS/90WE)",
+    "price": "$14/glass 32/half bottle/65 full bottle",
+    "section": "THE BUBBLES",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "CA' DEL BOSCO, Franciacorta, \"Cuvée Prestige\" Italy, Lombardia, NV",
+    "description": "this is OMG good...crafted from certified organic pinot noir, chardonnay and pinot bianco grapes...an intense golden hue with a nose filled with ripe peach and vanilla laced fbiscuits...ca' del bosco is one of the foremost producers of franciacorta, italian for \"champagne\". (92WS)",
+    "price": "$100",
+    "section": "THE BUBBLES",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "LINI 910 Labrusca Rosso, Italy, Emilia-Romagna, N/V",
+    "description": "emilia-romagna is the gastronomic capital of italy, where you will find some of the most iconic foods of italy..prosciutto di parma, to name one...as such, this slightly dry lambrusco finds itself most at home with cured meats and is a delightful pizza partner.",
+    "price": "$12/45",
+    "section": "THE BUBBLES",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "PLANETA, Rosé di Sicilia, Italy, Sicily, 2024",
+    "description": "a delicate pink hue with aromas of hibiscus and rose petal..it is fresh and lively on the palate and has an unmistakable peachiness on the finish..crafted from sicily's signature nero d'avola and syrah, it pairs beautifully with slightly spicy calamari.",
+    "price": "$45",
+    "section": "THE PINKS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "MIRABEAU, \"PURE\", France, Provence, 2024",
+    "description": "when we find ourselves daydreaming of warm summer evenings and our toes in the sand, this is the wine that we sip...a pale peach hue with aromatics of white raspberry and cherry blossoms, finishing dry and delish. (92WE)",
+    "price": "$50",
+    "section": "THE PINKS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "LA SPINETTA TOSCANA, II Rosé di Casanova, Italy, Tuscany, 2024",
+    "description": "like a tuscan sunset, this perennial porch pounder is easy to adore..sangiovese based with notes of white cherries and blood orange notes..a streak of salinity keeps it fresh and fun.",
+    "price": "$45",
+    "section": "THE PINKS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "SELLA & MOSCA, Vermentino di Gallura, \"MONTEORO\", Italy, Sardinia, 2022",
+    "description": "Fresh as a daisy and crisp as an ocean breeze on a summer's day...notes of bright citrus, white pepper and a salinity that speaks of its homeland sardinia, surrounded by the sea...a benchmark for the category...you will find it a delicious starter sipper or to pair with lighter fare and seafood.",
+    "price": "$15/50",
+    "section": "THE WHITES",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ABBAZIA DI NOVACELLA, Grüner Veltliner, Italy, Alto Adige, 2023",
+    "description": "A rare gru-v from the alpine climes of northern italy...makes sense, really, as it is usually grown in austria and the alto adige region shares many climatic similarities...gruner veltliner finds itself very much at home with fall flavors...it is smooth and savory with typical notes of stone fruit, white pepper and nutmeg...it's GRU-V, baby...GRU-V. (93WA/90JS)",
+    "price": "$15/50",
+    "section": "THE WHITES",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "AVIGNONESI, Toscana Bianco \"Da Di\" IGT, Italy, Tuscany, 2023",
+    "description": "An homage to a few of the indigenous white varietals from tuscany...orpicchio, grechetto, trebbiano and vermentino join forces in this delicious golden hued white with notes of white peach, granny smith apple and citrus...a marked freshness on the palate and the finish. (94JS)",
+    "price": "$60",
+    "section": "THE WHITES",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "PLANETA, Etna Bianco, Italy, Sicily, 2023",
+    "description": "When you live this close to mt. etna, you NEED the perfect white to cool you off and here it is... dry and mineral-driven with notes of green apple, a touch of smoke and spice...it is the vinous example of how just a little drizzle of citrus can brighten up any dish (92WE)",
+    "price": "$75",
+    "section": "THE WHITES",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ELENA WALCH, Castel Ringberg Pinot Grigio, Italy, Alto Adige, 2023",
+    "description": "Most pinot grigios are for drinking, not thinking...this is a more serious version...a nose full of minerals, wet stones, grilled herbs and citrus zest...medium bodied with a long, mineral tinged close...outstanding. (94JS/91WS)",
+    "price": "$65",
+    "section": "THE WHITES",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "CANTINA DEL TABURNO, \"ERA\" Greco del Beneventano, Italy, Campania, 2022",
+    "description": "Campania boasts some truly amazing examples of dry and minerally whites..this is one example...pure and focused with white peach, notes of lilacs in springtime and a bracing mineral quality that make it not only a refreshing quaff in its own right but also remarkable with seafood.",
+    "price": "$50",
+    "section": "THE WHITES",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ALTURIS, Friuli Colli Orientali Friulano, Italy, Friuli, 2024",
+    "description": "Friulano is one of my absolute favorite white grapes from italy...it is a grape that expresses its terroir in spades...notes of anjou pear and honey roasted almonds...it has a great minerality and pairs well with many of our food offerings.",
+    "price": "$50",
+    "section": "THE WHITES",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ALOIS LAGEDER, Vigneti delle Dolomiti Pinot Bianco \"Versalto\", Italy, Alto Adige, 2022",
+    "description": "Crisp aromas and flavors of ripe orchard fruits...crisp, minerally and refreshing, ending with a tingly acidity and a clean, light body...delish (92WA/91JS)",
+    "price": "$70",
+    "section": "THE WHITES",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "VIETTI, Roero Arneis, Italy, Piedmont, 2024",
+    "description": "One of my pets, arneis translates to \"little rascal\" in piemontese dialect..pale, straw yellow with notes of freshly cut flowers, lemon zest and hand melon...unoaked, dry and pretty as a picture..an excellent aperitif wine and pairs quite beautifully with vegetarian options, shrimp and burrata.",
+    "price": "$65",
+    "section": "THE WHITES",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "DR. KONSTANTIN FRANK, Riesling Semi Dry, New York, Finger Lakes, 2023",
+    "description": "orange pith and lemon notes on the palate with a little touch of white raspberry and orange blossom...great acidity in this classic example of finger lakes riesling...dr. frank is a legend in the new york state wine industry.",
+    "price": "$14/48",
+    "section": "RIESLING",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "DAOU, Sauvignon Blanc, California, Paso Robles, 2023",
+    "description": "snappy and sunny...zippy and zesty, this bottle checks all the boxes for sauvie lovers...fresh lime zest, wet stone, grapefruit pith and notes of passionfruit...positively lip smacking. (92WE)",
+    "price": "$50",
+    "section": "SAUVIGNON BLANC & CHENIN BLANC",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ROMBAUER, Sauvignon Blanc, California, Napa and Sonoma, 2023",
+    "description": "absolutely fresh as a daisy..honeydew melon and passionfruit aromas abound as well...this is a wine at home with any shellfish, mollusk or freshwater fish preparation..this is the wine to sip with clams alla bianco, trust me. (92WS)",
+    "price": "$60",
+    "section": "SAUVIGNON BLANC & CHENIN BLANC",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "PAHLMEYER \"JAYSON\", Sauvignon Blanc, California, Napa Valley, 2023",
+    "description": "tropical and stone fruits dance the tangy tango together...a refreshing squeeze of lemon zest and a dash of salinity makes this sauvie our new go-to summer white. (92WE)",
+    "price": "$80",
+    "section": "SAUVIGNON BLANC & CHENIN BLANC",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "DUMOL, Chenin Blanc, California, Sonoma Coast, 2023",
+    "description": "i am an unabashed chenin blanc fanatic and you would be hard pressed to find one as spectacular as this one outside of the loire valley...aromas of asian pear, acacia honey and mineral, followed by a bright nectarine palate and a zesty grapefruit tinged finish...VERY little of this bottle is produced but i managed to nab a few..you are WELCOME...IT'S A UNICORN WINE.",
+    "price": "$120",
+    "section": "SAUVIGNON BLANC & CHENIN BLANC",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ELK COVE, Pinot Gris, Oregon, Willamette Valley 2023",
+    "description": "plump mouthfeel with orchard fruits, tangerine, asian pear and subtle notes of ginger on the palate...closes with peach and spice...how very delicious oregon pinot gris can be. (92WE/91WS)",
+    "price": "$50",
+    "section": "PINOT GRIS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "SONOMA-CUTRER, Chardonnay, Russian River Ranches, California, Sonoma, 2023",
+    "description": "great balance between zesty and creamy....a ripe and buttery palate but with ample salinity and bright tropical and citrus fruits to hold everything in perfect harmony...a zingy beam of lemon curd on the finish.",
+    "price": "$15/50",
+    "section": "CHARDONNAY",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "CROSSBARN BY PAUL HOBBS, Chardonnay, California, Sonoma Coast, 2023",
+    "description": "a clean and refined cali chard with lifted aromas of freshly picked honey crisp apples, bosc pear and a hint of lemon zest...it is bright and silky on the palate with an elegant and ripe finish. (93JS/92WS)",
+    "price": "$65",
+    "section": "CHARDONNAY",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ROMBAUER, Chardonnay, California, Carneros, 2023",
+    "description": "this chard has loads of pet nicknames but my favorite one is...cougar juice...indeed, i ordered a glass of this once in kentucky and heard the bartender yell, \"glass of cougar juice for table 1\" and it still cracks me up...all joking aside, this is a rich and ripe style of chard, offering notes of ripe peach, apple and baking spice...ample and plush mouthfeel and a long finish (92WE)",
+    "price": "$75",
+    "section": "CHARDONNAY",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "RAMEY, Chardonnay, California, Russian River Valley, 2022",
+    "description": "a rich and nuanced chard..opens with notes of apple and peach cobbler, david ramey is a chardonnay savant...cream and lemon curd..vibrant and balanced, ends with a flourish of vanilla, baking spices and cream. (95WE/94WS #10 on WS TOP 100 WINES)",
+    "price": "$100",
+    "section": "CHARDONNAY",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "DUMOL, Chardonnay, \"Wester Reach\", Sonoma, Russian River Valley 2022",
+    "description": "one of the most powerful chardonnays you will ever have the sheer pleasure of sipping..full of peach blossom, toasted nuts, marzipan, nectarines...medium in body with explosive length on the finish..a superstar chard..and one that will pair beautifully with seafood. (95WE/95JD/94JS)",
+    "price": "$130",
+    "section": "CHARDONNAY",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "HARTFORD COURT, Chardonnay, \"Four Hearts Vineyard\", California, Russian River, 2021",
+    "description": "classic russian river valley chardonnay..ripe pear, just slightly underripe peach skin, sugared grapefruit, notes of ginger spice and a whiff of honey..vibrant and juicy fruit on the finish..absolutely outstanding..love it. (94WA/93WE/94JD)",
+    "price": "$100",
+    "section": "CHARDONNAY",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "FLOWERS, Chardonnay, California, Sonoma Coast, 2023",
+    "description": "if you ever want to buy me a bouquet of flowers? make it the liquid kind! i am a BIG flowers fan and this bottle is beautiful..it's a stunningly pure and vibrant chardonnay that is kissed by the sea air and smacks of coastal citrus and granny smith apple..medium body with a texture like buttercream..flipping fabulous. (96JD/94JS/93WS/92VM/TOP 100 WINE SPECTATOR)",
+    "price": "$125",
+    "section": "CHARDONNAY",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "STAGLIN FAMILY VINEYARDS, Chardonnay, \"SALUS\", California, Napa Valley, 2022",
+    "description": "complex, elegant and refined which can be rather rare for a warm climate chardonnay...if you've ever smelled honeysuckle, you will certainly note that aroma right out of the gate...a brightness on the palate continues to intrigue with notes of lemon verbena, grilled peach and a hint of baked brioche...a long finish with a lovely texture and gentle kick of acidity.",
+    "price": "$165",
+    "section": "CHARDONNAY",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "SHAFER Vineyards, Chardonnay, Red Shoulder Ranch, California, Napa Valley, 2022",
+    "description": "aromas of baked apple, hand melon and ripe pear..long and luscious finish, with notes of creme brûlée and pear compote..this bottle is like a ballerina, combining power and grace and beauty..a stunning chardonnay and long counted a favorite. (97WE/96JS/94WA)",
+    "price": "$140",
+    "section": "CHARDONNAY",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "CASTELLO DI BOSSI, Chianti Classico Riserva, \"BERARDO\", Italy, Tuscany, 2020/2021",
+    "description": "CERTIFIED ORGANIC and an absolutely sublime riserva chianti...it is super sleek and expressive with notes of marasca cherry, blood orange, baking spice and hint of toasty vanilla...SUPERB! (97JS/92WA/90VM)",
+    "price": "$85",
+    "section": "SANGIOVESE",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "CASTELLO DI VERRAZZANO, Chianti Classico, Italy, Tuscany, 2021",
+    "description": "certified organic and sustainable, castello di verrazzano has produced wine dating back to the etruscans..rich in flavors of blackberry and amarena cherry. (91JS/90WA)",
+    "price": "$16/55",
+    "section": "SANGIOVESE",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "CASTELLARE DI CASTELLINA, Chianti Classico, Toscana, 2023",
+    "description": "purity of fruit and freshness on the palate...a laser beam of fresh sour cherry and forest fruit..a finish that lasts for minutes..a knockout in terms of quality for the price point (92VM/91JS)",
+    "price": "$35/half bottle",
+    "section": "SANGIOVESE",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "TENUTA DI ARCENO, Chianti Classico Riserva, Italy, Tuscany, 2019",
+    "description": "a rich and velvety texture with very expressive aromas of cedar, smoke and eucalyptus...flavors of bright red strawberry fruits and chocolate covered cherries...a long finish offering herbal notes and flamed orange zest...a beauty. (93WA/93JS/93JD/91WS)",
+    "price": "$90",
+    "section": "SANGIOVESE",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "LISINI, Brunello di Montalcino, Italy, Tuscany, 2020",
+    "description": "an absolutely gorgeous brunello from the 2020 vintage...aromas and flavors of crushed stone, morello cherries and a whiff of perfumed violets...medium to full bodied with a seemingly endless finish...100% IN LOVE. (95DC/94WS/93+VM)",
+    "price": "$140",
+    "section": "SANGIOVESE",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "SIRO PACENTI, Brunello di Montalcino, Pelagrilli, Italy, Tuscany, 2020",
+    "description": "a very concentrated expression of the sangiovese grape...aromas and flavors of poached and baked dark fruits with notes of grilled mediterranean herbs, a cavalcade of spices and a kiss of sweet smoke...full bodied, yet soft and luscious on the palate...outstanding. (96JS/94WA/94VM)",
+    "price": "$145",
+    "section": "SANGIOVESE",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ALTESINO, Brunello di Montalcino, Italy, Tuscany, 2020",
+    "description": "an absolute ROCK STAR brunello...a stunning bouquet, offering notes of strawberry, spice and rose potpourri...like a waltz, it is polished, smooth and refined...a long, long finish with a silk robe of tannins. (95WA/95JD/95JS/92VM)",
+    "price": "$130",
+    "section": "SANGIOVESE",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "SAN GIORGIO, Brunello di Montalcino \"Ugolforte\", Italy, Tuscany, 2020",
+    "description": "certified organic...full-bodied yet retains a freshness with a slightly citrusy component which dances with the spicy cinnamon stick and ripe cherry elements...fully ripe tannins on display with a generous mouthfeel and long, spice focused finish. (94JS/93WA/93VM)",
+    "price": "$125",
+    "section": "SANGIOVESE",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "CAPARZO, Brunello di Montalcino, \"Vigna La Casa\", Italy, Tuscany, 2018",
+    "description": "loads of sweet blue and black fruits with notes of savory spice and a bit of graphite...black cherries and crushed stones...full bodied with very ripe and tannins like a linebacker, finishing with a black cherry flourish kissed by cocoa nib. (96JS/95WS/94VM/93WA)",
+    "price": "$140",
+    "section": "SANGIOVESE",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "COL D'ORCIA, Brunello di Montalcino, Nastagio Riserva, Italy, Tuscany, 2018",
+    "description": "exquisite and luxurious...acidity that is as bright as the north star with a cavalcade of aromas of ripe, dark black raspberry fruit. citrus, spice and mediterranean herbs...the finish lasts for minutes with flavors of figs, macerated strawberries and dark chocolate...GORGEOUS. (96JD/94WE/93JS/92VM)",
+    "price": "$135",
+    "section": "SANGIOVESE",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "PIAGGIA, Carmignano, \"II Sasso\", Italy, Tuscany, 2022",
+    "description": "a blend of 70% sangiovese, along with cabernet sauvignon, as is typical of the region.....a super tuscan wine of extreme affordability...quite complex on the nose with aromas reminiscent of a walk in the woods on an autumn evening...notes of currants and blackberries beguile... (94VM)",
+    "price": "$70",
+    "section": "SUPER TUSCANS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "TENUTA SETTE CIELE, Toscana \"YANTRA\", Italy, Tuscany, 2022",
+    "description": "an aromatic blend of cabernet sauvignon and merlot...black cherries and grilled mediterranean herbs...medium to full bodied on the palate with a pleasantly fruit filled finish. (91JS)",
+    "price": "$75",
+    "section": "SUPER TUSCANS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "AVIGNONESI, Toscana IGT Merlot, \"Desiderio\", Italy, Tuscany, 2020",
+    "description": "my favorite merlot from italy...smooth and ripe with explosive aromatics of cherry, plum and black tea...organic, sustainable and biodynamic...finishes with silky tannins and noted of spice...an incredibly well structured tuscan merlot. (92VM)",
+    "price": "$100",
+    "section": "SUPER TUSCANS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "AIA VECCHIA, Bolgheri Rosso Superiore, \"Sor Ugo\", Italy, Tuscany, 2020",
+    "description": "a blend of cabernet sauvignon, merlot, cabernet franc and petit verdot, this is a beautiful baby super tuscan from the bolgheri region.. succulent and rich, with black cherry, baking spice and a touch of mint..finishes with verve and richness..it's just beautiful. (94VM)",
+    "price": "$85",
+    "section": "SUPER TUSCANS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "LUIANO, Colorino, \"LUI\", Italy, Tuscany, 2022",
+    "description": "a cavalcade of aromas including fresh cherry, rose blossom, espresso and a hint of white pepper...full-bodied and complex, finishing with a savory edge complemented by notes of bitter chocolate...a blend of cabernet sauvignon, colorino and merlot. (94WE)",
+    "price": "$90",
+    "section": "SUPER TUSCANS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ANTINORI, GUADO AL TASSO CONT'UGO, Toscana IGT, Italy, Tuscany, 2022",
+    "description": "antinori is a centuries old family whose name is synonymous with the best of tuscany...this bottle is crafted entirely from merlot and features gobs of fruit and spice on the nose and palate...blackberries, amarena cherries, a kiss of oak...excellent weight and a long finish. (94WS)",
+    "price": "$130",
+    "section": "SUPER TUSCANS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "MARCHESI ANTINORI, \"Tignanello\" IGT, Super Tuscan, 2021",
+    "description": "this wine was one to put the super tuscan category on the worldwide vinous map..sangiovese with cabernet sauvignon and cabernet franc..ripe red fruits and licorice..cassis from the cabernet contribution..smooth and endlessly fascinating...we love our TIG around here and this vintage is one of the best ever. (98WA/98VM/97WS #3 WS TOP 100)",
+    "price": "$270",
+    "section": "SUPER TUSCANS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "TENUTA DELL'ORNELLAIA, \"Le Serre Nuove\", Super Tuscan, 2022",
+    "description": "this bottle is always such a joy to sip and this vintage is no exception..very plush with blackberry pie, black cherry and roasted plums..this is a luscious and slightly more modern interpretation, and it's a stunner..merlot, cabernet sauvignon, cabernet franc and petit verdot. (95JS/95WE/94WA/93WS)",
+    "price": "$150",
+    "section": "SUPER TUSCANS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "TENUTA SAN GUIDO, SASSICAIA, Super Tuscan, Italy, Tuscany, 2020",
+    "description": "the O.G. of the super tuscan category...predominantly cabernet sauvignon with the balance cabernet franc, this is a classic sassicaia...very perfumed on the nose with deep, dark black fruits, notes of grilled mediterranean herbs, pine and blackberry preserves...it is a dazzling bottle. (97JS/97WS/97DC/97VM/96WA)",
+    "price": "$500",
+    "section": "SUPER TUSCANS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "PODERE ALDO CONTERNO, “QUARTETTO” Nebbiolo Blend, Italy, Piedmont, 2021",
+    "description": "a very unique wine, as piedmont tends to lean toward singular varietals...this one is a blend of nebbiolo, pinot noir, merlot and syrah and is absolutely wonderful...i applaud this venerable winemaker for creating this completely unique yet thoroughly piemontese offering. (92WS)",
+    "price": "$90",
+    "section": "NEBBIOLO",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "AZELIA, Langhe Nebbiolo, Italy, Piedmont, 2022",
+    "description": "literally baby barolo, as the grapes come from azelia's barolo vineyards...this nebbiolo displays such purity and brightness on the nose and palate..wild roses, so typical of the varietal, are there in spades and the finish is luminous..zesty acidity and fully ripe tannins on display. (91DC)",
+    "price": "$60",
+    "section": "NEBBIOLO",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "G.D. VAJRA, Barolo, \"Albe\", Italy, Piedmont, 2020",
+    "description": "enticingly floral and extremely fragrant..notes of rose petals, indicative of the varietal, pure and extremely elegant with wild strawberry and herbal notes of eucalyptus and mint..incredibly balanced, sleek and sexy..built for bolo and beef. (#9 TOP 100 94WS/94WE/94WA/93JS)",
+    "price": "$75",
+    "section": "NEBBIOLO",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "FONTANAFREDDA, Barolo del Commune di Serralunga d'Alba, Italy, Piedmont, 2019",
+    "description": "barolos from this region are characterized by great structure and power...rose scented cherry and licorice whip on the nose with fairly stiff tannins and a finish of spice, tar and black cherry. (93WS/91WE/91JS)",
+    "price": "$120",
+    "section": "NEBBIOLO",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ELVIO COGNO, Barbaresco, Bordini, Italy, Piedmont, 2019",
+    "description": "if a bowl full of ripe cherries married a bottle of the finest balsamic vinegar, their offspring may very well have the aroma of this bottle..it evolves in the glass, offering more earthy notes and subtle ginger and mocha tones..fine and persistent with a long and silky smooth finish. (96WE/94JS/93WA/93WS/93VM)",
+    "price": "$125",
+    "section": "NEBBIOLO",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "SERIO E BATISTA BORGOGNO, Barolo Cannubi \"Truffle Hunters\", Italy, Piedmont, 2018",
+    "description": "a savory and spicy interpretation from one of the most celebrated cru sites in piedmont..super concentrated fruit with gobs of smoky cherry, mint, blood orange and earth...medium in body but loads of grippy tannins..an amazing, savory finish, lasting for minutes. (94DC/93WA/93VM)",
+    "price": "$100",
+    "section": "NEBBIOLO",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "MARZIANO ABBONA, Barolo Ravera DOCG, Italy, Piedmont, 2018",
+    "description": "an intense garnet red and a study in the ravera cru...textbook rose petal, tar, and cherry eau de vie on the nose...finishes with opulence, intense tannins with a whiff of spice on the close...each abbona label features various species of birds found on the estate's vineyards.",
+    "price": "$125",
+    "section": "NEBBIOLO",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "LUIGI BAUDANA, Barolo, Cerretta, Italy, Piedmont, 2018",
+    "description": "one of the most limited production in barolo and certified organic...winemaking is in the BEST hands, as the property is farmed by the venerable vajra family...it is firm and linear, taut and chiseled like a gymnast but with all the bells and whistles that you expect of a barolo of this caliber...great stuff. (95/W&S/94WA/93WS/92JS)",
+    "price": "$170",
+    "section": "NEBBIOLO",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "VIBERTI, Barbera d'Alba, \"LA GEMELLA\", Italy, Piedmont, 2022",
+    "description": "a generous core of blackberry and boysenberry fruits...firmly structured, juicy and medium-bodied with a fresh finish that speaks of spiced cherries...delish. (TOP 100 WS/91WS/91JS)",
+    "price": "$50",
+    "section": "ROCK STAR ITALIAN REDS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "MASCIARELLI, MARINA CVETIC, Montepulciano d'Abruzzo Riserva, Italy, Abruzzo, 2020",
+    "description": "tremendous quality here from one of the most iconic producers in the abruzzo region..crushed blackberries, citrus preserves and darkest forest fruits..medium to full bodied with medium, mouth coating tannins and a rich and fruit filled finish. (93VM)",
+    "price": "$70",
+    "section": "ROCK STAR ITALIAN REDS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "FEUDO MACCARI, Nero d'Avola, \"SAIA\", 2021",
+    "description": "if there is a more delicious expression of this grape, we have yet to find it...perhaps the perfect pizza wine, this wine is gorgeous in its rusticity..we count it as one of our favorite nero d'avolas. (90VM)",
+    "price": "$85",
+    "section": "ROCK STAR ITALIAN REDS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ANTINORI TENUTE BOCCA DI LUPO, Aglianico DOC Castel del Monte, Italy, Puglia, 2020",
+    "description": "from the famed antinori family holdings in puglia...it is everything a great aglianico should be...notes of menthol and wild herbs, crushed blueberries and notes of campfire...intense, complex and full bodied, finishing with a flourish of blackberry compote, licorice and spice...grippy tannins make this a wine for the heartiest of fare. (94VM/93WS)",
+    "price": "$75",
+    "section": "ROCK STAR ITALIAN REDS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "BENANTI, Etna Rosso Nerello Mascalese Contrada Calderara Sottana, Italy, Sicily, 2022",
+    "description": "a complex etna rosso with a medium to full body...the fruit for this wine comes from the north side of mt. etna and, as such, offers plenty of aromatics such as crushed stone, minerals, darkest red and black fruits with notes of blood orange and herbs arriving on the finish...polished, taut and spice driven. (94WA/94JS/94VM/93WS)",
+    "price": "$120",
+    "section": "ROCK STAR ITALIAN REDS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "FEUDO MONTONI, Nero d'Avola, \"VRUCARA\", Prephylloxera, Italy, Sicily, 2018",
+    "description": "the top wine of this storied estate, certified organic and filled with notes of balsamic, tobacco leaf, eucalyptus and a touch of licorice whip...texturally gorgeous with a finish that lasts as long as it takes you to beg for another sip. (93WA)",
+    "price": "$135",
+    "section": "ROCK STAR ITALIAN REDS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ABBAZIA DI NOVACELLA, Pinot Nero, Italy, Süditrol-Alto Adige, 2023",
+    "description": "practicing organic farming, this is one of the most prestigious wineries in the area...this is a pretty and graceful wine with a nose full of rose petals, fresh strawberries and cherry...it is light on its feet and bright as a star and finishes with light and slightly chalky tannins...it is stunning. (91JS)",
+    "price": "$65",
+    "section": "ROCK STAR ITALIAN REDS",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "TOMMASI, Amarone della Valpolicella Classico, Italy, Veneto, 2020",
+    "description": "rich and luscious..notes of dried figs and plums..blackberries and cocoa..a little hint of espresso bean..medium to full bodied..if ever there was a wine that one could describe as opulent, this would be it..one of the preeminent producers in the veneto. (93JS/92VM/91WS/91WA)",
+    "price": "$120",
+    "section": "AMARONE (CONTINUED ON FOLLOWING PAGE)",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ZENATO, Amarone della Valpolicella Classico, Italy, Veneto, 2019",
+    "description": "this is a stunningly delicious amarone and one of my new favorite finds...if you can imagine the richest of cherries, clothed in a velvet smoking jacket of finest chocolate and kissed by a spice box, you can almost taste this wine before even putting it to your lips...rich and generous with one of the longest finishes i have tasted in an amarone...it's superb stuff. (95WS/93JS)",
+    "price": "$130",
+    "section": "AMARONE (CONTINUED ON FOLLOWING PAGE)",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "CESARI, Amarone della Valpolicella Classico, Italy, Veneto, 2019",
+    "description": "big red..and, in fact this bottle may remind you of just that..loaded with cinnamon spice, super ripe dark forest fruits..in fact, it evokes sensory images of a stroll in a deep, dark forest..medium to full bodied with all that sumptuous fruit that is amarone's calling card. (91WE)",
+    "price": "$90",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ALLEGRINI, Amarone della Valpolicella Classico, Italy, Veneto, 2019",
+    "description": "ripe, smooth and concentrated.. loads of plum and spice aromas with a licorice and black cherry core that is impossible to resist..full bodied, lush and round with a mineral driven finish, featuring dark cocoa nib and fig...powerful and awesome. (95WE/95VM/94JS/92WS)",
+    "price": "$150",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "MASI, Amarone della Valpolicella, Costasera Riserva, Italy, Veneto, 2019",
+    "description": "long revered as pioneers in the industry, the masi name is basically synonymous with amarone...aromas of fig and wild blueberry on the nose...it is both savory and filled with unctuous fruit flavors...chewy tannins and a lovely herbal note on the close.(94WE/93WS)",
+    "price": "$140",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ZEPHYR WELLS, Pinot Noir, \"La Carbonique\", Oregon, Willamette Valley, 2024",
+    "description": "it is very rare that i taste a pinot noir that is so delightfully different than any other that i have tasted but this one is it...it has an astonishing nose filled with bright cherry lifesaver and cola...notes of cranberry and cinnamon stick will have you dreaming of your holiday table...tart and savory at once with a juicy mouthfeel and an ideal match for food...a favorite new find!",
+    "price": "$15/50",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ERNEST CELLARS, Pinot Noir, Sonoma Coast, 2023",
+    "description": "this is a stunning vino and a stunning value...smooth as silk...resplendent with cherry, ripe raspberry and freshly cut herbs from the garden positively glow in this wine...balanced on a fine high wire of tension and acidity....it's just gorgeous. (94WE/93JS/93JD/92VM)",
+    "price": "$70",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ELK COVE, Pinot Noir \"La Bohème\", Oregon, Willamette Valley, Yamhill-Carlton, 2022",
+    "description": "quite fragrant on the nose, offering copious aromas of rose petal, red raspberry and forest floor...warm baking spices add to the fleshy finish...light to medium bodied with refined tannins and a long, rose perfumed finish. (94WS/92WA)",
+    "price": "$120",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "SEAN MINOR THE INVITED SERIES, Pinot Noir, Sangiacamo Roberts Road, California, Sonoma Coast, 2023",
+    "description": "what a fabulous pinot for your holiday table...nuances of fresh cranberry, wild blueberries and slightly scorched earth...delicate and perfectly balanced. (94TP/91WE)",
+    "price": "$100",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "KISTLER, Pinot Noir, California, Russian River Valley, 2023",
+    "description": "if grace kelly were a bottle of wine, this would be the wine...feminine, elegant and the epitome of graceful...only free run juice is used to preserve that beautiful, pale raspberry hue...you might not be able to pry it out of my hands...but, you should definitely TRY.",
+    "price": "$150",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "PENNER-ASH, Pinot Noir, Oregon, Willamette Valley, 2022",
+    "description": "fresh and lively expression of pinot noir from venerable winemaker lynn penner-ash..alive with red cherries, a bit of tart cranberry and red raspberry seed..earthy accents add complexity and the finish is silken with juicy tannins. (94WS)",
+    "price": "$130",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ANTIQUUM FARM, Pinot Noir, Oregon, Willamette Valley, 2022",
+    "description": "organic and sustainable and the very definition of elegant...sourced from the very highest elevations leading to a stunning and ethereal pinot noir...gorgeous floral notes coupled with bright cherry fruit and crushed rock...a new discovery for me and a thrilling one.",
+    "price": "$75",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "BIG TABLE FARM, Pinot Noir, Oregon, Willamette Valley, 2023",
+    "description": "checks every box from a willamette valley pinot noir...bright fruit, notes of savory spice and notes of raspberry rooibos tea...it is unfined and unfiltered, allowing the true nature of the grape to shine through...the portly porcines pictured on the label are part of the farm's residents and are named laverne and shirley! \"Schlemiel! Schlimazel! Hasenpfeffer Incorporated!\" (93JS/93WS)",
+    "price": "$125",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "KEN WRIGHT, Pinot Noir, Guadalupe Vineyard, Oregon, Willamette Valley, 2021",
+    "description": "expressive and graceful, with notes of pure raspberry and field flowers..elegant finish that is kissed with a touch of spice..there is an underlying note of smoke and spice that is just captivating..beautiful blue toned fruits round out the gorgeous finish. (92WE)",
+    "price": "$125",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "DUMOL, Pinot Noir, Macintyre Estate Vineyard, California, Sonoma Coast, 2022",
+    "description": "tasted recently at a dumol luncheon, this was a standout for me...floral and feminine with raspberry seed bergamot and bright red fruits...it is just what pinot should be...precise, focused and energetic, finishing with a flourish of woodland herbs and gorgeous acidity. (97JS/94WA)",
+    "price": "$175",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "PETER MICHAEL, Pinot Noir, \"Le Caprice\", California, Sonoma, Fort Ross-Seaview, 2019",
+    "description": "i'm often asked what my favorite pinot noir is..sort of like asking which is my favorite thoroughbred..but this may just be THE ONE..impossibly fragrant with wild raspberry, violet, rose petal, kirsch...a mouthfeel like the finest silk..medium to full bodied with a finish that lasts for minutes..an amazing bottle from a true legend. (96-97WA/97JS)",
+    "price": "$225",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "DAOU, The Bodyguard Red Blend, California, Paso Robles, 2021",
+    "description": "this is a rich, tooth staining red in the best way...aromas of charred walnuts, cassis, chocolate covered cherries and red plums...a savory palate with spice and a note of espresso bean...a blend of petit verdot and petite sirah. (93WE)",
+    "price": "$80",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "SEGHESIO FAMILY VINEYARDS, Zinfandel, \"Angela's Table\", California, Sonoma, 2023",
+    "description": "this bottle is just an absolute treat...loads of blackberry, plum, and black raspberry compote with vanilla scented spice...bold, rich and unabashedly zinful.",
+    "price": "$60",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ROBERT BIALE, Zinfandel \"Black Chicken\", California, Napa Valley, 2023",
+    "description": "this is my very favorite napa valley zin...spiced sugarplums, black cherries and savory grilled herbs are all present on the nose and palate...medium to full bodied with a generous core of fruit and persistent acidity to keep it fresh and fun. (94WE/93JS/93WS/92WA)",
+    "price": "$100",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ROMBAUER, Zinfandel, California, 2022",
+    "description": "smooth, luscious and pure california in spirit and spunk..loaded with notes of vanilla, christmas baking spices, plums and ripe raspberries..finishing with a flourish of dark cocoa, soft tannins and a creamy, lip smacking finish..delicious. (91WE/90JD)",
+    "price": "$75",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "BUENA VISTA WINERY, \"THE SHERIFF\"",
+    "description": "Red Blend, California, Sonoma, 2022 • founded in 1857, buena vista winery produces a wide range of world class wines...this wine pays homage to founder, agoston haraszthy, one of california's first elected sheriffs...it is a bold and big blend of petite sirah, cabernet sauvignon, syrah and grenache and features opulent red and black fruits on the nose and palate...medium to full bodied and finishes with dark cocoa nib and a big bowlful of fruit....there's a new sheriff in town and he means business.",
+    "price": "$100",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "K VINTNERS, Syrah, \"MOTOR CITY KITTY\"",
+    "description": "Washington State, Columbia Valley, 2020 • serious and intense syrah from a master of this grape in washington...aromas of chocolate, blackberry, amarena cherry and spice...full bodied and firm. (98JS/95+WA/96VM)",
+    "price": "$115",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ORIN SWIFT, 8 Years In The Desert",
+    "description": "Red Blend, California, 2022 • can you ever be too rich? this bottle begs the question...your senses will absolutely delight in the rich blackberry and wild blueberry fruits...rich, rich, round tannins and a finish kissed by cocoa and spice...for fans of GOBSMACKING zinfandel based blends, this one's for you.",
+    "price": "$100",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ORIN SWIFT, \"Abstract\"",
+    "description": "Red Blend, California, St. Helena, 2022 • if you don't think that wine can have umami character...taste this and have your mind changed...a bland of grenache, syrah and petite sirah, it oozes aromas of blackberry, plum, black pepper and forest floor, finishing with a flourish of balsamic and sweet oak notes. (91WS)",
+    "price": "$90",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ORIN SWIFT, \"You Had Me at Hell No\"",
+    "description": "Advice from John, Merlot, California, 2023 • leave it to orin swift to craft a merlot that we ALL love...aromatics of freshly baked blackberry pie and dark plum with a beautiful floral lift...savory notes on the palate and a long finish that speaks of espresso bean and blackberry patch.",
+    "price": "$70",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "ORIN SWIFT, Proprietary Red, \"Papillon\"",
+    "description": "California, Napa Valley, 2022 • an homage to the famed left bank blends of bordeaux..cabernet sauvignon based with all 5 traditional varietals in play..powerful and seductive aromas of graphite, cassis..uber ripe dark fruits envelop your palate with a flourish..a hint of mint on the finish. (94WA)",
+    "price": "$135",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "BLUE ROCK VINEYARDS, Baby Blue",
+    "description": "Red Blend, California, Sonoma, 2021 • i am often asked what we sip at home...you know, just on a let's grill some burgers kind of evening...this is often the answer to that question...primarily cabernet sauvignon but pays homage to bordeaux incorporating all 5 classic bordeaux varietals in the blend...it just checks all the boxes and we hope you love it as much as we do. (92WE/90JS)",
+    "price": "$19/70",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "POSTMARK BY DUCKHORN, Cabernet Sauvignon",
+    "description": "California, Paso Robles, 2022 • paso robles cabs have legions of fans...this example is proof positive of the allure of paso...rich and generous with a palate full of boysenberry, plum and black raspberry jam...a touch of vanilla scented spice on the finish adds to the appeal of this voluptuous vamp. (93JS)",
+    "price": "$15/50",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "TREFETHEN FAMILY, ESCHOL",
+    "description": "Estate Red, California, Napa, Oak Knoll District, 2022 • a stunning and fitting homage to bordeaux, incorporating all 5 traditional varietals...bold and fruit forward on approach with black fruits and dark cherries...medium to full bodied and fresh during flight...seamless and ripe tannins with balanced acidity on the landing. (cool label too!)",
+    "price": "$55",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "BARNETT, Cabernet Sauvignon, California, Napa, Spring Mountain, Rattlesnake Vyd., 2022",
+    "description": "perched above st. helena lies the idyllic spring mountain district, my favorite appellation for napa cabernet, as the combination of altitude and terroir creates magical wines...ripe, rich and concentrated, this wine has every textbook descriptor in spades, finishes with polished tannins and a mouth full of dark cocoa and black cherry. (96WA)",
+    "price": "$325",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "LA JOTA, Cabernet Sauvignon, California, Napa Valley, Howell Mountain, 2018",
+    "description": "an absolute stunner..the la jota cab is a perennial favorite bottle..loads of cassis, black cherry, plum and savory notes of underbrush and herbs on the nose..full bodied and full throttle on the palate, with a finish that seems to have no end..one of the best of the vintage,.splurge-worthy. (97WA/94WE/96JS/94WS)",
+    "price": "$300",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "DRY CREEK VINEYARD, Meritage \"The Mariner\", California, Sonoma, Dry Creek Valley, 2021",
+    "description": "a true meritage wine, paying homage to all 5 traditional bordeaux varietals...cabernet sauvignon is dominant with merlot, petit verdot, cabernet franc and malbec playing supporting roles in the blend...full bodied with notes of tobacco, leather and black currant...firm tannins and fresh acidity...organic and sustainable. (91JD)",
+    "price": "$90",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "TREFETHEN FAMILY, \"DRAGON'S TOOTH\", California, Napa Valley, Oak Knoll, 2021",
+    "description": "a blend of primarily malbec with splashes of petit verdot and cabernet sauvignon..ripe aromas and flavors of black cherry, blackberry, mocha, sassafras and fig..medium to full bodied and a long and luxurious finish..outstanding. (97DC/93JS/90WS)",
+    "price": "$125",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "SHAFER, Cabernet Sauvignon Hillside Select, California, Napa Valley, Stags Leap, 2018",
+    "description": "a rare opportunity to spoil yourself with a pedigreed bottle that is very limited in availability...one of the best expressions of cabernet sauvignon in the world today...full bodied with notes of crème de cassis, blackberries, pencil shavings and black cherry...finishing with an energy and focus that is irresistible and some may say perfection. (100JD/99JS/98WA/98VM/95WS)",
+    "price": "$500",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "TREFETHEN FAMILY, \"HALO\", Cabernet Sauvignon, California, Napa Valley, 2018",
+    "description": "a wine most rare, this is the most beloved and limited of all the trefethen offerings...aromas of ripest raspberry with alluring notes of pepper, baking spices, plum and tobacco...finishes with a flourish of mature and well integrated tannins and is a powerhouse bottle and a force to be reckoned with...if you feel the same, this is the bottle to beguile yourself with. (95CG)",
+    "price": "$450",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "SPRING VALLEY VINEYARDS, Cabernet Sauvignon, \"DERBY\", Washington State, Walla Walla Valley, 2019",
+    "description": "100% cabernet sauvignon and 100% estate grown fruit...vibrant and refined on the palate with layers upon layers of black cherry, dark plum and a box of warm spices...finishes with notes of balsam and blackberry preserves. (92WS)",
+    "price": "$120",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "SPOTTSWOODE, Cabernet Sauvignon, California, Napa Valley, St. Helena, 2014",
+    "description": "like a thoroughbred, this wine has a power that is also graceful, elegant and equipped with legs to run ALL DAY..crushed rocks, winter potpourri, red currants, dried plums, very firm tannins and a persistent acidity. (98WA/98WE/96JS)",
+    "price": "$300",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "HEDGES FAMILY ESTATE, Cabernet Sauvignon, Washington State, Red Mountain, 2021",
+    "description": "demeter certified biodynamically grown grapes and sourced from 100% estate fruit...ripest red cherry, mocha and vanilla-tinged blackberry on the nose..full, sexy and lush and from one of the best producers in washington..finishes with a flourish of cassis, flamed orange zest and cocoa..we are huge fans of washington state cabs and this is one of our faves. (92JS/93JD)",
+    "price": "$85",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  },
+  {
+    "name": "POST PARADE, Cabernet Sauvignon, \"Stretch Drive\", California, Napa Valley, 2018",
+    "description": "this limited bottling is not only spectacular to sip, it's also got a name that we just couldn't resist..this is a bright and boisterous bottle, much like many of our favorite thoroughbreds..ripe, red berry fruits with notes of baking spice and a floral lift..it's a wine worthy of the winner's circle. (93WS/93JD/92VM)",
+    "price": "$140",
+    "section": "Wine",
+    "restaurant_name": "Taverna Novo",
+    "restaurant_url": "https://www.tavernanovo.com/",
+    "menu_type": "Wine and Beer",
+    "menu_name": "Wine and Beer Offerings"
+  }
+]

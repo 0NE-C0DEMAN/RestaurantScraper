@@ -1,0 +1,552 @@
+[
+  {
+    "name": "Bud Light",
+    "description": "Light Lager | 4.2% ABV | Brewery: Anheuser-Busch",
+    "price": "12oz $4.00",
+    "section": "THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Budweiser",
+    "description": "Lager | 5% ABV | Brewery: Anheuser-Busch",
+    "price": "12oz $4.00",
+    "section": "THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Coors Light",
+    "description": "Light Lager | 4.2% ABV | Brewery: Coors Brewing Company",
+    "price": "12oz $4.00",
+    "section": "THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Labatt Blue Light",
+    "description": "Pilsner | 4% ABV | Brewery: Labatt Brewing Company",
+    "price": "12oz $4.00",
+    "section": "THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Michelob ULTRA",
+    "description": "Light Lager | 4.2% ABV | Brewery: Anheuser-Busch",
+    "price": "12oz $4.00",
+    "section": "THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Miller Lite",
+    "description": "Light Lager | 4.2% ABV | Brewery: Miller Brewing Company",
+    "price": "12oz $4.00",
+    "section": "THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Pabst Blue Ribbon",
+    "description": "Lager | 4.7% ABV | Brewery: Pabst Brewing Company",
+    "price": "16oz $4.00",
+    "section": "THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Yuengling - Flight",
+    "description": "Light Lager | 4.2% ABV | Brewery: Yuengling Brewery",
+    "price": "12oz $4.00",
+    "section": "THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Corona Light",
+    "description": "Lager | 4.1% ABV | Brewery: Grupo Modelo",
+    "price": "12oz $5.00",
+    "section": "THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Yuengling Lager",
+    "description": "4.5% ABV | Brewery: Yuengling Brewery",
+    "price": "16oz $5.00",
+    "section": "THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Corona Extra",
+    "description": "Lager - Mexican | 4.5% ABV | Brewery: Grupo Modelo",
+    "price": "16oz $6.00",
+    "section": "THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Heineken",
+    "description": "Lager - Pale | 5% ABV | Brewery: Heineken",
+    "price": "16oz $6.00",
+    "section": "THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Heineken Light",
+    "description": "Lager | 4% ABV | Brewery: Heineken",
+    "price": "16oz $6.00",
+    "section": "THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Modelo Especial",
+    "description": "Lager - Mexican | 4.5% ABV | Brewery: Grupo Modelo",
+    "price": "16oz $6.00",
+    "section": "THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Whitman - Range Session",
+    "description": "Session IPA | 5% ABV | Brewery: Whitman Brewing Company",
+    "price": "16oz $7.00",
+    "section": "ALL THE HOPS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Zero Gravity - Conehead Haze",
+    "description": "NEIPA | 6.3% ABV | Brewery: Zero Gravity Beer",
+    "price": "16oz $7.00",
+    "section": "ALL THE HOPS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Equilibrium - Neutrino",
+    "description": "Pale Ale | 4.5% ABV | Brewery: Equilibrium Brewery",
+    "price": "16oz $8.00",
+    "section": "ALL THE HOPS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Equilibrium - Photon",
+    "description": "Pale Ale | 4.8% ABV | Brewery: Equilibrium Brewery",
+    "price": "16oz $8.00",
+    "section": "ALL THE HOPS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Fiddlehead IPA",
+    "description": "IPA | 6.2% ABV | Brewery: Fiddlehead Brewing Company",
+    "price": "16oz $8.00",
+    "section": "ALL THE HOPS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Foam - The Nameless",
+    "description": "NEIPA | 7% ABV | Brewery: Foam Brewers",
+    "price": "16oz $8.00",
+    "section": "ALL THE HOPS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Lawsons - Little Sip",
+    "description": "IPA | 6.2% ABV | Brewery: Lawson’s Finest Liquids",
+    "price": "16oz $8.00",
+    "section": "ALL THE HOPS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Speckled Pig - Restitution",
+    "description": "NEIPA | 6.8% ABV | Brewery: Speckled Pig Brewing Co",
+    "price": "16oz $8.00",
+    "section": "ALL THE HOPS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Thin Man/Other Half - Risotto Moon Rover",
+    "description": "Pale Ale | 4.5% ABV | Brewery: Thin Man Brewery",
+    "price": "16oz $8.00",
+    "section": "ALL THE HOPS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Hudson Valley - Theta",
+    "description": "IPA - New England | 7% ABV | Brewery: Hudson Valley Brewery",
+    "price": "16oz $9.00",
+    "section": "ALL THE HOPS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Lawsons - Sip of Sunshine",
+    "description": "Double IPA | 8% ABV | Brewery: Lawson’s Finest Liquids",
+    "price": "16oz $10.00",
+    "section": "ALL THE HOPS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Heineken 0.0",
+    "description": "Non-Alcoholic - Lager | Brewery: Heineken",
+    "price": "12oz $5.00",
+    "section": "NA BEERS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Athletic - Run Wild IPA",
+    "description": "Non-Alcoholic - IPA | 0.5% ABV | Brewery: Athletic Brewing Company",
+    "price": "12oz $5.00",
+    "section": "NA BEERS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Guinness Draught 0.0",
+    "description": "Non-Alcoholic - Porter | Brewery: Guinness",
+    "price": "12oz $6.00",
+    "section": "NA BEERS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Zero Gravity - Oktoberfest",
+    "description": "Märzen | 5.4% ABV | Brewery: Zero Gravity Beer",
+    "price": "12oz $5.00",
+    "section": "SEASONAL BEERS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Community Beer Works - Pumpkin Spice Whale",
+    "description": "Brown Ale | 5.9% ABV | Brewery: Community Beer Works",
+    "price": "16oz $8.00",
+    "section": "SEASONAL BEERS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Aslin - Volcano Sauce",
+    "description": "Smoothie | 6% ABV | Brewery: Aslin Beer Company",
+    "price": "12oz $7.00",
+    "section": "SOUR STUFF",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Thin Man - Minkey Boodle",
+    "description": "Sour - Fruited | 7% ABV | Brewery: Thin Man Brewery",
+    "price": "16oz $10.00",
+    "section": "SOUR STUFF",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Mortalis - DemiHydra",
+    "description": "Sour - Fruited | 5% ABV | Brewery: Mortalis Brewing Company",
+    "price": "16oz $12.00",
+    "section": "SOUR STUFF",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Garage Beer",
+    "description": "Lager - Light | 4% ABV | Brewery: Garage Beer",
+    "price": "16oz $6.00",
+    "section": "CRAFTY TWIST ON THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Switchback Ale",
+    "description": "Red Ale | 5% ABV | Brewery: Switchback Brewing Company",
+    "price": "16oz $6.00",
+    "section": "CRAFTY TWIST ON THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Beer Tree - Lager",
+    "description": "4.5% ABV | Brewery: Beer Tree Brew Co",
+    "price": "16oz $7.00",
+    "section": "CRAFTY TWIST ON THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Chatham - Tasty Lager",
+    "description": "Vienna Lager | 5.5% ABV | Brewery: Chatham Brewing",
+    "price": "16oz $7.00",
+    "section": "CRAFTY TWIST ON THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Common Roots - Capital Light Lager",
+    "description": "Lager | 4% ABV | Brewery: Common Roots Brewing Company",
+    "price": "16oz $7.00",
+    "section": "CRAFTY TWIST ON THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Paradox - The Great Kölsch Affair",
+    "description": "Kölsch | 5% ABV | Brewery: Paradox Brewery",
+    "price": "16oz $7.00",
+    "section": "CRAFTY TWIST ON THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Return Brewing - Polished",
+    "description": "Pilsner | 5.2% ABV | Brewery: Return Brewing",
+    "price": "16oz $7.00",
+    "section": "CRAFTY TWIST ON THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Torch & Crown - Tenement Pilsner",
+    "description": "Pilsner | 4.9% ABV | Brewery: Torch & Crown Brewing Company",
+    "price": "16oz $7.00",
+    "section": "CRAFTY TWIST ON THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Allagash White",
+    "description": "Wheat Beer - Witbier | 5.2% ABV | Brewery: Allagash Brewing Company",
+    "price": "16oz $8.00",
+    "section": "CRAFTY TWIST ON THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Foam - Tasman Sun",
+    "description": "Pilsner - New Zealand | 4.2% ABV | Brewery: Foam Brewers",
+    "price": "16oz $8.00",
+    "section": "CRAFTY TWIST ON THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Hudson Valley - Enjoyer",
+    "description": "Lager | 5% ABV | Brewery: Hudson Valley Brewery",
+    "price": "16oz $8.00",
+    "section": "CRAFTY TWIST ON THE BASICS",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Angry Orchard - Crisp Apple",
+    "description": "Cider | 5% ABV | Brewery: Angry Orchard Hard Cider",
+    "price": "12oz $5.00",
+    "section": "ALL THE REST",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Downeast - Cider Donut",
+    "description": "Cider | 5.1% ABV | Brewery: Downeast Cider House",
+    "price": "12oz $6.00",
+    "section": "ALL THE REST",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "White Claw - Black Cherry",
+    "description": "Seltzer | 5% ABV | Brewery: White Claw",
+    "price": "16oz $6.00",
+    "section": "ALL THE REST",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Adirondack - Bourbon Lemonade",
+    "description": "Hard Seltzer | 6% ABV | Brewery: Adirondack Brewery",
+    "price": "12oz $7.00",
+    "section": "ALL THE REST",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Adirondack - Sapphire Twilight",
+    "description": "Cider | 7% ABV | Brewery: Adirondack Brewery",
+    "price": "16oz $7.00",
+    "section": "ALL THE REST",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "High Noons",
+    "description": "Cocktail | 4.5% ABV",
+    "price": "12oz $8.00",
+    "section": "ALL THE REST",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Aslin - Old Town Lager",
+    "description": "Lager | 4% ABV | Brewery: Aslin Beer Company",
+    "price": "12oz $3.00",
+    "section": "LAST CALL",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Brooklyn - Summer Ale",
+    "description": "Pale Ale | 5% ABV | Brewery: Brooklyn Brewery",
+    "price": "12oz $4.00",
+    "section": "LAST CALL",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Frog Alley - Mexican Lager",
+    "description": "Lager | 4.7% ABV | Brewery: Frog Alley Brewing",
+    "price": "12oz $5.00",
+    "section": "LAST CALL",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Mighty Squirrel - Team India",
+    "description": "Lager - Other | 5% ABV | Brewery: Mighty Squirrel Brewing Co.",
+    "price": "16oz $5.00",
+    "section": "LAST CALL",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  },
+  {
+    "name": "Whitman - King Murphy",
+    "description": "Lager | 5% ABV | Brewery: Whitman Brewing Company",
+    "price": "16oz $6.00",
+    "section": "LAST CALL",
+    "restaurant_name": "The Hideaway",
+    "restaurant_url": "https://www.hideawaysaratoga.com/",
+    "menu_type": "Beverages",
+    "menu_name": "Beverages Menu"
+  }
+]
