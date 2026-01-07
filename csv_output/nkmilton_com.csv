@@ -1,0 +1,143 @@
+restaurant_name,restaurant_url,menu_name,menu_type,name,description,price
+Neighborhood Kitchen,http://www.nkmilton.com/,LIGHT FARE,Menu,STUFFED PEPPER,"WHOLE BELL PEPPER STUFFED WITH
+BRAISED PORK SPARE RIBS, RICE,
+SMOKED FRESH MOZZARELLA, TOMATO SAUCE",$13
+Neighborhood Kitchen,http://www.nkmilton.com/,LIGHT FARE,Menu,SALT N' VINEGAR BRUSSELS,"CRISPY BRUSSELS SPROUTS, CHOPPED BACON,
+DRIED CRANBERRIES, BALSAMIC VINEGAR",$10
+Neighborhood Kitchen,http://www.nkmilton.com/,LIGHT FARE,Menu,TATER KEGS,"OVERSIZED TATER TOTS STUFFED WITH BACON,
+CHEDDAR, SCALLIONS, RANCH DRESSING",$12
+Neighborhood Kitchen,http://www.nkmilton.com/,LIGHT FARE,Menu,FALL QUINOA BOWL,"TRI-COLORED QUINOA WITH
+MIXED ROOT SEASONAL VEGETABLES
+ADD: CHICKEN $4 | SALMON $8",$12
+Neighborhood Kitchen,http://www.nkmilton.com/,GREENS,Menu,NUT & BERRY,"ARCADIAN GREENS, FRESH BERRIES,
+SWEETY DROPS, DRIED CRANBERRIES,
+GOAT CHEESE, TOASTED HAZELNUTS,
+RASPBERRY VINEGAR DRESSING",Single $12 | Family $30
+Neighborhood Kitchen,http://www.nkmilton.com/,GREENS,Menu,PEAR & WALNUT SALAD,"ARCADIAN GREENS, BOSC PEARS,
+CANDIED WALNUTS, PICKLED ONIONS,
+BACON & GORGONZOLA CHEESE SERVED
+WITH APPLE CIDER VINEGAR DRESSING",Single $13 | Family $30
+Neighborhood Kitchen,http://www.nkmilton.com/,GREENS,Menu,CLASSIC CAESAR,"CRISP ROMAINE, FRESH PARMESAN,
+TUSCAN CAESAR DRESSING,
+TOPPED WITH SMASHED CROUTONS",Single $10 | Family $25
+Neighborhood Kitchen,http://www.nkmilton.com/,GREENS,Menu,THE NK,"ARCADIAN GREENS, TOMATOES,
+CUCUMBER, ONIONS,
+SICILIAN OLIVES, PEPPADEWS,
+WHITE BALSAMIC DRESSING",Single $11 | Family $28
+Neighborhood Kitchen,http://www.nkmilton.com/,GREENS,Menu,STEAK SALAD,"ARCADIAN GREENS, SLICED SIRLOIN
+STEAK, CARAMELIZED ONION CHEDDAR,
+ROASTED PEPPERS AND ONIONS, PINE NUTS,
+WHITE BALSAMIC VINEGAR DRESSING",Single $20 | Family $45
+Neighborhood Kitchen,http://www.nkmilton.com/,HANDHELDS,Menu,CRISPY CHICKEN SANDWICH,"FRIED CHICKEN BREAST, HOUSE B&B PICKLES,
+LETTUCE, APPLEWOOD BACON, NK SAUCE,
+PICKLED ONIONS, BRIOCHE BUN",$14
+Neighborhood Kitchen,http://www.nkmilton.com/,HANDHELDS,Menu,"BOURBON GLAZED
+MEATLOAF SANDWICH","HOUSE MADE MEATLOAF, BOURBON GLAZE,
+CHEDDAR CHEESE, ROASTED ONIONS,
+POTATO STICKS APPLEWOOD BACON, BRIOCHE BUN",$14
+Neighborhood Kitchen,http://www.nkmilton.com/,HANDHELDS,Menu,BUFFALO CHICKEN WRAP,"CHICKEN BREAST, CRISP ROMAINE LETTUCE,
+GORGONZOLA CHEESE, CHERRY TOMATOES
+WITH BUFFALO WING SAUCE IN AN HERBED WRAP",$13
+Neighborhood Kitchen,http://www.nkmilton.com/,HANDHELDS,Menu,CORNED BEEF BRISKET SANDWICH,"SLICED CORNED BEEF BRISKET, ROASTED ONIONS,
+APPLEWOOD BACON, GRUYERE CHEESE, STONE
+GROUND MUSTARD AIOLI, BRIOCHE BUN",$15
+Neighborhood Kitchen,http://www.nkmilton.com/,HANDHELDS,Menu,THE SARATOGA HOT,"FRIED CHICKEN BREAST, BABY GREENS,
+PICKLED ONIONS, HOT CRISPY OIL,
+HOT CRISPY AIOLI, BRIOCHE BUN",$15
+Neighborhood Kitchen,http://www.nkmilton.com/,PASTA,Menu,SHORT RIB RAVIOLI,"FRESH PASTA STUFFED WITH BRAISED BEEF SHORT
+RIB, RICOTTA CHEESE, AND HERBS, SAUTEED IN A
+SHALLOT, SHERRY MUSHROOM CREAM SAUCE",Lunch $14 | Dinner $22
+Neighborhood Kitchen,http://www.nkmilton.com/,PASTA,Menu,FETTUCCINE ALFREDO,"EGG FETTUCCINE, RICH PARMESAN CREAM SAUCE",Lunch $12 | Dinner $18
+Neighborhood Kitchen,http://www.nkmilton.com/,PASTA,Menu,RIGATONI ALLA VODKA,"PROSCIUTTO DI PARMA, TOMATO, BASIL,
+VODKA CREAM SAUCE, TOSSED WITH RIGATONI PASTA",Lunch $13 | Dinner $19
+Neighborhood Kitchen,http://www.nkmilton.com/,PASTA,Menu,MAC & CHEESE,"AGES OF CHEDDAR TOSSED WITH TROTTOLE
+PASTA, BAKED WITH BREADCRUMBS AND CHIVES",Lunch $12 | Dinner $18
+Neighborhood Kitchen,http://www.nkmilton.com/,PASTA,Menu,BUTTERNUT SQUASH RAVIOLI,"BUTTERNUT SQUASH AND MASCARPONE CHEESE
+BLEND TOSSED WITH BROWN BUTTER SAGE SAUCE
+AND TOPPED WITH PARMESAN CHEESE & WALNUTS
+ADD: BROCCOLI $2 | BACON $4 | CHICKEN $4
+PROSCIUTTO DI PARMA $3",Lunch $10 | Dinner $17
+Neighborhood Kitchen,http://www.nkmilton.com/,MAINS,Menu,FALL SALMON,"PAN SEARED WILD CAUGHT SALMON
+SERVED OVER QUINOA, SHAVED BRUSSELS,
+DRIED CRANBERRIES & DICED BUTTERNUT SQUASH,
+TOPPED WITH BROWN BUTTER & HAZELNUTS",Lunch $18 | Dinner $26
+Neighborhood Kitchen,http://www.nkmilton.com/,MAINS,Menu,BOURBON MEATLOAF,"HOMEMADE MEATLOAF, BOURBON GLAZE,
+ROASTED ONIONS, MASHED POTATOES,
+SAUTÉED SPINACH",Lunch $14 | Dinner $22
+Neighborhood Kitchen,http://www.nkmilton.com/,MAINS,Menu,CHICKEN PARMIGIANA,"BREADED CHICKEN CUTLET, TOMATO SAUCE,
+MELTED MOZZARELLA, SIDE OF RIGATONI",Lunch $12 | Dinner $20
+Neighborhood Kitchen,http://www.nkmilton.com/,MAINS,Menu,CHICKEN SALTIMBOCCA,"PAN SEARED CHICKEN BREAST, SAGE,
+SPINACH, PROSCIUTTO, MELTED
+MOZZARELLA, OVER SPAGHETTINI",Lunch $13 | Dinner $22
+Neighborhood Kitchen,http://www.nkmilton.com/,MAINS,Menu,CHICKEN LUISA,"THINLY POUNDED CHICKEN BREAST, VODKA PINK
+SAUCE WITH BASIL, OVER SPAGHETTINI",Lunch $13 | Dinner $22
+Neighborhood Kitchen,http://www.nkmilton.com/,MAINS,Menu,SLICED NY STRIP STEAK,"12OZ SLICED STRIP SERVED WITH
+ROASTED SWEET POTATOES, BRUSSEL SPROUTS
+& TOPPED WITH A BACON GORGONZOLA CREAM SAUCE",$28
+Neighborhood Kitchen,http://www.nkmilton.com/,MAINS,Menu,MAPLE PORK TENDERLOIN,"ROASTED PORK TENDERLOIN SLICED
+& SERVED WITH MAPLE SWEET POTATOES,
+CARAMELIZED APPLES, ONIONS AND
+MAPLE BACON, DRIZZLED WITH MAPLE GLAZE",$20
+Neighborhood Kitchen,http://www.nkmilton.com/,SIDES,Menu,MIXED ROOT VEGETABLES,,$5
+Neighborhood Kitchen,http://www.nkmilton.com/,SIDES,Menu,SAUTÉED SPINACH,,$7
+Neighborhood Kitchen,http://www.nkmilton.com/,SIDES,Menu,CHARRED BROCCOLI ROMANO,,$6
+Neighborhood Kitchen,http://www.nkmilton.com/,SIDES,Menu,GREENS & BEANS,,$6
+Neighborhood Kitchen,http://www.nkmilton.com/,SIDES,Menu,RIGATONI WITH TOMATO SAUCE,,$4
+Neighborhood Kitchen,http://www.nkmilton.com/,SIDES,Menu,SPAGHETTINI WITH GARLIC & OIL,,$4
+Neighborhood Kitchen,http://www.nkmilton.com/,SIDES,Menu,YUKON MASHED,,$5
+Neighborhood Kitchen,http://www.nkmilton.com/,KIDS,Menu,MAC & CHEESE,,$8
+Neighborhood Kitchen,http://www.nkmilton.com/,KIDS,Menu,CHICKEN TENDERS W/ CHIPS,,$9
+Neighborhood Kitchen,http://www.nkmilton.com/,KIDS,Menu,RIGATONI W/ BUTTER,,$7
+Neighborhood Kitchen,http://www.nkmilton.com/,KIDS,Menu,FRIED CHICKEN BREAST ON A BUN,,$10
+Neighborhood Kitchen,http://www.nkmilton.com/,KIDS,Menu,CHICKEN PARMIGIANA WITH RIGATONI,,$10
+Neighborhood Kitchen,http://www.nkmilton.com/,KIDS,Menu,FETTUCCINE ALFREDO,,$8
+Neighborhood Kitchen,http://www.nkmilton.com/,KIDS,Menu,MOZZARELLA STICKS WITH MARINARA,,$8
+Neighborhood Kitchen,http://www.nkmilton.com/,BREAKFAST SANDWICHES,Menu,THE EBERT (OG),CHEDDAR CHEESE,$6
+Neighborhood Kitchen,http://www.nkmilton.com/,BREAKFAST SANDWICHES,Menu,THE VARSITY,"APPLEWOOD BACON, HONEY HAM, SAUSAGE PATTY, CHEDDAR",$10
+Neighborhood Kitchen,http://www.nkmilton.com/,BREAKFAST SANDWICHES,Menu,THE SCOTTIE,"STEAK, CARAMELIZED ONIONS, CHEDDAR",$10
+Neighborhood Kitchen,http://www.nkmilton.com/,BREAKFAST SANDWICHES,Menu,THE CALI,"AVOCADO, TOMATO, CHEDDAR, GARLIC MAYO",$8
+Neighborhood Kitchen,http://www.nkmilton.com/,BREAKFAST SANDWICHES,Menu,THE KITCHEN,"SLICED POTATOES, ONIONS, APPLEWOOD BACON, NK SAUCE, CHEDDAR",$9
+Neighborhood Kitchen,http://www.nkmilton.com/,BREAKFAST SANDWICHES,Menu,THE SMOKESHOW,"APPLEWOOD SMOKED BACON, CHEDDAR, HOT CRISPY OIL",$10
+Neighborhood Kitchen,http://www.nkmilton.com/,BREAKFAST SANDWICHES,Menu,THE COACH,"HONEY HAM, CHEDDAR",$8
+Neighborhood Kitchen,http://www.nkmilton.com/,BREAKFAST SANDWICHES,Menu,THE BEC,"APPLEWOOD BACON, CHEDDAR",$8
+Neighborhood Kitchen,http://www.nkmilton.com/,BREAKFAST SANDWICHES,Menu,HOT CRISPY OIL,,$2
+Neighborhood Kitchen,http://www.nkmilton.com/,BREAKFAST SANDWICHES,Menu,HOT HONEY,,$2
+Neighborhood Kitchen,http://www.nkmilton.com/,FAMILY STYLE,Menu,BUTTERNUT SQUASH RAVIOLI,,$35
+Neighborhood Kitchen,http://www.nkmilton.com/,FAMILY STYLE,Menu,MAC & CHEESE,,$35
+Neighborhood Kitchen,http://www.nkmilton.com/,FAMILY STYLE,Menu,FETTUCCINE ALFREDO,,$45
+Neighborhood Kitchen,http://www.nkmilton.com/,FAMILY STYLE,Menu,RIGATONI ALLA VODKA,,$45
+Neighborhood Kitchen,http://www.nkmilton.com/,FAMILY STYLE,Menu,SHORT RIB RAVIOLI,,$60
+Neighborhood Kitchen,http://www.nkmilton.com/,FAMILY STYLE,Menu,CHICKEN PARMIGIANA,,$40
+Neighborhood Kitchen,http://www.nkmilton.com/,FAMILY STYLE,Menu,CHICKEN SALTIMBOCCA,,$48
+Neighborhood Kitchen,http://www.nkmilton.com/,FAMILY STYLE,Menu,CHICKEN LUISA,,$48
+Neighborhood Kitchen,http://www.nkmilton.com/,FAMILY STYLE,Menu,ADD TO ANY PASTA:,CHICKEN $8 | BACON $5 | BROCCOLI $4,
+Neighborhood Kitchen,http://www.nkmilton.com/,FAMILY STYLE,Menu,BOURBON MEATLOAF,,$55
+Neighborhood Kitchen,http://www.nkmilton.com/,FAMILY STYLE,Menu,MAPLE PORK TENDERLOIN,,$50
+Neighborhood Kitchen,http://www.nkmilton.com/,FAMILY STYLE,Menu,FALL SALMON,,$55
+Neighborhood Kitchen,http://www.nkmilton.com/,FAMILY STYLE,Menu,SLICED NY STRIP STEAK,W/ ROASTED SWEET POTATOES & BRUSSEL SPROUTS,$55
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,SALT & VINEGAR SPROUTS,,$45
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,NUT & BERRY SALAD,,$50
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,PEAR & WALNUT SALAD,,$50
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,CLASSIC CAESAR,,$45
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,N.K. SALAD,,$40
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,STEAK SALAD,,$70
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,BUTTERNUT SQUASH RAVIOLI,,$48
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,MAC & CHEESE,,$50
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,FETTUCCINE ALFREDO,,$55
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,RIGATONI ALLA VODKA,,$55
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,SHORT RIB RAVIOLI,,$80
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,ADD TO ANY SALAD OR PASTA:,CHICKEN $10 | BACON $5 | BROCCOLI $5,
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,FALL SALMON,W/ VEGGIES,$80
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,SLICED NY STRIP STEAK,W/ROASTED SWEET POTATOES & BRUSSEL SPROUTS,$85
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,BOURBON MEATLOAF,W/BOURBON GLAZE & ROASTED ONIONS,$75
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,CHICKEN PARMIGIANA,,$60
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,CHICKEN SALTIMBOCCA,,$75
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,CHICKEN LUISA,,$70
+Neighborhood Kitchen,http://www.nkmilton.com/,TRAYS,Menu,MAPLE PORK TENDERLOIN,,$70
+Neighborhood Kitchen,http://www.nkmilton.com/,LARGE SIDES,Menu,MIXED ROOT VEGETABLES,,$25
+Neighborhood Kitchen,http://www.nkmilton.com/,LARGE SIDES,Menu,SAUTÉED SPINACH,,$30
+Neighborhood Kitchen,http://www.nkmilton.com/,LARGE SIDES,Menu,RIGATONI WITH TOMATO SAUCE,,$24
+Neighborhood Kitchen,http://www.nkmilton.com/,LARGE SIDES,Menu,YUKON MASHED,,$20
+Neighborhood Kitchen,http://www.nkmilton.com/,LARGE SIDES,Menu,CHARRED BROCCOLI ROMANO,,$24
+Neighborhood Kitchen,http://www.nkmilton.com/,LARGE SIDES,Menu,SPAGHETTINI WITH GARLIC & OIL,,$24
+Neighborhood Kitchen,http://www.nkmilton.com/,LARGE SIDES,Menu,GREENS & BEANS,,$30

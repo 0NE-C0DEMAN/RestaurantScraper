@@ -1,0 +1,53 @@
+restaurant_name,restaurant_url,menu_name,menu_type,section,name,description,price
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Small Plates,Food & Drinks,Small Plates,Crab Cakes,"Lemon crème fraiche, greens GF",$22
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Small Plates,Food & Drinks,Small Plates,Grilled Flatbread,"Fresh mozzarella, basil, marinated tomatoes",$16
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Small Plates,Food & Drinks,Small Plates,Seared Tuna,"Cucumber rounds, wasabi crème fraiche GF",$19
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Small Plates,Food & Drinks,Small Plates,Meatballs,"Beef, housemade sauce GF",$14
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Small Plates,Food & Drinks,Small Plates,Grilled Pita,"Hummus, marinated olives & feta",$14
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Small Plates,Food & Drinks,Small Plates,Duck Fat Truffle Fries,"Hand cut, truffle oil, parmesan, garlic mayo GF",$15
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Small Plates,Food & Drinks,Small Plates,Shrimp Cocktail,"Cocktail sauce, lemon slices GF",$20
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Small Plates,Food & Drinks,Small Plates,Chips & Salsa,"Fresh fried tortilla chips, housemade salsa GF",$8
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Small Plates,Food & Drinks,Small Plates,Soup,French Onion / Soup du jour,$7 / $10
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Salads,Food & Drinks,Salads,House Salad GF,,1/2 Salad $8 | Full Salad $14
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Salads,Food & Drinks,Salads,Arugula Salad,"Grilled peaches, red onion, burrata GF",$9 | $16
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Salads,Food & Drinks,Salads,Classic Caesar,"Romaine, parmesan cheese, croutons, Caesar dressing.
+Add-ons: Add: Chicken $8 / Shrimp $20",$8 | $14
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Cheese & Charcuterie,Food & Drinks,Cheese & Charcuterie,Fromage,Goat & Cow soft w/ honey,
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Cheese & Charcuterie,Food & Drinks,Cheese & Charcuterie,Single Item,"comes with nuts, crostini, grapes, fig jam",$10 | Three Items $27
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Cheese & Charcuterie,Food & Drinks,Cheese & Charcuterie,Balsamic & Cipollini,"Small batch Wisconsin cheese, sweet & savory",
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Cheese & Charcuterie,Food & Drinks,Cheese & Charcuterie,Manchego,"Sheep, herbal & firm, LaManchaga, Spain",
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Cheese & Charcuterie,Food & Drinks,Cheese & Charcuterie,Vino Rosso,"Small batch Wisconsin cheese, red wine soaked, sweet & nutty",
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Cheese & Charcuterie,Food & Drinks,Cheese & Charcuterie,Sharp Cheddar,"Cow, creamy Cabot Creamery, VT",
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Cheese & Charcuterie,Food & Drinks,Cheese & Charcuterie,Hot Soppressata,Spicy Italian salami,
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Cheese & Charcuterie,Food & Drinks,Cheese & Charcuterie,Prosciutto Crudo,Thinly sliced dry cured ham,
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Cheese & Charcuterie,Food & Drinks,Cheese & Charcuterie,Genoa Salami,"Dry cured, unsmoked salami",
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Sandwiches,Food & Drinks,Sandwiches,Classic Burger,"Lettuce, tomato, onion, choice of cheese",$16
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Sandwiches,Food & Drinks,Sandwiches,The Inn's Chicken Sandwich,"Cranberry mayonnaise, Granny Smith apple, swiss cheese, lettuce and tomato",$16
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Sandwiches,Food & Drinks,Sandwiches,Blackbean Burger,"Housemade blackbean patty, lettuce, tomato, onion, choice of cheese, BBQ sauce",$15
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Signature Dishes,Food & Drinks,Signature Dishes,Hannah's Beef Brisket,"Family heirloom recipe, potato & vegetable du jour GF",$34
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Signature Dishes,Food & Drinks,Signature Dishes,Chicken Francaise,"Egg batter, parmesan cheese, lemon butter, long grain wild rice, vegetable du jour",$31
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Signature Dishes,Food & Drinks,Signature Dishes,Seared Tuna,"Cucumber salad, long grain wild rice, pineapple & mango salsa GF",$38
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Signature Dishes,Food & Drinks,Signature Dishes,French Cut Pork Chop,"Bourbon mollasses glaze, truffle fries & vegetable du jour GF",$47
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Signature Dishes,Food & Drinks,Signature Dishes,Fra Diavolo,"Shrimp, andouille sausage, spicy tomato sauce, linguine",$38
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Signature Dishes,Food & Drinks,Signature Dishes,The Inn's Primavera,"Spinach, sun dried tomatoes, olives, shiitaki mushrooms, pappardelle",$25
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Signature Dishes,Food & Drinks,Signature Dishes,Steak Au Poivre,"10oz. NY Strip, peppercorn, cream, demi-glace potato & vegetable du jour GF",$46
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Desserts,Food & Drinks,Desserts,Homemade Ice Cream,All desserts made in house,$8 each GF
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Desserts,Food & Drinks,Desserts,Espresso Crème Brûlée,,$10 GF
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Desserts,Food & Drinks,Desserts,Flourless Chocolate Cake,,$10 GF
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Desserts,Food & Drinks,Desserts,Key Lime Pie,,$10
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Brewed Coffee,,$4
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Hot Tea,,$2
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Espresso,,$2
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Cappuccino,,$10
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Grand Marnier,,$12
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Romana Sambuca,,$11
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Romana Sambuca Black,,$11
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Chambord,,$11
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Baileys,,$11
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Kahlua,,$11
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Frangelico,,$11
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Amaretto,,$11
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Drambuie,,$11
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Courvoisier VS,,$12
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Rémy Martin VSOP,,$15
+The Inn at Saratoga,http://www.theinnatsaratoga.com/,Coffee & Cordials,Food & Drinks,Coffee & Cordials,Dom B&B,,$12

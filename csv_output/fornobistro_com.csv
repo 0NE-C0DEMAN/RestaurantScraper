@@ -1,0 +1,129 @@
+restaurant_name,restaurant_url,menu_name,menu_type,name,description,price
+Forno Bistro,https://www.fornobistro.com/,Dinner,Antipasti,Arancini,"House-made fried tomato rice balls, crushed tomato sauce",$15.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Antipasti,Calamaretti Fritti,"Lightly floured and fried calamari, lemon, crushed tomato sauce",$18.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Antipasti,Gamberi E Carciofi,"Wood-fired shrimp, blistered tomatoes, long stemmed artichokes, Tuscan white beans, balsamic reduction",$20.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Antipasti,Involtini Di Melanzane,"Fried eggplant slices rolled with whipped ricotta and basil, wood-fired with mozzarella, crushed tomato sauce",Appetizer $17.00 / Entrée $24.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Antipasti,Bruschetta,"Diced tomatoes, garlic, basil, extra virgin olive oil, arugula pesto, parmigiano, balsamic drizzle",$16.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Antipasti,Burrata,"Scallion-whipped burrata, rosemary confit tomatoes, arugula, black garlic pesto, focaccia",$20.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Antipasti,Polpette,"Hand-rolled meatballs of veal, pork and beef, wood-fired with mozzarella and parmigiano",$16.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Antipasti,Torte di Granchio,"Wood-fired crab cakes, cherry pepper remoulade, honey-balsamic tomatoes",$22.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Antipasti,Antipasto Del Forno,"Chef assortment of appetizers; seasonal bruschetta, arancini, calamari, grilled flatbread, salumi (serves 2-4 people).",$36.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Insalate,Casa,"Artisan greens, cucumber, red onion, blistered tomatoes, white balsamic lemon vinaigrette",$16.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Insalate,Casa,"Artisan greens, cucumber, red onion, blistered tomatoes, white balsamic lemon vinaigrette | Add Grilled Chicken: $8.00 | Add Shrimp: $9.00",$16.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Insalate,Inverno,"Arugula, shaved Brussels sprouts, gorgonzola, toasted almonds, sliced pears, cabernet raisins, pomegranate-balsamic vinaigrette",$18.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Insalate,Cesare,"Romaine, blistered tomatoes, white anchovy, Grana Padano crisp, Cesare dressing | Add Grilled Chicken: $8.00 | Add Shrimp: $9.00",$16.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Insalate,Iceberg,"Baby iceberg lettuce, pancetta, honey-balsamic tomatoes, onion, buttermilk-gorgonzola dressing | Add Grilled Chicken: $8.00 | Add Shrimp: $9.00",$18.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Wood-Fired Pizza,Margherita,"All pizzas are wood-fired, single serving, thin crust. Gluten-free cauliflower crust available (5)",$16.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Wood-Fired Pizza,Margherita,"Crushed tomato sauce, fresh mozzarella, fresh basil",$16.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Wood-Fired Pizza,Pamplona,"Crushed tomato sauce, mozzarella, Pamplona sausage, poblano pepper, parmigiano",$17.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Wood-Fired Pizza,Gorgonzola E Prosciutto,"White sauce, gorgonzola, prosciutto, shallots, red wine glaze",$20.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Wood-Fired Pizza,Funghi E Salsiccia,"Crushed tomato sauce, mozzarella, wild mushrooms, parmigiano, house-made Italian sausage",$17.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Wood-Fired Pizza,White Truffle,"White sauce, fontina, mushroom mix, shallots, truffle oil",$18.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Wood-Fired Pizza,Capicola Picante,"Crushed tomato sauce, mozzarella, capicola, red onion, cherry pepper relish",$18.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Wood-Fired Pizza,Calzone Quattro Formaggi,"Focaccia bread stuffed with fresh mozzarella, brie, parmigiano, gorgonzola, crushed tomato sauce",$17.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Pasta,Mezzanine Otero,All pasta is served al dente. Gluten-free pasta available (3).,$28.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Pasta,Mezzanine Otero,"Penne, chicken, sun-dried tomatoes, fresh tarragon, pink sauce",$28.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Pasta,Penne Pomodoro,"Penne, crushed tomato sauce, garlic, fresh basil, extra virgin olive oil",$21.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Pasta,Frutti Di Mare,"Linguine, sautéed assorted seafood, lightly spiced tomato sauce, extra virgin olive oil",$40.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Pasta,Rigatoni Funghi,"Wild mushroom medley, braised leeks, scallions, red wine, truffle-whipped ricotta",$26.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Pasta,Vongole,"Linguine, sautéed littleneck clams, pancetta, poblano peppers, garlic, extra virgin olive oil, white wine",$36.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Pasta,Ravioli Anatra,"Mascarpone duck ravioli, sweet peas, roasted baby carrots, rosemary-demi cream",$44.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Pasta,Pappardelle Osso Buco,"Pappardelle, red wine braised pork osso buco ragu, blistered tomatoes, stracciatella, garlic, basil, crushed tomato sauce",$36.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Pasta,Salsiccia di Peperoncino,"Rigatoni, sausage, eggplant, cherry peppers, garlic, white wine, crushed tomato sauce",$28.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Secondi,Parmigiana Di Melanzane,All entrées are served with vegetables and potatoes,$26.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Secondi,Parmigiana Di Melanzane,"Fried eggplant, fresh mozzarella, crushed tomato sauce, basil, extra virgin olive oil",$26.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Secondi,Pollo Panato,"Tender breaded chicken breast, melted mozzarella and fontina, prosciutto, diced tomato bruschetta, lemon, fresh herbs",$28.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Secondi,Lasagna Tradizionale,"Traditional meat lasagna, besciamella sauce",$28.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Secondi,Polpo,"Grilled octopus, confit tomatoes, roasted Brussels sprouts, capers, black garlic aioli, crispy shallots",Appetizer $22.00 / Entrée $42.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Secondi,Braciole Alla Barolo,"Red wine-braised beef, baby carrots, sweet peas, red potatoes, roasted tomatoes, demi-glace, grilled focaccia",$38.00
+Forno Bistro,https://www.fornobistro.com/,Dinner,Secondi,Bistecca Del Giorno,Steak of the day,M.P.
+Forno Bistro,https://www.fornobistro.com/,Dinner,Secondi,Pesce Del Giorno,Fresh catch of the day,M.P.
+Forno Bistro,https://www.fornobistro.com/,Wine List,White Wines,"Prosecco, Lamberti, Veneto",,$12.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,White Wines,"Rosé, Santi ""Infinito,"" Veneto",,$12.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,White Wines,"Pinot Grigio, Ca' Donini, Veneto",,$11.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,White Wines,"Pinot Grigio, Santi ""Sortesele,"" Trentino",,$13.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,White Wines,"Sauvignon Blanc, Kato, New Zealand",,$13.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,White Wines,"Moscato, Pellegrino ""Zebo,"" Sicilia",,$11.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,White Wines,"Chardonnay, Antinori Bramito, Umbria",,$15.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,White Wines,"Chardonnay, Franciscan, Monterey & Napa",,$13.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,White Wines,"Vermentino, Picco Del Sole, Sardegna",,$12.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,Red Wines,"Pinot Noir, Saddlebred Cellars, Sicilia",,$12.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,Red Wines,"Cabernet Sauvignon, Ca'Donini, Veneto",,$11.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,Red Wines,"Cabernet Sauvignon, Sterling Vintner's, California",,$13.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,Red Wines,"Malbec, Amalaya, Calchaqui Valley",,$13.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,Red Wines,"Chianti, Melini, Toscana",,$11.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,Red Wines,"Super Tuscan, Poderi Melini ""Bonorli"", Tuscany",,$15.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,Red Wines,"Montepulciano, D'Abruzzo DOC ""Arché,"" Abruzzo",,$12.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,Red Wines,"Nero d'Avola, Calea, Sicilia",,$13.00
+Forno Bistro,https://www.fornobistro.com/,Wine List,Red Wines,"Nebbiolo, Podere Ruggeri Corsini, Piedmont",,$14.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Forno Classics,Tito-Rita,"Tito's Vodka, Orange Liqueur, Simple Syrup, Lime Juice",$15.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Forno Classics,Creamy Espresso Martini,"Vodka, Kahlua, Bailey's Irish Cream, Fresh Pressed Espresso",$18.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Forno Classics,Dark Espresso Martini,"Vodka, Kahlua, Simple Syrup, Fresh Pressed Espresso",$16.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Forno Classics,Blood Orange Martini,"Orange Vodka, Triple Sec, Pomegranate Liqueur, Orange Liqueur, Blood Orange Purée",$14.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Forno Classics,Lemon Drop Martini,"Vodka, Limoncello, Crème De Cassis, Lemon Juice",$14.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Forno Classics,Amaro Amore,"Bulleit Bourbon, Carpano Antica Vermouth, Amaro, Burnt Orange Peel",$16.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Specialty Cocktails,Sangria Rosso,"Cabernet, Brandy, Mulled Cranberry Spiced Syrup, Orange",$12.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Specialty Cocktails,Spiced Cranberry Daiquiri,"Rum, Cranberry Purée, Lemon Juice, Simple Syrup",$16.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Specialty Cocktails,Drunken Pig,"Bacon Fat Washed Rye, Maple Syrup, Sweet Vermouth",$18.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Specialty Cocktails,Ye Old Merry Mez,"Milagro Reposado Tequila, Mezcal, Agave Nectar, Orange Bitters",$15.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Specialty Cocktails,Cinnful Apple,"Gin, Italicus Bergamot Liqueur, Earl Grey Syrup, Lemon",$14.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Specialty Cocktails,Mall Santa,"Farmer's Organic Gin, Cynar, Lemon, Orange",$15.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Specialty Cocktails,Avalanche,"Vodka, RumChata Peppermint, Creme de Mint",$14.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Crafted Mocktails,Cioccolata Calda,"Rich Italian-Style Hot Chocolate, Whipped Cream, Cocoa Dusting",$8.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Crafted Mocktails,Rosso Refresher,"Cherry Italian Soda, Twist of Lime",$8.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Crafted Mocktails,Festive Italian Cream Soda,"Club Soda, Strawberry Syrup, Cream, Whipped Cream, Sprinkles",$8.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Crafted Mocktails,Hibiscus Ginger Sipper,"Hibiscus Tea, Ginger Ale, Lemon Wheel",$8.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Winter Warmers,Velvet Hot Chocolate,"Rich Italian-Style Hot Chocolate, Disaronno Velvet, Whipped Cream, Cocoa Dusting",$12.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Winter Warmers,Irish Coffee,"House-brewed Americano, Jameson & Baileys Irish Cream, Whipped Cream",$12.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Winter Warmers,Hot Toddy,"Earl Grey Tea, Traveler Whiskey, Honey, Lemon",$12.00
+Forno Bistro,https://www.fornobistro.com/,At the Bar,Winter Warmers,Italiano Americano,"House-brewed Espresso, Amaretto",$12.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Salads,Casa,"Artisan Greens, Cucumber, Red Onion, Blistered Tomatoes, White Balsamic Lemon Vinaigrette",$9.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Salads,Cesare,"Romaine, Blistered Tomatoes, Grana Padano Crisp, Caesar Dressing",$10.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Salads,Iceberg,"Baby Iceberg Lettuce, Honey-Balsamic Tomato Confit, Onion, Pancetta, Buttermilk-Gorgonzola Dressing",$10.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Pizza,White Truffle,"White Sauce, Fontina, Mushroom Mix, Shallots, Truffle Oil",$13.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Pizza,Margherita,"Crushed Tomato Sauce, Fresh Mozzarella, Fresh Basil",$12.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Pizza,Panzarotti,"Deep Fried Calzone, Prosciutto, Basil, Whipped Ricotta, Mozzarella, Crushed Tomato Sauce",$12.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Small Bites,Calamaretti Fritti,"Fried Calamari, Crushed Tomato Sauce, Lemon",$13.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Small Bites,Bruschetta,"Diced Tomatoes, Garlic, Basil, Olive Oil, Arugula Pesto, Parmigiano, Balsamic Drizzle",$10.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Small Bites,Arancini,"(4) House-Made Fried Tomato Rice Balls, Crushed Tomato Sauce",$10.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Small Bites,Polpette,"(3) Hand-Rolled Meatballs of Veal, Pork, and Beef, Wood-Fired with Mozzarella and Parmigiano",$12.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Pasta,Rigatoni Bolognese,"Rigatoni, Beef, Pork and Tomato Ragu, Grana Padano, Touch of Cream",$12.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Pasta,Cacio E Pepe,"Linguine, Grana Padano Cheese, Butter, Black Pepper",$11.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Pasta,Penne Alla Vodka,"Penne Pasta, Parmesan Crusted Chicken Cutlet, Vodka Pink Sauce, Crushed Red Pepper",$13.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Wine,Cavazza Pinot Grigio,,$7.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Wine,Silver Gate Chardonnay,,$7.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Wine,Ca'Donini Cabernet Sauvignon,,$7.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Wine,Mellini Chianti,,$7.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Wine,Pellegrino Zebo Moscato,,$7.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Wine,Sangria,,$8.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Cocktails,Cosmopolitan,"Vodka, Triple Sec, Fresh Lime Juice, Splash of Cranberry",$10.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Cocktails,Margarita,"Tequila, Triple Sec, Fresh Lemon & Lime Juice, Splash of Orange Juice",$10.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Cocktails,Blood Orange Martini,"Orange Vodka, Triple Sec, Pomegranate liqueur, Orange Liqueur, Blood Orange Purée",$10.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Cocktails,Lemon Drop Martini,"Vodka, Limoncello, Fresh Lemon Juice",$10.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Cocktails,Raspberry Lemon Drop Martini,"Raspberry Vodka, Crème De Cassis, Limoncello, Fresh Lemon Juice",$10.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Cocktails,Forno Sour,"Bourbon, Pomegranate Liqueur, Fresh Lemon Juice, Simple Syrup",$10.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Cocktails,Orange Spritz,"Prosecco, Locally Made Orangecello, Club Soda, Orange Slice",$10.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Cocktails,Surfside,"Iced Tea & Lemonade, Vodka",$6.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Draft Beer,Samuel Adams Seasonal,Beer with a purpose. Brewed in collaboration with Wolf Hollow Brewing Company. Each beer sold benefits a local nonprofit. Ask your server about the current brew.,$6.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Draft Beer,Samuel Adams Seasonal,,$6.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Draft Beer,Peroni,,$6.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Draft Beer,Ommegang Witte,,$6.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Draft Beer,Miller Lite,,$6.00
+Forno Bistro,https://www.fornobistro.com/,Happy Hour,Draft Beer,Helping HanDZ,Beer with a purpose. Brewed in collaboration with Wolf Hollow Brewing Company. Each beer sold benefits a local nonprofit. Ask your server about the current brew.,$6.00
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Antipasti E Insalate,Insalata Cesare,"Romaine hearts, caesar dressing, blistered cherry tomato, white anchovy, parmigiano crisp | Add Chicken: $15.00 | Add Shrimp: $20.00",1/2 Tray $65.00
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Antipasti E Insalate,Insalata Della Casa,"Artisan greens, fresh cucumber, shaved red onion, blistered cherry tomatoes, house white balsamic lemon vinaigrette | Add Chicken: $15.00 | Add Shrimp: $20.00",1/2 Tray $65.00
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Antipasti E Insalate,Caprese Skewers,"Cherry tomatoes, fresh baby mozzarella, extra virgin olive oil, sea salt, aged balsamic reduction, arugula",1/2 Tray $65.00
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Antipasti E Insalate,Arancini,"Housemade tomato fried rice balls, marinara sauce",1/2 Tray $65.00
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Antipasti E Insalate,Polpette,"Hand rolled meatballs of veal, pork and beef, woodfired with mozzarella and parmigiano",1/2 Tray $75.00
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Antipasti E Insalate,Gamberi Carciofi,"Wood-fired roasted shrimp, stemmed artichokes, cannellini beans, roasted tomatoes, fresh thyme, extra virgin olive oil (side of balsamic reduction optional)",1/2 Tray $85.00
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Antipasti E Insalate,Torte di Granchio,"Wood-fired crab cakes, cherry pepper remoulade, honey-balsamic tomatoes",$100.00
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Primi E Secondi,Penne Pomodoro,"Penne, crushed tomato sauce, garlic, fresh basil, extra virgin olive oil",1/2 Tray $75.00
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Primi E Secondi,Lasagna Tradizionale,Traditional meat and Besciamella lasagna,1/2 Tray $95.00
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Primi E Secondi,Parmigiana Di Melanzane,"Fried eggplant, fresh mozzarella, marinara sauce, basil, extra virgin olive oil",1/2 Tray $85.00
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Primi E Secondi,Salsiccia di Peperoncino,"Rigatoni pasta, sausage, eggplant, crushed red pepper flake, garlic, white wine, crushed tomato sauce",1/2 Tray $90.00
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Primi E Secondi,Mezzanine Otero,"Pennette, chicken, sundried tomatoes and fresh tarragon in a delicate pink sauce",1/2 Tray $90.00
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Primi E Secondi,Rigatoni Vegetali,"Rigatoni, shaved Brussels sprouts, butternut squash, maple-sage butter",1/2 Tray $90.00
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Primi E Secondi,Pollo Panato,"Tender breaded chicken breast, melted mozzarella and fontina, crispy prosciutto, bruschetta, lemon, fresh herbs",1/2 Tray $95.00
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Primi E Secondi,Bistecca,Steak of the day,1/2 Tray
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Primi E Secondi,Salmone,Grilled salmon in a lemon-caper butter,1/2 Tray
+Forno Bistro,https://www.fornobistro.com/,DZ At Home,Dolci,Cannoli,"House-made mini cannoli with rum and ricotta filling, chocolate shavings",1/2 Tray $55.00

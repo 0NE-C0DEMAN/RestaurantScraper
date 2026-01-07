@@ -1,0 +1,56 @@
+restaurant_name,restaurant_url,menu_name,menu_type,section,name,description,price
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,THE BASICS,Bud Light,Light Lager | 4.2% ABV | Brewery: Anheuser-Busch,12oz $4.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,THE BASICS,Budweiser,Lager | 5% ABV | Brewery: Anheuser-Busch,12oz $4.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,THE BASICS,Coors Light,Light Lager | 4.2% ABV | Brewery: Coors Brewing Company,12oz $4.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,THE BASICS,Labatt Blue Light,Pilsner | 4% ABV | Brewery: Labatt Brewing Company,12oz $4.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,THE BASICS,Michelob ULTRA,Light Lager | 4.2% ABV | Brewery: Anheuser-Busch,12oz $4.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,THE BASICS,Miller Lite,Light Lager | 4.2% ABV | Brewery: Miller Brewing Company,12oz $4.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,THE BASICS,Pabst Blue Ribbon,Lager | 4.7% ABV | Brewery: Pabst Brewing Company,16oz $4.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,THE BASICS,Yuengling - Flight,Light Lager | 4.2% ABV | Brewery: Yuengling Brewery,12oz $4.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,THE BASICS,Corona Light,Lager | 4.1% ABV | Brewery: Grupo Modelo,12oz $5.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,THE BASICS,Yuengling Lager,4.5% ABV | Brewery: Yuengling Brewery,16oz $5.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,THE BASICS,Corona Extra,Lager - Mexican | 4.5% ABV | Brewery: Grupo Modelo,16oz $6.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,THE BASICS,Heineken,Lager - Pale | 5% ABV | Brewery: Heineken,16oz $6.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,THE BASICS,Heineken Light,Lager | 4% ABV | Brewery: Heineken,16oz $6.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,THE BASICS,Modelo Especial,Lager - Mexican | 4.5% ABV | Brewery: Grupo Modelo,16oz $6.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE HOPS,Whitman - Range Session,Session IPA | 5% ABV | Brewery: Whitman Brewing Company,16oz $7.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE HOPS,Zero Gravity - Conehead Haze,NEIPA | 6.3% ABV | Brewery: Zero Gravity Beer,16oz $7.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE HOPS,Equilibrium - Neutrino,Pale Ale | 4.5% ABV | Brewery: Equilibrium Brewery,16oz $8.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE HOPS,Equilibrium - Photon,Pale Ale | 4.8% ABV | Brewery: Equilibrium Brewery,16oz $8.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE HOPS,Fiddlehead IPA,IPA | 6.2% ABV | Brewery: Fiddlehead Brewing Company,16oz $8.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE HOPS,Foam - The Nameless,NEIPA | 7% ABV | Brewery: Foam Brewers,16oz $8.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE HOPS,Lawsons - Little Sip,IPA | 6.2% ABV | Brewery: Lawson’s Finest Liquids,16oz $8.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE HOPS,Speckled Pig - Restitution,NEIPA | 6.8% ABV | Brewery: Speckled Pig Brewing Co,16oz $8.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE HOPS,Thin Man/Other Half - Risotto Moon Rover,Pale Ale | 4.5% ABV | Brewery: Thin Man Brewery,16oz $8.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE HOPS,Hudson Valley - Theta,IPA - New England | 7% ABV | Brewery: Hudson Valley Brewery,16oz $9.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE HOPS,Lawsons - Sip of Sunshine,Double IPA | 8% ABV | Brewery: Lawson’s Finest Liquids,16oz $10.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,NA BEERS,Heineken 0.0,Non-Alcoholic - Lager | Brewery: Heineken,12oz $5.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,NA BEERS,Athletic - Run Wild IPA,Non-Alcoholic - IPA | 0.5% ABV | Brewery: Athletic Brewing Company,12oz $5.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,NA BEERS,Guinness Draught 0.0,Non-Alcoholic - Porter | Brewery: Guinness,12oz $6.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,SEASONAL BEERS,Zero Gravity - Oktoberfest,Märzen | 5.4% ABV | Brewery: Zero Gravity Beer,12oz $5.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,SEASONAL BEERS,Community Beer Works - Pumpkin Spice Whale,Brown Ale | 5.9% ABV | Brewery: Community Beer Works,16oz $8.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,SOUR STUFF,Aslin - Volcano Sauce,Smoothie | 6% ABV | Brewery: Aslin Beer Company,12oz $7.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,SOUR STUFF,Thin Man - Minkey Boodle,Sour - Fruited | 7% ABV | Brewery: Thin Man Brewery,16oz $10.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,SOUR STUFF,Mortalis - DemiHydra,Sour - Fruited | 5% ABV | Brewery: Mortalis Brewing Company,16oz $12.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,CRAFTY TWIST ON THE BASICS,Garage Beer,Lager - Light | 4% ABV | Brewery: Garage Beer,16oz $6.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,CRAFTY TWIST ON THE BASICS,Switchback Ale,Red Ale | 5% ABV | Brewery: Switchback Brewing Company,16oz $6.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,CRAFTY TWIST ON THE BASICS,Beer Tree - Lager,4.5% ABV | Brewery: Beer Tree Brew Co,16oz $7.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,CRAFTY TWIST ON THE BASICS,Chatham - Tasty Lager,Vienna Lager | 5.5% ABV | Brewery: Chatham Brewing,16oz $7.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,CRAFTY TWIST ON THE BASICS,Common Roots - Capital Light Lager,Lager | 4% ABV | Brewery: Common Roots Brewing Company,16oz $7.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,CRAFTY TWIST ON THE BASICS,Paradox - The Great Kölsch Affair,Kölsch | 5% ABV | Brewery: Paradox Brewery,16oz $7.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,CRAFTY TWIST ON THE BASICS,Return Brewing - Polished,Pilsner | 5.2% ABV | Brewery: Return Brewing,16oz $7.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,CRAFTY TWIST ON THE BASICS,Torch & Crown - Tenement Pilsner,Pilsner | 4.9% ABV | Brewery: Torch & Crown Brewing Company,16oz $7.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,CRAFTY TWIST ON THE BASICS,Allagash White,Wheat Beer - Witbier | 5.2% ABV | Brewery: Allagash Brewing Company,16oz $8.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,CRAFTY TWIST ON THE BASICS,Foam - Tasman Sun,Pilsner - New Zealand | 4.2% ABV | Brewery: Foam Brewers,16oz $8.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,CRAFTY TWIST ON THE BASICS,Hudson Valley - Enjoyer,Lager | 5% ABV | Brewery: Hudson Valley Brewery,16oz $8.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE REST,Angry Orchard - Crisp Apple,Cider | 5% ABV | Brewery: Angry Orchard Hard Cider,12oz $5.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE REST,Downeast - Cider Donut,Cider | 5.1% ABV | Brewery: Downeast Cider House,12oz $6.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE REST,White Claw - Black Cherry,Seltzer | 5% ABV | Brewery: White Claw,16oz $6.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE REST,Adirondack - Bourbon Lemonade,Hard Seltzer | 6% ABV | Brewery: Adirondack Brewery,12oz $7.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE REST,Adirondack - Sapphire Twilight,Cider | 7% ABV | Brewery: Adirondack Brewery,16oz $7.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,ALL THE REST,High Noons,Cocktail | 4.5% ABV,12oz $8.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,LAST CALL,Aslin - Old Town Lager,Lager | 4% ABV | Brewery: Aslin Beer Company,12oz $3.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,LAST CALL,Brooklyn - Summer Ale,Pale Ale | 5% ABV | Brewery: Brooklyn Brewery,12oz $4.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,LAST CALL,Frog Alley - Mexican Lager,Lager | 4.7% ABV | Brewery: Frog Alley Brewing,12oz $5.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,LAST CALL,Mighty Squirrel - Team India,Lager - Other | 5% ABV | Brewery: Mighty Squirrel Brewing Co.,16oz $5.00
+The Hideaway,https://www.hideawaysaratoga.com/,Beverages Menu,Beverages,LAST CALL,Whitman - King Murphy,Lager | 5% ABV | Brewery: Whitman Brewing Company,16oz $6.00

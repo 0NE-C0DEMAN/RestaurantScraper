@@ -1,0 +1,310 @@
+restaurant_name,restaurant_url,section,name,description,price
+King's Tavern,https://kingstavern.ca/,Main Menu - APPETIZER,BACON CHEESE RICE BALLS,"Panko crusted risotto rice balls stuffed with smoked bacon, green onion, and cheddar cheese fried to golden brown. Served over creamy marinara sauce",$14.00
+King's Tavern,https://kingstavern.ca/,Main Menu - APPETIZER,CHICKEN TAQUITOS,"Roasted chicken, pico de gallo, cilantro and Tex-Mex cheese served with guacamole and sour cream",$14.00
+King's Tavern,https://kingstavern.ca/,Main Menu - APPETIZER,BLUE CRAB CAKES,Served with curry Mayonnaise,$15.00
+King's Tavern,https://kingstavern.ca/,Main Menu - APPETIZER,PEROGIES,"Topped with sautéed onions, bacon and cheese. Served with sour cream",$12.00
+King's Tavern,https://kingstavern.ca/,Main Menu - APPETIZER,THAI CHICKEN & CHIPS,Crispy Thai Chicken tenders served over lattice fries drizzled with tangy Thai-glace,$15.00
+King's Tavern,https://kingstavern.ca/,Main Menu - APPETIZER,FETA BRUSCHETTA,Garlic aioli and balsamic glace,$13.00
+King's Tavern,https://kingstavern.ca/,Main Menu - APPETIZER,CHICKEN QUESADILLA,"Oven baked tortilla stuffed with Mexican spiced chicken breast, bell peppers, onions, pico de gallo. Served with sour cream and salsa.",$16.00
+King's Tavern,https://kingstavern.ca/,Main Menu - APPETIZER,COCONUT SHRIMP,Served with sweet chili Thai sauce,$15.00
+King's Tavern,https://kingstavern.ca/,Main Menu - APPETIZER,CRISPY CALAMARI,"Lightly breaded calamari, peppers and jalapeños fried to golden brown. Served with southern ranch chipotle mayo",$15.00
+King's Tavern,https://kingstavern.ca/,Main Menu - APPETIZER,GARLIC BREAD,Traditional garlic butter on Italian bread. Add cheese $4 | bacon $5,$8.00
+King's Tavern,https://kingstavern.ca/,Main Menu - APPETIZER,CHICKEN 65,Deep fried Boneless chicken with authentic Indian spices.,$16.00
+King's Tavern,https://kingstavern.ca/,Main Menu - APPETIZER,REUBEN FRITTERS,"Deep fried corned beef, Swiss cheese and sauerkraut. Served with horse radish and garlic aioli.",$15.00
+King's Tavern,https://kingstavern.ca/,Main Menu - APPETIZER,CRACKED BLACK PEPPER & HIMALAYAN SALT DRY RIBS,In house cut and marinated riblets fried and seasoned. Served with tangy Thai dipping sauce.,$15.00
+King's Tavern,https://kingstavern.ca/,Main Menu - DIP IT,SPINACH DIP,"Oven baked lobster meat, crab meat, onion, red peppers and cream cheese blend topped with Tex-Mex cheese. Served with tortilla chips and warm pita bread",$14.00
+King's Tavern,https://kingstavern.ca/,Main Menu - DIP IT,LOBSTER DIP,"A perfect blend of artichoke, spinach, onions and cream cheese. Served with tortilla chips and warm pita bread for dipping",$15.00
+King's Tavern,https://kingstavern.ca/,Main Menu - PUB APPS,MOZZARELLA STICKS,,$13.00
+King's Tavern,https://kingstavern.ca/,Main Menu - PUB APPS,FRIED CHEESE CURDS,,$13.00
+King's Tavern,https://kingstavern.ca/,Main Menu - PUB APPS,STUFFED POTATO SKINS,,$13.00
+King's Tavern,https://kingstavern.ca/,Main Menu - PUB APPS,DILL PICKLES,,$12.00
+King's Tavern,https://kingstavern.ca/,Main Menu - PUB APPS,CAULIFLOWER BITES,,$13.00
+King's Tavern,https://kingstavern.ca/,Main Menu - MEXICAN DELIGHT,BLACKENED FISH TACO,"Blackened haddock on fried flour tortillas with sour cream, pico de gallo and spicy avocado aioli",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - MEXICAN DELIGHT,JERK CHICKEN TACO,"Jerk chicken, and pineapple on fried flour tortillas with sour cream, pico de gallo and spicy avocado aioli",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - MEXICAN DELIGHT,STREET BOYZ TACO,"Pulled pork, shrimp on fried flour tortilla with pico de gallo & spicy avocado aioli.",$18.00
+King's Tavern,https://kingstavern.ca/,Main Menu - MEXICAN DELIGHT,FAJITAS,"A skillet loaded with sweet onions & peppers and your choice of steak, chicken or shrimp. Served with jambalaya rice, flour tortillas, cheese, tomato, shredded lettuce, salsa and sour cream",$21.00
+King's Tavern,https://kingstavern.ca/,Main Menu - MEXICAN DELIGHT,MUSSEL LOVERS,"Fresh PEl mussels with bell peppers, onions and smoked bacon. Steamed with your choice of white wine gorgonzola cream sauce, coconut curry sauce or spicy tomato sauce",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - MEXICAN DELIGHT,TAPAS GRILL,"Grilled chicken souvlaki, shrimp and baby squid served with Greek salad and tzatziki sauce",$21.00
+King's Tavern,https://kingstavern.ca/,Main Menu - NACHOS,NACHO GRANDE,"Multi coloured corn chips loaded with Tex-Mex cheese, tomatoes, lettuce, green onions, black olive. Add chicken, chili or pork $6",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - NACHOS,IRISH NACHOS,"Crispy lattice fries loaded with Tex-Mex cheese, crispy bacon, green onion, jalapenos and tomato. Served with sour cream and guacamole",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - NACHOS,NACHO TOCHO,"Crispy potato tots with Tex-Mex cheese, chili, pico di gallo, drizzle with guacamole & sour cream.",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - POUTINE,CLASSIC,"French fries, cheese curds and gravy",$13.00
+King's Tavern,https://kingstavern.ca/,Main Menu - POUTINE,BACON CHEESE BURGER,"Traditional cheesy poutine with ground beef, bacon and cheddar cheese",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - POUTINE,BUTTER CHICKEN POUTINE,"Lattice fries, cheese curds and butter chicken curry",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - POUTINE,CHICKEN BLT,"Our classic cheese curd poutine topped with chicken, bacon, caramelized onion, lettuce and tomato",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - POUTINE,PULLED PORK POUTINE,Our classic cheese curd poutine topped with pulled pork and onion straws,$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SANDWICHES,BEEF TENDERLOIN PHILLY,"Sautéed bell peppers, red onion and mozzarella cheese on a ciabatta bun.",$19.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SANDWICHES,STEAK MELT,"7 oz. New York steak grilled to perfection, topped with sautéed mushrooms, onions and melted Swiss cheese. Served on a ciabatta bun.",$20.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SANDWICHES,SOUTHERN FRIED CHICKEN,"Buttermilk marinated fried chicken, bacon, swiss cheese, chipotle mayo, lettuce, tomato and pickle on a ciabatta bun.",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SANDWICHES,CHICKEN CLUB OR TURKEY CLUB,"Grilled chicken or turkey breast with smoked bacon, cheddar cheese, lettuce and tomato.",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SANDWICHES,COCONUT CHICKEN MELT,"Coconut crusted chicken breast, pineapple, ham, Swiss cheese, lettuce, tomatoes, chef's mayo with toasted ciabatta bun.",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SANDWICHES,PULLED PORK,"Slow roasted tender pulled pork, smothered in Guinness BBQ sauce, topped with crispy straw onions and TexMex cheese. Served on a brioche bun",$16.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SANDWICHES,DELI REUBEN,"Shaved smoked meat topped with sauerkraut, Russian dressing and Swiss cheese, grilled to perfection on light rye bread",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SANDWICHES,FRENCH BEEF DIP,Shaved roast beef piled high on a fresh ciabatta bun. Melted with Swiss cheese. Served with hot au jus & horse radish aioli.,$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - WRAPS,CHICKEN GOAT CHEESE WRAP,"Grilled balsamic chicken, spinach, roasted red peppers and goat cheese",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - WRAPS,BUFFALO WRAP,"Chicken fingers tossed in buffalo sauce, wrapped with tomatoes, lettuce and Tex-Mex cheese",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - WRAPS,SOUTHWEST CHICKEN WRAP,"Tex-Mex chicken, avocado, lettuce, tomato, Tex-Mex cheese and Cajun aioli",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - WRAPS,CHICKEN FINGER WRAP,"Chicken fingers wrapped with tomatoes, lettuce, Tex-Mex cheese and ranch dressing",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - WRAPS,GRILLED VEGETABLES & CHICKEN WRAP,"Grilled chicken & vegetables, lettuce, balsamic glaze and garlic aioli.",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SOUPS & GREENS,SOUP OF THE DAY,Made fresh every day. Served with a warm roll and crackers,$7.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SOUPS & GREENS,FRENCH ONION SOUP,,$8.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SOUPS & GREENS,CAESAR,Crisp romaine lettuce tossed in a creamy garlic sauce topped with croutons and parmesan cheese,Small $10.00 | Large $14.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SOUPS & GREENS,GREEK,"Crisp romaine lettuce topped with tomatoes, cucumber, sweet bell peppers, red onion, kalamata olives and feta cheese. Served with homemade Greek dressing",Small $10.00 | Large $14.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SOUPS & GREENS,SOUP SALAD BRUSCHETTA,"A bowl of our daily homemade soup. Served with your choice of Caesar, Greek or Chef salad & freshly made bruschetta Add French Onion $4",$15.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SOUPS & GREENS,BEEF TENDERLOIN CAPRESE,"Fresh mix greens filled with balsamic marinated tenderloin, grape tomatoes, fresh mozzarella, red onions and fresh basil extra virgin olive oil",$22.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SOUPS & GREENS,JULIENNE SALAD,"Swiss and cheddar cheeses, peameal bacon, grilled chicken breast, hard boiled egg, tomatoes, cucumber, bell peppers and red onions. Served over a bed of crisp greens",$20.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SOUPS & GREENS,GRILLED VEGETABLES & WARM GOAT CHEESE SALAD,"House mix greens with grilled eggplant, zucchini, red peppers, green peppers and asparagus, topped with warm goat cheese and drizzled with balsamic reduction",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SOUPS & GREENS,ROASTED SQUASH AND BEETROOT SALAD,"Baby spinach, warm beetroot, avocado, cherry tomatoes, red onions, roasted butternut squash, roasted walnuts and goat cheese with balsamic dressing",$17.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SOUPS & GREENS,TWISTED BURRATA BOWL,"Baby spinach, crisp romaine lettuce, cherry tomatoes, red onions, cucumbers with almonds panko fried burrata cheese.",$20.00
+King's Tavern,https://kingstavern.ca/,Main Menu - SOUPS & GREENS,CALIFORNIA BLACKENED SALMON SALAD,"Baby spinach, grilled portobello mushroom, cherry tomatoes, avocado, goat cheese and roasted walnuts with balsamic dressing topped with blackened salmon",$21.00
+King's Tavern,https://kingstavern.ca/,Main Menu - For The Table,DEEP FRIED PLATTER,"Chicken 65, Signature wings, mozzarella sticks, stuffed potato skins, dill pickles, onion rings, garlic bread with cheese, veggie sticks and dipping sauces",$34
+King's Tavern,https://kingstavern.ca/,Main Menu - For The Table,SEAFOOD PLATTER,"Blue Crab cakes, fried calamari, coconut shrimp and fresh PEI mussels in a white wine cream sauce. Served with dips",$34
+King's Tavern,https://kingstavern.ca/,Main Menu - Pub Fare,BEEF TENDERLOIN PIE,"Braised beef tenderloin tips in a portobello mushrooms demi-glace, baked with puff pastry and topped with beef gravy. Served with your choice of side",$19
+King's Tavern,https://kingstavern.ca/,Main Menu - Pub Fare,BLANKET WRAP MEAT LOAF,Homemade meatloaf wrapped in bacon with mushrooms and onion merlot demi. Served with mashed potatoes and steamed vegetables,$19
+King's Tavern,https://kingstavern.ca/,Main Menu - Pub Fare,SHEPHERD'S PIE,"A seasoned mix of minced sirloin, corn, green peas, diced carrots, celery and onions topped with mashed potatoes, cheddar cheese baked until golden brown. Served with your choice of side",$17
+King's Tavern,https://kingstavern.ca/,Main Menu - Pub Fare,CHICKEN TENDERS,"Breaded, house spiced marinated chicken tenders fried to golden brown. Served with fries and plum sauce",$17
+King's Tavern,https://kingstavern.ca/,Main Menu - Pub Fare,CHICKEN POT PIE,"A blend of carrots, onions, celery, chicken in a creamy sauce and topped with golden pastry. Served with a choice of a side.",$18
+King's Tavern,https://kingstavern.ca/,Main Menu - Pub Fare,BEEF STUFFED YORKSHIRE,"Shaved roast beef, sautéed onions, mushrooms and gravy in a homemade Yorkshire pudding. Served with a choice of side",$19
+King's Tavern,https://kingstavern.ca/,Main Menu - Pub Fare,FISH & CHIPS,Beer battered haddock filet fried to golden brown. Served with French fries and coleslaw,$19
+King's Tavern,https://kingstavern.ca/,Main Menu - Our Famous BBQ Ribs & Wings,PORK SIDE RIBS,BOTH SERVED WITH CHOICE OF SIDE,HALF $18 | FULL $24
+King's Tavern,https://kingstavern.ca/,Main Menu - Our Famous BBQ Ribs & Wings,"WINGS, VEGGIES & DIP",,1LB $16 | 2LB $29
+King's Tavern,https://kingstavern.ca/,Main Menu - Our Famous BBQ Ribs & Wings,"WINGS, FRIES & DIP",,1LB $18
+King's Tavern,https://kingstavern.ca/,Main Menu - Our Famous BBQ Ribs & Wings,RIB & WING COMBO,,$24
+King's Tavern,https://kingstavern.ca/,Main Menu - Asian Delights,BOMBAY BUTTER CHICKEN,"Tender chicken cooked with butter chicken sauce. Served on a bed of steamed basmati rice, naan bread and fresh tomato coriander salsa",$20
+King's Tavern,https://kingstavern.ca/,Main Menu - Asian Delights,CHICKEN & SHRIMP PAD THAI,"Rice noodles with chicken, black tiger shrimp, green onions, bell peppers, bean sprouts and fried egg, tossed in a tangy pad Thai sauce and topped with crushed peanuts",$21
+King's Tavern,https://kingstavern.ca/,Main Menu - Asian Delights,SPICY THAI CHICKEN STIR-FRY,"Grilled chicken breast, bell peppers, onions and broccoli tossed in a homemade spicy Thai sauce. Served on a bed of basmati rice or linguine noodles topped with green onion, carrot and beans sprouts mix",$19
+King's Tavern,https://kingstavern.ca/,Main Menu - Asian Delights,VEGETABLE PAD THAI,"Rice noodles with mushrooms, green onions, bell peppers, broccoli, carrots, bean sprouts and fried egg, tossed in a tangy pad Thai sauce and topped with crushed peanuts",$17
+King's Tavern,https://kingstavern.ca/,Main Menu - Asian Delights,CHICKEN CURRY,"Tender chicken cooked in authentic Indian curry sauce. Served on a bed of steamed basmati rice, naan bread and fresh tomato coriander salsa.",$19
+King's Tavern,https://kingstavern.ca/,Main Menu - Burgers,CHEF BURGER,"Aged cheddar cheese, smoked bacon, piled high with onion straws and chipotle mayo sauce",$17
+King's Tavern,https://kingstavern.ca/,Main Menu - Burgers,GRAND SLAM BURGER,"Double prime rib burger topped with sautéed mushroom, cheddar cheese, Swiss cheese and fried onion",$21
+King's Tavern,https://kingstavern.ca/,Main Menu - Burgers,BISON BURGER,"Smoked bacon, fried jalapenos, cheddar cheese and crispy onion",$19
+King's Tavern,https://kingstavern.ca/,Main Menu - Burgers,LOADED SWISS BURGER,"Smoked bacon, sautéed mushroom, onion and Swiss cheese",$17
+King's Tavern,https://kingstavern.ca/,Main Menu - Burgers,SASQUATCH BURGER,"Peameal bacon, fried egg and cheddar cheese",$17
+King's Tavern,https://kingstavern.ca/,Main Menu - Burgers,VEGGIE BURGER,"Grilled portobello, avocado and warm goat cheese",$17
+King's Tavern,https://kingstavern.ca/,Main Menu - Burgers,PRIME RIB BURGER DELUXE,Mix cheese and crispy bacon,$17
+King's Tavern,https://kingstavern.ca/,Main Menu - Burgers,KINGS SMASHED BURGER,"Double smashed patty with brie cheese, caramelized bourbon chipotle mushrooms, bacon, onions & chef mayo.",$19
+King's Tavern,https://kingstavern.ca/,Main Menu - Burgers,SMASHED DOUBLE DECKER,"Double smashed patty with cheddar cheese, fried jalapeno, bacon, crispy onion & chef mayo.",$20
+King's Tavern,https://kingstavern.ca/,Main Menu - Burgers,SMASHED BURGER GRILLED CHEESE,"Double smashed patty with bacon, caramelized bourbon chipotle onion, tomato, cheddar and swiss cheese. Choice of bread.",$20
+King's Tavern,https://kingstavern.ca/,Main Menu - Chicken,CHICKEN SOUVLAKI,"A double skewer of marinated chicken on a bed of pilaf rice. Served with roasted Greek potatoes, Greek salad and tzatziki",$21
+King's Tavern,https://kingstavern.ca/,Main Menu - Chicken,GARLIC JALAPEÑOS CHICKEN,Breaded chicken breast in a rich garlic jalapeños cream sauce. Served with steamed basmati rice and Greek salad,$21
+King's Tavern,https://kingstavern.ca/,Main Menu - Chicken,MARSALA CHICKEN,"Pan sizzled chicken breast topped with bacon & wild mushrooms, marsala red wine glace. Served with Greek potatoes and steamed seasonal vegetables.",$19
+King's Tavern,https://kingstavern.ca/,Main Menu - Steak,STEAK & LOBSTER,"Grilled 10oz strip-loin steak topped with Lobster tail and sautéed mushrooms, onions, peppercorn demi glace. Served with mashed potatoes and steamed vegetables",$36
+King's Tavern,https://kingstavern.ca/,Main Menu - Steak,JUST GRILLED STEAK,"Grilled 10oz Angus steak, red wine peppercorn demi glace, mashed potatoes and seasonal vegetables",$30
+King's Tavern,https://kingstavern.ca/,Main Menu - Steak,"LIVER, BACON & ONION",Served with mashed potatoes and seasonal vegetables and gravy,$20
+King's Tavern,https://kingstavern.ca/,Main Menu - Steak,SURF & TURF,8 oz filet mignon & bacon wrapped scallops. Topped with red wine peppercorn demi glace. Served with creamy mashed potatoes & steamed seasonal vegetables.,$36
+King's Tavern,https://kingstavern.ca/,Main Menu - Seafood,LOUISIANA SEAFOOD BOWL,"Cuban Lobster tail, Fresh PEI mussels, black tiger shrimp, calamari and scallops in a white wine lightly spiced tomato sauce. Served with lightly toasted baguette",$31
+King's Tavern,https://kingstavern.ca/,Main Menu - Seafood,ATLANTIC SALMON AND JUMBO SCALLOP,Baked Atlantic salmon with jumbo scallops and strawberry mango apple glaze. Served with pilaf rice and steamed seasonal vegetables.,$25
+King's Tavern,https://kingstavern.ca/,Main Menu - Seafood,ANGRY SALMON AND SHRIMP,"Linguine pasta with black tiger shrimp, bell peppers, artichoke hearts and baby spinach in a rose sauce, topped with baked spicy Cajun Atlantic Salmon",$25
+King's Tavern,https://kingstavern.ca/,Main Menu - Fresh Pasta,GORGNZOLA LOBSTER PASTA,"Fresh fettuccine pasta with whole lobster tail, black tiger shrimp, portobello mushrooms, baby spinach and red onions in a gorgonzola cream sauce",$25
+King's Tavern,https://kingstavern.ca/,Main Menu - Fresh Pasta,FRESH FETTUCCINE ALFREDO,Fettuccine tossed in creamy alfredo sauce. Add Grilled chicken breast - 6 or Tiger shrimp - 7,$14
+King's Tavern,https://kingstavern.ca/,Main Menu - Fresh Pasta,SEAFOOD LINGUINE,"Fresh linguine pasta with fresh mussels, tiger shrimp, jumbo scallops, baby squid and fresh lemon juice in a fresh herbs garlic tomato sauce",$25
+King's Tavern,https://kingstavern.ca/,Main Menu - Fresh Pasta,SPINACH & GOAT CHEESE PENNE,"Portobello mushrooms, red onions, roasted red peppers, black olives & baby spinach in sundried tomato pesto cream sauce.",$18
+King's Tavern,https://kingstavern.ca/,Main Menu - Fresh Pasta,SEAFOOD CURRY PASTA,"Fresh fettuccine with lobster tail, black tiger shrimp, scallops, green onions, red onions and roasted red peppers in a coconut curry cream sauce",$25
+King's Tavern,https://kingstavern.ca/,Main Menu - Fresh Pasta,LOBSTER MAC & CHEESE,Baked with mix cheese and panko parmesan crumbles,$20
+King's Tavern,https://kingstavern.ca/,Main Menu - Fresh Pasta,CHICKEN CARBONARA PASTA,"Fresh linguine pasta with pancetta (Italian bacon), grilled chicken breast, onion and fresh tomato in a classic alfredo sauce",$21
+King's Tavern,https://kingstavern.ca/,Main Menu - Fresh Pasta,SMOKED BACON MAC & CHEESE,Baked with mix cheese and panko parmesan crumbles,$17
+King's Tavern,https://kingstavern.ca/,Main Menu - Fresh Pasta,JAMBALAYA,"Black tiger shrimp, grilled chicken breast, spicy sausage, jalapeños, onions and bell peppers in a Creole sauce. Served on a bed of basmati rice or fresh linguine noodle",$21
+King's Tavern,https://kingstavern.ca/,Main Menu - Fresh Pasta,CAJUN CHICKEN PENNE,"Penne with grilled chicken, wild mushrooms, cherry tomatoes and baby spinach in cajun alfredo cream sauce.",$21
+King's Tavern,https://kingstavern.ca/,Main Menu - Fresh Pasta,MEAT LASAGNA,"Homemade 100% ground beef, baked with three cheeses and served with Caesar salad",$18
+King's Tavern,https://kingstavern.ca/,Main Menu - Fresh Pasta,SCALLOP & SHRIMP LINGUINE,"Linguine with jumbo scallop, black tiger shrimp, red onions, cherry tomato, baby spinach, roasted red pepper in fresh garlic & basil olive oil.",$23
+King's Tavern,https://kingstavern.ca/,Main Menu - Fresh Pasta,VEAL/CHICKEN PARMESAN,Served with Fettuccine in tomato or Alfredo sauce,$20
+King's Tavern,https://kingstavern.ca/,Main Menu - Side Kicks,FRENCH FRIES,,SMALL $8 | LARGE $10
+King's Tavern,https://kingstavern.ca/,Main Menu - Side Kicks,SWEET POTATO FRIES,,SMALL $9 | LARGE $11
+King's Tavern,https://kingstavern.ca/,Main Menu - Side Kicks,LATTICE FRIES,,SMALL $9 | LARGE $11
+King's Tavern,https://kingstavern.ca/,Main Menu - Side Kicks,ONION RINGS,,SMALL $8 | LARGE $10
+King's Tavern,https://kingstavern.ca/,Main Menu - Side Kicks,FRINGS,,SMALL $9 | LARGE $11
+King's Tavern,https://kingstavern.ca/,Main Menu - Side Kicks,VEGGIES & DIP,,$5
+King's Tavern,https://kingstavern.ca/,Main Menu - Side Kicks,LOADED TRUFFLE FRIES,,$14
+King's Tavern,https://kingstavern.ca/,Main Menu - Side Kicks,BOWL OF CHILI,,$11
+King's Tavern,https://kingstavern.ca/,KINGS BREAKFAST MENU,MEATLESS BENEDICT,"English muffin, poached eggs, and hollandaise sauce.",$13
+King's Tavern,https://kingstavern.ca/,KINGS BREAKFAST MENU,EGGS BENEDICT,With pemeal bacon.,$15
+King's Tavern,https://kingstavern.ca/,KINGS BREAKFAST MENU,SMOKED SALMON BENEDICT,English muffin with smoked salmon & hollandaise sauce.,$16
+King's Tavern,https://kingstavern.ca/,KINGS BREAKFAST MENU,STEAK BENEDICT,"7oz NY striploin, poached eggs, English muffin & hollandaise sauce.",$19
+King's Tavern,https://kingstavern.ca/,KINGS BREAKFAST MENU,CALIFORNIA EGGS FLORENTINE,"Sautéed spinach, tomatoes, avocado & hollandaise sauce.",$16
+King's Tavern,https://kingstavern.ca/,Breakfast Menu - BREAKFAST,3 EGGS BREAKFAST,"3 eggs any style, ham, bacon or sausage.",$11
+King's Tavern,https://kingstavern.ca/,Breakfast Menu - BREAKFAST,ULTIMATE BREAKFAST,"3 eggs any style, ham, bacon & sausage.",$15
+King's Tavern,https://kingstavern.ca/,Breakfast Menu - BREAKFAST,KINGS BREAKFAST,"3 eggs any style, bacon, sausage & French toast.",$14
+King's Tavern,https://kingstavern.ca/,Breakfast Menu - BREAKFAST,HUNGRY BREAKFAST,"2 eggs any style, sausage or bacon & French toast.",$13
+King's Tavern,https://kingstavern.ca/,Breakfast Menu - BREAKFAST,STUFFED FRENCH TOAST,3 French toast with berries & home fries.,$15
+King's Tavern,https://kingstavern.ca/,Breakfast Menu - BREAKFAST,STEAK & EGGS,7oz NY striploin and 2 eggs any style.,$20
+King's Tavern,https://kingstavern.ca/,Breakfast Menu - BREAKFAST,BREAKFAST POUTINE,"Home fries, bacon, sausage, & mozzarella cheese topped with fried eggs",$15
+King's Tavern,https://kingstavern.ca/,Breakfast Menu - BREAKFAST,CLASSIC WESTERN SANDWICH,"2 eggs, ham, onions, peppers & cheddar cheese.",$13
+King's Tavern,https://kingstavern.ca/,Breakfast Menu - BREAKFAST,BRIE CHEESE OMELET,"Avocado, fresh peppers, onions, and spinach, with melted brie cheese",$17
+King's Tavern,https://kingstavern.ca/,Breakfast Menu - BREAKFAST,SPINACH & FETA OMELET,"3 eggs, spinach, red onion & feta cheese.",$17
+King's Tavern,https://kingstavern.ca/,Breakfast Menu - BREAKFAST,MEXICAN CHILLI OMELET,"3 eggs, jalapeño, bell peppers, chili & melted cheese.",$17
+King's Tavern,https://kingstavern.ca/,Lunch Menu - LUNCH FAVOURITES,SALMON PICCATA,"Grilled Atlantic salmon with white wine, capers, and fresh lemon. Served with rice pilaf and steamed vegetables.",$17
+King's Tavern,https://kingstavern.ca/,Lunch Menu - LUNCH FAVOURITES,BLUE CHEESE STEAK SALAD,"Spring mix, blackened NY striploin, blue cheese, tomatoes, red onions and cucumbers. Served with your choice of dressing.",$17
+King's Tavern,https://kingstavern.ca/,Lunch Menu - LUNCH FAVOURITES,LUNCH SOUVLAKI,"Greek marinated chicken served with rice pilaf, Greek salad, and Greek potatoes.",$17
+King's Tavern,https://kingstavern.ca/,Lunch Menu - LUNCH FAVOURITES,CHICKEN FINGER SALAD,"Romaine lettuce, mixed cheese, bruschetta mix, cucumbers, topped with chicken fingers and drizzled with ranch dressing.",$17
+King's Tavern,https://kingstavern.ca/,Lunch Menu - LUNCH FAVOURITES,PINEAPPLE SALAD,"Mixed greens, topped with blackened chicken, grilled pineapple, avocado, walnuts, and goat cheese. Served with choice of dressing.",$17
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,KINGS BURGER,"7oz prime rib burger, bacon, cheddar, onion rings and chipotle mayo.",$15
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,DUBLIN CHEESE BURGER,"7oz prime rib burger, corned beef, sauerkraut, and Swiss cheese.",$15
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,LOADED HOT HAMBURGER,"7 oz prime rib burger served on a slice of white bread, topped with mashed potatoes, sautéed onions, mushrooms and smoked bacon, served with gravy and steamed vegetables.",$15
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,CHIPOTLE CHICKEN WRAP,"Cajun grilled chicken, lettuce, tomatoes, Tex-Mex cheese, and chipotle mayo.",$15
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,FRENCH BEEF DIP,Shaved roast beef piled high on a fresh ciabatta bun with melted Swiss cheese. Served with hot au jus.,$15
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,WINGS & TENDERS,Our classic chicken wings (4 pcs) tossed in your favourite wing sauce and chicken tenders (3pcs) tossed in buffalo sauce. Served with French fries.,$16
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,SOUVLAKI ON A PITA,"Marinated grilled chicken breast with wild lettuce, tomatoes, red onions, and topped with tzatziki.",$15
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,HOT BEEF,"Shaved roast beef served on a sliced of bread, topped with sautéed onions and mushrooms. Smothered with gravy and served with choice of side.",$15
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,TURKEY BURGER,"7 oz turkey burger, with mushroom & Swiss cheese.",$15
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,CHILI BURGER,7 oz prime rib topped with chili & mix cheese.,$15
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,PUB CLUB,"Smoked turkey, black forest ham, bacon, lettuce and tomato on a choice of a bread.",$15
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,LUNCH CHICKEN CURRY,"Tender chicken cooked in authentic Indian curry sauce. Served on a bed of steamed basmati rice, with naan bread and fresh tomato & coriander salsa.",$16
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,MEXICAN SALAD,"Crispy romaine, grilled chicken, smoked bacon, grilled pineapple, Tex-Mex cheese and tortilla chips.",$15
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,FISH ON A BUN,"Baked haddock, lettuce, tomato, and tartar sauce.",$15
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,BBQ CHICKEN AVOCADO MELT,BBQ grilled chicken with avocado & melted cheddar.,$15
+King's Tavern,https://kingstavern.ca/,KINGS LUNCH MENU,TANGY THAI STIR-FRY,"Grilled chicken, julienne vegetables, with tangy Thai stir fry sauce.",$15
+King's Tavern,https://kingstavern.ca/,Desserts Menu - Desserts,Caramel Carrot Cheesecake,"A luscious cheesecake filled with chunks of moist carrot cake piled high on a graham base, a special caramel duo blend on top",$9.00
+King's Tavern,https://kingstavern.ca/,Desserts Menu - Desserts,Apple Crumble,House-made apple crumble served in a buttery tart shell with ice cream,$9.00
+King's Tavern,https://kingstavern.ca/,Desserts Menu - Desserts,Crème Brûlée,Classic French dessert consisting of custard topped with caramelized sugar,$9.00
+King's Tavern,https://kingstavern.ca/,Desserts Menu - Desserts,Chocolate Brownie,Baked Chocolate fudge square topped with vanilla ice cream and chocolate sauce,$9.00
+King's Tavern,https://kingstavern.ca/,Desserts Menu - Desserts,Sticky Toffee Pudding,Served with vanilla ice cream,$9.00
+King's Tavern,https://kingstavern.ca/,Kids Menu,Soft Drinks,"(Free Refills)
+Coke, Diet Coke, Sprite, Ginger Ale, Ice Tea",
+King's Tavern,https://kingstavern.ca/,Kids Menu,"Milk, Chocolate Milk, Juices (Apple, Orange), Shirley Temple",(No Refills),$2
+King's Tavern,https://kingstavern.ca/,Kids Menu,DAD'S Root Beer,,$4
+King's Tavern,https://kingstavern.ca/,Kids Menu,Cheese Burger,"Choice of Side: Fries, Onion Rings, Steamed Veggies, Garden or Caesar Salad.",$9
+King's Tavern,https://kingstavern.ca/,Kids Menu,Grilled Cheese,"Choice of Side: Fries, Onion Rings, Steamed Veggies, Garden or Caesar Salad.",$9
+King's Tavern,https://kingstavern.ca/,Kids Menu,Cheese Or Pepperoni Pizza,"Choice of Side: Fries, Onion Rings, Steamed Veggies, Garden or Caesar Salad.",$9
+King's Tavern,https://kingstavern.ca/,Kids Menu,Macaroni & Cheese,"Choice of Side: Fries, Onion Rings, Steamed Veggies, Garden or Caesar Salad.",$9
+King's Tavern,https://kingstavern.ca/,Kids Menu,Kid's BBQ Wings,"Choice of Side: Fries, Onion Rings, Steamed Veggies, Garden or Caesar Salad.",$9
+King's Tavern,https://kingstavern.ca/,Kids Menu,Spaghetti & Meat Balls (No Side),,$9
+King's Tavern,https://kingstavern.ca/,Kids Menu,Kids Chicken Quesadilla,(Chicken& Cheese),$10
+King's Tavern,https://kingstavern.ca/,Kids Menu,Chicken Tenders,,$10
+King's Tavern,https://kingstavern.ca/,Kids Menu,Chapman's Ice Cream,(Vanilla or Chocolate),
+King's Tavern,https://kingstavern.ca/,Daily Specials - Monday,Wings & Fries,,$13.00
+King's Tavern,https://kingstavern.ca/,Daily Specials - Tuesday,Taco,,$5.00
+King's Tavern,https://kingstavern.ca/,Daily Specials - Tuesday,Tequilla,,$5.00
+King's Tavern,https://kingstavern.ca/,Daily Specials - Wednesday,Wing,(All Day),$1.00
+King's Tavern,https://kingstavern.ca/,Daily Specials - Thursday,Pint & Pound,,$16.00
+King's Tavern,https://kingstavern.ca/,Daily Specials - Thursday,Pitcher & 2 Pounds,,$35.00
+King's Tavern,https://kingstavern.ca/,Daily Specials - Thursday,Cocktails,,$6.00
+King's Tavern,https://kingstavern.ca/,Daily Specials - Friday,Rib & Wings Combo,,$19.00
+King's Tavern,https://kingstavern.ca/,Daily Specials - Saturday,Fajitas,(All Day),$17.00
+King's Tavern,https://kingstavern.ca/,Daily Specials - Sunday,Pint & Pound,,$16.00
+King's Tavern,https://kingstavern.ca/,Daily Specials - Sunday,Pitcher & 2 Pounds,,$35.00
+King's Tavern,https://kingstavern.ca/,Daily Specials - Sunday,Caesar,Sunday,$6.00
+King's Tavern,https://kingstavern.ca/,Daily Specials,Happy Hour Domestic Pints,Everyday 11AM to 4PM,$5.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Beer - On Tap,DOMESTIC,"Canadian, Coors Light, Budweiser, Miller Light",20oz Pint $6.50 | 60oz Pitcher $19
+King's Tavern,https://kingstavern.ca/,Bar Menu - Beer - On Tap,PREMIUM,"Belgian Moon, Michelob Ultra, Rickards Red, Coors Original, Hop Valley Bubble Stash IPA",20oz Pint $7 | 60oz Pitcher $20
+King's Tavern,https://kingstavern.ca/,Bar Menu - Beer - Import,Stella,,20oz Pint $10 | 60oz Pitcher $28
+King's Tavern,https://kingstavern.ca/,Bar Menu - Beer - Bottles,DOMESTIC,"Canadian, Coors Light, Budweiser, Bud Light",$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Beer - Bottles,PREMIUM,MGD,$6.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Beer - Bottles,IMPORT,"Corona, Heineken",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Beer - Tall Cans,DOMESTIC,"Canadian, Coors Light",$7.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Beer - Tall Cans,IMPORT,"Strongbow, Guinness",$9.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Beer,SELTZERS & COOLERS,"Vizzy Pineapple & Mango, Nutrl Vodka Soda, Turkey Shoot",$9.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Wines - Domestic Red,Jackson Triggs VQA - Cab Cab,,6oz. $8.00 | 9oz. $11.00 | Bottle $28.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Wines - Domestic Red,Jackson Triggs VQA - Merlot,,6oz. $8.00 | 9oz. $11.00 | Bottle $28.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Wines - Domestic White,Jackson Triggs VQA - Sauvignon Blanc,,6oz. $8.00 | 9oz. $11.00 | Bottle $28.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Wines - Domestic White,Inniskillin VQA - Pinot Grigio,,6oz. $9.00 | 9oz. $12.00 | Bottle $30.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Wines - Domestic White,Open VQA - Rose,,6oz. $9.00 | 9oz. $12.00 | Bottle $30.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Wines - Import Selection,Woodbridge by Robert Mondavi - California Chardonnay,,6oz. $10.00 | 9oz. $13.00 | Bottle $34.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Wines - Import Selection,Woodbridge by Robert Mondavi - Red Blend,,6oz. $10.00 | 9oz. $13.00 | Bottle $34.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Wines - Import Selection,Tom Gore Cabernet Sauvignon - California,,Bottle $45.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Wines - Import Selection,J Lohr,,Bottle $45.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,AMARETTO SOUR,"Amaretto, Lime Mix",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,ALABAMA SLAMMER,"Southern Comfort, Amaretto, Orange Juice",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,APPLE JACK,"Jack Daniel's, Apple Juice",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,BARTENDER'S ROOT BEER,"Kahlúa, Galliano, Coke, Soda",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,BERRY GIN FIZZ,"Berries, 1oz Gin, Lime, Soda",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,BLOODY CAESAR,"Vodka, Clamato Juice, Special Blend of Spices",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,BLOODY MARY,"Vodka, Tomato Juice, Special Blend of Spices",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,BLUE LAGOON,"Vodka, Blue Curacao, Lime Mix, Sprite",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,BROWN COW,"Kahlúa, Milk",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,BOURBON SOUR,"Jim Beam, Lime Juice",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,CAPE COD,"Vodka, Cranberry Juice",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,DANCIN' ANDY,"Raspberry Vodka, Ginger ale",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,FUZZY NAVEL,"Peach Schnapps, Orange Juice, Soda",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,HARVEY WALLBANGER,"Vodka, Galliano, Orange Juice",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,KAMIKAZE,"Vodka, Triple Sec, Lime Mix",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,KILLER KOOLAID,"Melon Liqueur, Amaretto, Vodka, Cranberry Juice",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,LONG ISLAND ICED TEA,"Rum, Vodka, Triple Sec, Lime Juice, Coke",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,MANGO RUM PUNCH,"1/2 Malibu 1/2 Rum, Orange, Cranberry Juice, Mango Purée",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,MELON BALL,"Melon Liqueur, Vodka, Pineapple Juice",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,PINK LEMONADE,"Gin, Triple Sec, Lime Mix, Grenadine",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,PURPLE ORCHID,"Vodka, Blue Curacao, Lime Juice, Cranberry Juice",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,PURPLE RAIN,"Rum, Blue Curacao, Cranberry Juice",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,SCREWDRIVER,"Vodka, Orange Juice",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails,SEX ON THE BEACH,"Grand Marnier, Peach Schnapps, Cranberry/Pineapple Juice",$8.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails & Martini's,BLACK RUSSIAN,"1 1/2 Vodka, 1/2 Kahlúa",$12.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails & Martini's,CLASSIC MARTINI,"Vodka or Gin, Vermouth",$12.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails & Martini's,CHOCOLATE MARTINI,1 1/2 Vodka 1/2 White Creme de Cacao,$12.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails & Martini's,COSMOPOLITAN MARTINI,"1 Vodka, 1 Triple Sec, Cranberry & Lime",$12.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails & Martini's,CREAMSICLE MARTINI,"1 Orange Vodka, ½ Vanilla Vodka, 1/2 Irish Cream",$12.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Cocktails & Martini's,GODFATHER,"1 Scotch, 1 Amaretto",$12.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,SHOOTERS,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,APPLE JACKS,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,BANANA POPSICLE,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,BAZOOKA JOE,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,BLOW JOB/MUFF DIVER,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,BLUE FREEZEE,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,BROKEN DOWN GOLF CART,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,BURT REYNOLDS,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,BUTTERY NIPPLE,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,FALLING STAR,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,KRISPY KRUNCH,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,MELON BALL,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,ORGASM,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,POLAR BEAR,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,PORNSTAR,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,PRAIRIE FIRE,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,SWEDISH BERRY,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,DROP SHOTS,,$10.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,DR. PEPPER,,$10.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,IRISH CARBOMB,,$10.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,JAGERBOMB,,$10.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,SKITTLES,,$10.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,FLORIDA TRACKSUIT,,$10.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,TEQUILA BOMB,,$10.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,LAS VEGAS,,$10.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,BAR RAIL,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,SMIRNOFF VODKA,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,CROWN ROYAL,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,CAPTAIN MORGAN RUM,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,GORDON GIN,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,BELL'S SCOTCH,,$6.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,PREMIUM TOP SHELF,,$14.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,REMY MARTIN,,$14.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,DON JULIO BLANCO,,$14.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,DON JULIO REPOSADO,,$14.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,DON JULIO 1942,,$25.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,PREMIUM SHOTS,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,BACARDI WHITE,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,BAILEYS,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,CAPTAIN MORGAN SPICED,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,CROWN ROYAL APPLE,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,CROWN PEACH,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,FIREBALL,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,JACK DANIEL'S,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,JACK DANIEL'S HONEY,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,JAMESON,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,JOSE CUERVO GOLD,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,JOSE CUERVO SILVER,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,JIM BEAM (BOURBON),,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,KAHLÚA,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,TITOS,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,MALIBU,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,WISER'S,,$7.50
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,PREMIUM SHOOTERS,,$7.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,B52,,$7.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,SLIPPERY NIPPLE,,$7.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,BANANA JACK,,$7.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,LIQUID COCAINE,,$7.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,SNAKE BITE,,$7.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,SAMBUCA WHITE,,$7.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,BANANA JAGER,,$7.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,SICILIAN KISS,,$7.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,ROCKY MOUNTAIN BEAR CLAW,,$7.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,JAGERMEISTER,,$7.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,TOP SHELF,,$11.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,CIROC,,$11.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,GREY GOOSE,,$11.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,GLENFIDDICH,,$11.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,JOHNNY WALKER BLACK,,$11.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Shooters & Shots,GLENLIVET,,$11.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Specialty Coffee,IRISH COFFEE,1/2 oz. Jameson Irish Whiskey | 1/2 oz. Bailey's Irish Cream,$9.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Specialty Coffee,MONTE CRISTO,1/2 oz. Kahlúa | 1/2 oz. Grand Marnier,$9.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Specialty Coffee,BAILEY'S COFFEE,1 oz. Bailey's Irish Cream,$9.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Specialty Coffee,B-52 COFFEE,1/3 oz. Kahlúa | 1/3 oz. Bailey's | 1/3 oz. Grand Marnier,$9.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Specialty Coffee,SPANISH COFFEE,1/2 oz. Kahlúa | 1/2 oz. Brandy,$9.00
+King's Tavern,https://kingstavern.ca/,Bar Menu - Specialty Coffee,BLUEBERRY TEA,1/2 oz. Grand Marnier | 1/2 oz. Amaretto,$9.00

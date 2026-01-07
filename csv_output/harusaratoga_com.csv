@@ -1,0 +1,258 @@
+restaurant_name,restaurant_url,menu_name,menu_type,name,description,price
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Hot & Sour Shrimp Soup,,$7.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Hot & Sour Chicken Soup,,$7.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Hot & Sour Beef Soup,,$7.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Tom Yum Shrimp Soup,"Lemongrass, organic vegetable in spicy shrimp broth",$11.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Tom Yum Seafood Soup,"Lemongrass, organic vegetable in spicy shrimp broth",$11.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Tom Yum Veg Tofu Soup,"Lemongrass, organic vegetable in spicy shrimp broth",$11.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Miso Tofu Soup,,$3.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Seaweed Salad,,$6.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Mango Kani Salad,,$8.25
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Avocado Salad,,$7.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Wonton Soup,,$7.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Sashimi Salad,Seared salmon & pepper tuna sashimi on top of mix greens with spicy mayo & ponzu sauce on the side.,$15.95
+Haru,http://harusaratoga.com/,Menu,COLD APPETIZER,Citron Sal Carpaccio,"Seared salmon wrapped with crunch spicy crabmeat and jalapeno, serve with soy mustard sauce",$13.95
+Haru,http://harusaratoga.com/,Menu,COLD APPETIZER,Seafood Martini,"Diced tuna, salmon, white tuna, white fish, and onions with soy mustard sauce.",$16.95
+Haru,http://harusaratoga.com/,Menu,COLD APPETIZER,Truffle White Tuna,"Seared super white tuna with citron yuzu sauce, topped with black caviar, fried look and truffle olive oil.",$13.95
+Haru,http://harusaratoga.com/,Menu,COLD APPETIZER,Sushi App,4pcs of chef's choice assorted fish.,$12.95
+Haru,http://harusaratoga.com/,Menu,COLD APPETIZER,Sashimi App,Chef's choice of assorted fish.,$13.95
+Haru,http://harusaratoga.com/,Menu,COLD APPETIZER,Sunomono,Variety of seafood in vinegar sauce.,$13.95
+Haru,http://harusaratoga.com/,Menu,COLD APPETIZER,Filet Mignon Tataki,Seared thin sliced of beef served w. chef's special sauce.,$17.95
+Haru,http://harusaratoga.com/,Menu,COLD APPETIZER,Pepper Tuna Tataki,Thin slices of tuna served w. ponzu sauce.,$14.95
+Haru,http://harusaratoga.com/,Menu,COLD APPETIZER,Tuna Basket,"Crabmeat, mango wrapped w. thinly sliced tuna & chef's special sauce.",$14.95
+Haru,http://harusaratoga.com/,Menu,COLD APPETIZER,Yellowtail Jalapeno,6pcs of yellawtail w. jalapeno pepper & tobiko w. special sauce.,$13.95
+Haru,http://harusaratoga.com/,Menu,COLD APPETIZER,"Seaweed salad, Alaska king crab meat, jumbo shrimp w. cocktail sauce.","Seaweed salad, Alaska king crab meat, jumbo shrimp w. cocktail sauce.",$18.95
+Haru,http://harusaratoga.com/,Menu,COLD APPETIZER,Garden of Eden,"Tuna wrapped in crabmeat, avocado, radish sprout, and drizzled w. soy mustard sauce.",$13.95
+Haru,http://harusaratoga.com/,Menu,COLD APPETIZER,Mike Special,"Sliced pepper tuna wrapped with spicy kani and mango, mango sauce on top.",$13.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Pork Xiao Long Bao,,$8.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Fried Yasai Gyoza,Japanese vegetable fried dumplings.,$6.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Rock Shrimp,Crispy popcorn shrimp in house special cream sauce.,$9.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Haki Haki Scallops,Gently grilled succulent fresh jumbo sea scallops glazed with sweet and spicy chef's special sauce.,$13.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Sauteed Spinach,,$9.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Soft Shell Crab App,Gently Fried soft shell crab w. special sauce.,$10.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Fried Mozzarella Sticks,,$8.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Fried Calamari,,$10.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Japanese vegetable spring roll.,,$5.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Edamame,,$6.25
+Haru,http://harusaratoga.com/,Menu,ROLL,Age Tofu,,$6.00
+Haru,http://harusaratoga.com/,Menu,ROLL,Ebi Shumai,Steamed shrimp dumplings.,$6.25
+Haru,http://harusaratoga.com/,Menu,ROLL,Garlic Broccoli,Steamed crunchy broccoli w. light brawn garlic sauce on the side.,$7.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Gyoza,Japanese pan-fried shrimp dumplings.,$6.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Steam Yasai Gyoza,Japanese vegetable steamed dumplings.,$6.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Beef Negimaki,Rolled beef stuffed w. scallions.,$10.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Chicken Negimaki,"Fried rolled chicken stuffed w, scallions, creamy cheese & bread.",$10.95
+Haru,http://harusaratoga.com/,Menu,TEMPURA,Shrimp  App,,$10.50
+Haru,http://harusaratoga.com/,Menu,TEMPURA,Chicken  App,,$10.50
+Haru,http://harusaratoga.com/,Menu,TEMPURA,Vegetable  App,,$10.50
+Haru,http://harusaratoga.com/,Menu,TEMPURA,Chicken Satay,Traditional Thai marinated skewers served w. Thai curry dipping sauce.,$8.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Beef Satay,Traditional Thai marinated skewers served w. Thai curry dipping sauce.,$8.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Chicken Wings,Marinated fried chicken wings,$9.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Coconut Shrimp,,$12.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Chilean Sea Bass App,Grilled Chilean sea bass with coconut black rice.,$18.95
+Haru,http://harusaratoga.com/,Menu,TEMPURA,Oyster,Fried oyster topped with spicy tuna and jalapeno.,$14.95
+Haru,http://harusaratoga.com/,Menu,TEMPURA,Crab Rangoon,,$8.50
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Salmon,,$7.25
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Tuna,,$7.75
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Fluke,,$6.50
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Egg Cake,,$5.50
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Salmon Roe,,$7.75
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Red Clam,,$7.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,White Tuna,,$7.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Yellowtail,,$7.50
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Shrimp,,$6.50
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Squid,,$7.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,(Unagi),,$8.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Crab Stick,,$6.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Scallop,,$8.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Octopus,,$7.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Salmon Toro,,$10.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Striped Bass,,$7.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Smoked Salmon,,$7.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Black Caviar,,$8.50
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Wasabi Caviar,,$8.50
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Mackerel,,$6.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Tuna,,$6.00
+Haru,http://harusaratoga.com/,Menu,ROLL,Salmon,,$5.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Yellowtail w. Scallion,,$7.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Spicy Tuna,,$7.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Spicy Salmon,,$7.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Salmon Avocado,,$6.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Alaskan,"Salmon w. avocado, crabmeat, cucumber.",$8.25
+Haru,http://harusaratoga.com/,Menu,ROLL,Sky Beauty,"Tuna, yellowtail, tobiko, tempura flake w. special spicy sauce.",$8.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Spicy Scallop,,$8.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Tuna Avocado,,$6.50
+Haru,http://harusaratoga.com/,Menu,ROLL,California,,$6.25
+Haru,http://harusaratoga.com/,Menu,ROLL,Philadelphia,"Smoked salmon, cream cheese & cucumber.",$6.75
+Haru,http://harusaratoga.com/,Menu,ROLL,Eel,,$6.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Shrimp Avocado,,$7.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Dragon,"Shrimp tempura & crabmeat inside topped w. eel, avocado & w. eel sauce.",$14.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Shrimp,,$9.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Futo Maki,"Crabmeat, tobiko, egg cake, kampyo, cucumber,oshinko & carrot.",$7.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Salmon Skin,With cucumber & scallions.,$6.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Boston,"Shrimp, cucumber crabmeat & lettuce.",$8.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Spider,"Gently fried soft shell crab wrapped in avocado,cucumber & masago.",$12.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Avocado,,$5.00
+Haru,http://harusaratoga.com/,Menu,ROLL,Cucumber,,$4.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Avocado & Cucumber,,$5.50
+Haru,http://harusaratoga.com/,Menu,ROLL,Sweet Potato,,$5.50
+Haru,http://harusaratoga.com/,Menu,ROLL,A.A.C,,$6.25
+Haru,http://harusaratoga.com/,Menu,ROLL,Vegetable Green Dragon,Fried sweet potatoes & cucumber inside topped w. avocado.,$12.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Zen,"Avocado, asparagas & cucumber inside, topped with mango, rolled with brown rice.",$12.95
+Haru,http://harusaratoga.com/,Menu,ROLL,"Crispy lobster,eel, cucumber, avocado, tobiko.","Crispy lobster,eel, cucumber, avocado, tobiko.",$19.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Wilton,"Lobster tempura, mango, avocado wrapped with soy paper. top with tuna, jalapeno,w. spicy sauce.",$18.95
+Haru,http://harusaratoga.com/,Menu,TEMPURA,Skidmore,"Inside blue crabmeat, avocado, Shrimp Tempura, top with seared beef, with soy mustards sauce.",$18.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Fantasy,"Tuna, salmon, yellowtail, avocado & tempura flake w. caviar & special sauce outside.",$12.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Valentine,"Crunchy spicy tuna, avocado inside, tuna on top in heart shape.",$14.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Double Punch,"Spicy tuna, asparagus inside w. topped w fatty tuna & avocado.",$20.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Tiger,"Spicy crab salads w. cucumber & tempura flakes inside, topped w. salmon, avocado & black tobiko.",$15.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Snow Mountain,"Shrimp tempura w. cucumber inside, topped w. crab salad.",$14.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Passionate Tuna,"Pepper tuna, cucumber & asparagus inside. Topped w. tuna, spicy tuna, and tempura flakes Drizzled w.eel and spicy mayo.",$15.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Buddy,"Shrimp tempura, spicy tuna inside. Topped w. crawfish salad, eel, avocado, tempura flakes. drizzled w. spicy mayo and eel sauce.",$15.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Salmon on the Beach,"Avocado, cucumber mango inside, topped w. salmon and special mango sauce",$14.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Ninja,"Fried roll spicy tuna, white fish, cream cheese, avocado,with spicy mayo sauce and tobiko.",$13.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Avatar,"Shrimp tempura, spring mix, avocado, asparagus & Alaskan king crab meat wrapped w. soybean paper. Drizzled w. eel and wasabi sauce.",$19.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Transformer,"Shrimp tempura, spicy crabmeat inside, topped with avocado, black caviar with black rice.",$15.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Manhattan,,$17.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Mango Tango,"Alaskan king crab, mango, cucumber inside topped with sliced avocado and mango.served with mango sauce.",$19.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Autumn,"Lobster salad, crunchy yellowtail, and asperagus inside,Topped with spicy tuna and avocado with chef's sauce",$16.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Pink Lady,"Salmon, shrimp tempura, cucumber, avocado masago inside wapped w. soybean paper.Topped w. spicy & eel sauce.",$15.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Godzilla,Lobster & crabmeat inside wrapped w. soybean paper.,$14.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Sex on the Beach,"Shrimp tempura & spicy tuna inside, top of white tuna, avocado & caviar.",$15.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Prince,"Chilean sea bass, avocado, asparagus & radish sprouts. Topped w. seared scallop & gamished w. scallion, tobiko along w. eel & spicy mayo sauce.",$19.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Naruto,Tuna & salmon w. avocado wrapped in cucumber.,$13.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Angel,"Pepper tuna radish, sprouts & cucurmber inside.salmon, white tuna, avocado, tempura flake & fish egg outside, served in three special sauces.",$16.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Rainbow,"Crabmeat cucumber & masago wrapped w. variety of tuna, salmon, fluke & avocado.",$13.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Fairy,Salmon & cucumber inside topped w. scallion masago & avocado w. spicy sauce.,$13.95
+Haru,http://harusaratoga.com/,Menu,ROLL,Spicy Blue Crab,"Spicy crunch blue crab and avocado inside, topped with spicy crunch tuna with spicy sauce.",$15.95
+Haru,http://harusaratoga.com/,Menu,TEMPURA,Lobster,"Tempura lobster, cucumber & mayo.",$16.95
+Haru,http://harusaratoga.com/,Menu,TEMPURA,Chicken,,$16.95
+Haru,http://harusaratoga.com/,Menu,TEMPURA,Shrimp,,$16.95
+Haru,http://harusaratoga.com/,Menu,TEMPURA,Vegetable,,$16.95
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Chicken,,$19.95
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Salmon,,$21.95
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Tofu,,$18.95
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Shrimp,,$21.95
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Filet Mignon,,$28.95
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Steak,,$24.95
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Scallop,,$26.95
+Haru,http://harusaratoga.com/,Menu,UDON,Chicken  Noodle,,$14.95
+Haru,http://harusaratoga.com/,Menu,UDON,Shrimp  Noodle,,$14.95
+Haru,http://harusaratoga.com/,Menu,UDON,Chicken Yaki,Stirfried noodles w. vegetable.,$15.95
+Haru,http://harusaratoga.com/,Menu,UDON,Shrimp Yaki,Stirfried noodles w. vegetable.,$15.95
+Haru,http://harusaratoga.com/,Menu,UDON,Garlic Noodle,"Shrimps, scallops w. mushrooms & scallions in light cream, garlic butter sauce over noodles",$18.95
+Haru,http://harusaratoga.com/,Menu,UDON,Nabeyaki,"Noodles w shrimp tempura, chicken, egg & vegetable in a hot pot dish.",$15.95
+Haru,http://harusaratoga.com/,Menu,JAPANESE FRIED RICE,Chicken Fried Rice,,$13.95
+Haru,http://harusaratoga.com/,Menu,JAPANESE FRIED RICE,Mixed Veg Fried Rice,,$13.95
+Haru,http://harusaratoga.com/,Menu,JAPANESE FRIED RICE,Beef Fried Rice,,$13.95
+Haru,http://harusaratoga.com/,Menu,JAPANESE FRIED RICE,Shrimp Fried Rice,,$13.95
+Haru,http://harusaratoga.com/,Menu,JAPANESE FRIED RICE,Pineapple Fried Rice,Thai style fried rice with chicken and shrimp,$15.95
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Chicken  Bento,,$24.90
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Shrimp  Bento,,$24.90
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Steak  Bento,,$24.90
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Salmon  Bento,,$24.90
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,General Tso's Chicken Bento,,$24.90
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Sesame Chicken Bento,,$24.90
+Haru,http://harusaratoga.com/,Menu,UDON,Miso Black Cod,"Asparagus, miso glaze sauce and soba noodle in chef's special sauce.",$25.95
+Haru,http://harusaratoga.com/,Menu,UDON,Grill Salmon,Tomato honey glaze with three pieces of assorted cute sushi.,$25.95
+Haru,http://harusaratoga.com/,Menu,UDON,Chicken Katsu,"Panko Bread Crumbs and oshinko, with chicken breast.",$18.95
+Haru,http://harusaratoga.com/,Menu,UDON,Red Curry Chicken,Red curry served w organic vegetables smothered in coconut milk.,$20.95
+Haru,http://harusaratoga.com/,Menu,UDON,Red Curry Shrimp,Red curry served w organic vegetables smothered in coconut milk.,$20.95
+Haru,http://harusaratoga.com/,Menu,UDON,Red Curry Beef,Red curry served w organic vegetables smothered in coconut milk.,$20.95
+Haru,http://harusaratoga.com/,Menu,UDON,Tom Yum Shrimp  Noodle Soup,Lemongrass w. organic vegetables in spicy shrimp broth.,$18.95
+Haru,http://harusaratoga.com/,Menu,UDON,Tom Yum Chicken  Noodle Soup,Lemongrass w. organic vegetables in spicy shrimp broth.,$18.95
+Haru,http://harusaratoga.com/,Menu,UDON,Tom Yum Beef  Noodle Soup,Lemongrass w. organic vegetables in spicy shrimp broth.,$18.95
+Haru,http://harusaratoga.com/,Menu,UDON,Tom Yum Seafood  Noodle Soup,Lemongrass w. organic vegetables in spicy shrimp broth.,$25.95
+Haru,http://harusaratoga.com/,Menu,UDON,General Tso's Chicken,Sweet and slightly spicy deep-fried high quality white breast with a kick from garlic.,$19.95
+Haru,http://harusaratoga.com/,Menu,UDON,Sesame Chicken,All white chicken battered & fried to perfection. then tossed in our Sweet & light sesame sauce w. broccoli.,$19.95
+Haru,http://harusaratoga.com/,Menu,UDON,Crispy Snapper,"Aromatic sweet, sour & spicy glaze served along w. fresh dicemango, green & red pepper to tamethis wild sauce.",$22.95
+Haru,http://harusaratoga.com/,Menu,UDON,Grilled Filet Mignon w. Sauteed Seasonal Vegetable,Grilled Filet Mignon w. Sauteed Seasonal Vegetable,$29.95
+Haru,http://harusaratoga.com/,Menu,UDON,Chicken Pad Thai,"Thai rice noodles stir fried w. egg, ground peanut, bean sprouts & scallion.",$15.95
+Haru,http://harusaratoga.com/,Menu,UDON,Shrimp Pad Thai,"Thai rice noodles stir fried w. egg, ground peanut, bean sprouts & scallion.",$15.95
+Haru,http://harusaratoga.com/,Menu,UDON,Beef Pad Thai,"Thai rice noodles stir fried w. egg, ground peanut, bean sprouts & scallion.",$15.95
+Haru,http://harusaratoga.com/,Menu,UDON,Vegetable Pad Thai,"Thai rice noodles stir fried w. egg, ground peanut, bean sprouts & scallion.",$15.95
+Haru,http://harusaratoga.com/,Menu,UDON,Mango Chicken,"Young chicken breast, fresh mango, red peppers, snow peas and red onions.",$22.95
+Haru,http://harusaratoga.com/,Menu,UDON,Mango Shrimp,"Shrimp, fresh mango, red peppers, snow peas and red onions.",$22.95
+Haru,http://harusaratoga.com/,Menu,UDON,Sauteed Seafood,"Lobster tail, prawn w. scallops, mushroom, organic vegetables & udon noodles.",$27.95
+Haru,http://harusaratoga.com/,Menu,UDON,Ginger Chicken,"Young chicken breast cooked in Japanese ginger sauce w. snow peas, zucchini and asparagus.",$23.95
+Haru,http://harusaratoga.com/,Menu,UDON,Ginger Shrimp,"Shrimp cooked in Japanese ginger sauce w. snow peas, zucchini and asparagus",$23.95
+Haru,http://harusaratoga.com/,Menu,UDON,Pineapple Duck,Roast duck braised in port red wine & chef's special pineapple sauce.,$29.95
+Haru,http://harusaratoga.com/,Menu,UDON,Grilled Chilean Sea Bass,Chilean sea bass lightly grilled w special miso anti cucho sauce.,$32.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,H. Veg,,$22.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,H. Calamari,,$27.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,H. Chicken,,$24.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,H. Shrimp,,$26.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,H. Salmon,,$26.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,H. Steak,,$29.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,H. Fresh Sea Scallops,,$32.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,H. Filet Mignon,,$33.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,H. Chilean Seabass,,$35.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,H. Lamb Chop,,$38.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,H. Twin Lobster Tail,,$36.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,H Sword Fish,,$28.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Emperor Deluxe,"Filet Mignon, lobster tail, shrimp and scallops.",$58.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,H. Pick Two,,$29.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,H. Pick  Three,,$37.00
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Side Chicken,,$9.95
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Side Filet Mignon,,$13.95
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Side Lobster,,$16.95
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Side Salmon,,$11.95
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Side Scallops,,$12.95
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Side Shrimp,,$10.95
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Side Steak,,$13.00
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Side Fried Rice,,$5.25
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Side Noodle,,$5.25
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Side Veg,,$6.75
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Sushi Rice,,$3.75
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,White Rice,,$3.50
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,Brown Rice,,$3.50
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,S/O Eel Sauce,,$0.75
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,S/O Spicy Mayo,,$0.75
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,S/O Mustard Sauce,,$0.75
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,S/O  Sauce,,$0.75
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,S/O Giner Sauce,,$0.75
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,S/O Ginger Dressing,,$0.75
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,S/O Goyza Sauce,,$0.75
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,S/O Sriracha,,$1.00
+Haru,http://harusaratoga.com/,Menu,TERIYAKI,S/O Chili Oil,,$0.75
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Kid Vegetable,,$16.50
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Kid Chicken,,$16.50
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Kid Steak,,$16.50
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Kid Shrimp,,$16.50
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Kid Salmon,,$16.50
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Kid Filet Mingon,,$20.00
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Sushi Deluxe,"8pcs of sushi, 1 tuna roll or 1 California roll.",$25.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Sashimi Deluxe,Our chef's special assorted sashimi,$28.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Sushi & Sashimi Combo,"4pcs sushi, 9pcs sashimi & 1 California roll.",$30.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Maki Combo,"Choice of any three roll,California roll, tuna roll, salmon roll, yellowtail roll,spicy tuna roll, spicy salmon roll, phili roll, Alaskan roll, & futo maki",$19.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Sushi Trio,"3 slices of each: tuna, salmon, yellowtail topped on spicy crunched tuna roll.",$28.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Tekka Don,Sliced tuna on a bed of sushi rice.,$26.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Unagi Don,,$26.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Chirashi,Assorted sliced raw fishes & vegetable over sushi rice.,$28.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Love Boat 2,"2pcs of tuna, salmon, fluke & yellowtail sashimi of each.2pcs of tuna, salmon, yellowtall, fluke, shimp & crabmeat sushi of each. Two chef's choice roll.",$69.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Love Boat 3,"3pcs of tuna salmon, fluke & yellowtail sashimi of each.3pcs of tuna, salmon, fluke, shrimp, yellowtail & crabmeat of each. Three chef's choice roll.",$104.95
+Haru,http://harusaratoga.com/,Menu,SOUP & SALAD,Love Boat  4,"4pcs of tuna salmon, yellowtail fluke, octopus, white tuna & red snapper sashimi of each. 4 pcs of tuna, salmon, yellowtail, fluke, smoked salmon sushi of each. Four chef's choice roll.",$139.95
+Haru,http://harusaratoga.com/,Menu,NON ALCOHOLIC DRINKS,Hot Tea,,$3.00
+Haru,http://harusaratoga.com/,Menu,NON ALCOHOLIC DRINKS,Apple Juice,,$3.25
+Haru,http://harusaratoga.com/,Menu,NON ALCOHOLIC DRINKS,Japanese Soda,,$4.50
+Haru,http://harusaratoga.com/,Menu,NON ALCOHOLIC DRINKS,Strawberry Daiquiri Virgin,,$6.95
+Haru,http://harusaratoga.com/,Menu,NON ALCOHOLIC DRINKS,Banana Daiquiri Virgin,,$6.95
+Haru,http://harusaratoga.com/,Menu,NON ALCOHOLIC DRINKS,Pina Colada Virgin,,$7.50
+Haru,http://harusaratoga.com/,Menu,NON ALCOHOLIC DRINKS,Shirley Temple,,$3.75
+Haru,http://harusaratoga.com/,Menu,NON ALCOHOLIC DRINKS,Soda,,$2.95
+Haru,http://harusaratoga.com/,Menu,NON ALCOHOLIC DRINKS,Milk,,$2.95
+Haru,http://harusaratoga.com/,Menu,NON ALCOHOLIC DRINKS,Saratoga Sparkling Water,,$3.75
+Haru,http://harusaratoga.com/,Menu,NON ALCOHOLIC DRINKS,Saratoga Natural Spring Water,,$3.75
+Haru,http://harusaratoga.com/,Menu,NON ALCOHOLIC DRINKS,Cranberry Juice,,$3.25
+Haru,http://harusaratoga.com/,Menu,NON ALCOHOLIC DRINKS,Orange Juice,,$3.25
+Haru,http://harusaratoga.com/,Menu,NON ALCOHOLIC DRINKS,Pineapple Juice,,$3.25
+Haru,http://harusaratoga.com/,Menu,BUBBLE MILK TEA,Classic Milk Tea,,$7.00
+Haru,http://harusaratoga.com/,Menu,BUBBLE MILK TEA,Brown Sugar Milk,,$7.00
+Haru,http://harusaratoga.com/,Menu,BUBBLE MILK TEA,Taro Milk Tea,,$7.00
+Haru,http://harusaratoga.com/,Menu,BUBBLE MILK TEA,Vanilla Milk Tea,,$7.00
+Haru,http://harusaratoga.com/,Menu,BUBBLE MILK TEA,Mocha Milk Tea,,$7.00
+Haru,http://harusaratoga.com/,Menu,BUBBLE MILK TEA,Honeydew Milk Tea,,$7.00
+Haru,http://harusaratoga.com/,Menu,BUBBLE MILK TEA,Chocolate Milk Tea,,$7.00
+Haru,http://harusaratoga.com/,Menu,BUBBLE MILK TEA,Strawberry Milk Tea,,$7.00
+Haru,http://harusaratoga.com/,Menu,BUBBLE MILK TEA,Mango Milk Tea,,$7.00
+Haru,http://harusaratoga.com/,Menu,BUBBLE MILK TEA,Matcha Milk Tea,,$7.00
+Haru,http://harusaratoga.com/,Menu,BUBBLE MILK TEA,Thai Milk Tea,,$7.00

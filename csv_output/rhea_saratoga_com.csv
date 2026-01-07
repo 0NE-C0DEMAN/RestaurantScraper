@@ -1,0 +1,101 @@
+restaurant_name,restaurant_url,menu_name,menu_type,section,name,description,price
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Shareables,Crab Rangoon Dip,"lump crab meat, mascarpone, sweet chili sauce, scallions, fried wonton chips",$16
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Shareables,CUCUMBER SALAD,"truffle soy sauce, tahini dressing, chili oil, fresh dill",$11
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Shareables,Saigon Street BBQ Wings,"smoky sweet vietnamese bbq sauce, scallion lime gremolata, rice noodle salad, cucumber ranch",$17
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Shareables,CRISPY FRIED SHRIMP,"sweet chili mayo, furikake seasoning, baby green leaf",$16
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Shareables,Tokyo Poutine,"togarashi dusted tater tots, cheddar cheese curds, japanese curry gravy, furikake, scallions",$16
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Shareables,Fried Brussels Sprouts,"fish sauce caramel, togarashi spiced peanuts, black garlic molasses",$15
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Shareables,Fried Bologna Katsu Sliders,"thick-cut mortadella, kings hawaiian rolls, kewpie dijonaise, black garlic tonkatsu sauce, cabbage",$15
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Shareables,Wok-Roasted Broccoli,"garlic & chili glaze, whipped lemon & sesame ricotta, black vinegar honey, toasted pumpkin seeds",$15
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Shareables,Spanish Fried Rice,"bomba rice, mortadella pieces, grilled shrimp,  peas, egg, sofrito, pickled onions",$17
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Shareables,Beef Barbacoa Tacos,"shoyu-braised short ribs, shishito & tomatillo chow chow, chipotle aioli, scallions",$16
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Shareables,ROASTED BEETS,"caramelized coconut, curried cashew butter, thai basil chimichurri, kaffir lime yogurt, toasted coconut",$14
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Shareables,CHINESE-STYLE CRISPY BEEF,"teres major, shishito peppers, onions, bell peppers, scallions, hoisin sticky glaze",$19
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Shareables,Tuna Tartare,"crispy rice cake, yuzu avocado, sweet soy, jalapeno, spicy mayo, fried shallot",$16
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Shareables,Steamed Pork Dumplings,"pork & cabbage mix, chili oil, black vinegar, ramen broth, sesame seed, scallions",$15
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Bao Buns,Meatloaf Bao Buns,"ground beef, tomato & black vinegar glaze, carrot jam, fried onions",$15
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Bao Buns,BUFFALO CHICKEN BAO BUNS,"crispy chicken, thai chili buffalo sauce, shishito pepper ranch, house dill pickles",$14
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Bao Buns,Pulled Pork Bao Buns,"smoked pork shoulder, Carolina gold bbq sauce, sweet cabbage slaw",$14
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Bao Buns,French Dip Bao Buns,"shaved roast beef, caramelized onions, wasabi cream sauce, everything bagel spice, ramen broth au jus",$15
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Bao Buns,FRIED MOZZARELLA BAO BUNS,"pickled plum melba sauce, thai basil, toasted sesame seeds",$13
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Noodles,Chili Garlic Noodles,"crispy pork, ginger scallion sauce, shiitake mushrooms, chili oil, pecorino, hand-cut noodles",$18
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Noodles,HANGOVER NOODLES,"shrimp, rice noodles, pickled peppers, thai peanut sauce, napa cabbage, fried egg, crushed wontons",$19
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Noodles,SHANGHAI SCALLION NOODLES,"shaved bulgogi beef, dark soy, scallion oil, napa cabbage, lo-mein noodles",$18
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Noodles,RAMEN CACIO E PEPE,"toasted black pepper, olive oil, butter, edamame, scallions, ramen noodles, pink peppercorns",$17
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen,Pork Belly,"roasted pork & chicken broth, miso cured egg, shiitake mushrooms, seared pork belly, scallions",$23
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen,BIRRIA,"braised short rib, ancho chili broth, red onions, sliced jalapenos, cilantro, radish, cheesy tortilla",$23
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen,BBQ Shrimp,"binchotan grilled shrimp, coconut curry broth, n’duja chili butter, blistered cherry tomatoes, charred corn",$22
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen,Veggie,"butternut squash, baby bok choy, shiitake mushrooms, miso vegetable broth, pumpkin seeds, porcini & sage chili oil, pea shoots",$20
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen Add-Ons,EXTRA NOODLES,,$4
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen Add-Ons,STEAMED PORK DUMPLING,,$5
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen Add-Ons,DOUBLE BROTH,,$3
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen Add-Ons,FRIED CHICKEN,,$5
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen Add-Ons,ROASTED CORN,,$3
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen Add-Ons,CHILI OIL,,$2
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen Add-Ons,SHIITAKE MUSHROOMS,,$3
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen Add-Ons,edamame,,$3
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen Add-Ons,MISO CURED EGG,,$3
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen Add-Ons,BABY BOK CHOY,,$3
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen Add-Ons,bbq shrimp (2),,$6
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Ramen Add-Ons,pork belly,,$6
+Rhea,https://www.rhea-saratoga.com/,Dinner Menu,Dinner,Dessert,STICKY PLUM CAKE,"butterscotch chips, miso caramel sauce, whipped cream",$12
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Cocktails,Fig Spritz,"fruitful mission fig liqueur, poema cava brut rose, bittermen’s hopped grapefruit bitters, club soda, rosemary",$15
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Cocktails,BLUEBERRY BLUES*,"alb vodka, blueberry-apricot lemonade",$14
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Cocktails,YUZU G&T *,"roku gin, kaffir lime leaf, juniper, citrus confetti, yuzu tonic water",$14
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Cocktails,IT’S GETTING HOT IN HERE...*,"…but please, keep your clothes on… tanteo chipotle tequila, italicus liqueur, blood orange, agave, lime, spicy salt rim",$16
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Cocktails,CHESTNUT MAI TAI,"vanilla infused white rum, dry curacao, passionfruit, roasted chestnut orgeat, lemon",$16
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Cocktails,DUNES OF THE CAPE,"rhea’s rum blend, soho lychee liqueur, pineapple, coconut, raspberry",$15
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Cocktails,MAPLE SAGE OLD FASHIONED,"high west rye, maple, sage, lemon, angostura & orange bitters",$16
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Cocktails,Hot Sake Toddy,"jelinek plum liqueur, spiced plum, pomegranate & tamarind syrup, hot sake",$15
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Cocktails,KOI POND,"red wine, cherry heering, montenegro amaro, dry curacao, cinnamon, blood orange, cranberry serves 2 people",$27
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Sake,HAKUTSURU CHIKA CUP,junmai sake – Japan – 200ml,$14
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Sake,HAKUTSURU TANREI,junmai sake – Japan – 180ml,$15
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Sake,SHO CHIKU BAI MIO,sparkling sake – Japan – 300ml,$27
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Sake,SHO CHIKU BAI CREME DE SAKE,nigiri sake – Japan – 300ml,$24
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Sake,DASSAI BLUE DRY SAKE,"junmai sake – Hyde Park, NY – 375ml",$33
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Sake,HOT OR COLD SAKE CARAFE,"Add fruitful liqueur: mango, guava, papaya $3",$11
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Wine,BELLAFINA,prosecco – Italy,$12
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Wine,Poema,Cava brut rose – Spain,$13
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Wine,FREIXENET,pinot grigio – Italy,$12
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Wine,TWIN ISLANDS,sauvignon blanc – New Zealand,$13
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Wine,DOUGH,chardonnay – California,$14
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Wine,FIGUIERE,rosé – France,$13
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Wine,KRASNO,orange – Slovenia,$13
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Wine,TERRA D’ORO,red zinfandel – California,$12
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Wine,FIRESTEED,pinot noir – Oregon,$14
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Wine,Joel Gott,cabernet sauvignon – California,$15
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Wine,CATENA,malbec – Argentina,$13
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Draft Beer,SAPPORO,lager – Japan – 4.9%,$6
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Draft Beer,MODELO ESPECIAL,lager – Mexico – 4.5%,$7
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Draft Beer,ALLAGASH WHITE,"witbier – Portland, ME – 5.2%",$7
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Draft Beer,OTHER HALF FOREVER EVER,"session ipa – Brooklyn, NY – 4.7%",$9
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Draft Beer,SLOOP JUICE BOMB,"neipa – Hopewell Junction, NY – 6.5%",$9
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Draft Beer,Rotational Draft,ask your server,MP
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Can Beer,MILLER LITE,16oz – 4.2%,$5
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Can Beer,DRUTHERS ALL IN IPA,16oz – 6.5%,$9
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Can Beer,EQUILIBRIUM MC2 DIPA,16oz – 8.2%,$11
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Can Beer,GUINNESS,14.9oz – 4.2%,$9
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Can Beer,NINE PIN SIGNATURE CIDER,12oz – 6.7%,$9
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Can Beer,HIGH NOON HARD SELTZER,12oz – 4.5%,$8
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Can Beer,SURFSIDE ICED TEA & LEMONADE + VODKA,12oz – 4.5%,$8
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Nonalcoholic,*MOCKTAIL,any starred cocktail can be made as a mocktail,$8
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Nonalcoholic,ATHLETIC N/A,lager & ipa – 12oz,$7
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Nonalcoholic,WOLFFER SPARKLING WHITE WINE N/A,200ml,$13
+Rhea,https://www.rhea-saratoga.com/,Drink Menu,Drinks,Nonalcoholic,PER SE N/A CANNED COCKTAILS,"hibiscus margarita, old fashioned, negroni",$10
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Beer,Sapporo,,$5
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Beer,Modelo,,$5
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Beer,Allagash White,,$5
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Beer,Northway Spa City Earl,,$5
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Wine,Hot/Cold Sake Carafe,,$8
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Wine,Bellafina Prosecco,,$8
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Wine,Freixenet Pinot Grigio,,$8
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Wine,Terra D’Oro Red Zin,,$8
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Wine,Catena Malbec,,$8
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Cocktails,FIG SPRITZ,"fruitful mission fig liqueur, poema cava brut rose, bittermen’s hopped grapefruit bitters, club soda, rosemary",$10
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Cocktails,BLUEBERRY BLUES*,"alb vodka, blueberry-apricot lemonade",$10
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Cocktails,Yuzu G&T*,"roku gin, kaffir lime leaf, juniper, citrus confetti, yuzu tonic water",$10
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Cocktails,IT’S GETTING HOT IN HERE...*,"…but please, keep your clothes on… tanteo chipotle tequila, italicus liqueur, blood orange, agave, lime, spicy salt rim",$10
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Cocktails,Dunes of the Cape,"rhea’s rum blend, soho lychee liqueur, pineapple, coconut, raspberry",$10
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Food,BAO BUNS:,meatloaf buffalo chicken pulled pork french dip fried mozzarell,*
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Food,RAMEN:,pork belly birria bbq shrimp veggie,*
+Rhea,https://www.rhea-saratoga.com/,Happy Hour Menu,Happy Hour,Sake,Sake Bombs,"sapporo lager, cold sake",$5

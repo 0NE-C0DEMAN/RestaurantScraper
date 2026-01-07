@@ -1,0 +1,498 @@
+restaurant_name,restaurant_url,menu_name,menu_type,name,description,price
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SOUP & SALADS,BACON & BEAN STEW,"White bean and chorizo stew, pork belly, smoked paprika",$6.00 (Cup) | $8.00 (Bowl)
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SOUP & SALADS,SOUP OF THE DAY,Seasonal soup of the day made from scratch daily. Ask your server,$6.00 (Cup) | $8.00 (Bowl)
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SOUP & SALADS,GOAT CHEESE SALAD,"Bibb lettuce, toasted pine nuts, roasted shallots, Black Mission figs, brûléed Cana de Cabra, quince vinaigrette. Add Chicken for $8, Fish for $15, Shrimp for $9, Serrano for $9, or Avocado for $5 to any salad.",$16.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SOUP & SALADS,GRAIN BOWL,"Arugula, quinoa, roasted delicata squash, shaved brussels sprouts, pickled red onions, blue cheese crumble, cranberry vinaigrette. Add Chicken for $8, Fish for $15, Shrimp for $9, Serrano for $9, or Avocado for $5 to any salad.",$16.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SOUP & SALADS,MEDITERRANEAN GRAIN BOWL,"Chopped kale, hummus, quinoa, cucumbers, cherry tomatoes, feta cheese, lemon and olive oil. Add Chicken for $8, Fish for $15, Shrimp for $9, Serrano for $9, or Avocado for $5 to any salad.",$14.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SOUP & SALADS,CHORIZO & CHICKPEA,"Arugula, crispy chorizo Pamplona, chickpeas, red onion, piquillo peppers, Idiazabal cheese, sherry vinaigrette",$16.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,PORK BELLY,"Roasted pork belly, parsnip puree, candied bacon, shaved brussels sprouts, cider glaze, sage",$16.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,FRIED CALAMARI,"Fried Calamari, lemon, marinara",$16.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,STUFFED DATES,"Dates stuffed with Valdeon cheese and Marcona almonds, wrapped in bacon, cider glaze",$13.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,SERRANO & MANCHEGO,"16-month aged Serrano ham, paired with sheep's milk cheese, notes of caramel & nuts",$24.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,HAM CROQUETTES,"Serrano ham fritters, Manchego cheese",$12.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,GARLIC SHRIMP,"Shrimp, garlic, lemon, extra virgin olive oil",$16.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,CLAMS IN BROTH,"Littleneck clams, garlic, peas, white wine, salsa verde",$19.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,SAUTEED MUSSELS,"Mussels, Chorizo, red onion, piquillo peppers, peri peri sauce, scallions",$24.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,CHORIZO & TOMATO,"Seared Chorizo fresco, marinated cherry tomatoes, pickled red onions, fresh herbs, sherry vinegar",$16.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,FIDEO,"Toasted vermicelli pasta, chorizo fresco, littleneck clams, bell peppers, cauliflower, peas, saffron cream, garlic aioli",$24.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,MIXTA CHEF'S SELECTION,"Chef selection of meats and cheeses, accompanied with spiced walnuts, quince paste (Serves 2)",$28.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,STUFFED PEPPERS,"Imported piquillo peppers, black beans, lentils, Manchego cheese, salsa verde",$12.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,STUFFED PEPPERS,"Imported piquillo peppers, black beans, lentils, Manchego cheese, salsa verde",$13.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,SHISHITO PEPPERS,Blistered shishito peppers,$13.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,BOCA FRIES,Seasoned french fries,$8.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,SAUTEED MUSHROOMS,"Sauteed oyster, cremini, and shiitake mushrooms, salsa verde",$14.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,FRIED ARTICHOKES,"Lightly breaded, deep-fried, white truffle oil, Idiazabal cheese, horseradish aioli",$14.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - TRADITIONAL TAPAS,FRIED POTATOES,"Fried potatoes, salsa brava, and garlic aioli. Add Chorizo $5.00 | Add Fried Egg $2.00",$12.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SANDWICHES,TRES CERDOS,"Serrano ham, salchichon, chorizo Pamplona, Manchego cheese, bibb lettuce, red onion, garlic aioli, piquillo peppers, guindilla peppers, oregano, on house-made ciabatta roll",$18.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SANDWICHES,BOCA BURGER,"Manchego cheese, piquillo peppers, arugula, onion marmalade, garlic aioli, on a brioche bun",$22.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SANDWICHES,GRILLED CHICKEN,"Grilled chicken, imported piquillo peppers, Serrano ham, Manchego cheese, dijon aioli on house-made ciabatta roll",$18.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SANDWICHES,SPICY FRIED CHICKEN SANDWICH,"Buttermilk fried chicken, house hot sauce, coleslaw, pickles, served on a Brioche bun",$16.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SANDWICHES,BLT,"Bacon, Bibb lettuce, tomato, Manchego cheese, garlic aioli served on ciabatta bread",$15.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SANDWICHES,MATADOR BURGER,"Manchego cheese, Serrano ham, guindilla peppers, salsa brava, garlic aioli, on a brioche bun",$24.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SANDWICHES,VEGGIE BURGER,"House-made sweet potato and quinoa patty, Manchego cheese, arugula, pickled red onions, black bean purée, tomato jam, on a brioche bun",$20.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SANDWICHES,CAPRESE,"Tomatoes, fresh mozzarella, arugula, lemon vinaigrette, balsamic reduction on house-made ciabatta roll",$15.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SANDWICHES,STEAK SANDWICH,"Thin-sliced bistro steak, Manchego cheese, guindilla peppers, arugula, romesco sauce, on a house-made ciabatta roll",$21.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - SANDWICHES,LA MONTANA,"Serrano ham, fresh mozzarella, arugula, tomato, lemon vinaigrette, balsamic glaze, on a brioche bun",$18.00
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - PAELLA,MARISCO,"Our Paella is made using imported rice from Valencia, Spain. Please allow at least 35 minutes for each order.",$34.00 (6 inch) | $65.00 (12 inch)
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - PAELLA,MIXTA,"Calasparra rice, chicken, Chorizo Bilboa, clams, calamari, mussels, shrimp, scallops, cauliflower, red & green bell peppers, peas, tomato, saffron, paprika",$36.00 (6 inch) | $72.00 (12 inch)
+Boca Bistro,https://bocabistro.com/,Lunch,LUNCH - PAELLA,MOORISH,"Calasparra rice, roasted squash and sweet potatoes, artichokes, saffron, cinnamon, turmeric, smoked paprika, marcona almonds, dried cranberries, saffron aioli",$31.00 (6 inch) | $60.00 (12 inch)
+Boca Bistro,https://bocabistro.com/,Dinner,"DINNER - SOUPS, SALADS & GRAIN BOWLS",SOPA DEL DIA,Soup of the day,$6.00 (Cup) | $8.00 (Bowl)
+Boca Bistro,https://bocabistro.com/,Dinner,"DINNER - SOUPS, SALADS & GRAIN BOWLS",BACON & BEAN STEW,"White bean and chorizo stew, pork belly, smoked paprika",$6.00 (Cup) | $8.00 (Bowl)
+Boca Bistro,https://bocabistro.com/,Dinner,"DINNER - SOUPS, SALADS & GRAIN BOWLS",GOAT CHEESE SALAD,"Bibb lettuce, toasted pine nuts, roasted shallots, black mission figs, bruleed goat cheese, quince vinaigrette. Add Chicken for $8, Fish for $15, Shrimp for $9, Serrano for $9, or Avocado for $5 to any salad.",$16.00
+Boca Bistro,https://bocabistro.com/,Dinner,"DINNER - SOUPS, SALADS & GRAIN BOWLS",GRAIN BOWL,"Arugula, quinoa, roasted delicata squash, shaved brussels sprouts, pickled red onions, blue cheese crumble, cranberry vinaigrette. Add Chicken for $8, Fish for $15, Shrimp for $9, Serrano for $9, or Avocado for $5 to any salad.",$16.00
+Boca Bistro,https://bocabistro.com/,Dinner,"DINNER - SOUPS, SALADS & GRAIN BOWLS",MEDITERRANEAN GRAIN BOWL,"Chopped kale, hummus, quinoa, cucumbers, cherry tomatoes, feta cheese, lemon and olive oil. Add Chicken for $8, Fish for $15, Shrimp for $9, Serrano for $9, or Avocado for $5 to any salad.",$14.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,HAM CROQUETTES,"Serrano ham fritters, Manchego cheese",$12.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,FRIED CALAMARI,"Fried calamari, lemon, marinara",$16.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,STUFFED DATES,"Dates stuffed with Valdeon cheese and Marcona almonds, wrapped in bacon, cider glaze",$13.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,BISTRO STEAK,"Grilled bistro steak, roasted potatoes, brussels sprouts, parsnip puree, smoked curry cream, pickled red peppers, parsnip crisps",$28.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,SAUTÉED MUSSELS,"Mussels, chorizo, red onion, piquillo peppers, peri peri sauce, scallions",$24.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,PORK BELLY,"Roasted pork belly, parsnip puree, candied bacon, shaved brussels sprouts, cider glaze, sage",$16.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,CLAMS IN BROTH,"Littleneck clams, garlic, peas, white wine, salsa verde",$19.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,OCTOPUS,"Grilled octopus, chimichurri, piquillo peppers, arugula, mint yogurt",$22.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,GARLIC SHRIMP,"Shrimp, garlic, lemon, extra virgin olive oil",$16.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,CHORIZO & TOMATO,"Seared chorizo, marinated cherry tomatoes, pickled red onion, fresh herbs, sherry vinegar.",$16.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,FARM BREAD & TOMATO,"Grilled Farm Bread topped with tomato and garlic sauce, cherry tomatoes, olive oil. Add Manchego $6.00 | Add Serrano $6.00 | Add Anchovies $6.00",$10.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,BOCA FRIES,Seasoned french fries,$8.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,SWEET POTATO QUINOA CAKE,"Sweet potato quinoa cakes with Manchego cheese, avocado crema, chipotle black bean purée",$15.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,FRIED ARTICHOKES,"Lightly breaded, deep-fried, white truffle oil, Idiazabal cheese, horseradish aioli",$14.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,EGG OMELETTE,"Spanish omelette of potato, onions, garlic aioli, salsa brava, Manchego cheese",$14.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,STUFFED PEPPERS,"Imported piquillo peppers, black beans, lentils, Manchego cheese, salsa verde",$13.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,SAUTÉED MUSHROOMS,"Sautéed oyster, cremini, and shiitake mushrooms, salsa verde",$14.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,FRIED POTATOES,"Fried potatoes, salsa brava, garlic aioli. Chorizo $3.00 | Fried Egg $2.00",$12.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,ROASTED SHISHITOS,"Roasted shishito peppers, sweet soy glaze, aji amarillo aioli, sesame seeds",$15.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - TRADITIONAL TAPAS,CAULIFLOWER,"Paprika and sumac roasted cauliflower, cranberry yogurt, pistachio dukkah, roasted pepitas, pickled red onion",$16.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - LARGE PLATES,FISHERMAN'S SOUP,"Littleneck clams, mussels, calamari, shrimp, scallops, tomato broth, salsa verde",$36.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - LARGE PLATES,TRUFFLE & WILD MUSHROOM PASTA,"Orecchiette, exotic mushrooms, black truffle, artichokes, béchamel, Manchego cheese",$36.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - LARGE PLATES,MUSHROOM & CHORIZO POLENTA,"Sauteed mushrooms and chorizo, sherry cream, thyme, creamy Manchego polenta",$36.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - LARGE PLATES,MATADOR BURGER,"Manchego cheese, Serrano ham, guindilla peppers, salsa brava, garlic aioli, on a brioche bun",$24.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - LARGE PLATES,VEGGIE BURGER,"Sweet potato and quinoa patty, Manchego cheese, arugula, pickled red onions, black bean purée, tomato jam",$18.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - LARGE PLATES,CHICKEN,"Grilled marinated chicken breast, sweet potato puree, arugula, roasted delicata squash, candied bacon, maple balsamic glaze",$32.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - LARGE PLATES,FIDEO,"Toasted vermicelli pasta, Chorizo Bilbao, littleneck clams, bell peppers, cauliflower, peas, saffron cream, garlic aioli",$24.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - LARGE PLATES,SCALLOP & MUSHROOM FIDEO,"Toasted vermicelli pasta, seared scallops, mushrooms, sweet potatoes, saffron, peas, sherry garlic cream sauce, saffron aioli",$48.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - LARGE PLATES,HANGER STEAK,"Grilled hanger steak, pommes puree, piquillo pepper relish, crispy shallots, romesco sauce",$40.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - LARGE PLATES,STEAK OF THE DAY,,
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - LARGE PLATES,FISH OF THE DAY,,
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - PAELLA,PAELLA MARISCO,"Our paella is made using imported rice from Valencia, Spain",$65.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - PAELLA,PAELLA MIXTA,"Calasparra rice, chicken, Chorizo Bilboa, clams, calamari, mussels, shrimp, scallops, cauliflower, red & green bell peppers, peas, tomato, saffron, paprika",$72.00
+Boca Bistro,https://bocabistro.com/,Dinner,DINNER - PAELLA,PAELLA MOORISH,"Calasparra rice, roasted squash and sweet potatoes, artichokes, saffron, cinnamon, turmeric, smoked paprika, Marcona almonds, dried cranberries, saffron aioli",$60.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - WAFFLES,TRADITIONAL WAFFLE,"House waffle, cinnamon sugar, chocolate sauce, whipped cream",$10.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - WAFFLES,CHURRO WAFFLE,"House waffle, cinnamon sugar, chocolate sauce, whipped cream",$12.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - WAFFLES,THE MADRID,"Waffle, seasonal fruit compote, whipped cream",$12.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - WAFFLES,CHICKEN & WAFFLE,"Buttermilk fried chicken, house waffle, bacon, maple syrup",$18.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - WAFFLES,IBERIAN CHICKEN & WAFFLE,"Buttermilk fried chicken, house waffle, Serrano ham, poached egg, hollandaise, guindilla peppers",$22.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - WAFFLES,PARFAIT WAFFLE,"House waffle, Greek yogurt, granola, fresh berries, honey",$12.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - EGGS,EGG PLATE,"Three eggs, bacon, fried potatoes, toasted ciabatta",$14.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - EGGS,CHEESE OMELETTE,"Three egg, three cheese omelette, mixed greens, toasted ciabatta",$16.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - EGGS,BOCA BENNY,"Toasted ciabatta, serrano ham, poached egg, hollandaise, mixed greens",$18.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - EGGS,SARATOGA BENNY,"Toasted ciabatta, bacon, poached egg, hollandaise, mixed greens",$16.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - EGGS,POTATO HASH,"Potatoes, chorizo, shishitos, salsa brava, sunny side up egg, aioli",$16.00
+Boca Bistro,https://bocabistro.com/,Brunch,"BRUNCH - SOUPS, SALADS & GRAIN BOWLS",SOPA DEL DIA,Soup of the day,$6.00 (Cup) | $8.00 (Bowl)
+Boca Bistro,https://bocabistro.com/,Brunch,"BRUNCH - SOUPS, SALADS & GRAIN BOWLS",BACON & BEAN STEW,"White bean and chorizo stew, pork belly, smoked paprika",$6.00 (Cup) | $8.00 (Bowl)
+Boca Bistro,https://bocabistro.com/,Brunch,"BRUNCH - SOUPS, SALADS & GRAIN BOWLS",GOAT CHEESE SALAD,"Bibb lettuce, toasted pine nuts, roasted shallots, Black Mission figs, brûléed Cana de Cabra, quince vinaigrette. Add Chicken for $8, Shrimp for $9, or Avocado for $5 to any salad.",$16.00
+Boca Bistro,https://bocabistro.com/,Brunch,"BRUNCH - SOUPS, SALADS & GRAIN BOWLS",GRAIN BOWL,"Arugula, quinoa, roasted delicata squash, shaved brussels sprouts, pickled red onions, blue cheese crumble, cranberry vinaigrette. Add Chicken for $8, Shrimp for $9, or Avocado for $5 to any salad.",$16.00
+Boca Bistro,https://bocabistro.com/,Brunch,"BRUNCH - SOUPS, SALADS & GRAIN BOWLS",MEDITERRANEAN GRAIN BOWL,"Chopped kale, hummus, quinoa, cucumbers, cherry tomatoes, feta cheese, lemon and olive oil. Add Chicken for $8, Shrimp for $9, or Avocado for $5 to any salad.",$14.00
+Boca Bistro,https://bocabistro.com/,Brunch,"BRUNCH - SOUPS, SALADS & GRAIN BOWLS",BRUNCH BOWL,"Greek yogurt, fresh strawberries and blueberries, pistachios, cinnamon sugar, honey, granola. Add Chicken for $8, Shrimp for $9, or Avocado for $5 to any salad.",$15.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - TRADITIONAL TAPAS,HAM CROQUETTES,"Serrano ham fritters, Manchego cheese",$12.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - TRADITIONAL TAPAS,STUFFED DATES,"Dates stuffed with Valdeon cheese and Marcona almonds, wrapped in bacon, cider glaze",$13.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - TRADITIONAL TAPAS,FRIED CALAMARI,"Fried calamari, lemon, marinara",$16.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - TRADITIONAL TAPAS,BOCA FRIES,Seasoned french fries,$8.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - TRADITIONAL TAPAS,STUFFED PEPPERS,"Imported piquillo peppers, black beans, lentils, Manchego cheese, salsa verde",$13.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - TRADITIONAL TAPAS,SHISHITO PEPPERS,Blistered shishito peppers,$13.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - TRADITIONAL TAPAS,FRIED POTATOES,"Fried potatoes, salsa brava, garlic aioli. Fried Egg $2.00 | Chorizo $5.00",$12.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - TRADITIONAL TAPAS,MIXTA CHEF'S SELECTION,"Chef's Selection of meats and cheeses accompanied with spiced walnuts, quince paste (serves 2)",$28.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - SANDWICHES,MATADOR BURGER,"Manchego cheese, Serrano ham, guindilla peppers, salsa brava, garlic aioli, on brioche bun",$24.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - SANDWICHES,BREAKFAST SANDWICH,"Scrambled egg, bacon, Manchego cheese, hash brown, garlic aioli on toasted house-made ciabatta roll",$15.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - SANDWICHES,BLT,"Bacon, bibb lettuce, tomato, Manchego cheese, garlic aioli on housemade ciabatta bread. Fried Egg $2.00",$15.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - SANDWICHES,BREAKFAST BURGER,"Bacon, fried egg, house BBQ, Manchego cheese, tomato jam on potato roll",$20.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - SANDWICHES,LA MONTANA,"Serrano ham, fresh mozzarella, arugula, tomato, lemon vinaigrette, balsamic glaze, on a brioche bun",$18.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - SANDWICHES,CAPRESE,"Tomatoes, fresh mozzarella, arugula, lemon vinaigrette, and balsamic reduction on house-made ciabatta roll",$15.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - SANDWICHES,CHICKEN,"Grilled chicken, imported piquillo peppers, Serrano ham, Manchego cheese, dijon aioli on housemade ciabatta bread",$18.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - SIDES,GREEK YOGURT & GRANOLA,"Greek yogurt, honey, granola",$5.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - SIDES,BACON,,$6.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - SIDES,CHORIZO,,$6.00
+Boca Bistro,https://bocabistro.com/,Brunch,BRUNCH - SIDES,SHISHITO PEPPERS,,$6.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - SPARKLING,"2015 BRUT, DOM PERIGNON, REIMS, FRANCE",Bin 002,$430.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - SPARKLING,"NV BRUT, MOET & CHANDON ""IMPERIAL"", EPERNAY, FRANCE",Bin 008,$120.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - SPARKLING,"NV BRUT, VEUVE CLIQUOT, REIMS, FRANCE",Bin 011,$140.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - SPARKLING,"2022 BRUT, BLUEBIRD CUVÉE, DUNDEE HILLS, OREGON",Bin 012,$85.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - SPARKLING,"NV BRUT, PAUL CHENEUA, CATALUNYA, SPAIN",Bin 013,$34.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - SPARKLING,"2017 BRUT, GRAN RESERVA, GELIDA",Bin 014,$50.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - ROSE,"2021 ROSÉ BRUT RESERVA, LLOPART, PENEDES, SPAIN",Bin 025,$70.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - ROSE,"2023 ROSÉ, FAUSTINO ""ART COLLECTION"", RIOJA, SPAIN",Bin 030,$43.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - ROSE,"2021 ROSÉ, DOMAINE DU TARIQUET, CÔTES DE GASCOGNE, FRANCE",Bin 031,$45.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - ROSE,"2024 ROSÉ, CHATEAU D'ESCLANS WHISPERING ANGEL, COTES DE PROVENCE, FRANCE",Bin 033,$70.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - ROSE,"FOREVER SUMMER, PROVENCE, FRANCE",Bin 026,$45.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CHARDONNAY,"18/21 BENOVIA, RUSSIAN RIVER VALLEY, CALIFORNIA",Bin 050,$86.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CHARDONNAY,"2022 JOSH CELLARS RESERVA, NORTH COAST, CALIFORNIA",Bin 052,$53.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CHARDONNAY,"2022 FRANK FAMILY CARNEROS, NAPA VALLEY, CALIFORNIA",Bin 054,$85.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CHARDONNAY,"2018 BAILEYANA, ""FIREPEAK"", EDNA VALLEY, CALIFORNIA",Bin 055,$65.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CHARDONNAY,"2022 POUILLY FUISSÉ LE CLOS, BURGUNDY, FRANCE",Bin 060,$180.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CHARDONNAY,"2023 FLOWERS, SONOMA, CALIFORNIA",Bin 062,$95.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CHARDONNAY,"2018 ALBERT BICHOT ""SECRET DE FAMILLE"", BOURGOGNE, FRANCE",Bin 063,$75.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CHARDONNAY,"2022 ANTINORI BRAMITO DELLA SALA, UMBRIA, ITALY",Bin 070,$54.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CHARDONNAY,"2023 LA CREMA, MONTEREY, CALIFORNIA",Bin 071,$55.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CHARDONNAY,"NV SIMPLY, WASHINGTON STATE",Bin 085,$34.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER WHITES,"2024 HONDARRABI ZURI, ULACIA, TXAKOLI DE GETARIA, SPAIN",Bin 150,$50.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER WHITES,"2024 ALBARINO, MARTIN CODAX, RIAS BAIXAS, SPAIN",Bin 151,$50.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER WHITES,"2024 ALBARINO, LA CAÑA, RÍAS BAIXAS, SPAIN",Bin 152,$60.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER WHITES,"2024 ALBARINO, A20, RIAS BAIXAS, SPAIN",Bin 153,$53.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER WHITES,"2024 VINHO VERDE, FRIA FRIO, PORTUGAL",Bin 154,$34.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER WHITES,"2023 PINOT GRIS, HESS SELECT, NAPA, CALIFORNIA",Bin 160,$33.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER WHITES,"2023 PINOT GRIS, SOKOL BLOSSER, WILLAMETTE VALLEY, OREGON",Bin 161,$45.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER WHITES,"2023 VERDEJO, RIPPA DORII, RIBERA DEL DUERO, SPAIN",Bin 173,$36.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER WHITES,"2024 VERDEJO, NISIA OLD VINES, RUEDA, SPAIN",Bin 174,$40.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER WHITES,"2023 PINOT GRIS, HUGEL, ALSACE, FRANCE",Bin 175,$55.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER WHITES,"2021 VIURA, CVNE ""MONOPOLE"", RIOJA, SPAIN",Bin 176,$40.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER WHITES,"2024 DELLE VENEZIE, PINOT GRIGIO, VENETO, ITALY",Bin 156,$34.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - RIESLING,"2021 HERMANN J. WIEMER, LATE HARVEST, FINGER LAKES, NY",Bin 194,$60.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - RIESLING,"2024 DR. LOOSEN ""DR. L,"" MOSEL, GERMANY",Bin 195,$48.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - RIESLING,"2023 HERMANN J. WIEMER, SEMI-DRY, FINGER LAKES, NY",Bin 196,$45.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - RIESLING,"2021 NIKOLAIHOF WACHAU ""GRÜNER VELTLINER"" WACHAU, AUSTRIA",Bin 197,$65.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - RIESLING,"2022 HEXAMER ""QUARZIT"", NAHE, GERMANY",Bin 198,$95.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - SAUVIGNON BLANC,"2024 THE CROSSING MARLBOROUGH, NEW ZEALAND",Bin 181,$40.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - SAUVIGNON BLANC,"2024 DASHWOOD, MARLBOROUGH, NEW ZEALAND",Bin 182,$45.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - SAUVIGNON BLANC,"2023 MERRY EDWARD, RUSSIAN RIVER VALLEY, CALIFORNIA",Bin 184,$95.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - SAUVIGNON BLANC,"2023 DUCKHORN VINEYARDS, NORTH COAST, CALIFORNIA",Bin 185,$80.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - SAUVIGNON BLANC,"2022 ILLUMINATION, RUTHERFORD, CALIFORNIA",Bin 186,$145.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - SAUVIGNON BLANC,"2021 FOURNIER PÈRE ET FILS ""CLOS DU ROC,"" SANCERRE, LOIRE VALLEY, FRANCE",Bin 187,$140.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - SAUVIGNON BLANC,"2024 PASCAL JOLIVET SANCERRE, LOIRE, FRANCE",Bin 191,$70.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - SAUVIGNON BLANC,"2024 PIERRE MARTIN LES MONTS DAMNES SANCERRE, LOIRE, FRANCE",Bin 192,$95.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - SAUVIGNON BLANC,"2022 BERNARD FLEURIET ""PUR JUS,"" SANCERRE, LOIRE VALLEY, FRANCE",Bin 193,$125.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - HALF BOTTLES,"2024 SANCERRE, LES BELLES VIGNES, FOURNIER PERE & FILS, LOIRE, FRANCE",Bin 500,$39.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - HALF BOTTLES,"NV BRUT, VEUVE CLIQUOT, REIMS, FRANCE",Bin 510,$72.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - HALF BOTTLES,"2021 CHARDONNAY, TREFETHEN ESTATE, OAK KNOLL DISTRICT NAPA VALLEY, CALIFORNIA",Bin 520,$35.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - HALF BOTTLES,"2022 PETIT CHABLIS, FRANCINE ET OLIVIER SAVARY, BURGUNDY FRANCE",Bin 530,$35.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - HALF BOTTLES,"2024 SAUVIGNON BLANC, KIM CRAWFORD, MARLBOROUGH NEW ZEALAND",Bin 540,$24.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - HALF BOTTLES,"2021 STRAW WINE, MULLINEUX, SOUTH AFRICA",Bin 550,$80.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - HALF BOTTLES,"2022 MOSCATO D'ASTI, MOSSOLINO, PIEMONTE, ITALY",Bin 560,$35.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - HALF BOTTLES,"2023 ROSÉ, HECHT & BANNIER, COTES DE PROVENCE, FRANCE PIEMONTE, ITALY",Bin 525,$35.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CABERNET SAUVIGNON,"2024 ASTICA, ARGENTINA",Bin 202,$34.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CABERNET SAUVIGNON,"2023 DON DAVID RESERVE, CALCHAQUI VALLEY, ARGENTINA",Bin 204,$40.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CABERNET SAUVIGNON,"2019 ORZADA ""ODFJELL"", CHILE",Bin 213,$50.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CABERNET SAUVIGNON,"2016 MERUS, NAPA VALLEY, CALIFORNIA",Bin 214,$300.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CABERNET SAUVIGNON,"2022 HESS ALLOMI NAPA VALLEY, CALIFORNIA",Bin 215,$85.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CABERNET SAUVIGNON,2020 TORRES GRAN CORONAS RESERVA,Bin 216,$57.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CABERNET SAUVIGNON,"2022 TRUE MYTH, PASO ROBLES, CALIFORNIA",Bin 217,$55.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CABERNET SAUVIGNON,"2021 THE CALLING, PASO ROBLES, CALIFORNIA",Bin 218,$75.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CABERNET SAUVIGNON,"2021 GOOSECROSS CELLARS, NAPA, CALIFORNIA",Bin 220,$90.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CABERNET SAUVIGNON,"2021 STAGS LEAP WINE CELLARS ""ARTEMIS,""NAPA, CALIFORNIA",Bin 225,$160.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CABERNET SAUVIGNON,"2019/21 O'SHAUGHNESSY, NAPA, CALIFORNIA",Bin 227,$210.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - CABERNET SAUVIGNON,"2019 PATRIMONY PASO ROBLES, ADELAIDA DISTRICT, CALIFORNIA",Bin 230,$450.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - GARNACHA,"2023 ""LA ATALAYA DEL CAMINO"", ALMANSA, SPAIN",Bin 250,$50.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - GARNACHA,"2023 HONORO VERA, CALATAYUD, SPAIN",Bin 251,$34.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - GARNACHA,"2022 GODINA, CAMPO DE BORJA, SPAIN",Bin 252,$60.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - GARNACHA,"2019 HERMAN STORY ""ON THE ROAD"", LOIRE, FRANCE",Bin 253,$125.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - GARNACHA,"2020 LAS ALAS DE FRONTONIO, BODEGAS FRONTONIO, ARAGÓN, SPAIN",Bin 255,$145.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - GARNACHA,"2017 HORSEPOWER ""SUR ECHALAS VINEYARD""",Bin 256,$270.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - PINOT NOIR,"2021 CROSSBARN, SONOMA COST, CALIFORNIA",Bin 270,$85.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - PINOT NOIR,"2022 MURPHY-GOODE, SANTA MARIA VALLEY, CALIFORNIA",Bin 271,$43.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - PINOT NOIR,"2021 JONIVE, RUSSIAN RIVER VALLEY, CALIFORNIA",Bin 272,$155.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - PINOT NOIR,"2022 SONOMA-CUTRER, RUSSIAN RIVER VALLEY, CA",Bin 275,$65.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - PINOT NOIR,"2021 SOKOL BLOSSER, ""ORCHARD BLOCK"" DUNDEE HILLS, OREGON",Bin 277,$115.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - PINOT NOIR,"2022 JOSEPH PHELPS, FREESTONE VINEYARDS, SONOMA COAST, CALIFORNIA",Bin 280,$110.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - PINOT NOIR,"2021 SHEA WINE CELLARS ""ESTATE,"" WILLAMETTE VALLEY, OREGON",Bin 289,$95.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - PRIORATS,"2019 FAMILIA TORRES ""SALMOS""","Priorat is a small, dynamic wine region in Catalunya, north-eastern Spain, known for intense, full-bodied blended red wine.",$85.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - PRIORATS,2016 PERINET 1194,Bin 293,$200.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - PRIORATS,"2017 FAMILIA TORRES ""COS PERPETUAL""",Bin 294,$120.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - TEMPRANILLO,"2019 CVNE RIOJA RESERVA, RIOJA, SPAIN",Bin 309,$60.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - TEMPRANILLO,"2011 EL PUNTIDO GRAN RESERVA, RIOJA, SPAIN",Bin 311,$150.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - TEMPRANILLO,"2020 MIROS DE RIBERA, CASTILLA Y LEON, SPAIN",Bin 316,$75.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - TEMPRANILLO,"2018 AMOR DE MADRE RESEVERA, RIOJA, SPAIN",Bin 317,$55.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - TEMPRANILLO,"2014 FAUSTINO I GRAN RESERVA, RIOJA, SPAIN",Bin 318,$105.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - TEMPRANILLO,"2022 VOLVER SINGLE VINEYARD, CASTILLA LA MANCHA, SPAIN",Bin 319,$40.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - TEMPRANILLO,"2017 CVNE RIOJA GRAN RESERVA, RIOJA, SPAIN",Bin 320,$80.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - TEMPRANILLO,"2015 LA RIOJA ALTA ""GRAN RESERVA 904,"" RIOJA, SPAIN",Bin 325,$160.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - TEMPRANILLO,"2020 LA RIOJA ALTA ""VINA ALBERDI,"" RIOJA, SPAIN",Bin 328,$60.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - TEMPRANILLO,"2016 LA RIOJA ALTA ""VINA ARANA"" GRAN RESERVA, RIOJA, SPAIN",Bin 329,$95.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - TEMPRANILLO,"2021 FAUSTINO CRIANZA, RIOJA, SPAIN",Bin 330,$53.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - TEMPRANILLO,"17/19 LA RIOJA ALTA ""VINA ARDANZA RESERVA,"" RIOJA, SPAIN",Bin 333,$85.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - TEMPRANILLO,2013 CERRADO DEL CASTILLO DE CUZCURRITA,Bin 340,$175.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - TEMPRANILLO,"2021 NUMANTHIA ""TERMES,"" TORO, SPAIN",Bin 343,$70.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - TEMPRANILLO,"2023 TRES BUHIS, YECLA, SPAIN",Bin 344,$34.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER REDS,"2024 ORGANIC MALBEC, ""CUMA"", CUMA ARGENTINA",Bin 360,$38.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER REDS,"2023 MALBEC, DON DAVID, CALCHAQUI VALLEY, ARGENTINA",Bin 361,$48.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER REDS,"2020 MERLOT, FOLIE A DEUX, SONOMA COUNTY, CALIFORNIA",Bin 366,$55.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER REDS,"2021 MERLOT, STAGS LEAP, NAPA, CALIFORNIA",Bin 370,$75.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER REDS,"2023 CHIANTI, MELINI, TUSCANY, ITALY",Bin 380,$34.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER REDS,"2020 CHIANTI CLASSICO RISERVA, CASTELLO DI MONSANTO, TUSCANY, ITALY",Bin 381,$75.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER REDS,"BLEND-BORDEAUX-CHATEAU BRANAIRE-DUCRU ""4EME GRAND 175 CRU 2018 CLASSE EN 1855 SAINT-JULIEN,"" BORDEAUX, FRANCE",Bin 385,$175.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER REDS,"2019 BAROLO, ""CASCINA NUOVA"" ELVIO COGNO, PIEDMONT, ITALY",Bin 388,$135.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - OTHER REDS,"2017 BAROLO, RAVERA BRICCO PERNICE, PIEDMONT, ITALY",Bin 390,$215.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - ZINFANDEL,"20/22 RIDGE PASO ROBLES, SAN LUIS OBISPO, CALIFORNIA",Bin 401,$85.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - ZINFANDEL,"2023 TURLEY ""JUVENILE"" NAPA VALLEY, CALIFORNIA",Bin 402,$60.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - ZINFANDEL,"2020 PASO ROBLES, CENTRAL COAST, CALIFORNIA",Bin 405,$55.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - HALF BOTTLES,"2023 PINOT NOIR, ""CRISTOM,"" MT. JEFFERSON CUVEE, EOLA-AMITY HILLS, WILLIAMETTE VALLEY, OREGON",Bin 600,$55.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - HALF BOTTLES,"2022 MALBEC, ANTIGAL UNO, MENDOZA, ARGENTINA",Bin 610,$27.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - HALF BOTTLES,"2021 TEMPRANILLO, MUGA, RIOJA, SPAIN",Bin 620,$40.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - HALF BOTTLES,"2021 MERLOT, ALEXANDER VALLEY VINEYARDS, CA",Bin 630,$27.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - HALF BOTTLES,"2021 CABERNET, JOSH CELLARS, CALIFORNIA",Bin 640,$31.00
+Boca Bistro,https://bocabistro.com/,Wine,WINE - HALF BOTTLES,"2019 BRUNELLO DI MONTALCINO, VAL DI SUGA, TUSCANY, ITALY",Bin 650,$75.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - WHITE WINE BY THE GLASS,"DELLE VENEZIE, PINTO GRIGIO","Veneto, Italy",$11.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - WHITE WINE BY THE GLASS,PAUL CHENEAU BRUT CAVA,"Catalunya, Spain",$11.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - WHITE WINE BY THE GLASS,LA MARCA PROSECCO ROSÉ SPLIT,,$15.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - WHITE WINE BY THE GLASS,DASHWOOD SAUVIGNON BLANC,New Zealand,$12.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - WHITE WINE BY THE GLASS,"DR. LOOSEN ""DR. L,"" RIESLING","Mosel, Germany",$13.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - WHITE WINE BY THE GLASS,SIMPLY CHARDONNAY,Washington State,$11.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - WHITE WINE BY THE GLASS,A20 ALBARINO,"Rías Baixas, Spain",$14.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - WHITE WINE BY THE GLASS,JOSH CELLARS RESERVA CHARDONNAY,"North Coast, CA",$14.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - WHITE WINE BY THE GLASS,"VINHO VERDE, ESCUDO REAL",Portugal,$12.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - WHITE WINE BY THE GLASS,FOREVER SUMMER,"Provence, France",$12.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - WHITE WINE BY THE GLASS,"NON-ALCOHOLIC SPRING IN A BOTTLE, BLANC DE BLANCS",Germany,$14.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - RED WINE BY THE GLASS,"ASTICA CABERNET, ARGENTINA",,$11.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - RED WINE BY THE GLASS,"TRES BUHIS, TEMPRANILLO, MURCIA, SPAIN",,$11.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - RED WINE BY THE GLASS,"HONORO VERA, GARANCHA, CALATAYUD, SPAIN",,$11.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - RED WINE BY THE GLASS,"MURPHY GOODE PINOT NOIR, CALIFORNIA",,$12.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - RED WINE BY THE GLASS,"DON DAVID MALBEC, CALCHAQUI VALLEY, ARGENTINA",,$13.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - RED WINE BY THE GLASS,"TORRES GRAN CORONAS CABERNET SAUVIGNON RESERVA, PENEDES, SPAIN",,$16.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - RED WINE BY THE GLASS,"FAUSTINO CRIANZA, TEMPRANILLO, RIOJA, SPAIN",,$14.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - DRAFT BEER SELECTIONS,CZECH'RD PAST,"Chatham Brewing, Pilsner Style Ale, 4.5% ABV, 16oz",$6.50
+Boca Bistro,https://bocabistro.com/,Bar,BAR - DRAFT BEER SELECTIONS,FIDDLEHEAD IPA,"Fiddlehead Brewing Company, New England-Style IPA, 6.2% ABV, 16oz",$8.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - DRAFT BEER SELECTIONS,WHITE,"Allagash Brewing Company, Witbier-style Ale, 5.2% ABV, 16oz",$8.50
+Boca Bistro,https://bocabistro.com/,Bar,BAR - DRAFT BEER SELECTIONS,SHIPPING OUT OF BOSTON,"Jack's Abby Brewing, American Amber/Red Lager, 5.3% ABV, 16oz",$6.50
+Boca Bistro,https://bocabistro.com/,Bar,BAR - DRAFT BEER SELECTIONS,HELPING HANDZ,Beer brewed with a purpose. Brewed in collaboration with Wolf Hollow Brewing Co. Each beer sold benefits a local nonprofit. Ask your server about this rotating brew.,$8.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - DRAFT BEER SELECTIONS,MAD ELF,"Troegs Brewing Company, Beigian Dark Strong Ale Style, 11% ABV, 13oz",$11.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - DRAFT BEER SELECTIONS,GREEN CITY,"Other Half Brewing Co., Double Dry-Hopped Hazy IPA Style, 7% ABV, 13oz",$7.50
+Boca Bistro,https://bocabistro.com/,Bar,BAR - DRAFT BEER SELECTIONS,BLOOM,"Hudson Valley Brewery, Sour DIPA Style, 8% ABV,13oz",$9.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - DRAFT BEER SELECTIONS,GOOD FORTUNE,"Common Roots Brewing Company,IPA American Style, 6.5% ABV, 16oz",$8.50
+Boca Bistro,https://bocabistro.com/,Bar,BAR - DRAFT BEER SELECTIONS,SHADOW LINE,"Return Brewery, Stout American Style, 6% ABV, 16oz",$8.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOTTLES & CANS,MILLER LITE,,$7.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOTTLES & CANS,COORS LIGHT,,$7.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOTTLES & CANS,CORONA,,$7.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOTTLES & CANS,PERONI,,$7.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOTTLES & CANS,DAURA DAMM,,$8.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOTTLES & CANS,ALCHEMIST HEADY TOPPER,,$10.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOTTLES & CANS,BURLINGTON BEER CO. BARISTA,,$10.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOTTLES & CANS,TWO CHICKS SPARKLING MELON DROP,,$10.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - HARD CIDER,AUSTIN EASTCIDER ORIGINAL,"A crisp, smooth dry craft cider made with bittersweet apples and dessert apples.",$7.50
+Boca Bistro,https://bocabistro.com/,Bar,BAR - HARD CIDER,FEATURED AUSTIN EASTCIDER,Orange Cider,$7.50
+Boca Bistro,https://bocabistro.com/,Bar,BAR - ZERO PROOF,HEINEKEN 0.0,"Heineken (Netherlands), N/A Helles-Lager, 0% ABV, 12 0z.",$6.50
+Boca Bistro,https://bocabistro.com/,Bar,BAR - ZERO PROOF,FREE WAVE,"Athletic Brewing Co, N/A NE-Style IPA, 0.5% ABV, 12 oz.",$6.50
+Boca Bistro,https://bocabistro.com/,Bar,BAR - ZERO PROOF,UPSIDE DAWN,"Athletic Brewing Co, N/A Golden Style, 0.5% ABV, 12 oz",$6.50
+Boca Bistro,https://bocabistro.com/,Bar,BAR - ZERO PROOF,FEATURED ATHLETIC BREWING CO.,,$6.50
+Boca Bistro,https://bocabistro.com/,Bar,BAR - MOCKTAILS & NON-ALCOHOLIC,BOCA ICED TEA,"Blend of Black, Green and Mint Tea",$5.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - MOCKTAILS & NON-ALCOHOLIC,BOCA LEMONADE,"Fresh Lemon Juice, Simple Syrup, Water",$5.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - MOCKTAILS & NON-ALCOHOLIC,BLACK CHERRY LIMEADE,"Black Cherry Purée, Lime Juice, Simple Syrup, Ginger Beer",$6.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - MOCKTAILS & NON-ALCOHOLIC,SARANAC ROOT BEER,,$5.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - MOCKTAILS & NON-ALCOHOLIC,GINGER LIMEADE,"Ginger Beer, Simple Syrup, Lime Juice",$6.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - MOCKTAILS & NON-ALCOHOLIC,ARNOLD PALMER,"Half of Boca's Housemade Iced Tea, and Half of Housemade Lemonade",$6.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - MOCKTAILS & NON-ALCOHOLIC,GRAPEFRUIT SPRITZ,"Grapefruit Juice, Simple Syrup, Club Soda, Fresh Lemon Juice",$6.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - MOCKTAILS & NON-ALCOHOLIC,REFRESHING SPARKLING MINT,"Muddled Fresh Mint, Club Soda, Simple Syrup, Splash of Fresh Lime Juice",$6.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,1792 SWEET WHEAT,"Bardstown, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,"ANGELS ENVY, PORT FINISH","Louisville,KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,BASIL HAYDEN,"Clermont, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,BASIL HAYDEN TOASTED,Clermont KY,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,BLANTON'S SINGLE BARREL,"Frankfort, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,BULLEIT,"Lebanon,KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,BUFFALO TRACE,"Frankfort, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,COLONEL E.H. TAYLOR SMALL BATCH,"Frankfort, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,COOPERSTOWN SELECT STRAIGHT BOURBON,"Cooperstown, NY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,EAGLE RARE,"Frankfort, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,ELIJAH CRAIG SMALL BATCH,"Bardstown, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,"ELIJAH CRAIG, TOASTED BARREL","Bardstown,KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,"HUDSON BRIGHT LIGHTS, BIG BOURBON","Hudson Valley, NY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,JIM BEAM,"Louisville, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,KNOB CREEK,"Clermont, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,KNOB CREEK SMOKED MAPLE,"Clermont, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,MAKER'S MARK,"Loretto, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,PAPPY VAN WINKLE 12 YEARS,"Frankfort, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,PAPPY VAN WINKLE 10 YEARS,"Frankfort, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,WELLER SPECIAL RESERVE,"Frankfort, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,WELLER 12 YEARS,"Frankfort, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,WELLER FULL PROOF,"Frankfort, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,WIDOW JANE,"Red Hook, NY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,WIDOW JANE LUCKY THIRTEEN,"Red Hook, NY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BOURBON,WOODFORD RESERVE,"Versailles, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - RYE,"ANGEL'S ENVY RYE, FINISHED IN CARIBBEAN RUM CASK BARRELS","Louisville,KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - RYE,BULLEIT RYE,"Lawrenceburg, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - RYE,COOPERSTOWN SELECT STRAIGHT RYE WHISKEY,"Cooperstown, NY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - RYE,HUDSON DO THE RYE THING,"Hudson Valley, NY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - RYE,REDEMPTION,"Lawrenceburg, Indiana",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - RYE,SAZERAC,"Frankfort, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - RYE,TEMPLETON,"Templeton, IA",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - RYE,"WHISTLEPIG, PIGGYBACK 6 YEARS RYE","Shoreham, VT",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - IRISH WHISKEY,JAMESON,"Cork, Ireland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - IRISH WHISKEY,TULLAMORE DEW,"County Offlay, Ireland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - IRISH WHISKEY,SLANE,"Boyne Valley, Ireland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - IRISH WHISKEY,THE IRISHMAN - SINGLE MALT,"Walsh Whiskey Distillery, Ireland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - IRISH WHISKEY,KILBEGGAN - SINGLE GRAIN,"Cooley Distillery, County Louth, Ireland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - IRISH WHISKEY,WRITERS TEARS - BLENDED COPPER POT,"Walsh Whiskey Distillery, Ireland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - IRISH WHISKEY,TEELING - SINGLE POT STILL,"Dublin, Ireland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BLENDED WHISKEY,CANADIAN CLUB,"Windsor, Ontario, Canada",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BLENDED WHISKEY,CHIVAS REGAL 12 YEARS,"Speyside, Scotland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BLENDED WHISKEY,CROWN ROYAL,"Gimli, Manitoba, Canada",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BLENDED WHISKEY,GENTLEMAN JACK,"Lynchburg, TN",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BLENDED WHISKEY,JACK DANIELS #7,"Lynchburg, TN",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BLENDED WHISKEY,JOHNNIE WALKER BLACK LABEL,Scotland,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BLENDED WHISKEY,JOHNNIE WALKER BLUE LABEL,Scotland,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BLENDED WHISKEY,JOHNNIE WALKER RED LABEL,Scotland,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BLENDED WHISKEY,"MARS MALTAGE ""COSMO"" MANZANILLA CASK",Japan,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BLENDED WHISKEY,SEAGRAM'S 7,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BLENDED WHISKEY,SEAGRAM'S VO,Canada,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BLENDED WHISKEY,SLAUGHTERHOUSE,"Napa, CA",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BLENDED WHISKEY,YUKON JACK HONEY,"Louisville, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - BLENDED WHISKEY,TRAVELLER,"Frankfort, KY",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SINGLE MALT,"A'BUNADH, ORIGINAL CASK STRENGTH","Speyside, Scotland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SINGLE MALT,AKASHI,Japan,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SINGLE MALT,BALVENIE SHERRY CASK 14 YEARS,"Speyside, Scotland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SINGLE MALT,BALVENIE DOUBLEWOOD 12 YEARS,"Speyside, Scotland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SINGLE MALT,CRAGGANMORE 12 YEARS,"Speyside, Scotland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SINGLE MALT,DALWHINNIE 15 YEARS,"Speyside, Scotland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SINGLE MALT,GLENFIDDICH 15 YEARS,"Speyside, Scotland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SINGLE MALT,GLENLIVET 12 YEARS,"Speyside, Scotland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SINGLE MALT,LAGAVULIN 16 YEARS,"Islay, Scotland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SINGLE MALT,LAPHROAIG 10 YEARS,"Islay, Scotland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SINGLE MALT,MACALLAN 12 YEARS DOUBLE CASK,"Speyside,Scotland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SINGLE MALT,OBAN 14 YEARS,"West Highland, Scotland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SINGLE MALT,OLD PARR 18 YR,Scotland,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SINGLE MALT,TALISKER 10 YEARS,"Skye, Scotland",
+Boca Bistro,https://bocabistro.com/,Bar,BAR - COGNAC,RÉMY MARTIN V.S.O.P.,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - COGNAC,HENNESSY V.S.,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - COGNAC,COURVOISIER V.S.,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - COCKTAILS,RED SANGRIA,"Cabernet, Triple Sec, Apricot Brandy, Peach Schnapps, Cinnamon, Lemon, Lime, Orange",$10.00 (Glass) | $30.00 (Carafe)
+Boca Bistro,https://bocabistro.com/,Bar,BAR - COCKTAILS,WHITE SANGRIA,"Pinot Grigio, Apricot Brandy, Elderflower Liqueur, Peach Schnapps, Cinnamon, Lime, Orange",$10.00 (Glass) | $30.00 (Carafe)
+Boca Bistro,https://bocabistro.com/,Bar,BAR - COCKTAILS,SHISHITO MARGARITA,"Shishito Simple Syrup, Cointreau, Fresh Lime Juice, and Tequila",$14.00 (Milagro Silver) | $15.00 (Tanteo Jalapeño Tequila)
+Boca Bistro,https://bocabistro.com/,Bar,BAR - COCKTAILS,WHITE CRANBERRY FIG COSMO,"Figenza Fig Vodka, White Cranberry Juice, Lime Juice, Elderflower, Sugar Rim",$15.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - COCKTAILS,SMOKED MAPLE OLD FASHIONED,"Smoked Maple Knob Creek Bourbon, Smoked Bitters, Brandied Cherry, Orange Twist",$15.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - COCKTAILS,NEW YORK SOUR,"Traveler's Whiskey, Apple Brandy, Lemon Juice, Cinnamon Simple Syrup, Egg White Foam, Cabernet Float",$16.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - COCKTAILS,SPICED APPLE PALOMA,"Milagro Reposado Tequila, Cinnamon Simple Syrup, Grapefruit Juice, Apple Cider, Splash Club",$14.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - COCKTAILS,GINGER PEAR MARTINI,"Grey Goose Vodka, Ginger Liqueur, Lemon Juice, Simple Syrup, Pear Purée",$15.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - COCKTAILS,SUGAR COOKIE MARTINI,"Rumchata, Amaretto, Irish Cream, Butterscotch Schnapps, Cinnamon Sugar Rim",$15.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - COCKTAILS,SALTED CARAMEL CARAJILLO,"Licor 43, Milagro Reposado, Salted Caramel Simple Syrup, Espresso, Pinch of Salt",$15.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - COCKTAILS,DIRTY CHAI-TINI,"Vanilla Vodka, Chai Tea, Espresso, Simple Syrup",$16.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - COCKTAILS,CRANBERRY APEROL SPRITZ,"Aperol, Cranberry Juice, Cava",$13.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - TRADITIONAL SPANISH COCKTAILS,TINTO DE VERANO,"Tres Buhis Tempranillo, Lemon-Lime Soda, Fresh Lime",$11.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - TRADITIONAL SPANISH COCKTAILS,KALIMOTXO,"Tres Buhis Tempranillo, Coca Cola Soda, Fresh Mint & Lemon",$11.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - TRADITIONAL SPANISH COCKTAILS,CARAJILLO,"Licor 43, Espresso, Orange Twist",$14.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - TRADITIONAL SPANISH COCKTAILS,MARTINI DE ESPANA,"Gin Mare, Yzaguirre Vermouth, Orange Twist, Peppercorns",$17.00
+Boca Bistro,https://bocabistro.com/,Bar,BAR - CORDIALS,BAILEYS ORIGINAL,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - CORDIALS,FRANGELICO,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - CORDIALS,KAHLÚA,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - CORDIALS,LICOR 43 CHOCOLATE,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - CORDIALS,MOLINARI CAFFE LIQUEUR,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - CORDIALS,MOLINARI SAMBUCA EXTRA,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - CORDIALS,ROMANA SAMBUCA BLACK,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - CORDIALS,ROMANA SAMBUCA WHITE,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - CORDIALS,RUMCHATA,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - CORDIALS,RUMCHATA COCONUT,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - CORDIALS,SPRINGBROOK COWBOY COFFEE,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - CORDIALS,TRADER VIC WHITE CHOCOLATE,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,AMARO NONINO QUINTESSENTIA,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,APEROL,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,B&B,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,BÉNÉDICTINE,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,CAMPARI,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,CHAMBORD,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,COINTREAU,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,FABRIZIA LIMONCELLO,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,DISARONNO,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,DRAMBUIE,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,FERNET-BRANCA,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,GREEN CHARTREUSE,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,YELLOW CHARTREUSE,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,GRAND MARNIER CORDON ROUGE,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,LICOR 43,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,PAOLUCCI LIMONCELLO,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,ST. GERMAIN,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - LIQUEURS,VICARIO MONK'S SECRET,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SHERRIES,"LUSTAU, MOSCATEL EMILIN",,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SHERRIES,"LUSTAU, PALO CORTADO PENINSULA",,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - SHERRIES,TIO PEPE PALOMINO FINO,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - PORTS,FONSECA RUBY,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - PORTS,FONSECA TAWNY,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - PORTS,GRAHAM'S TAWNY 20 YEARS,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - PORTS,GRAHAM'S TAWNY 30 YEARS,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - PORTS,GRAHAM'S TAWNY 40 YEARS,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - PORTS,RAMOS PINTO 10 YEARS,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - GRAPPAS,ALEXANDER,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - GRAPPAS,SASSICAIA,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - VERMOUTH,CARPANO ANTICA FORMULA,,
+Boca Bistro,https://bocabistro.com/,Bar,BAR - VERMOUTH,YZAGUIRRE BLANCO,,
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - TAPAS,CHIPS & AIOLI,House chips served with spicy aioli & garlic aioli,$7.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - TAPAS,FRIED ARTICHOKES,"Lightly breaded, deep-fried, white truffle oil, Idiazabal cheese, horseradish aioli",$10.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - TAPAS,STUFFED DATES,"Dates stuffed with valdeon and Marcona almonds, wrapped in bacon, cider glaze",$9.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - TAPAS,GOAT CHEESE SALAD,"Bibb lettuce, toasted pine nuts, roasted shallot, black mission fig, bruleed Cana de Cabra cheese, quince vinaigrette",$11.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - TAPAS,GARLIC SHRIMP,"Shrimp, garlic, lemon, extra virgin olive oil",$11.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - TAPAS,MEAT & CHEESE,"Selection of meats and cheeses accompanied by spiced Walnuts, quince paste",$14.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - TAPAS,FRIED POTATOES,"Fried potatoes, salsa brava, garlic aioli. Add fried egg $1.50 | Add chorizo $3.00 | Add fried egg and chorizo $4.50",$8.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - TAPAS,SHISHITO PEPPERS,Blistered shishito peppers,$9.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - TAPAS,HAM CROQUETTES,"Serrano ham fritters, Manchego cheese",$8.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - TAPAS,STUFFED PEPPER,"Imported piquillo peppers, black beans, lentils, Manchego cheese, salsa verde",$10.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - TAPAS,KALE SALAD,"Chopped kale, apple, dried cranberries, Marcona almonds, lime juice, Marcona almond vinaigrette",$10.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - TAPAS,SAUTEED MUSHROOMS,"Sauteed exotic mushrooms, salsa verde",$10.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - TAPAS,CHORIZO & TOMATO,"Seared Chorizo fresco, marinated cherry tomatoes, pickled red onions, fresh herbs, sherry vinegar",$11.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - COCKTAILS,RED SANGRIA,"Cabernet, triple sec, apricot brandy, peach schnapps, cinnamon, lemon, lime, orange",$7.00 (Glass) | $28.00 (Carafe)
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - COCKTAILS,WHITE SANGRIA,"Pinot Grigio, apricot brandy, peach schnapps, elderflower liqueur, triple sec, cinnamon, lime, orange",$7.00 (Glass) | $28.00 (Carafe)
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - COCKTAILS,WHISKEY OLD FASHIONED,"Whiskey, muddled orange, cherry, sugar, bitters",$9.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - COCKTAILS,MARGARITA,"Tequila, triple sec, fresh lime juice",$9.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - COCKTAILS,PUMPKIN PATCH,"Vodka, Rumchata Pumpkin, Cinnamon Simple Syrup, Cinnamon Sugar Rim",$10.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - COCKTAILS,TART CHERRY,"Milagro Reposado, Cherry Puree, Lime Juice, Simple Syrup, Topped with Club Soda",$11.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - COCKTAILS,BLACKBERRY BOURBON SMASH,"Bourbon, Blackberry Simple Syrup, Lime Juice, Mint, Club Soda",$10.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - COCKTAILS,CAVA COCKTAIL,"Cava, Angostura Bitters, Brandy, Sugar Cube, Orange Twist",$10.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - COCKTAILS,APPLETINI,"Vodka, Sour Apple Liqueur, Lemon Juice, Lime Juice, Simple Syrup",$8.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - COCKTAILS,AMARETTO SOUR,"Amaretto Liqueur, Bourbon, Lemon Juice, Simple Syrup",$8.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - COCKTAILS,WHISKEY APPLE MULE,"Crown Royal Apple Whiskey, Fresh Lime Juice, Ginger Beer",$9.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - WINE,SIMPLY CHARDONNAY,,$7.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - WINE,CAVAZZA PINOT GRIGIO,,$7.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - WINE,ASTICA CABERNET SAUVIGNON,,$7.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - WINE,TRE BUHIS TEMPRANILLO,,$7.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - WINE,HONORO VERA GARNACHA,,$7.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - WINE,PAUL CHENEUA BRUT CAVA,,$7.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - BEER,WHITE,"Allagash Brewing Company, Witbier Style, 5.2% ABV, 16oz",$7.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - BEER,SHIPPING OUT OF BOSTON,"Jack's Abby Brewing, Amber style, 5.2% ABV, 16oz",$5.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - BEER,CZECH'RD PAST,"Chatham Brewing, Pilsner, 4.5% ABV, 16oz",$5.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - BEER,FIDDLEHEAD IPA,"Fiddlehead Brewing Company, IPA-New England Style, 6.2% ABV, 16oz",$6.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - BEER,THOROUGHBREDZ CITRUS ITALIAN-STYLE PILSNER,"Wolf Hollow Brewing Co, Lemon Pilsner, 5% ABV, 16oz Helping HanDZ Brew to benefit B.E.S.T, The Backstretch Employee Service Team",$6.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - MOCKTAILS,BOCA ICED TEA,"Blend of Black, Green, and Mint Tea",$4.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - MOCKTAILS,BOCA LEMONADE,"Lemon Juice, Simple Syrup, Water",$4.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - MOCKTAILS,BLUEBERRY LEMONADE,"Lemon Juice, Blueberries, Simple Syrup, Water",$5.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - MOCKTAILS,SARANAC ROOT BEER,,$4.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - MOCKTAILS,GINGER LIMEADE,"Ginger Beer, Simple Syrup, Lime Juice",$4.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - MOCKTAILS,ARNOLD PALMER,"Half Boca's House-made Iced Tea, Half Boca's House-made Lemonade",$5.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - MOCKTAILS,GRAPEFRUIT SPRITZ,"Grapefruit Juice, Simple Syrup, Club Soda, Lemon Juice",$5.00
+Boca Bistro,https://bocabistro.com/,Siesta,SIESTA - MOCKTAILS,REFESHING SPARKLING MINT,"Muddle Fresh Mint, Club Soda, Simple Syrup, Lime Juice",$5.00
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - COCKTAIL FLIGHT,RED SANGRIA,"Cabernet, Triple Sec, Apricot Brandy, Peach Schnapps, Cinnamon, Lemon, Lime, Orange Originating in Spain, Sangria was traditionally crafted with red wine and fruits to keep water safe to drink centuries ago.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - COCKTAIL FLIGHT,WHITE SANGRIA,"Pinot Grigio, Apricot Brandy, Elderflower Liqueur, Peach Schnapps, Cinnamon, Lime, Orange White sangria became popular in Spain's coastal regions, pairing perfectly with the sunny Mediterranean vibe.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - COCKTAIL FLIGHT,TINTO DE VERANO,"Tres Buhis Tempranillo, Lemon-Lime Soda, Fresh Lime This Spanish favorite translates to ""red wine of summer"" and is a simple, sparkling way to cool off in Spain's warm climate.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - COCKTAIL FLIGHT,KALIMOTXO,"Tres Buhis Tempranillo, Coca Cola Soda, Fresh Mint & Lemon A Basque Country classic, the Kalimotxo pronounced Cali-Mo-Cho) was accidentally invented at a festival in the 1970s when partygoers blended wine and cola to mask an off-tasting vintage",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - COCKTAIL FLIGHT,CARAJILLO,"Licor 43, Espresso, Orange Twist The Carajillo is a Spanish pick-me-up that dates back to Spain's colonial days, where soldiers added coffee to liquor for courage (coraje in Spanish).",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - COCKTAIL FLIGHT,REBUJITO,"Fino Sherry, Lemon-Lime Soda, Mint & Lemon. A simple Andalusian cocktail, combining dry sherry with lemon-lime soda. A light, refreshing drink popular at Andalusian festivals, especially the Seville Fair.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - WINE FLIGHT,PAUL CHENEAU BRUT CAVA,"Catalunya, Spain Crisp with fine bubbles, undertones of flowers and cream pastries amid pleasing fruitfulness, and a lively, clean finish.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - WINE FLIGHT,A20 ALBARINO,"Rías Baixas, Spain A clean & intensly fresh wine. Ripe and aromatic, with overtones of peach, melon and honey, offset by a crisp tangy acidity.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - WINE FLIGHT,TRES BUHIS TEMPRANILLO,"Murcia, Spain Intense aromas of cherries and cassis with floral notes. Medium-bodied wine with a soft, pleasant mouthfeel.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - WINE FLIGHT,"HONORO VERA, GARNACHA","Calatayud, Spain Aromatic intensity dominated by ripe fruit raspberry and currant with elegant mineral and spicy notes.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - WINE FLIGHT,TORRES GRAN CORONAS CABERNET SAUVIGNON RESERVA,"Penedes, Spain Floral notes alongside cherry pie, blackberry, milk chocolate and anisette flavors wrapped in velvety tannins.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - WINE FLIGHT,"FAUSTINO CRIANZA, TEMPRANILLO","Rioja, Spain Bold aromas of cherry, raspberry and milk chocolate. A web of plush tannins encases flavors of pomegranate, raspberry, and chocolate-covered caramel.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - CRAFT BEER FLIGHT,FIDDLEHEAD IPA,"Fiddlehead 6.2% ABV Well-balanced American IPA with mellow bitterness and a dry, refreshing finish.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - CRAFT BEER FLIGHT,SHIPPING OUT OF BOSTON,"Jack's Abby Brewing 5.3% ABV Malty, sweet, and lightly hoppy amber lager that pays homage to the past, while manufacturing a bold future.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - CRAFT BEER FLIGHT,ALLAGASH WHITE,"Allagash brewing company 5.2% ABV Brewed with oats, malted wheat, and raw wheat for a hazy ""white"" appearance. Spiced with our own special blend of coriander and Curaçao orange peel.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - CRAFT BEER FLIGHT,RICHAR'DZ BREW,"Built on a backbone of Pilsner Malt, our version of an updated West Coast IPA is pale and bright with intense aromatics and hop flavor with a clean, dry finish with hints of tropical fruit, berries, citrus, floral flavors. Proceeds from each beer sold benefit The Richard Bambara Memorial Fund.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - CRAFT BEER FLIGHT,CZECH'RD PAST,"Chatham Brewing 4.5% ABV This classic Bohemian-style pilsner is so crisp and refreshing, it's perfect anytime—and its low ABV makes it an easy drinking favorite.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - CRAFT BEER FLIGHT,COMMON ROOTS FEATURED,"Common Roots Featured rotating draft beer from Common Roots Brewing Company located in South Glens Falls, NY.",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - TAPAS,FRIED POTATOES,"Fried potatoes, salsa brava, garlic aioli",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - TAPAS,FRIED CALAMARI,"Fried calamari, lemon, marinara",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - TAPAS,STUFFED PEPPERS (2),"Imported piquillo peppers, black beans, lentils, Manchego cheese, salsa verde",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - TAPAS,HAM CROQUETTES (2),"Serrano ham fritters, manchego cheese",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - TAPAS,MEAT & CHEESE BOARD,Chef-selected assortment of meats & cheeses,
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - TAPAS,SAUTÉED MUSHROOMS,"Sautéed exotic mushrooms, salsa verde",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - TAPAS,FARM BREAD & TOMATO,"Grilled farm bread, tomato and garlic sauce, cherry tomatoes, olive oil",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - TAPAS,STUFFED DATES (2),"Dates stuffed with Valdeon cheese & Marcona almonds, wrapped in bacon, cider glaze",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - TAPAS,GARLIC SHRIMP (2),"Shrimp, garlic, lemon, extra virgin olive oil",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - TAPAS,FRIED ARTICHOKES,"Lightly breaded, deep-fried, white truffle oil, Idiazabal cheese, horseradish aioli",
+Boca Bistro,https://bocabistro.com/,Flights & Bites,FLIGHTS & BITES - TAPAS,CHORIZO & TOMATO,"Seared chorizo, marinated cherry tomatoes, pickled red onions, fresh herbs, sherry vinegar",
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - SALADS,GRAIN BOWL,"Arugula, quinoa, roasted delicata squash, shaved Brussels sprouts, pickled red onions, blue cheese crumbles, cranberry vinaigrette",$60.00 (1/2 Tray)
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - SALADS,MEDITERRANEAN GRAIN BOWL,"Chopped kale, hummus, quinoa, cucumbers, cherry tomatoes, feta cheese, lemon and olive oil",$65.00 (1/2 Tray)
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - SALADS,GOAT CHEESE SALAD,"Bibb lettuce, toasted pine nuts, roasted shallot, black mission fig, brûléed Cana de Cabra, quince vinaigrette",$65.00 (1/2 Tray)
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - TAPAS E VERDURAS,SWEET POTATO QUINOA CAKE,"Sweet potato quinoa cakes with Manchego cheese, blackberry jam, butterbean puree, cilantro",$65.00 (1/2 Tray)
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - TAPAS E VERDURAS,STUFFED DATES,"Dates stuffed with valdeon and marcona almonds, wrapped in bacon, cider glaze",$70.00 (1/2 Tray)
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - TAPAS E VERDURAS,HAM CROQUETTES,"Serrano ham fritters, Manchego cheese",$55.00 (1/2 Tray)
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - TAPAS E VERDURAS,GARLIC SHRIMP,"Shrimp, garlic, lemon, extra virgin olive oil",$60.00 (1/2 Tray)
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - TAPAS E VERDURAS,FRIED POTATOES,"Fried potatoes, salsa brava, garlic aioli",$50.00 (1/2 Tray)
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - TAPAS E VERDURAS,STUFFED PEPPER,"Imported piquillo peppers, black beans, lentils, Manchego cheese, salsa verde",$65.00 (1/2 Tray)
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - TAPAS E VERDURAS,MIXTO CHEF'S SELECTION,Selection of meats and cheeses. Serves 2 per person,$30.00
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - TAPAS E VERDURAS,BISTRO STEAK,"Grilled bistro steak, roasted potatoes, brussels sprouts, parsnip puree, smoked curry cream, pickled red peppers, parsnip crisps",$90.00 (1/2 Tray)
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - TAPAS E VERDURAS,CHICKEN,"Grilled marinated chicken breast, sweet potato puree, arugula, roasted delicata squash, candied bacon, maple balsamic glaze",$85.00 (1/2 Tray)
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - TAPAS E VERDURAS,FISH,Fish of the day,
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - PAELLA,PAELLA MARISCO,"Calasparra rice, clams, calamari, mussels, shrimp, cauliflower, red & green bell peppers, peas, tomato, saffron, paprika",$70.00 (1/2 Tray)
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - PAELLA,PAELLA MIXTA,"Calasparra rice, chicken, Chorizo Bilboa, clams, calamari, mussels, shrimp, lobster, scallops, cauliflower, red & green bell peppers, peas, tomato, saffron, paprika",$75.00 (1/2 Tray)
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - PAELLA,MOORISH PAELLA,"Calasparra rice, roasted squash and sweet potatoes, artichokes, saffron, cinnamon, turmeric, smoked paprika, Marcona almonds, dried cranberries, saffron aioli",$60.00 (1/2 Tray)
+Boca Bistro,https://bocabistro.com/,DZ at Home,DZ AT HOME - POSTRES,CHURROS,"Traditional fried dough, tossed with cinnamon and sugar, served with hot chocolate dipping sauce",$50.00 (1/2 Tray)

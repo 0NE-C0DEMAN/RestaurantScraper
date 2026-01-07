@@ -1,0 +1,368 @@
+restaurant_name,restaurant_url,menu_name,menu_type,name,description,price
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bocaditos,Guacamole Tradicional,"Hass avocado, serrano chile, tomato, onion, lime, cilantro, cotija cheese (GF) | Add Veggies: $3.00",$12.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bocaditos,Smoked Chicken Tortilla Soup,"Mesquite smoked chicken, tomato broth, sliced avocado, queso fresco, cilantro, cotija cheese, tortilla strips (GF)",$12.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bocaditos,Mexican Wedding Soup,"Meatballs, chicken broth, kale, onion, rice, cilantro, cotija cheese",$6.95 | $10.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bocaditos,“Elote” Roasted Carrots,"Charred spiced carrots, jalapeños, garlic, crema, queso fresco, lime, cilantro (GF)",$12.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bocaditos,Crispy Brussels Sprouts,"Brussels sprouts, cilantro, roasted garlic-habanero dipping sauce (GF) | Add Bacon: $2.00",$14.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bocaditos,Mexican Street Corn,"Charred corn on the cob, chipotle aioli, house fajita spice, cotija cheese, lime, cilantro (GF)",$11.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bocaditos,Cantina Nachos,"Hand-cut corn chips, chicken tinga, sliced jalapeños, queso blanco, queso fundido, salsa verde, pico de gallo, cilantro (GF)",$18.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bocaditos,Roasted Beets,"Arbol Roasted Beets, whipped monterey jack, chipotle candied walnuts, chili oil, cilantro (GF)",$14.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bocaditos,Open Faced Quesadilla,"Mesquite smoked chicken, bacon, rojo sauce, corn salsa, pickled jalapeño, pickled red onion, queso blanco, jalapeño ranch",$18.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bocaditos,Coco Camarones,"Crispy coconut shrimp, guacamole, ancho chili oil, mango-habanero purée, mango-habanero salsa",$14.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bocaditos,Stuffed Jalapeños,"Roasted peppers, monterey jack, queso blanco, panko, diablo sauce, crema, cotija cheese, cilantro",$12.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bocaditos,Queso Fundido,"Melted Mexican cheese blend, jalapeño, green chiles, cilantro, hand-cut blue corn chips (GF) | Add Chorizo: $2.00",$12.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bocaditos,Cantina Chicken Wings,"Half dozen crispy wings, cotija cheese, cilantro, choice of glaze: Original Tequila-Pomegranate, SPICY Habanero, Honey Chipotle, Rojo BBQ, Garlic Picante, Chimichurri or Dry Fajita Rub (GF) | Add 2 tacos: $10.95 | Add 4 tacos: $18.95",$14.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Ensaladas,Taco Salad,"Romaine lettuce, avocado, corn salsa, black bean, jalapeño, pico de gallo, sour cream, queso blanco, chipotle ranch dressing, cotija cheese, cilantro, flour tortilla bowl",$14.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Ensaladas,Harvest Salad,"Arugula, quinoa, spiced chickpeas, corn salsa, craisins, apple salsa, goat cheese, jalapeño vinaigrette (GF)",$15.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Ensaladas,Crispy Chorizo Wedge,"Iceberg lettuce, crispy chorizo, blistered cherry tomato, spiced pepita, cotija cheese, cilantro, chipotle balsamic glaze, garlic cotija dressing (GF)",$12.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Ensaladas,Brussels Sprout Caesar,"Shaved brussels, toasted almonds, dried cranberries, grapes, brioche croutons, cotija cheese, creamy tomatillo caesar dressing",$13.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Ensaladas,Cobb Salad,"Mixed greens, hard boiled egg, avocado, bacon, squash, corn salsa, blue cheese, pepitas, citrus agave vinaigrette (GF)",$15.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Tacos,Mahi Mahi,"Grilled Mahi Mahi, mango salsa, shredded cabbage, avocado crema, cilantro (GF)",$19.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Tacos,Baja Fish,"Modelo beer-battered white fish, chipotle aioli, shredded cabbage, pineapple salsa, cilantro",$18.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Tacos,Crispy Cauliflower,"Tempura fried chile cauliflower, avocado, cabbage, pickled red onion, chipotle aioli, cilantro (GF)",$17.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Tacos,Carne Asada,"Lime-garlic marinated steak, corn salsa, pico de gallo, queso blanco, chimichurri, cilantro (GF)",$19.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Tacos,Chicken Tinga,"Adobo-braised chicken, queso blanco, pico de gallo, lettuce, cilantro (GF)",$18.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Tacos,Spicy Shrimp,"Sauteed shrimp, serrano chile, garlic, achiote butter, pico de gallo, chipotle aioli, crispy red onion, cilantro (GF)",$19.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Tacos,Carnitas,"Crispy pork, apple salsa, avo-tomatillo salsa (GF)",$18.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Tacos,Coconut Shrimp,"Crispy coconut shrimp, spicy jalapeño coleslaw, mango salsa, mango-habanero puree, ancho chili oil, scallion",$19.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Tacos,Ahi Tuna,"Sesame crusted, seared Ahi tuna, shredded cabbage, mango salsa, avo-tomatillo salsa (GF)",$21.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Tacos,Korean Beef,"Spicy ground beef, pickled veggies, shredded cabbage, sriracha aioli, cilantro, puffed rice (GF)",$19.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Tacos,Duck,"Roasted duck carnitas, cherry salsa, pickled fennel (GF)",$23.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bowls,Ahi Tuna,"Sesame-crusted, seared Ahi tuna, cilantro lime rice, shredded cabbage, black bean, avocado, edamame, mango salsa, habanero-mango puree, avo-tomatillo salsa (GF)",$26.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bowls,Mahi Mahi,"Spiced Mahi Mahi, cilantro lime rice, shredded cabbage, black charro bean, avocado, mango salsa, avocado crema, cilantro-lime yogurt sauce (GF)",$25.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bowls,Chicken Tinga,"Adobo-braised chicken, cilantro lime rice, shredded lettuce, black charro bean, avocado, jalapeño slaw, queso blanco, rojo BBQ, avocado crema (GF)",$24.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bowls,Carne Asada,"Fajita spiced steak, cilantro lime rice, shredded cabbage, black charro bean, charred poblano, grilled onion, pico de gallo, chimichurri, jalapeño-tomatillo salsa (GF)",$25.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bowls,Habanero Shrimp,"SPICY! Habanero shrimp, cilantro lime rice, shredded lettuce, black charro bean, crema (GF)",$25.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Bowls,Mixed Veggie,"Seasonal veggie mix, cilantro lime rice, shredded lettuce, black charro bean, queso blanco, taquera sauce, crema (GF)",$23.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Enchiladas & Chimichangas,Chicken Verde Enchiladas,"Flour tortillas, chicken tinga, queso blanco, salsa verde, queso fundido, cotija cheese, cilantro",$24.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Enchiladas & Chimichangas,Chicken Mole Enchiladas,"Flour tortillas, chicken tinga, queso blanco, black mole, toasted sesame, crema (Contains tree nuts)",$24.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Enchiladas & Chimichangas,Diablo Short Rib Enchiladas,"Flour tortilla, braised short rib, caramelized onion, charred corn, black bean, queso blanco, diablo sauce, crema, cotija cheese, cilantro",$25.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Enchiladas & Chimichangas,Potato & Corn Enchiladas,"Flour tortillas, potato, charred corn, queso blanco, queso fresco, onion, garlic, taquera sauce, cotija cheese, cilantro",$22.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Enchiladas & Chimichangas,Mushroom Enchiladas,"Flour tortillas, shiitake mushrooms, spinach, roasted red pepper, goat cheese, salsa verde, cotija cheese, cilantro",$23.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Enchiladas & Chimichangas,Chicken Chimichanga,"Crispy flour tortilla, chicken tinga, queso blanco, lettuce, onion, salsa verde, crema, cotija cheese, cilantro",$23.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Enchiladas & Chimichangas,Short Rib Chimichanga,"Crispy flour tortilla, braised short rib, charred corn, queso blanco, lettuce, onion, taquera sauce, crema, cotija cheese, cilantro",$24.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Quesadillas,Cheese,,$19.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Quesadillas,Mesquite Chicken,,$22.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Quesadillas,Carne Asada,,$24.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Quesadillas,Carnitas,,$22.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Quesadillas,Spicy Shrimp,,$24.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Quesadillas,Vegetable,,$21.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Quesadillas,Birria,,$24.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Fajitas,Chicken,"Citrus chicken with charred corn, pineapple, bell pepper, onion, cilantro",$25.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Fajitas,Carne Asada,"Cumin-lime tenderloin with charred corn, bell pepper, onion, chipotle butter, cilantro",$26.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Fajitas,Shrimp,"Garlic-lime shrimp with bell pepper, onion, achiote butter, cilantro",$27.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Fajitas,Veggie,"Spiced seasonal veggie mix, bell pepper, onion, cilantro",$23.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Sides,Red Rice,,$3.00
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Sides,Black Charro Beans,,$3.00
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Sides,Guacamole,,$3.50
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Sides,Sour Cream,,$1.00
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Sides,Queso Fundido,,$2.50
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Sides,French Fries,,$6.00
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Sides,Fajita Spiced French Fries,,$6.00
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Sides,Jalapeno Coleslaw,,$3.00
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Sides,Chipotle Ranch,,$50
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Kids’ Menu,Make-Your-Own Tacos,"Ground beef or grilled chicken, cheese, lettuce, pico de gallo, cilantro lime rice and black bean",$14.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Kids’ Menu,Kickin’ Chicken Tenders,"with crispy french fries | Add Bueno BurritoFlour tortilla, cilantro lime rice, black bean, cheese: $9.95 | Add Que Pasa QuesadillaFlour tortilla, cheese, pico de gallo, sour cream: $8.95",$14.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Kids’ Menu,Hasta La Vista Hot Dog,with crispy french fries,$9.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Desserts,Classic Churros,with nutella & vanilla sauce,$12.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Food Menu,Desserts,Fried Ice Cream,with cinnamon-agave sauce & whipped cream,$12.95
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Margaritas,Cantina Margarita,"Sauza Blanco, Triple Sec & House Made Margarita Mix",$13 | $54
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Margaritas,Cadillac Margarita,"Lalo Blanco, Grand Marnier & House Made Margarita Mix",$15 | $62
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Margaritas,Frozen Cantina Margarita,Our House Margarita Mix Frozen into Chilly Perfection,$13 | $54
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Margaritas,Ultra Margarita,"Hornitos Cristalino (charcoal distilled ANEJO), Cointreau, Lime, Orange, Agave",$16 | $66
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Margaritas,Margaritas Frutas,"Sauza Blanco, Triple Sec, House Made Margarita Mix & your choice of: Apple Cider, Mango,  Guava, Prickly Pear, Blackberry, Pomegranate, Passion Fruit, Raspberry, Pineapple, Strawberry, Strawberry Rhubarb, Blood Orange, Coconut, Jalapeño, Watermelon, Apple Cider OR BLUE!",$14 | $58
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Margaritas,Skinny Margarita,"Sauza Blanco Tequila, Triple Sec, and Our “Skinny” Mix Of Fresh Lime, Agave Nectar & Soda Water",$14 | $58
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Margaritas,Midnight Margarita,A blend of our house frozen margarita & our zesty Red Sangria,$14 | $62
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Margaritas,The Chupacabra,Frozen Margarita served in a 33oz glass & topped with two Coronitas. The mythological Mexican Beast comes alive at Cantina | Add Mini Chupa: $15 | Add Midnight Mini Chupa: $16,$34
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Margaritas,Good Samaritan Margarita,A portion of each Margarita will be donated to FRANKLIN COMMUNITY CENTER.     This season’s flavor: CRANBERRY MINT,$17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,House Cocktails,Red Velvet,"Espolon Anejo, Creme De Cassis, Mole Bitters",$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,House Cocktails,Matchai Tai,"Planteray Silver Rum, Orange Juice, Lime, Matcha-Chai Simple",$15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,House Cocktails,Pina & Pine,"VIDA Mezcal, Pineapple, Jalapeno, Lemon, Lime, Agave",$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,House Cocktails,Five Star Ritz,"Curamia Reposado, Aperol, Prosecco, Passion Fruit, Simple",$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,House Cocktails,Mexican Candy,"Sauza Blanco, Watermelon Pucker, Hot Sauce, Lime, Tajin",$15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,House Cocktails,El Matador,"Espolon Blanco, Cointreau, Mint, Jalapeno, Cucumber, Lime, Agave",$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,House Cocktails,Peaches N’ Cream,"Old Bardstown Bourbon, Aperol, Peach Schnapps, Coco Lopez",$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,House Cocktails,Mojito,"Castillo Silver Rum, Lime, Mint, Simple",$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,House Cocktails,Sangria,Our delicious house recipe made with a refreshing blend of seasonal fruit. Red or White,$14 | $58
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,White Wine,"Primary Wines, Chardonnay,","2017, California",$11 | $40
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,White Wine,"The Pinot Project, Pinot Grigio,","2024, Italy",$11 | $40
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,White Wine,"Massey Dacta, Sauvignon Blanc,","2018, Marlborough",$11 | $40
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,White Wine,"Garzon, Albarino,","2024, Uruguay",$11 | $40
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,White Wine,"Keuka Springs, Riesling","2023, New York",$11 | $40
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Red Wines,"Primary Wines, Cabernet,","2021, California",$11 | $40
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Red Wines,"Chasing Lions, Pinot Noir,","2021, California",$11 | $40
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Red Wines,"Los Cardos, Malbec,","2024, Argentina",$11 | $40
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Red Wines,"Hornillos Ballesteros Mibal, Tempranillo,","2021, Spain",$11 | $40
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Sparkling Wines,Mionetto Sparkling Rose,Italy,$12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Sparkling Wines,Mionetto Prosecco,Italy,$12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Sparkling Wines,Bellafina Prosecco,Italy,$40
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Sparkling Wines,Nicolas Feuillatte Brut Reserve,France,$75
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Zero Proof,Buck N’ Mule,"Ginger, Lime, Simple, Ginger Ale",$10
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Zero Proof,Pina Colada Spritz,"Pineapple, Coco Lopez, Lemon, Lime",$10
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Zero Proof,Elderflower Spritz,"Elderflower, Aguafaba, Lemon, Mint",$10
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Zero Proof,The Dove,"Pamplemousse, Lime, Simple, Lemon-Lime Soda",$10
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Zero Proof,Strawberry Hibiscus Agua Fresca,"Hibiscus Tea, Strawberry, OJ, Simple | Add Marg or Skinny Marg: $7 | Add Flavored Marg: $8 | Add Mojito: $10",$10
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,N/A Athletic IPA/Light Lager/Cerveza/Shandy,,$5
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,Corona,,$6
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,Corona Light,,$6
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,Corona Premier,,$6
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,Pacifico,,$6
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,Tecate (can),,$6
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,Stella,,$6
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,Heineken,,$6
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,Heineken Light,,$6
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,Heineken Zero,,$5
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,Coronitas,,$4
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,Miller Lite,,$5
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,Coors Light,,$5
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,Bud Light,,$5
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,Kona Big Wave,,$5
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Bottled & Beer Cocktails,PBR (can),,$5
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Crafts & Seltzers,CANTINA x Artisanal Mexican Lager,,
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Crafts & Seltzers,Common Roots IPA,,
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Crafts & Seltzers,Zero Gravity Conehead IPA,,
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Crafts & Seltzers,Northway Perfect Day Pilsner,,
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Crafts & Seltzers,Beer Tree Rotating Sour,,
+Cantina Saratoga,https://www.cantinasaratoga.com/,Drink Menu,Crafts & Seltzers,High Noon/Surfside/Suncruiser,and Featured Can,
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,123,,Anejo: $16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,818,,Blanco: $11 | Reposado: $13 | Anejo: $15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,1800,,Blanco: $10 | Reposado: $11 | Anejo: $12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Aguila Tahona,,Blanco: $18
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Alto Canto,,Blanco: $19 | Reposado: $24
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Altos,,Blanco: $10 | Reposado: $11 | Anejo: $12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Amor Mio,,Blanco: $19 | Reposado: $20
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Arta,,Reposado: $15 | Anejo: $17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Arte NOM,,Blanco: $10 | Anejo: $22
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Atanasio,,Blanco: $19 | Reposado: $22 | Anejo: $28
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Avion,,Blanco: $11 | Reposado: $15 | Anejo: $18
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Azunia,,Blanco: $14 | Reposado: $15 | Anejo: $17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Caballito,,Blanco: $21 | Reposado: $25 | Anejo: $30
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Cantera Negra,,Blanco: $14 | Reposado: $15 | Anejo: $16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Casa Del Sol,,Blanco: $17 | Reposado: $20 | Anejo: $27
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Casa Dragones,,Blanco: $35 | Reposado: $40 | Anejo: $45
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Casa Noble,,Blanco: $13 | Reposado: $14 | Anejo: $15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Casa Noble Marques,,Anejo: $36
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Casa Vieja Tequila,,Reposado: $14 | Anejo: $16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Casamigos,,Blanco: $13 | Reposado: $14 | Anejo: $16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Cascahuin,,Blanco: $12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Cayeya,,Blanco: $10 | Reposado: $12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Cayeya Single Barrel Reserve,,Reposado: $27 | Anejo: $33
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Cazadores,,Blanco: $10 | Reposado: $11 | Anejo: $12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Cazcanes,,Blanco: $18 | Reposado: $24 | Anejo: $32
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Chaquira,,Reposado: $38 | Anejo: $40
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Cincoro,,Blanco: $26 | Reposado: $35 | Anejo: $45
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Clase Azul,,Blanco: $32 | Reposado: $38 | Anejo: $128
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Código,,Blanco: $12 | Reposado: $17 | Anejo: $28
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Código Rosa,,Blanco: $17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Corzo,,Blanco: $16 | Reposado: $17 | Anejo: $19
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Cuervo Res. De La Familia,,Blanco: $18 | Reposado: $23
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Curamia,,Blanco: $11 | Reposado: $13 | Anejo: $15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Don Fulano,,Blanco: $12 | Reposado: $14 | Anejo: $16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Don Fulano Fuerte 100,,Blanco: $17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Don Julio,,Blanco: $16 | Reposado: $17 | Anejo: $19
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Don Julio Alma Miel Joven,,Blanco: $26
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Don Julio Rosado,,Reposado: $25
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Don Julio 1942,,Anejo: $47
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Don Londres Tequila Blanco,,Blanco: $14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Don Vincente,,Blanco: $12 | Reposado: $14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Dos Armadillos,,Blanco: $15 | Reposado: $17 | Anejo: $21
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,El Luchador,,Blanco: $11
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,El Tesoro,,Blanco: $14 | Reposado: $17 | Anejo: $22
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,El Tesoro Mundial,,Anejo: $44
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,El Tesoro Mundial Knob Creek,,Anejo: $44
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,El Tesoro Mundial Laphroig,,Anejo: $44
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Espanita,,Blanco: $10 | Anejo: $12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Espolon,,Blanco: $10 | Reposado: $11 | Anejo: $12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Flecha Azul,,Blanco: $13 | Reposado: $14 | Anejo: $17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Forteleza,,Blanco: $20 | Reposado: $30 | Anejo: $40
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Forteleza Winter Blend,,Reposado: $48
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Fuentaseca 2013,,Blanco: $32
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,G4,,Blanco: $11 | Reposado: $13 | Anejo: $15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,G4 Premium Blanco 90 Proof,,Blanco: $25
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Ghost,,Blanco: $10 | Reposado: $11
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Gran Coramino,,Reposado: $15 | Anejo: $30
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Grand Mayan,,Blanco: $19 | Reposado: $22
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Heroe de Leon,,Blanco: $10 | Reposado: $14 | Anejo: $17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Herradura,,Blanco: $11 | Reposado: $12 | Anejo: $14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Herradura Legend,,Anejo: $35
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Hiatus,,Blanco: $10 | Reposado: $12 | Anejo: $14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Hornitos,,Blanco: $10 | Reposado: $11 | Anejo: $12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Hussong’s,,Blanco: $12 | Reposado: $13 | Anejo: $18
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Ignite,,Blanco: $11
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,IXA,,Reposado: $12 | Anejo: $14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Kilinga Bacanora,,Blanco: $17 | Reposado: $18 | Anejo: $24
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,La Adelita,,Blanco: $13 | Reposado: $14 | Anejo: $16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,La Gran Senora Blanco,,Blanco: $12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Lalo,,Blanco: $14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Lalo High Proof,,Blanco: $17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Maracame,,Blanco: $12 | Reposado: $14 | Anejo: $16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Mayenda Tequila,,Blanco: $18
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Milagro,,Blanco: $10 | Reposado: $11 | Anejo: $12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Mi Campo,,Blanco: $10 | Reposado: $11
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,One With Life,,Blanco: $13 | Reposado: $14 | Anejo: $19
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Pantalones,,Blanco: $11 | Reposado: $12 | Anejo: $14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Pasote,,Blanco: $11 | Reposado: $13 | Anejo: $14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Patron,,Blanco: $14 | Reposado: $15 | Anejo: $17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Patron Alto,,Reposado: $42
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Patron Cielo,,Blanco: $33
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,PM Spirits,,Blanco: $13
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,PM Spirits Still Strength,,Blanco: $16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Primo,,Blanco: $17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Riazul,,Blanco: $14 | Reposado: $16 | Anejo: $17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Real Zepeda,,Blanco: $11 | Reposado: $12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Real Zepeda “Essentials”,,Blanco: $16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Sangre De Vida Corazon 110°,,Reposado: $19
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Santanera Tahona,,Blanco: $29
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Siembra Azul,,Blanco: $11 | Reposado: $13 | Anejo: $22
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Siete Leguas,,Blanco: $13 | Reposado: $14 | Anejo: $16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Siete Leguas “Decades”,,Blanco: $30
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Tequila Ocho,,Blanco: $12 | Reposado: $16 | Anejo: $18
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Teremana,,Blanco: $10 | Reposado: $11 | Anejo: $13
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Tres Generaciones,,Blanco: $14 | Reposado: $15 | Anejo: $17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Viva Mexico,,Blanco: $13 | Reposado: $15 | Anejo: $18
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Volcan,,Blanco: $12 | Reposado: $14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Blanco / Reposado / Anejo Tequila,Wild Common Tequila,,Blanco: $16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,1800 Milenio,,$56
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Arta Extra,,$30
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Asombroso 5yr,,$35
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Avion 44,,$42
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Azunia Reserve Anejo 2yr,,$27
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Cantera Negra Extra Anejo,,$32
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Código Barrel Strength 2yr,,$33
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Fuenteseca 2005 7yr,,$24
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Fuenteseca 2003 8yr,,$36
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Fuenteseca 1993 21yr,,$150
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,G4 Extra Anejo,,$28
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Gran Centenario Extra Anejo,,$38
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Grand Mayan 5yr,,$27
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Grand Mayan Ultra Aged,,$57
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Herradura Seleccion Suprema 49 mo,,$60
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Joel Richard 4yr,,$20
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Joel Richard Petals Extra Anejo,,$32
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Jose Cuervo Reserva 5yr,,$35
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,La Adelita Extra Anejo,,$30
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,One With Life 5yr,,$35
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,One With Life Extra 7yr,,$42
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Pasote Extra Anejo,,$40
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Riazul,,$37
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Tequila Ocho Extra Anejo,,$42
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Extra Anejo Tequila,Tequila Ocho “La Mula” 2021 Extra Anejo,,$32
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino,1800,,$17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino,Avion Reserva,,$42
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino,Casamigos Reposado,,$15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino,Cayeya Anejo,,$27
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino,Don Julio 70yr Anniversary,,$19
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino,Espolon,,$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino,Gran Centenario Anejo,,$21
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino,Herradura Ultra Anejo,,$15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino,Hornitos Anejo,,$13
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino,Hussong’s Platinum,,$19
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino,La Adelita Anejo,,$25
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino,Maestro Dobel 50 Extra Anejo,,$39
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino,Maestro Dobel Diamonte,,$17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino,Volcan Anejo,,$17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,400 Conejos Cuishe,,$12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,400 Conejos Joven,,$9
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,400 Conejos Tobala,,$12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Agave de Cortes Joven,,$11
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Borroso Espadin Joven,,$19
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Bozal Borrego,,$21
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Bozal Cenizo,,$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Bozal Espadin,,$14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Bozal Iberico,,$21
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Bozal Pechuga,,$21
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Bozal Tobasiche,,$15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Casamigos Espadin,,$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Cinco Sentidos Espadin/Tobaziche,,$30
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Cinco Sentidos Pechuga de Mole Poblano,,$27
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Cinco Sentidos Tobala,,$32
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Clase Azul Cenizo,,$72
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Codigo Artesenal,,$17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Craneo Mezcal Artesenal,,$13
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Del Maguey Chichicapa,,$17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Del Maguey Santo Domingo,,$17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Del Maguey Vida Puebla,,$9
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Derrumbes Tamaulipas,,$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Derrumbes Michoacan,,$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Derrumbes Zacatecas,,$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Descartes Mezcal Joven,,$13
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Descartes Mezcal Joven Botanical,,$13
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Dona Vega Joven Espadin,,$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Dona Vega Joven Tobala,,$20
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Don Amado Anejo,,$20
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Don Amado Reposado,,$15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Don Amado Rustico,,$14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Don Amado Tobala,,$13
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Dos Hombres Espadin,,$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,El Buho Anejo,,$45
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,El Buho Cuishe,,$14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,El Buho Espadin,,$10
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,El Buho Mango Pechuga,,$25
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,El Buho Mexicano,,$29
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,El Jorgorio Mezcal Cuishe,,$32
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,El Jorgorio Mezcal Pechuga,,$32
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Estancia Raicilla,,$13
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Estancia Tequilana,,$15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Fidencio Clasico,,$9
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Fidencio Pechuga,,$22
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Fidencio Tepextate,,$24
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Fidencio Unico,,$11
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Flor del Desierto Sotol,,$19
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Fosforo Tobala,,$23
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Ilegal Joven,,$12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Ilegal Reposado Espadin,,$13
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Ilegal Anejo Espadin,,$25
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Jolgorio S.B. Pechuga,,$30
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Kilinga Bacanora Silvestre,,$18
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,La Higuera Sotol,,$12
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,La Venenosa Raicilla Black Label,,$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,La Venenosa Raicilla Green Label,,$22
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,La Venenosa Raicilla Red Label,,$23
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,La Venenosa Raicilla White Label,,$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Leyendas Mezcal Cuishe,,$25
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Leyendas Mezcal Espadin,,$17
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Leyendas Mezcal Mexicano,,$34
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Leyendas Mezcal Verde,,$10
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Lobo de la Sierra Raicilla,,$21
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Lobos Espadin,,$15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Los Amantes Anejo Espadin,,$19
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Los Amantes Joven Espadin,,$13
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Los Amantes Reposado Espadin,,$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Los Javis Mezcal,,$11
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Los Vecinos Ensemble #1,,$14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Los Vecinos Espadin,,$9
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Mal Bien Alto,,$19
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Mal Bien Espadin,,$9
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Mal Bien Felix Ramirez Espadin,,$15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Meteoro Joven Espadin,,$13
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Mezcal Macurichos Espadin,,$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Montelobos Espadin,,$11
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Montelobos Joven Ensemble,,$19
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Montelobos Tobala,,$24
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Montelobos Pechuga,,$32
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Neta Espadin Capon,,$25
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Nuestra Soledad Mezcal Ejutla,,$15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Nuestra Soledad Mezcal Matatlan,,$15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Nuestra Soledad Mezcal San Luis,,$15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,OAX Joven,,$20
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Peloton de La Muerte Cenizo,,$14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Peloton de La Muerte Criollo,,$11
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Peloton Espadin,,$9
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Peloton Pechuga,,$10
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,PM Spirits Destillado de Agave Espadin,,$22
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Salvadores Mezcal Elote,,$16
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Siete Misterios Cuishe,,$21
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Siete Misterios Doba-Yej,,$11
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Siete Misterios Espadin,,$22
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Siete Misterios Tobala,,$28
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Union Espadin,,$10
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Vago Elote,,$14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Vago Ensamble,,$25
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Vago Espadin Blue Label,,$14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Vago Espadin Yellow Label,,$14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Xicala Mezcal Joven,,$11
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Xicala Mezcal Reposado,,$13
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Xicala Mezcal Anejo,,$15
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Xicaru Blanco,,$13
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Xicaru Reposado,,$14
+Cantina Saratoga,https://www.cantinasaratoga.com/,Tequila & Mezcal,Cristalino - Mezcal/Other Agave Spirits,Xicaru Anejo,,$15

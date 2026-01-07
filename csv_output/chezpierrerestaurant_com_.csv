@@ -1,0 +1,125 @@
+restaurant_name,restaurant_url,menu_name,menu_type,name,description,price
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,SOUPS & SALADS,French Onion,,$12
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,SOUPS & SALADS,Soup Du Jour,,$10
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,SOUPS & SALADS,Caesar Salad,"Romaine lettuce, crumbled blue cheese, homemade croutons anchovies and house dressing",$12 | Add Chicken: $22 | Add Shrimp: $32
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,SOUPS & SALADS,Grilled Salmon & Spinach Salad,"served on bed of fresh spinach , almond slivers and side of homemade watercress dressing",$30
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,HORS D’OEUVRES,Caesar Salad,"Romaine w/ blue cheese crumbles, croutons",$12
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,HORS D’OEUVRES,Artichoke and Asparagus Vinaigrette,GF Fresh asparagus and artichoke hearts,$16
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,HORS D’OEUVRES,Shrimp Cocktail,GF Four extra large shrimp,$20
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,HORS D’OEUVRES,Sea Scallops Wrapped in Bacon,GF,$22
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,HORS D’OEUVRES,Les Escargots au Beurre,"GF Snails in butter, and garlic",$18
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,HORS D’OEUVRES,Clams Casino-,Garlic stuffing topped with cheese and bacon,$18
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,HORS D’OEUVRES,Coquille St Jacques,Sea scallops and shrimp gratinee,$22
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,HORS D’OEUVRES,Frog legs,"Garlic butter, white wine and shallots",$18
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,VOLAILLE (POULTRY),Chicken Valdostana,"Sautéed, gratinee, chicken breast with Brandy Mushroom Sauce",$36
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,VOLAILLE (POULTRY),Chicken Cordon Bleu,Stuffed with ham and cheese finished with supreme sauce,$36
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,VOLAILLE (POULTRY),Roast Duckling- PLEASE CALL 24 HRS AHEAD TO ORDER,Choice of cherry bing or orange sauce;,$42
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,VOLAILLE (POULTRY),Gnocchi,"Chez Pierre w/ sautéed Shrimp sauteed w/hearts of palm, artichoke hearts, garlic butter sauce",$39
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,VOLAILLE (POULTRY),Veg- Gnocchi Chez Pierre without shrimp,,$30
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,PORK AND VEAL,Pork Paupiette,GF Stuffed with spinach and cheddar cheese in a dijon supreme sauce.,Half: $28 | Full: $36
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,PORK AND VEAL,Veal Francaise,"Medallions egg batter dipped,finished with lemon butter.",Half: $31 | Full: $40
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,PORK AND VEAL,Veal Vosgienne,"GF Sautéed, mushroom cream sauce",$44
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,PORK AND VEAL,Veal Oscar,"Sautéed, topped with asparagus and jumbo lump crabmeat and hollandaise",$50
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,PORK AND VEAL,Paupiette de Veau,"GF Veal cutlet rolled with swiss cheese, pate and ham mushroom cream sauce.",Half: $40 | Full: $48
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,PORK AND VEAL,Ris de Veau,"GF Sautéed sweet breads, port wine, cream and mushrooms.",Half: $35 | Full: $45
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,BOEUF (BEEF),Henri IV,"GF Filet mignon, artichoke heart and bottom with bernaise",$60
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,BOEUF (BEEF),Beef Wellington,"Filet, pate’ mushroom cap wrapped in puff pastry",$62
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,BOEUF (BEEF),Steak Diane,"Filet flambe’, madeira sauce with shallots",$60
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,BOEUF (BEEF),Steak Au Poivre,Flambe’ -choice of filet or strip steak; madeira sauce with green peppercorns and cream,$60
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,BOEUF (BEEF),NY Strip Steak Fromage,"grilled with melted blue cheese, served on a Madeira wine sauce",$55
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,BOEUF (BEEF),Grilled Filet Mignon,GF 8 oz Filet Mignon Grilled with Béarnaise Sauce on the side,$59
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,BOEUF (BEEF),Sea and Sod,GF Petit Filet and Two 5-6 oz Coldwater Lobster Tails,$75
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,POISSON & FRUITS DE MER (SEAFOOD),Shrimp Madagascar,"GF Shallots, onions and peppercorns in a Pernod cream sauce",Half: $38 | Full: $44
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,POISSON & FRUITS DE MER (SEAFOOD),Shrimp Chez Pierre,Egg batter dipped sautéed with garlic lemon butter,Half: $36 | Full: $42
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,POISSON & FRUITS DE MER (SEAFOOD),Salmon Florentine,GF- Poached with Spinach and Bearnaise,$38
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,POISSON & FRUITS DE MER (SEAFOOD),Filet of Sole Almandine,"-lightly floured, sautéed with lemon butter and almonds",$38
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,POISSON & FRUITS DE MER (SEAFOOD),Sole Margueray,"GF- Poached in white wine, with cream, mussels and shrimp",$42
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,POISSON & FRUITS DE MER (SEAFOOD),Broiled Sea Scallops,GF with rice and garlic hollandaise,$46
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,POISSON & FRUITS DE MER (SEAFOOD),Lobster Newburg,GF- Cream and sherry with rice and toast points,$58
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,CHEZ KIDS MENU,Filet- junior cut,,$35
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,CHEZ KIDS MENU,Chicken Tenders,,$16
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,CHEZ KIDS MENU,Veal Francaise,,$26
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,CHEZ KIDS MENU,Shrimp Scampi,,$26
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,CHEZ KIDS MENU,Pork Picatta,,$20
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,CHEZ KIDS MENU,Grilled Cheese,,$11
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,CHEZ KIDS MENU,Pasta with Butter or Marinara,,$10
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DESSERTS,Peach Melba,"vanilla ice cream/peaches, raspberry sauce & almond shavings",$9
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DESSERTS,Chocolate Lava Cake,,$10
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DESSERTS,Crème de Menthe Parfait,,$9
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DESSERTS,Crème Caramel,,$8
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DESSERTS,Profiterole,,$8
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DESSERTS,Cherries Jubilee,,$11
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DESSERTS,Crepe Suzette,,$12
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DESSERTS,Crème de Cocoa Parfait,,$9
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DESSERTS,Les Trois Amis,"Sampling of Mousse, Cheesecake, Crème de Menthe Parfait",$12
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DESSERTS,Mousse au Chocolate,,$7
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DESSERTS,French Cream Cheese cake,garnished w/ raspberry puree,$10
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DRINKS,Coffee/Tea,,$4
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DRINKS,Sm. Cup Espresso,,$5
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DRINKS,Lg. Cup Espresso,,$7.50
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DRINKS,Cappuccino/Latte,,$7
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DRINKS,Café Chez Pierre,w/Bachante orange liquor,$12
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DRINKS,Irish Coffee,,$12
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DRINKS,Spanish Coffee,,$12
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,DRINKS,Mexican Coffee,,$12
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,CAFÉ,Coffee/Tea,,$4
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,CAFÉ,Sm. Cup Espresso,,$5
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,CAFÉ,Lg. Cup Espresso,,$7.50
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,CAFÉ,Cappuccino/Latte,,$7
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,CAFÉ,Café Chez Pierre,w/Bachante orange liquor,$12
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,CAFÉ,Irish Coffee,,$12
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,CAFÉ,Spanish Coffee,,$12
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Dinner Menu,CAFÉ,Mexican Coffee,,$12
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,SPARKLING / CHAMPAGNE,Bouvet / France Sparkling,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,SPARKLING / CHAMPAGNE,"Piper Hiedsieck, Brut",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,SPARKLING / CHAMPAGNE,"Valentin LeFlaive, Blanc de Blanc",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,SPARKLING / CHAMPAGNE,"Vueve Cliquot, Yellow Label",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,SPARKLING / CHAMPAGNE,"Moet & Chandon, Vintage",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,SPARKLING / CHAMPAGNE,"Dom Perignon, 2009",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH WHITES,"Pouilly Fuisse,",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH WHITES,Macon Village,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH WHITES,Puligny Montrachet,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH WHITES,Graves,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH WHITES,Vouvray,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH WHITES,Pouilly Fume,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH WHITES,Sancerre,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH WHITES,Muscadet,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH WHITES,Gewurztraminer,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH WHITES,Riesling,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH WHITES,Cote de Provence,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,WHITES,"Santa Margerita, Pinot Grigio",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,WHITES,"San Angelo, Pinot Grigio",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,WHITES,Kim Crawford Sauvignon Blanc / New Zealand,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,WHITES,"Markham, Chardonnay/ Napa",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,WHITES,"Ferrari Carano, Chardonnay/Sonoma",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,WHITES,"Hartford Court, Chardonnay / Russian River",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,WHITES,Post and Beam Chardonnay / Napa,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,Beaujolais Village,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,Gevery Chambertin,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,Pommard,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,Margaux,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,Paulliac,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,Pomerol,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,St Emilion Grand Cru,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,Graves,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,Medoc,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,Bordeaux,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,Gigondas,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,Cote du Rhone,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,Chateauneuf du Pape,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,Clos de Savignac,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,Margaux,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,FRENCH REDS,St Emilion Grand Cru Classe,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,REDS,Hess Trio / Red Blend,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,REDS,Robert Mondavi / Cabernet Sauvignon,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,REDS,"Mount Veeder / Cabernet Sauvignon, Napa",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,REDS,Estancia / Meritage,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,REDS,"St Francis / Merlot, Sonoma",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,REDS,"Clos du Bois / Zinfandel, Sonoma",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,REDS,"Sterling / Pinot Noir, Caneros",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,REDS,"Chateau St Jean / Pinot Noir, Sonoma",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,REDS,"Gloria Ferrer / Pinot Noir, Caneros",,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,REDS,Chianti Classico Bindi,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,REDS,Cakebread / Cabernet Sauvignon,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,REDS,Groth / Cabernet Sauvignon,,
+Chez Pierre Restaurant,https://www.chezpierrerestaurant.com/,Wine Menu,REDS,Daou / Cabernet Sauvignon,,

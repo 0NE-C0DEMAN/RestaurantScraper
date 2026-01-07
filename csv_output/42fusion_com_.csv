@@ -1,0 +1,115 @@
+restaurant_name,restaurant_url,menu_type,name,description,price
+42 Fusion,https://42fusion.com/,Happy Hour Menu,CALAMARI FRITTA,Golden fried calamari with roasted poblano peppers and topped with ancho aioli,$11
+42 Fusion,https://42fusion.com/,Happy Hour Menu,HOG WINGS,Bone in pork tossed in Oaxacan mole and sesame seeds,$9
+42 Fusion,https://42fusion.com/,Happy Hour Menu,CIABATTA FRESCO,"Topped with avocado. tomatoes, cilantro, re onions, jalapenos and drizzled with a balsamic reduction on a bed of arugula",$8
+42 Fusion,https://42fusion.com/,Happy Hour Menu,MEXICAN ARANCINI,Arborio rice with chorizo and fresh cilantro. cotija and Monteray cheeese topped with ancho aioli,$7
+42 Fusion,https://42fusion.com/,Happy Hour Menu,PEI MUSSELS,Tossed in a Carte Blanca sauce mixed with chorizo and cannelli beans and served with garlic ciabatta bread,$11
+42 Fusion,https://42fusion.com/,Happy Hour Menu,HOUSE SALAD,"Mixed greens with cherry tomatoes, cucumbers, green olives, red onion and carrots, topped with crumbled queso fresco and house dressing",$7
+42 Fusion,https://42fusion.com/,Happy Hour Menu,CAESAR SALAD,"Parmesan and cotija grilled and encrusted romaine heart topped with crisp prosciutto, chorizo, red onion and drizzled with cayenne lemon Caesar dressing",$9
+42 Fusion,https://42fusion.com/,Happy Hour Menu,FUSION SALAD,"Arugula mixed with red onion, fresh mozzarella, avocado, cannellini beans, cherry tomatoes, lemon juice and extra virgin oil and finished with fried jalapenos",$10
+42 Fusion,https://42fusion.com/,Happy Hour Menu,PENNE ALA VODKA,Penne pasta with chorizo in a light pink sauce,$12
+42 Fusion,https://42fusion.com/,Happy Hour Menu,BOLOGNESE,"Ground beef, chorizo and veal tossed in a homemade tomato sauce on rigatoni pasta",$13
+42 Fusion,https://42fusion.com/,Happy Hour Menu,PORK OSSO,Bone in mini shanks braised with fresh thyme and spices. Served with a spicy demi glaze and creamy polenta,$14
+42 Fusion,https://42fusion.com/,Happy Hour Menu,TAQUITO,"Three tortillas filled with Tinga de pollo and fried. Topped with shredded lettuce. onion, queso fresco, guacamole and cream",$12
+42 Fusion,https://42fusion.com/,Happy Hour Menu,ENCHILADAS,Corn tortilla filled with Tinga de pollo and topped with Oaxacan mole sauce and topped with queso fresco and sesame seeds,$12
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,MODELO ESPECIAL,,$5
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,DOS EQUIS,,$5
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,MILLER LIGHT,,$5
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,BLUE MOON,,$5
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,FIDDLEHEAD,,$5
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,SAMUEL ADAMS SUMMER,,$5
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,MEZCAL COCKTAIL,"Mezcal, sweet vermouth, orange bitters",$10
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,FUSION SANGRIA,"Red wine, sweet vermouth, ginger syrup, orange juice, pomegranate molasses, club soda",$10
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,OUR ANGELO AZZURRO,"Vodka, lemon, orange liqueur,  simple syrup, coconut rum, blue curacao",$8
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,HOUSE MARGARITA,"Vodka, lime juice, simple syrup",$7
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,MANGONEADA,"Vodka, mango, lime juice, simple syrup, chamoy and tajin",$8
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,SPICY GIMLET,"Vodka, lime juice, simple syrup, jalapeno",$6
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,AGUA FRESCA,"Tequila, orange juice, grapefruit juice, lime juice, topped with sprite and tajin",$7
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,CAVAZZA PINOT GRIGIO,"Clean, fruit forward style, easy to enjoy",$6
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,BLEND  (VIAMARE TREBBIANO),"Blend-bright flavors of peaches, pears and florals on the finish",$6
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,PINOT GRIGIO (A & J WINERY),Crisp and refreshing flavors of citrus and pear with a light acidity,$6
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,CHARDONNAY (A & J WINERY),Medium bodied with flavors of green apple and tropical fruit with a light finish of oak and vanilla,$6
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,WHITE ZINFANDEL (RAYWOOD),"Balancing the sweetness with enough acidity to make it fruity, but also refreshing and crisp at the finish",$6
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,ROSSO BLEND   (PALLADIO),"Hints of dark cherry and red fruits, it's soft, supple tannins and a long finish",$6
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,PINOT NOIR (A & J WINERY),"Light to medium bodied. Soft and smooth with sweet cherry, plum and strawberry fruit flavors",$6
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,MERLOT (A & J WINERY),Flavors of blackberry and raspberry with a soft oak undertones and a smooth finish,$6
+42 Fusion,https://42fusion.com/,Happy Hour Drinks,CABERNET SAUVIGNON (A & J WINERY),"Full bodied with flavors of black cherry, currant and mocha with a  touch of oak and vanilla",$6
+42 Fusion,https://42fusion.com/,Menu,CHEESE RAVIOLI,,$10
+42 Fusion,https://42fusion.com/,Menu,PASTA WITH MARINARA OR BUTTER,,$8
+42 Fusion,https://42fusion.com/,Menu,CHEESE QUESADILLA  8  ADD CHICKEN,,$3
+42 Fusion,https://42fusion.com/,Menu,TWO TACOS WITH CHIPS,,$12
+42 Fusion,https://42fusion.com/,Menu,GRILLED CHEESE WITH CHIPS,,$8
+42 Fusion,https://42fusion.com/,Menu,CHICKEN TENDERS WITH CHIPS,,$10
+42 Fusion,https://42fusion.com/,Menu,CALAMARI FRITTA,"Golden fried calamari with roasted Poblano peppers, and an ancho aioli",$15
+42 Fusion,https://42fusion.com/,Menu,TUNA CRUDO  (GF),"Ahi tuna sliced thin and mixed with a crunchy chili sauce topped with candied jalapenos, charred corn and a cilantro-lime dressing",$14
+42 Fusion,https://42fusion.com/,Menu,CHARRED POBLANO  (GF),"Stuffed with a house blend of cheese, spices and a mix of chorizo and Italian sausage",$16
+42 Fusion,https://42fusion.com/,Menu,CIABATTA FRESCO,"Topped with avocado, fresh tomatoes, cilantro, red onion, jalapenos and drizzled with a balsamic reduction on a bed of arugula",$15
+42 Fusion,https://42fusion.com/,Menu,MEXICAN ARANCINI,"Arborio rice with chorizo and fresh cilantro, cotija and melted Monterey cheese with our ancho aioli",$15
+42 Fusion,https://42fusion.com/,Menu,PEI MUSSELS,Tossed in Carta Blanca sauce mixed with chorizo and cannellini beans and served with garlic ciabatta bread,$16
+42 Fusion,https://42fusion.com/,Menu,PROSCIUTTO WRAPPED SHRIMP  (GF),"Tossed with white beans,peppadew peppers, roasted cherry tomatoes and drizzled with a fig balsamic glaze",$16
+42 Fusion,https://42fusion.com/,Menu,MEXICAN COBB,"Little leaf lettuce and arugula adorned with crispy chorizo, red onions, corn, spiced-toasted pepitas, black beans, kalamata olives, avocado, cherry tomatoes, queso fresco, cotija and a hard-boiled egg with zesty poblano-cilantro dressing",$19
+42 Fusion,https://42fusion.com/,Menu,CAESAR SALAD,"Parmesan and cotija grilled and encrusted romaine hearts topped with crisp prosciutto, chorizo, red onion and drizzled with cayenne-lemon Caesar dressing",$16
+42 Fusion,https://42fusion.com/,Menu,QUINOA SALAD,"Tri-colored quinoa tossed with street corn, red onions, scallions, cilantro, cucumbers, seasoned black beans and queso fresco in a chili-lime vinaigrette over little leaf lettuce and romaine topped with diced avocado and grilled lime",$19
+42 Fusion,https://42fusion.com/,Menu,CAPRESE SALAD,"Beefsteak tomatoes, fresh mozzarella, basil, olive oil and a balsamic reduction over a bed of arugula, sprinkled with truffle salt",$16
+42 Fusion,https://42fusion.com/,Menu,LA FRONTERA SALAD,"Arugula tossed with fresh lemon, olive oil, sea salt and mixed with peppadew peppers ,kalamata olives, white beans, black beans, red onion, toasted pepitas, queso fresco and ricottas salata",$16
+42 Fusion,https://42fusion.com/,Menu,SHORT RIB  (GF),,$14
+42 Fusion,https://42fusion.com/,Menu,ROASTED VEG,,$13
+42 Fusion,https://42fusion.com/,Menu,TEX MEX,,$13
+42 Fusion,https://42fusion.com/,Menu,COWBOY STEAK,COWBOY STEAK    QUESADILLA 14  or  PANINI 16,$14
+42 Fusion,https://42fusion.com/,Menu,TACOS   (GF),Four tacos served with diced onion and cilantro with a side of salsa,$20
+42 Fusion,https://42fusion.com/,Menu,MEXICAN LASAGNA,"A trio of seasoned ground beef, chorizo and veal layered with a blend of oaxacan cheese and mozzarella between sheets of pasta with homemade tomato sauce",$22
+42 Fusion,https://42fusion.com/,Menu,VONGOLE FUSION,"Little neck clams sauteed in a Carta-Blanca sauce with plum tomatoes, manzanilla olives and fettuccine",$26
+42 Fusion,https://42fusion.com/,Menu,FRUTTI DE MARE,"Shrimp, little-neck clams, p.e.i. mussels and squid tossed with fettuccine in a roasted Serrano-tomato sauce",$33
+42 Fusion,https://42fusion.com/,Menu,GNOCCHI,"Potato and ricotta gnocchi tossed with sauteed chorizo, onions, peas, cremini mushrooms in a sun dried tomato pesto cream sauce",$22
+42 Fusion,https://42fusion.com/,Menu,CHEESE RAVIOLI,"With sauteed vegetables in a wine sauce tossed with zucchini, cherry tomatoes and roasted poblano peppers and topped with queso fresco",$22
+42 Fusion,https://42fusion.com/,Menu,PENNE ALA VODKA,Penne pasta with smoked chorizo in a light pink sauce,$23
+42 Fusion,https://42fusion.com/,Menu,AHI TUNA  (GF),"Chili encrusted tuna over tri-colored quinoa in a honey-chipolte sauce with corn, peppadew peppers, scallions and watercress drizzled with sweet mole",$33
+42 Fusion,https://42fusion.com/,Menu,SALMON (GF),"Salmon with roasted red pepper pesto, served with roasted potatoes and veg of the day",$30
+42 Fusion,https://42fusion.com/,Menu,COD (GF),"Pan seared and topped with a sweet and spicy Acapulco citrus topping over risotto with corn, black beans, scallions and peppadew",$28
+42 Fusion,https://42fusion.com/,Menu,SHORT RIBS (GF),Baked with fresh thyme and spices. Served with a spicy demi glaze and creamy polenta,$28
+42 Fusion,https://42fusion.com/,Menu,CHICKEN MILANESE,"Breaded, pan fried and served on top of pico de gallo. Paired with sauteed onions, peppadew and prosciutto",$25
+42 Fusion,https://42fusion.com/,Menu,KOBE FLATIRON,Grilled 8 oz. flatiron topped with our house chimichurri over a roasted street-corn and roasted poblano risotto,MP
+42 Fusion,https://42fusion.com/,Menu,FILET MIGNON,10 oz. tender filet perfectly seasoned and served with a peppercorn cream sauce and veg of the day,$44
+42 Fusion,https://42fusion.com/,Menu,GRILLED PORK CHOP,"A juicy chop with porcini and oyster mushrooms in a white wine and light cream sauce, served with roasted potatoes",$28
+42 Fusion,https://42fusion.com/,Menu,RISOTTO POBLANO,"Risotto cooked with roasted poblano, garlic, onion and cotija cheese, topped with chorizo",MP
+42 Fusion,https://42fusion.com/,Menu,TIRAMISU,Delicate lady fingers with espresso and mascarpone dusted with cocoa powder,$10
+42 Fusion,https://42fusion.com/,Menu,FLAN,"Sweet custard with fresh vanilla beans, topped with caramel sauce",$8
+42 Fusion,https://42fusion.com/,Menu,CHURROS,"Oaxacan dessert fried and dusted in cinnamon and sugar, served with chocolate sauce",$8
+42 Fusion,https://42fusion.com/,Menu,CANNOLI  (2),Hand made deep fried shells layered with traditional cannoli cream,$9
+42 Fusion,https://42fusion.com/,Menu,VANILLA BEAN ICE CREAM,"Roasted Potatoes 6
+Spinach 7
+Vegetable of the Day 6
+Side of Risotto 8",$4
+42 Fusion,https://42fusion.com/,Catering,ROASTED POTATOES,,$25 (half tray) | $40 (full tray)
+42 Fusion,https://42fusion.com/,Catering,SPINACH,,$35 (half tray) | $60 (full tray)
+42 Fusion,https://42fusion.com/,Catering,ASPARAGUS,,$35 (half tray) | $60 (full tray)
+42 Fusion,https://42fusion.com/,Catering,GREEN BEANS,,$25 (half tray) | $40 (full tray)
+42 Fusion,https://42fusion.com/,Catering,ZUCCHINI SQUASH,,$25 (half tray) | $40 (full tray)
+42 Fusion,https://42fusion.com/,Catering,CIABATTA FRESCO,"Topped with avocado, fresh tomato, ciliantro, red onion, japapenos, queso fresco and drizzled with a balsamic reduction on a bed of arugula",$35 (half tray) | $60 (full tray)
+42 Fusion,https://42fusion.com/,Catering,MEXICAN ARANCINI,"Arborio rice with chorizo and fresh cilantro, cotija and melted monterey cheese with our ancho aioli",$60 (half tray) | $110 (full tray)
+42 Fusion,https://42fusion.com/,Catering,CHARRED POBLANO  (GF),"Stuffed with a house blend of cheese, spices and mix of chorizo and italian sausage",$55 (half tray) | $100 (full tray)
+42 Fusion,https://42fusion.com/,Catering,PROSCIUTTO WRAPPED SHRIMP  (GF),"Tossed with white beans, peppadew peppers, spinach, roasted cherry tomatoes and drizzled with a fig balsamic glaze",$80 (half tray) | $150 (full tray)
+42 Fusion,https://42fusion.com/,Catering,TAQUITO,"Tortillas filled with Tinga de pollo and fried. Topped with shredded lettuce, onion, queso fresco, guacamole and cream",$35 (half tray) | $60 (full tray)
+42 Fusion,https://42fusion.com/,Catering,TACO  (GF),Tacos served with diced onion and cilantro with a side of salsa.,$65 (half tray) | $120 (full tray)
+42 Fusion,https://42fusion.com/,Catering,HOUSE SALAD,"Mixed greens with cherry tomatoes, cucumbers, green olives, red onion and carrots. Topped with crumb;e queso fresco and house dressing",$40 (half tray) | $70 (full tray)
+42 Fusion,https://42fusion.com/,Catering,MEXICAN COBB,"Little leaf lettuce and arugula adorned with crispy chorizo, red onion, corn, spiced-toasted pepitas, black beans and queso fresco, cotija and a hard=boiled egg with zesty poblano-cilantro dressing",$65 (half tray) | $110 (full tray)
+42 Fusion,https://42fusion.com/,Catering,QUINOA SALAD,"Tri-colored quinoa tossed with street corn, red onions, scallions, cilantro, cucumbers, seasoned black beans and queso fresco in a chili-lime vinaigrette over little leaf lettuce and romaine topped with diced avocado and grilled lime",$65 (half tray) | $110 (full tray)
+42 Fusion,https://42fusion.com/,Catering,CAPRESE SALAD,"Beefsteak tomatoes, fresh mozzarella, basil, kalamata olive, extra virgin olive oil and a balsamic reduction over a bed of arugula, sprinkled with truffle salt",$50 (half tray) | $90 (full tray)
+42 Fusion,https://42fusion.com/,Catering,42 FUSION SALAD,"Arugula mixed with red onion, fresh mozzarella, avocado, cannellini beans, cherry tomatoes, lemon juice and extra virgin olive oil and finished with fried jalapenos",$65 (half tray) | $110 (full tray)
+42 Fusion,https://42fusion.com/,Catering,LA FRONTERA SALAD,"Arugula tossed with fresh lemon, olive oil, sea salt and mixed with peppadew peppers, kalamata olives, white beans, black beans, red onion, toasted pepitas, queso fresco and ricotta salata",$45 (half tray) | $80 (full tray)
+42 Fusion,https://42fusion.com/,Catering,CAESAER SALAD,"Parmesan and cotija grilled and encrusted romaine hearts topped with crisp proscuitto. chorizo, red onion and  drizzled with cayenne-lemon caesar dressing",$45 (half tray) | $80 (full tray)
+42 Fusion,https://42fusion.com/,Catering,MEXICAN LASAGNA,"A trio of seasoned ground beef, chorizo and veal layered with a blend of oaxacan cheese and mozzarella between sheets of pasta with homemade tomato sauce",$65 (half tray) | $130 (full tray)
+42 Fusion,https://42fusion.com/,Catering,VONGOLE FUSION,"Little neck clams sauteed in a Carta-Blanca sauce with plum tomatoes, manzanilla olives and fettuccini",$60 (half tray) | $100 (full tray)
+42 Fusion,https://42fusion.com/,Catering,FRUTTI MARE,"Shrimp, little neck clams, p.e.i. mussels and squid tossed with fettuccini in a roasted serrano-tomato sauce",$65 (half tray) | $120 (full tray)
+42 Fusion,https://42fusion.com/,Catering,GNOCCHI,"Potato and ricotta gnocchi tossed with sauteed chorizo, onions, peas, cremini mushrooms in a sun dried tomato pesto cream sauce",$65 (half tray) | $110 (full tray)
+42 Fusion,https://42fusion.com/,Catering,CHEESE RAVIOLI,"With sauteed vegetables in a wine sauce tossed with zucchini, cherry tomatoes and roasted poblano peppers and topped with queso fresco",$60 (half tray) | $100 (full tray)
+42 Fusion,https://42fusion.com/,Catering,PENNE ALA VODKA,"Penne pasta with smoked chorizo, tarragon in a light pink sauce",$50 (half tray) | $90 (full tray)
+42 Fusion,https://42fusion.com/,Catering,BOLOGNESE,"Ground beef, chorizo and veal on tossed in a homemade tomato sauce on rigatoni pasta",$50 (half tray) | $90 (full tray)
+42 Fusion,https://42fusion.com/,Catering,CHICKEN MILANESE,"Breaded, pan fried and served on top of pico de gallo. Paired with sauteed onions, peppadew and prosciutto",$50 (half tray) | $90 (full tray)
+42 Fusion,https://42fusion.com/,Catering,CHICKEN PARMIGIANA,"Chicken breast with homemade marinara sauce, mozzarella, parmesan cheese",$50 (half tray) | $90 (full tray)
+42 Fusion,https://42fusion.com/,Catering,SALMON,Grilled salmon in a lemon-caper butter,MP
+42 Fusion,https://42fusion.com/,Catering,AIRLINE CHICKEN,"Roasted chicken thigh with caramelized onion, chorizo, potatoes, peppadew, fresh herb, white wine with a demi-glaze sauce",$65 (half tray) | $120 (full tray)
+42 Fusion,https://42fusion.com/,Catering,TIRAMISO,Delicate lady fingers with espresso and mascarpone dusted with cocoa powder,$50
+42 Fusion,https://42fusion.com/,Catering,FLAN,"Sweet custard with fresh vanilla beans, topped with caramel sauce",$50
+42 Fusion,https://42fusion.com/,Catering,CHURROS,"Oaxacan dessert fried and dusted in cinnamon and sugar, served with chocolate sauce",$50
+42 Fusion,https://42fusion.com/,Catering,CANNOLI,"Handmade, deep-fried shells layered with traditional cannoli cream",$45

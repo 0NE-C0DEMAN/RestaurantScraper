@@ -1,0 +1,41 @@
+restaurant_name,restaurant_url,menu_name,menu_type,name,description,price
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 1,VEGGIE (Lite),"Apple, Cheddar, Caramelized Onion, & Mustard","Crisp apple, sharp cheddar, caramelized onions and Dijon mustard on French peasant.",$9
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 1,VEGGIE (Lite),Caprese,"Basil pesto, tomato and NYS R&G mozzarella on Sourdough.",$10
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 1,VEGGIE (Lite),"Gruyere, Caramelized Onion, & Kale","Gruyere, shredded kale, caramelized onion and Awesome sauce (homemade vegan aloll) on French peasant.",$9
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 1,VEGGIE (Lite),Simple,Sharp cheddar on French peasant.,$7
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 1,VEGGIE (Hearty),Horseplay,"Caramelized onions, tempeh, dlll plokios, shredded kale, horseradish sauce and horseradish Havarti on Rya.",$11
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 1,VEGGIE (Hearty),Steuben,"Olive-brined tempeh, sauerkraut, caramelized onions, Awesome sauce, Oscar's mustard and smoked Swiss on Rye.",$11
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 1,VEGGIE (Hearty),Smoky Goat,"Marinated Baked Tofu, NYS maple-chipotle chèvre, Awesome sauce, caramelized onions and shredded kale on French peasant.",$11
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 1,VEGAN,BBQ Tofu,"Marinated bakod tofu, spicy buffalo BBQ sauce, shradded kale, celery and Awesome sauce on French peasant.",$10
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 1,VEGAN,Fugetaboutit,"Basli posto, baked tofu, tomato, kale and Awesome Sauce on Sourdough.",$11
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 1,VEGAN,Southwester,"Marinated Baked Tofu, shredded kale, caramelized ontons, banana peppers, chipotle/red pepper mayo and vegan cheese on French peasant.",$11
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 1,NON-VEGGIE,Cubanish,"Uncured ham, caramelized onione, Oscar's smoked Swiss cheese, dlll pickle and Oscar's mustard on French peasant.",$11
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 1,NON-VEGGIE,Franklin,"Roast turkey, sharp cheddar, caramelized onion, tomato and Awesome Sauce on French peasant.",$11
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,JUICES,fresh carrot Julce,,$7
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,JUICES,fresh apple juice,,$10
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,JUICES,fresh celery Juice,,$10
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,JUICES,Green Juice,"(a balanced blend of cucumber, celery, parsley, kale)",$9
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,JUICES,The Upbeat,"Apple, ginger, orange, best, cucumber, cilantro, lime",$10
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,JUICES,The Pearade,"Pear, apple, carrot, dilantro, Ilme",$10
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,JUICES,The Mighty O,"Cucumber, apple, Iime, ginger, cilantro,
+turmeric (powder when fresh n/a)",$11
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,JUICES,The Zinger,"Apple, lomon, turmeric, ginger and aayenno",$9
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,SHAKES,GoBananael,"Flavor, ""mik"" & banana",$8
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,SHAKES,Ito EasyBeing Groen,"Greens blond, flavor, ""milk"" &
+banana",$9
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,SHAKES,NuttyMonkey,"Peanut butter, ""milk"" & xtra
+banana",$8
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,SHAKES,MochaX,"Coffee, chocolate protein,
+maple syrup, ""mik"" & banana",$10
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,SHAKES,PB & J,"Bananas, strawberries,
+blueberries, peanut butter,
+strawberry protein powder,
+apple juice, ""milk""",$10
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,SHAKES,Pina Coolada,"Bananas, mangoes, pineapple,
+vanilla protein powder,
+orange julce, ""milk""",$10
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,SHAKES,Peanut Butter Cup,"Bananas, peanut butter,
+chocolate protein powder,
+cacao powder, ""milk""",$10
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,SMOOTHIES,Berry,"Bananas, stranberries, blueberries, appie Julce",$8.50
+Four Seasons Natural Foods,https://www.fourseasonsnaturalfoods.com/,Menu 2,SMOOTHIES,Troploal,"Bananae, pineapple, mango, orange jutco",$8.50

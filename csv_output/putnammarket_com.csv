@@ -1,0 +1,239 @@
+restaurant_name,restaurant_url,menu_name,menu_type,section,name,description,price
+Putnam Market,https://putnammarket.com/,ESPRESSO DRINKS,Café,ESPRESSO DRINKS,Smoked Vanilla,,$5.50 | $6
+Putnam Market,https://putnammarket.com/,ESPRESSO DRINKS,Café,ESPRESSO DRINKS,Coconut Turmeric,,$5.50 | $6
+Putnam Market,https://putnammarket.com/,ESPRESSO DRINKS,Café,ESPRESSO DRINKS,Lavender Mocha,,$5.50 | $6
+Putnam Market,https://putnammarket.com/,ESPRESSO DRINKS,Café,ESPRESSO DRINKS,Caramel Shroom,,$5.50 | $6
+Putnam Market,https://putnammarket.com/,HOT COCOA DRINKS,Café,HOT COCOA DRINKS,Campfire,,$5.50 | $6
+Putnam Market,https://putnammarket.com/,HOT COCOA DRINKS,Café,HOT COCOA DRINKS,Hazelnut,,$5.50 | $6
+Putnam Market,https://putnammarket.com/,HOT COCOA DRINKS,Café,HOT COCOA DRINKS,Mocha,,$5.50 | $6
+Putnam Market,https://putnammarket.com/,HOT COCOA DRINKS,Café,HOT COCOA DRINKS,Turmeric Vanilla,,$5.50 | $6
+Putnam Market,https://putnammarket.com/,HOT COCOA DRINKS,Café,HOT COCOA DRINKS,Spiced Shroom,,$5.50 | $6
+Putnam Market,https://putnammarket.com/,ICED TEA,Café,ICED TEA,Lemon Ginger,,$4
+Putnam Market,https://putnammarket.com/,ICED TEA,Café,ICED TEA,Raspberry Lavender,,$4
+Putnam Market,https://putnammarket.com/,ICED TEA,Café,ICED TEA,Coconut Ginger,,$4
+Putnam Market,https://putnammarket.com/,ICED TEA,Café,ICED TEA,Matcha Raspberry,,$4
+Putnam Market,https://putnammarket.com/,LEMONADE,Café,LEMONADE,Honey Grilled,,$4.25
+Putnam Market,https://putnammarket.com/,LEMONADE,Café,LEMONADE,Raspberry Lavender,,$4.25
+Putnam Market,https://putnammarket.com/,LEMONADE,Café,LEMONADE,Raspberry,,$4.25
+Putnam Market,https://putnammarket.com/,LEMONADE,Café,LEMONADE,Coconut Ginger,,$4.25
+Putnam Market,https://putnammarket.com/,HARD CIDER SIGNATURES,Café,HARD CIDER SIGNATURES,CARAMEL APPLE,cider + oak + caramel,$9
+Putnam Market,https://putnammarket.com/,HARD CIDER SIGNATURES,Café,HARD CIDER SIGNATURES,VANILLA CHAI APPLE FIZZ,cider + chai + vanilla,$9
+Putnam Market,https://putnammarket.com/,HARD CIDER SIGNATURES,Café,HARD CIDER SIGNATURES,GREEN APPLE MATCHA,cider + matcha + vanilla,$9
+Putnam Market,https://putnammarket.com/,BEER SIGNATURES*,Café,BEER SIGNATURES*,SHANDY,beer + lemon,$9
+Putnam Market,https://putnammarket.com/,BEER SIGNATURES*,Café,BEER SIGNATURES*,BERRY SMASH,beer + lemon + raspberry,$9
+Putnam Market,https://putnammarket.com/,WINE SIGNATURES*,Café,WINE SIGNATURES*,OAK BARREL WINE SPRITZER,white wine + oak,$14
+Putnam Market,https://putnammarket.com/,WINE SIGNATURES*,Café,WINE SIGNATURES*,GINGER SPRITZER,white wine + ginger + sprite,$14
+Putnam Market,https://putnammarket.com/,WINE SIGNATURES*,Café,WINE SIGNATURES*,CITRUS SPRITZ,white wine + lemonade,$14
+Putnam Market,https://putnammarket.com/,WINE SIGNATURES*,Café,WINE SIGNATURES*,LAVENDER WINE SPRITZER,red wine + lavender + sprite,$14
+Putnam Market,https://putnammarket.com/,WINE SIGNATURES*,Café,WINE SIGNATURES*,BERRY WINE FIZZ,red wine + raspberry + sprite,$14
+Putnam Market,https://putnammarket.com/,TURMERIC • MATCHA • SHROOM • COCOA,Café,TURMERIC • MATCHA • SHROOM • COCOA,TURMERIC LATTE BLEND,"warming spices support skin glow, gut health, & immunity. Contains organic coconut milk powder, turmeric, ginger, cinnamon, cardamom, black pepper.",
+Putnam Market,https://putnammarket.com/,TURMERIC • MATCHA • SHROOM • COCOA,Café,TURMERIC • MATCHA • SHROOM • COCOA,PURE MATCHA,"for energy, focus, & cellular health. Shade- grown & cold-processed for maximum antioxidant & amino acids.",
+Putnam Market,https://putnammarket.com/,TURMERIC • MATCHA • SHROOM • COCOA,Café,TURMERIC • MATCHA • SHROOM • COCOA,SHROOM SHIELD,"functional shrooms for immunity & stress defense. Contains coconut milk powder, cacao, reishi & turkey tail mushroom extract, cinnamon, sea salt, monk fruit extract.",
+Putnam Market,https://putnammarket.com/,TURMERIC • MATCHA • SHROOM • COCOA,Café,TURMERIC • MATCHA • SHROOM • COCOA,PUTNAM HOT CHOCOLATE,combines a big dollop of locally made Sundae's Best bittersweet fudge sauce with half & half for the decadent hot chocolate that you absolutely deserve.,
+Putnam Market,https://putnammarket.com/,HOT DRINKS,Café,HOT DRINKS,drip,for here $2.50,Regular $2.75 | Large $3.25
+Putnam Market,https://putnammarket.com/,HOT DRINKS,Café,HOT DRINKS,espresso 2x,extra shot $1.50,$3
+Putnam Market,https://putnammarket.com/,HOT DRINKS,Café,HOT DRINKS,americano,,Regular $3.75 | Large $4.25
+Putnam Market,https://putnammarket.com/,HOT DRINKS,Café,HOT DRINKS,cortado,oat or almond $1,$4.25
+Putnam Market,https://putnammarket.com/,HOT DRINKS,Café,HOT DRINKS,latte or cappuccino,*available iced,Regular $4.50 | Large $5
+Putnam Market,https://putnammarket.com/,HOT DRINKS,Café,HOT DRINKS,chai latte,,Regular $5.5 | Large $6
+Putnam Market,https://putnammarket.com/,HOT DRINKS,Café,HOT DRINKS,matcha latte,,Regular $5.5 | Large $6
+Putnam Market,https://putnammarket.com/,HOT DRINKS,Café,HOT DRINKS,hot chocolate,,Regular $4 | Large $4.5
+Putnam Market,https://putnammarket.com/,HOT DRINKS,Café,HOT DRINKS,hot tea,,Regular $3.25 | Large $3.75
+Putnam Market,https://putnammarket.com/,DRIP COFFEES,Café,DRIP COFFEES,PUTNAM BLEND,"medium roast beans from Guatemala, Colombia & Peru, sweet, subtle notes of chocolate & caramel",
+Putnam Market,https://putnammarket.com/,DRIP COFFEES,Café,DRIP COFFEES,BROADWAY BLEND,"dark roast blend from Sumatra, Guatemala & Ethiopia, think fragrant chocolate with tart wine",
+Putnam Market,https://putnammarket.com/,DRIP COFFEES,Café,DRIP COFFEES,COSTA RICAN TARRAZU,medium roast smooth single- origin coffee with aromatic notes of silky milk chocolate.,
+Putnam Market,https://putnammarket.com/,DRIP COFFEES,Café,DRIP COFFEES,FTO SUMATRAN,"medium-dark roast. Single-origin with a rustic & sweet aroma; full bodied with earthy, warming notes.",
+Putnam Market,https://putnammarket.com/,OUR ESPRESSOS:,Café,OUR ESPRESSOS:,BLACK PEARL,"espresso blend multi-region blend with notes of cacao, citrus, & wine, perfect for espresso.",
+Putnam Market,https://putnammarket.com/,OUR ESPRESSOS:,Café,OUR ESPRESSOS:,DECAF EUROPEAN ESPRESSO,"espresso blend blend of Colombian & Sumatran beans, well balanced and full bodied with smooth earthy notes, perfect to brighten any afternoon.",
+Putnam Market,https://putnammarket.com/,ESPRESSO DRINKS,Happy Hour,ESPRESSO DRINKS,Smoked Vanilla,,$5.50 | $6
+Putnam Market,https://putnammarket.com/,ESPRESSO DRINKS,Happy Hour,ESPRESSO DRINKS,Coconut Turmeric,,$5.50 | $6
+Putnam Market,https://putnammarket.com/,ESPRESSO DRINKS,Happy Hour,ESPRESSO DRINKS,Lavender Mocha,,$5.50 | $6
+Putnam Market,https://putnammarket.com/,ESPRESSO DRINKS,Happy Hour,ESPRESSO DRINKS,Caramel Shroom,,$5.50 | $6
+Putnam Market,https://putnammarket.com/,HOT COCOA DRINKS,Happy Hour,HOT COCOA DRINKS,Campfire,,$5 | $5.50
+Putnam Market,https://putnammarket.com/,HOT COCOA DRINKS,Happy Hour,HOT COCOA DRINKS,Hazelnut,,$5 | $5.50
+Putnam Market,https://putnammarket.com/,HOT COCOA DRINKS,Happy Hour,HOT COCOA DRINKS,Mocha,,$5 | $5.50
+Putnam Market,https://putnammarket.com/,HOT COCOA DRINKS,Happy Hour,HOT COCOA DRINKS,Turmeric Vanilla,,$5 | $5.50
+Putnam Market,https://putnammarket.com/,HOT COCOA DRINKS,Happy Hour,HOT COCOA DRINKS,Spiced Shroom,,$5 | $5.50
+Putnam Market,https://putnammarket.com/,ICED TEA,Happy Hour,ICED TEA,Lemon Ginger,,$4
+Putnam Market,https://putnammarket.com/,ICED TEA,Happy Hour,ICED TEA,Raspberry Lavender,,$4
+Putnam Market,https://putnammarket.com/,ICED TEA,Happy Hour,ICED TEA,Coconut Ginger,,$4
+Putnam Market,https://putnammarket.com/,ICED TEA,Happy Hour,ICED TEA,Matcha Raspberry,,$4
+Putnam Market,https://putnammarket.com/,LEMONADE,Happy Hour,LEMONADE,Honey Grilled,,$4.25
+Putnam Market,https://putnammarket.com/,LEMONADE,Happy Hour,LEMONADE,Raspberry Lavender,,$4.25
+Putnam Market,https://putnammarket.com/,LEMONADE,Happy Hour,LEMONADE,Raspberry,,$4.25
+Putnam Market,https://putnammarket.com/,LEMONADE,Happy Hour,LEMONADE,Coconut Ginger,,$4.25
+Putnam Market,https://putnammarket.com/,WINE SIGNATURES*,Happy Hour,WINE SIGNATURES*,OAK BARREL WINE SPRITZER,white wine + oak,$10
+Putnam Market,https://putnammarket.com/,WINE SIGNATURES*,Happy Hour,WINE SIGNATURES*,GINGER SPRITZER,white wine + ginger + sprite,$10
+Putnam Market,https://putnammarket.com/,WINE SIGNATURES*,Happy Hour,WINE SIGNATURES*,CITRUS SPRITZ,white wine + lemonade,$10
+Putnam Market,https://putnammarket.com/,WINE SIGNATURES*,Happy Hour,WINE SIGNATURES*,LAVENDER SPRITZER,red wine + lavender + sprite,$10
+Putnam Market,https://putnammarket.com/,WINE SIGNATURES*,Happy Hour,WINE SIGNATURES*,BERRY WINE FIZZ,red wine + raspberry + sprite *available alcohol free,$10
+Putnam Market,https://putnammarket.com/,HARD CIDER SIGNATURES,Happy Hour,HARD CIDER SIGNATURES,CARAMEL APPLE,cider + oak + caramel,$7
+Putnam Market,https://putnammarket.com/,HARD CIDER SIGNATURES,Happy Hour,HARD CIDER SIGNATURES,VANILLA CHAI APPLE,cider + chai + vanilla,$7
+Putnam Market,https://putnammarket.com/,HARD CIDER SIGNATURES,Happy Hour,HARD CIDER SIGNATURES,GREEN APPLE,cider + matcha + vanilla,$7
+Putnam Market,https://putnammarket.com/,BEER SIGNATURES*,Happy Hour,BEER SIGNATURES*,SHANDY,beer + lemon,$7
+Putnam Market,https://putnammarket.com/,BEER SIGNATURES*,Happy Hour,BEER SIGNATURES*,BERRY SMASH,beer + lemon + raspberry *available alcohol free,$7
+Putnam Market,https://putnammarket.com/,HAPPY HOUR,Happy Hour,HAPPY HOUR,CURATOR WHITE WINE BLEND,,$7
+Putnam Market,https://putnammarket.com/,HAPPY HOUR,Happy Hour,HAPPY HOUR,CURATOR RED WINE BLEND,,$7
+Putnam Market,https://putnammarket.com/,HAPPY HOUR,Happy Hour,HAPPY HOUR,HUDSON NORTH CIDER,,$4
+Putnam Market,https://putnammarket.com/,HAPPY HOUR,Happy Hour,HAPPY HOUR,SLOOP JUICE IPA,,$5
+Putnam Market,https://putnammarket.com/,HAPPY HOUR,Happy Hour,HAPPY HOUR,NARRANGANSETT,,$4
+Putnam Market,https://putnammarket.com/,TURMERIC • MATCHA • SHROOM • COCOA,Happy Hour,TURMERIC • MATCHA • SHROOM • COCOA,TURMERIC LATTE BLEND,"warming spices support skin glow, gut health, & immunity.",
+Putnam Market,https://putnammarket.com/,TURMERIC • MATCHA • SHROOM • COCOA,Happy Hour,TURMERIC • MATCHA • SHROOM • COCOA,PURE MATCHA,"for energy, focus, & cellular health. Shade-grown & cold-processed for maximum antioxidant & amino acids.",
+Putnam Market,https://putnammarket.com/,TURMERIC • MATCHA • SHROOM • COCOA,Happy Hour,TURMERIC • MATCHA • SHROOM • COCOA,SHROOM SHIELD,functional shrooms for immunity & stress defense. Contains coconut milk powder.,
+Putnam Market,https://putnammarket.com/,TURMERIC • MATCHA • SHROOM • COCOA,Happy Hour,TURMERIC • MATCHA • SHROOM • COCOA,PUTNAM HOT CHOCOLATE,combines a big dollop of locally made Sundae's Best bittersweet fudge sauce with half & half for the decadent hot chocolate that you absolutely deserve.,
+Putnam Market,https://putnammarket.com/,FOR MEETINGS,Sandwiches & Salads,FOR MEETINGS,FRESH COFFEE: REGULAR or DECAF,"each service box holds 12 cups and is disposable. comes with cups, stirrers, milk & sweeteners.",$24 / BOX
+Putnam Market,https://putnammarket.com/,FOR MEETINGS,Sandwiches & Salads,FOR MEETINGS,THE MARKET SPECIAL,"A delicious lunch of assorted sandwiches (putnam, congress, paradise, hathorn, karista), with pasta salad and a platter of cookies and brownies.",$19.50 PER PERSON/LI
+Putnam Market,https://putnammarket.com/,FOR MEETINGS,Sandwiches & Salads,FOR MEETINGS,THE PREMIUM SPECIAL,"Even more impressive, with half a sandwich per person, (assortment includes putnam, congress, paradise, karista, hathorn), with fresh fruit salad, pasta salad and a platter of our scratch-baked cookies and brownies.",$21.50 PER PERSON/L2
+Putnam Market,https://putnammarket.com/,FOR MEETINGS,Sandwiches & Salads,FOR MEETINGS,THE WRAP SPECIAL,"Easy to eat wraps: roast turkey & american, ham & swiss, roast beef & provolone, chicken salad, fresh vegetables & provolone along with pasta salad, and a platter of cookies and brownies.",$17.50 PER PERSON/L5
+Putnam Market,https://putnammarket.com/,BOXED LUNCHES,Sandwiches & Salads,BOXED LUNCHES,THE SANDWICH PACK,"a choice of sandwich with lettuce & tomato( roast turkey & mayo, roast beef & russian, ham & dijon, or hummus), potato chips, and a giant freshly-baked cookie.",$19
+Putnam Market,https://putnammarket.com/,BOXED LUNCHES,Sandwiches & Salads,BOXED LUNCHES,THE EXECUTIVE PACK,"choice of sandwich, potato chips, & a giant freshly-baked cookie. putnam- smoked turkey, brie & honey mustard; congress- hickory chicken salad; hathorn- roast beef & horseradish cheddar; paradise- smoked ham, cheddar, dijon & cranberry mayo; karista- fresh mozzarella, roasted red peppers & pesto mayo",$22
+Putnam Market,https://putnammarket.com/,BOXED LUNCHES,Sandwiches & Salads,BOXED LUNCHES,THE SALAD PACK,"includes a choice of a freshly made salad: apple-cheddar-walnut, hickory chicken salad on greens, or albacore tuna salad on greens. It comes with baguette & a giant freshly-baked cookie.",$21
+Putnam Market,https://putnammarket.com/,GOURMET BUFFET,Sandwiches & Salads,GOURMET BUFFET,ASSORTED ENTREES & SIDES,"hickory chicken salad, curried chicken salad, tuna salad, pesto tortellini, sesame noodles, potato salad, kale salad, maple chipotle meatballs, broccoli salad...",$13.99 lb
+Putnam Market,https://putnammarket.com/,GOURMET BUFFET,Sandwiches & Salads,GOURMET BUFFET,HOUSE-MADE SOUPS,"chicken noodle, tomato parmesan, weekly specials",
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,PUTNAM,"smoked turkey, brie & honey mustard",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,HIGH ROCK,"free range turkey, cheddar & cranberry mayo",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,CONGRESS,hickory chicken salad & mayo,$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,GLORIA,curried chicken salad & mayo (contains almonds & raisins),$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,CHARLIE,"smoked turkey, cheddar, coleslaw, red onion & russian",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,GOVERNOR,"cracked pepper turkey, provolone, avocado, herb mayo",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,STEEPLE,"cracked pepper turkey, american, bacon & mayo",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,CATHARINE,"turkey, cheddar, bacon, avocado, sprouts & russian",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,PANDORA,"chicken breast, provolone, red onion, bbq & mayo",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,TYRONE'S CAESAR WRAP,"chicken breast, dried cranberries, parmesan, romaine & house-made caesar",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,HATHORN,roast beef & horseradish cheddar spread,$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,GUNPOWDER,"roast beef, cheddar, onion, bbq & mayo",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,ROYAL,"roast beef, blue cheese, mango chutney, sprouts & mayo",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,EMPIRE,"roast beef, roast turkey, cheddar, onion & russian",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,HAMILTON,"new york corned beef, swiss & russian",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,OLYMPIAN,"smoked ham, brie, apple & honey mustard",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,PARADISE,"smoked ham, cheddar, dijon & cranberry mayo",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,ORENDA,"genoa salami, fresh mozzarella & pesto mayo",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,ZALAMA,"ham, genoa salami, provolone, onion, banana peppers, oil & red wine vinegar",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,ADELPHI,"prosciutto, provolone, roasted peppers & pesto mayo",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,GLACIER,"house-made tuna salad, cucumber, onion & mayo",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,TALLULAH,"gruyère, avocado spread, sprouts & herb mayo",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,KARISTA,"fresh mozzarella, roasted red peppers & pesto mayo",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,ROSEMARY,"hummus, cucumber, carrots & sprouts",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,APPOLOS,"hummus, feta, cuke, red onion, banana peppers",$16.50
+Putnam Market,https://putnammarket.com/,SALADS,Sandwiches & Salads,SALADS,GRILLED CHICKEN CAESAR,on romaine,$16.50
+Putnam Market,https://putnammarket.com/,SALADS,Sandwiches & Salads,SALADS,CHICKEN & KALE CAESAR,,$16.50
+Putnam Market,https://putnammarket.com/,SALADS,Sandwiches & Salads,SALADS,CHICKEN & MANDARIN,"oranges, almonds, carrots, red cabbage on romaine with sesame ginger dressing",$16.50
+Putnam Market,https://putnammarket.com/,SALADS,Sandwiches & Salads,SALADS,HICKORY CHICKEN,"salad with cucumbers, onions & tomatoes",$16.50
+Putnam Market,https://putnammarket.com/,SALADS,Sandwiches & Salads,SALADS,CURRIED CHICKEN,"salad with cucumbers, onions & tomatoes",$16.50
+Putnam Market,https://putnammarket.com/,SALADS,Sandwiches & Salads,SALADS,HOUSE-MADE TUNA,"salad with onions, cucumbers, & tomatoes",$16.50
+Putnam Market,https://putnammarket.com/,SALADS,Sandwiches & Salads,SALADS,APPLE & CHEDDAR,with walnuts,$16.50
+Putnam Market,https://putnammarket.com/,SALADS,Sandwiches & Salads,SALADS,CALIFORNIA,"salad with feta, avocado, red onion, olives & roasted red peppers",$16.50
+Putnam Market,https://putnammarket.com/,SALADS,Sandwiches & Salads,SALADS,COBB,"salad with chicken breast, bacon, avocado & blue cheese",$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,WHOLE SANDWICH,,$16.50
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,HALF SANDWICH,,$9
+Putnam Market,https://putnammarket.com/,SANDWICHES,Sandwiches & Salads,SANDWICHES,SOUP & 1/2 SANDWICH,,$15
+Putnam Market,https://putnammarket.com/,SALADS,Sandwiches & Salads,SALADS,SPECIALTY SALAD,,$16.50
+Putnam Market,https://putnammarket.com/,SALADS,Sandwiches & Salads,SALADS,HALF SALAD,,$9
+Putnam Market,https://putnammarket.com/,SALADS,Sandwiches & Salads,SALADS,SOUP & 1/2 SALAD,,$15
+Putnam Market,https://putnammarket.com/,cold entrée platters,Catering,cold entrée platters,PICNIC CHICKEN PLATTER,SERVES 10-15 sliced parmesan all-natural chicken breasts with hickory smoke aioli.,$95
+Putnam Market,https://putnammarket.com/,cold entrée platters,Catering,cold entrée platters,CHICKEN BREAST PLATTER,sliced all-natural chicken breast served with cranberry mayonnaise.,$70 small | $95 medium | $130 large
+Putnam Market,https://putnammarket.com/,cold entrée platters,Catering,cold entrée platters,BEEF TENDERLOIN PLATTER,"rare & thinly sliced, with grilled onions & roasted red bell peppers, accompanied by our horseradish sauce.",$160 small | $225 medium | $335 large
+Putnam Market,https://putnammarket.com/,cold entrée platters,Catering,cold entrée platters,POACHED SALMON PLATTER,sliced and served with our sour cream dill sauce.,$125 small | $195 medium | $295 large
+Putnam Market,https://putnammarket.com/,cold entrée platters,Catering,cold entrée platters,BAGUETTE PIECES (8),,$7.99
+Putnam Market,https://putnammarket.com/,cold entrée platters,Catering,cold entrée platters,MINI-CROISSANTS (8),sliced to accommodate sandwiches,$12.99
+Putnam Market,https://putnammarket.com/,heat and serve entrées (serve 8-12),Catering,heat and serve entrées (serve 8-12),JAMBALAYA WITH RICE,"chicken, shrimp, andouille sausage, tomatoes & vegetables.",$110
+Putnam Market,https://putnammarket.com/,heat and serve entrées (serve 8-12),Catering,heat and serve entrées (serve 8-12),PUTNAM DRY-RUBBED PULLED PORK,,$75
+Putnam Market,https://putnammarket.com/,heat and serve entrées (serve 8-12),Catering,heat and serve entrées (serve 8-12),LIP-SMACKIN' MAC'N'CHEESE,a special blend of 4 cheeses; the ultimate mac & cheese.,$65
+Putnam Market,https://putnammarket.com/,heat and serve entrées (serve 8-12),Catering,heat and serve entrées (serve 8-12),"TORTELLINI, MARINARA & MEATBALLS",,$60
+Putnam Market,https://putnammarket.com/,heat and serve entrées (serve 8-12),Catering,heat and serve entrées (serve 8-12),HOME MADE LASAGNE,"beef & sausage or roasted vegetable. **also available gluten free, made with polenta,+$10",$80
+Putnam Market,https://putnammarket.com/,for the morning,Catering,for the morning,CLASSIC QUICHE,quiche lorraine / roasted vegetable,(serves 8 - 10) $30
+Putnam Market,https://putnammarket.com/,for the morning,Catering,for the morning,EGG FRITTATA,"served in wedges, at room temperature. gluten free. mushroom & gruyere / ham & swiss",(serves 8 - 10) $28
+Putnam Market,https://putnammarket.com/,for the morning,Catering,for the morning,START OF THE DAY,an assortment of our freshly baked scones and muffins.,$35 small | $52 medium | $70 large
+Putnam Market,https://putnammarket.com/,for the morning,Catering,for the morning,BAGELS & CREAM CHEESE,"fresh bagels, assorted flavors, with cream cheese.",$40 small | $57 medium | $75 large
+Putnam Market,https://putnammarket.com/,for the morning,Catering,for the morning,THE NEW YORKER,"smoked salmon, red onion, tomatoes, capers & lemon wedges. served with fresh bagels, cream cheese, & butter.",$98 small | $145 medium | $200 large
+Putnam Market,https://putnammarket.com/,for the morning,Catering,for the morning,FRUITS OF THE SEASON,"a beautiful arrangement of sliced fruits, including melon, pineapple, strawberries & grapes. great any time of day.",$48 small | $68 medium | $95 large
+Putnam Market,https://putnammarket.com/,for the morning,Catering,for the morning,YOGURT & GRANOLA PLATTER,"bowls of organic vanilla Greek yogurt, sliced strawberries, and freshly-made fruit & nut granola.",(serves 8 - 10) $40
+Putnam Market,https://putnammarket.com/,for the morning,Catering,for the morning,"FRESH COFFEE, REGULAR OR DECAF*","we freshly grind the beans for each box, which serves 12 cups. the service pot is disposable. comes with cups, stirrers, milk & sweeteners.",$24 PER BOX
+Putnam Market,https://putnammarket.com/,side salads,Catering,side salads,PUTNAM POTATO SALAD,"red potatoes, red peppers, red onions & fresh spinach.",
+Putnam Market,https://putnammarket.com/,side salads,Catering,side salads,FRESH FRUIT SALAD,"bite-sized melon, pineapple, strawberries & grapes.",
+Putnam Market,https://putnammarket.com/,side salads,Catering,side salads,BOWTIE PASTA SALAD*,"tossed with fresh spinach, sundried tomatoes & evoo",
+Putnam Market,https://putnammarket.com/,side salads,Catering,side salads,PESTO TORTELLINI SALAD*,cheese tortellini & grape tomatoes tossed in basil pesto.,
+Putnam Market,https://putnammarket.com/,side salads,Catering,side salads,PUTNAM SESAME NOODLES,with red bell pepper & sesame-soy sauce.,
+Putnam Market,https://putnammarket.com/,side salads,Catering,side salads,MEXICAN STREET CORN QUINOA SALAD,"with poblano & red peppers, cilantro & chili-lime dressing.",
+Putnam Market,https://putnammarket.com/,side salads,Catering,side salads,CAPRESE MOZZARELLA SALAD,marinated baby mozzarella balls with grape tomatoes.,
+Putnam Market,https://putnammarket.com/,side salads,Catering,side salads,PUTNAM BROCCOLI SALAD,"a family recipe: broccoli, bacon, apples & raisins.",
+Putnam Market,https://putnammarket.com/,side salads,Catering,side salads,ROASTED VEGETABLE PLATTER & SPINACH DIP,"red & yellow peppers, zucchini, & summer squash.",$48 small | $68 medium | $95 large
+Putnam Market,https://putnammarket.com/,green salads*,Catering,green salads*,TOSSED OR CAESAR SALAD,,$32 small | $48 medium | $70 large
+Putnam Market,https://putnammarket.com/,green salads*,Catering,green salads*,LEAF SPINACH SALAD,"blue cheese, dried cranberries, walnuts & balsamic vinaigrette.",
+Putnam Market,https://putnammarket.com/,green salads*,Catering,green salads*,PUTNAM KALE SALAD,"almonds, dried cranberries, grapes & lemon vinaigrette.",$48 small | $68 medium | $95 large
+Putnam Market,https://putnammarket.com/,desserts,Catering,desserts,SWEET TEMPTATIONS*,home-made cookies & brownies.,$40 small | $55 medium | $70 large
+Putnam Market,https://putnammarket.com/,desserts,Catering,desserts,PUTNAM SAMPLER,"almond fingers, macaroons, cheesecake brownies & chocolate-drizzled strawberries. all gluten free, all delicious!",$45 small | $60 medium | $75 large
+Putnam Market,https://putnammarket.com/,desserts,Catering,desserts,PUTNAM TREATS*,"12 chocolate-dipped chocolate chip cookies with 12 assorted mini-cupcakes, all with festive sprinkles.",$40
+Putnam Market,https://putnammarket.com/,desserts,Catering,desserts,MINI CUPCAKE PLATTER,"assorted flavors, made to eat in 2 bites. 25 cupcakes, made from scratch from here at the market.",$45
+Putnam Market,https://putnammarket.com/,entrée salads*,Catering,entrée salads*,CHICKEN CAESAR SALAD,"romaine with chicken, parmesan & our Caesar dressing",
+Putnam Market,https://putnammarket.com/,entrée salads*,Catering,entrée salads*,COBB SALAD,"mixed greens with chopped chicken breast, bacon, tomato, blue cheese and avocado, with our balsamic vinaigrette",
+Putnam Market,https://putnammarket.com/,entrée salads*,Catering,entrée salads*,GREEK SALAD,"mixed greens with chickpeas, roasted red peppers, cucumbers, kalamata olives and feta, with our balsamic vinaigrette",
+Putnam Market,https://putnammarket.com/,entrée salads*,Catering,entrée salads*,SARATOGA SALAD,"baby spinach with chicken breast, dried cranberries, toasted walnuts, blue cheese and balsamic vinaigrette",$60 small | $80 medium | $115 large
+Putnam Market,https://putnammarket.com/,sandwiches*,Catering,sandwiches*,SPECIALTY SANDWICH PLATTER,"an assortment of our most popular deli sandwiches heaped high on a tray, dill pickles on the side: putnam- smoked turkey, brie & honey mustard; hathorn- roast beef & horseradish cheddar spread; congress- hickory chicken salad; paradise- smoked ham, swiss, dijon & cranberry mayo; karista-fresh mozzarella, roasted peppers & pesto mayo",$16.50 per sandwich
+Putnam Market,https://putnammarket.com/,sandwiches*,Catering,sandwiches*,AMERICAN WRAP PLATTER,"classics on whole wheat wraps: house-roasted turkey, american & mayo; roast beef, provolone & russian; hickory chicken salad; smoked ham, swiss & dijon; and fresh vegetables, provolone & herb mayo.",$14 per sandwich
+Putnam Market,https://putnammarket.com/,sandwiches*,Catering,sandwiches*,PETITE CROISSANT SANDWICHES,"great for a book club or a shower. tasty & simple: hickory chicken salad; roast turkey & cranberry mayo; fresh mozzarella, roasted peppers & pesto mayo; smoked ham & honey mustard on mini-croissants.",$5.50 each
+Putnam Market,https://putnammarket.com/,sandwiches*,Catering,sandwiches*,PUTNAM SIGNATURE BAGUETTE SANDWICHES,"a delicious assortment, including: caesar chicken; turkey, apple & honey mustard; prosciutto, provolone & balsamic vinaigrette; tomato, mozzarella & pesto mayo",Small $60 | Medium $90 | Large $150
+Putnam Market,https://putnammarket.com/,deli platters,Catering,deli platters,CLASSIC DELI PLATTER,"roast beef, cracked pepper turkey & smoked ham along with swiss & american cheese on a platter, lettuce, tomatoes, condiments & dill pickles, and an assortment of breads.",Small $88 | Medium $135 | Large $220
+Putnam Market,https://putnammarket.com/,specials for businesses & gatherings*,Catering,specials for businesses & gatherings*,THE MORNING MEETING SPECIAL,"an assortment of our homemade muffins & scones, with a fresh fruit tray.",$10 per person
+Putnam Market,https://putnammarket.com/,specials for businesses & gatherings*,Catering,specials for businesses & gatherings*,"FRESH COFFEE, REGULAR OR DECAF*","each service box holds 12 cups and is disposable. comes with cups, stirrers, milk & sweeteners.",$24 PER BOX
+Putnam Market,https://putnammarket.com/,specials for businesses & gatherings*,Catering,specials for businesses & gatherings*,THE MARKET SPECIAL,"a delicious lunch of specialty deli sandwiches, with pasta salad and a platter of cookies and brownies.",$19.50 per person
+Putnam Market,https://putnammarket.com/,specials for businesses & gatherings*,Catering,specials for businesses & gatherings*,THE PREMIUM SPECIAL,"even more impressive, with half a specialty deli sandwich per person, with fresh fruit salad, pasta salad and a platter of our scratch-baked cookies and brownies.",$21.50 per person
+Putnam Market,https://putnammarket.com/,specials for businesses & gatherings*,Catering,specials for businesses & gatherings*,THE WRAP SPECIAL,"easy to eat wraps: roast beef, provolone & russian, chicken salad, house-roasted turkey, american & mayo, smoked ham, swiss & dijon, and fresh vegetables, provolone & herb mayo along with pasta salad, cookies & brownies.",$17.50 per person
+Putnam Market,https://putnammarket.com/,charcuterie & grazing platters,Catering,charcuterie & grazing platters,THE GRAND CHARCUTERIE PLATTER,"french brie, spanish manchego, vt cheddar & herbed chevre complement slices of salami and prosciutto. dried apricots, figs, & cranberries along with fresh strawberries & red grapes add contrast and color. almonds, olives & hot honey bring pizzazz. we add port wine cheese spread to the medium platter. comes with crackers.",Small $125 | Medium $180 | Large $290
+Putnam Market,https://putnammarket.com/,charcuterie & grazing platters,Catering,charcuterie & grazing platters,TASTE OF ITALY,"slices of genoa salami, chianti salami, and prosciutto with marinated mozzarella, mixed olives, stuffed cherry peppers, and long stemmed artichokes.",$100
+Putnam Market,https://putnammarket.com/,charcuterie & grazing platters,Catering,charcuterie & grazing platters,MEZZE DIPPING PLATTER,"house-made hummus, spinach dip, harissa, herbed chevre, mixed olives and stuffed grape leaves with bell peppers. broccoli and carrots for dipping.",$85
+Putnam Market,https://putnammarket.com/,charcuterie & grazing platters,Catering,charcuterie & grazing platters,DIRECT FROM FRANCE,"slices of ham with country style pâté, herbed chevre, st andré cheese, assorted olives, mustard, strawberries, red grapes and cornichons.",$100
+Putnam Market,https://putnammarket.com/,charcuterie & grazing platters,Catering,charcuterie & grazing platters,CUSTOM CHEESE PLATTER*,we arrange your selection with dried & fresh fruit. sliced baguette & crackers come on the side. Pick 3 cheeses: triple-crème brie / st andré / goat gouda / aged gouda / parrano / manchego,$65
+Putnam Market,https://putnammarket.com/,charcuterie & grazing platters,Catering,charcuterie & grazing platters,PATÉ & CHEESE PLATTER*,"french brie and imported gruyere with country style pâté, truffled chicken liver mousse pâté, cornichons, red grapes & strawberries with sliced baguette & crackers on the side.",$95
+Putnam Market,https://putnammarket.com/,charcuterie & grazing platters,Catering,charcuterie & grazing platters,SKEWER PLATTER,"18 skewers of each, pick 2: mozzarella, tomato & basil / prosciutto, melon & grape / melon, pineapple & strawberry / ham, cheddar & cornichon / pesto tortellini & grape tomato / salami, provolone & olive",$70
+Putnam Market,https://putnammarket.com/,classic appetizers,Catering,classic appetizers,PUTNAM STUFFED BREAD,"a rustic loaf filled our spinach dip, surrounded with bread cubes, broccoli, carrots, celery, cucumber & red bell pepper.",$60
+Putnam Market,https://putnammarket.com/,classic appetizers,Catering,classic appetizers,ASIAN DUMPLINGS & POTSTICKERS,all are accompanied by creamy teriyaki dipping sauce,
+Putnam Market,https://putnammarket.com/,classic appetizers,Catering,classic appetizers,50 bite-sized seafood dumplings,,$75
+Putnam Market,https://putnammarket.com/,classic appetizers,Catering,classic appetizers,50 bite-sized chicken teriyaki potstickers,,$65
+Putnam Market,https://putnammarket.com/,classic appetizers,Catering,classic appetizers,50 bite-sized edamame dumplings vegetarian,,$65
+Putnam Market,https://putnammarket.com/,classic appetizers,Catering,classic appetizers,DIM SUM TRIO,"an assortment of seafood, chicken, & edamame dumplings with creamy teriyaki dipping sauce.",$75
+Putnam Market,https://putnammarket.com/,classic appetizers,Catering,classic appetizers,MINI QUICHE SQUARES,"60 bite-sized house-made quiche squares, to serve at room temperature. includes roasted vegetable and classic quiche lorraine.",$55
+Putnam Market,https://putnammarket.com/,classic appetizers,Catering,classic appetizers,SEAFOOD PLATTER,"20 colossal poached shrimp, 15 dim sum & 15 bite-sized crabcakes with lemon wedges, cocktail sauce & old bay dipping sauce.",$125
+Putnam Market,https://putnammarket.com/,classic appetizers,Catering,classic appetizers,MINI CRABCAKES WITH OLD BAY DIPPING SAUCE,pan-grilled crab cakes served with seasoned dipping sauce.,$72 (24 crabcakes) | $108 (36 crabcakes) | $180 (60 crabcakes)
+Putnam Market,https://putnammarket.com/,classic appetizers,Catering,classic appetizers,CLASSIC SHRIMP PLATTER,colossal shrimp with lemon wedges & zingy cocktail sauce.,$72 (24 shrimp) | $108 (36 shrimp) | $180 (60 shrimp)
+Putnam Market,https://putnammarket.com/,classic appetizers,Catering,classic appetizers,THAI PEANUT CHICKEN SATAY PLATER,skewered chicken tenderloin with peanut dipping sauce.,$70 (24 skewers) | $105 (36 skewers) | $170 (60 skewers)
+Putnam Market,https://putnammarket.com/,classic appetizers,Catering,classic appetizers,PUTNAM MEATBALLS*,"great for parties, 60 bite-sized beef meatballs. serve warm. maple chipotle / tomato parmesan",$60
+Putnam Market,https://putnammarket.com/,classic appetizers,Catering,classic appetizers,PINWHEEL PLATTER*,"bite-sized pinwheel wraps include roast beef & horseradish -cheddar spread; avocado, sprouts, spinach & herb mayo; and smoked turkey, cheddar & honey mustard.",Small $45 (32 pc) | Medium $65 (48 pc) | Large $110 (80 pc)
+Putnam Market,https://putnammarket.com/,classic appetizers,Catering,classic appetizers,PUTNAM DIPS FOR ENTERTAINING,"Freshly made, ready to serve. garlic hummus / spinach & water chestnut",$8.99 PINT
+Putnam Market,https://putnammarket.com/,Cupcakes,Custom Cakes,Cupcakes,Cupcakes,"Choose the cupcake base:
+Yellow Red Wine Red Velvet
+Chocolate GF Yellow or Chocolate
+Carrot Vegan Yellow or Chocolate
+Choose a Buttercream Frosting:
+Vanilla Almond Coconut
+Chocolate Peanut Butter Lemon
+Raspberry Cream Cheese
+Finishing Touches:
+Caramel Drizzle Fresh Coconut
+Chocolate Drizzle Chocolate Dipped
+Assorted Sprinkles
+Premium Fillings (+25¢):
+Pastry Cream Chocolate Mousse
+Lemon Curd Raspberry Preserve
+Coconut Cream Fresh Strawberry Preserve",$4.95 each
+Putnam Market,https://putnammarket.com/,Sizes & Prices,Custom Cakes,Sizes & Prices,"6""",,$40
+Putnam Market,https://putnammarket.com/,Sizes & Prices,Custom Cakes,Sizes & Prices,"8""",,$55
+Putnam Market,https://putnammarket.com/,Sizes & Prices,Custom Cakes,Sizes & Prices,"10""",,$70
+Putnam Market,https://putnammarket.com/,Sizes & Prices,Custom Cakes,Sizes & Prices,"12""",,$90
+Putnam Market,https://putnammarket.com/,Sizes & Prices,Custom Cakes,Sizes & Prices,"14""",,$110
+Putnam Market,https://putnammarket.com/,Sizes & Prices,Custom Cakes,Sizes & Prices,"6""",,$50
+Putnam Market,https://putnammarket.com/,Sizes & Prices,Custom Cakes,Sizes & Prices,"8""",,$65
+Putnam Market,https://putnammarket.com/,Sizes & Prices,Custom Cakes,Sizes & Prices,"10""",,$85
+Putnam Market,https://putnammarket.com/,Sizes & Prices,Custom Cakes,Sizes & Prices,"12""",,$105
+Putnam Market,https://putnammarket.com/,Sizes & Prices,Custom Cakes,Sizes & Prices,"14""",,$130
+Putnam Market,https://putnammarket.com/,Sizes & Prices,Custom Cakes,Sizes & Prices,"9""X13""",,$60
+Putnam Market,https://putnammarket.com/,Sizes & Prices,Custom Cakes,Sizes & Prices,"11""X15""",,$75
+Putnam Market,https://putnammarket.com/,Sizes & Prices,Custom Cakes,Sizes & Prices,"12""X18""",,$100
+Putnam Market,https://putnammarket.com/,Sizes & Prices,Custom Cakes,Sizes & Prices,"15""X22""",,$135
+Putnam Market,https://putnammarket.com/,Our Favorite Cakes*,Custom Cakes,Our Favorite Cakes*,Carrot Cake.,"carrot cake rich with pineapple & coconut, with cream cheese buttercream frosting. (Nut free) *Also available gluten free, +$10",
+Putnam Market,https://putnammarket.com/,Our Favorite Cakes*,Custom Cakes,Our Favorite Cakes*,Luscious Lemon.,"yellow cake, lemon curd filling & lemon buttercream frosting.",
+Putnam Market,https://putnammarket.com/,Our Favorite Cakes*,Custom Cakes,Our Favorite Cakes*,Raspberry Blackout.,"chocolate cake with raspberry preserve filling, chocolate buttercream frosting and raspberry preserve glaze.",
+Putnam Market,https://putnammarket.com/,Our Favorite Cakes*,Custom Cakes,Our Favorite Cakes*,Strawberry Shortcake.,"yellow cake, house-made fresh strawberry preserve filling and vanilla buttercream frosting with fresh strawberry decoration.",
+Putnam Market,https://putnammarket.com/,Our Favorite Cakes*,Custom Cakes,Our Favorite Cakes*,Death by Chocolate.,"chocolate cake with chocolate buttercream frosting, and dark chocolate ganache drip.",
+Putnam Market,https://putnammarket.com/,Our Favorite Cakes*,Custom Cakes,Our Favorite Cakes*,Peanut Butter Explosion.,"chocolate cake, peanut butter buttercream frosting with dark chocolate ganache drip and mini peanut butter cup decoration.",
+Putnam Market,https://putnammarket.com/,Our Favorite Cakes*,Custom Cakes,Our Favorite Cakes*,Coconut Snowball.,"yellow cake, coconut cream filling, coconut buttercream frosting, covered with fresh coconut.",

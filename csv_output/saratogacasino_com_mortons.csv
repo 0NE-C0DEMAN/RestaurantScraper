@@ -1,0 +1,57 @@
+restaurant_name,restaurant_url,menu_name,menu_type,name,description,price
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,CHILLED STARTERS,Menu,Jumbo Shrimp Cocktail,"House-made Cocktail Sauce, Horseradish",$26
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,CHILLED STARTERS,Menu,Chef’s Selection of Fresh Oysters*,"Half Dozen on the 1/2 Shell, House-made Cocktail Sauce, Mignonette",$24
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,CHILLED STARTERS,Menu,Seared Ahi Tuna*,"Balsamic Soy Caramel, Pickled Vegetables, Crispy Capers, EVOO",$23
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,CHILLED STARTERS,Menu,Lobster & Crab Cocktail,"Jumbo Lump Crab, Maine Lobster, Lemon Basil Aioli, Calabrian Chile Vinaigrette, Capers",$30
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,HOT STARTERS,Menu,Nueske’s Bacon Steak*,"Soy Caramel, Sesame Seeds, Scallions",$19
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,HOT STARTERS,Menu,Wagyu Meatballs,"Marinara, Crème Fraîche, Basil Pesto",$20
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,HOT STARTERS,Menu,Seared Sea Scallops*,"Bacon-Wrapped, Apricot Chutney",$30
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,HOT STARTERS,Menu,Wagyu Beef Dumplings,"Sweet Chili Sauce, Scallion, Sesame Seeds",$23
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,HOT STARTERS,Menu,Oysters Rockefeller*,"Creamed Spinach, Béarnaise Sauce, Panko Breadcrumbs",$23
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,HOT STARTERS,Menu,Jumbo Lump Crab Cake,"Whole Grain Mustard Beurre Blanc, Arugula, Red Onion, Grana Padano",$25 / $47
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,HOT STARTERS,Menu,Shrimp Calabria,"Garlic-Chile Butter, Lobster Cream, Toasted Baguette",$24
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,OCEAN PLATTER,Menu,Ocean Platter,"Chef Select Oysters on the Half Shell, Cold-Water Lobster Tail, Jumbo Shrimp Cocktail, Crab Cocktail, Seared Ahi Tuna",Grand $85 | Epic $160
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,SOUPS & SALADS,Menu,Steakhouse Wedge Salad,,French Onion Soup Gratinée 530 cal $13
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,SOUPS & SALADS,Menu,Morton’s Greek Chopped Salad,,$16
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,MIDWEST BEEF,Menu,8 oz. Filet Mignon*,,$59
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,MIDWEST BEEF,Menu,12 oz. Filet Mignon*,,$69
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,MIDWEST BEEF,Menu,16 oz. Ribeye*,,$70
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,MIDWEST BEEF,Menu,16 oz. New York Strip*,,$69
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,MIDWEST BEEF,Menu,22 oz. Bone-in Ribeye*,,$79
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,BUTCHER CUTS,Menu,16 oz. Heritage Pork Chop*,,$42
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,BUTCHER CUTS,Menu,14 oz. Dry-Aged Ribeye*,,$67
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,BUTCHER CUTS,Menu,Rack of Lamb*,,$67
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,BUTCHER CUTS,Menu,16 oz. “Proprietary” Prime Cajun Ribeye*,,$70
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,WAGYU FEATURES,Menu,7 oz. Filet Mignon*,,$74
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,WAGYU FEATURES,Menu,10 oz. ‘Baseball Cut’ Top,Sirloin*,$69
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,FOR THE TABLE,Menu,36 oz. Tomahawk Ribeye*,,$144
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,FOR THE TABLE,Menu,28 oz. ‘Empire Cut’ Bone-In New York Strip*,,$125
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,ENHANCEMENTS,Menu,Blue Cheese Butter,,$6
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,ENHANCEMENTS,Menu,Garlic Butter,,$6
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,ENHANCEMENTS,Menu,Black Truffle Butter,,Caymus Butter 230 cal $8
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,ENHANCEMENTS,Menu,Béarnaise Sauce,,$3
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,ENHANCEMENTS,Menu,Rémy Martin Sauce Au Poivre,,$6
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,ENHANCEMENTS,Menu,“Oscar Style” Crab,,$16
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,ENHANCEMENTS,Menu,Whipped Horseradish Cream,,$6
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,ENHANCEMENTS,Menu,Cold-Water Lobster Tail,,$27
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,ENHANCEMENTS,Menu,Jumbo Grilled Shrimp,,$13
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,CHEF’S SELECTIONS,Menu,Chicken Christopher,"Lightly Breaded and Pan-Seared, Garlic & Shallot Beurre Blanc",$35
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,CHEF’S SELECTIONS,Menu,Cold-Water Lobster Tail,Drawn Butter,8 oz. Single $54 | Petite Twin Tails $52
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,CHEF’S SELECTIONS,Menu,Miso Glazed Sea Bass*,"Bok Choy, Shiitake Mushroom, Dashi Broth",$52
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,CHEF’S SELECTIONS,Menu,Wagyu Beef Stroganoff,"Braised Wagyu Beef Ravioli, Roasted Mushroom Stroganoff Sauce, Crème Fraîche",$47
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,CHEF’S SELECTIONS,Menu,Ora King Salmon*,"Roasted Carrots, Broccolini, Maple Bourbon Glaze",$44
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,CHEF’S SELECTIONS,Menu,Maine Lobster Ravioli,"Truffled Lobster Cream Sauce, Shiitake Mushrooms",$22 / $39
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,CHEF’S SELECTIONS,Menu,Morton’s Classic Filet Oscar* 8 oz.,"Jumbo Lump Crab, Asparagus, Béarnaise",$68
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,CHEF’S SELECTIONS,Menu,Filet Mignon* &,Lobster Tail Center-Cut Filet & Cold-Water Tail,$69
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,SIDES,Menu,Parmesan & Truffle Matchstick Fries,,$13
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,SIDES,Menu,Smoked Gouda & Bacon Au Gratin Potatoes,,$17
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,SIDES,Menu,Brussels Sprouts,,$15
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,SIDES,Menu,Loaded Baked Potato,,$13
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,SIDES,Menu,Roasted Jumbo Asparagus,,$14
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,SIDES,Menu,Charred Broccolini,,$14
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,SIDES,Menu,Thick Cut Onion Rings,,$14
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,SIDES,Menu,Creamed Spinach,,$14
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,SIDES,Menu,Sour Cream Mashed Potatoes,,Make it loaded + $4
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,SIDES,Menu,Lobster Macaroni Shells & Cheese,,$29
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,SIDES,Menu,Truffled Cream Corn,,$14
+Morton's The Steakhouse,https://www.mortons.com/location/mortons-the-steakhouse-saratoga-springs-ny/,SIDES,Menu,Sautéed Spinach & Button Mushrooms,,$13

@@ -1,0 +1,125 @@
+restaurant_name,restaurant_url,menu_name,menu_type,name,description,price
+Lake Ridge,https://www.lake-ridge.com/,appetizers and small plates,Dinner,Artichoke Spinach Dip,"A blend of four cheeses, artichokes, roasted garlic, spinach and served with crispy bread.",$17.95
+Lake Ridge,https://www.lake-ridge.com/,appetizers and small plates,Dinner,Bostonian Shrimp,âA house favoriteâ Jumbo shrimp wrapped in bacon and served with maple Dijon horseradish dipping sauce.,$19.95
+Lake Ridge,https://www.lake-ridge.com/,appetizers and small plates,Dinner,Sea Scallops & Pork Belly,âPan seared diver sea scallops topped with slow roasted pork belly finished with maple lime glaze.,$20.95
+Lake Ridge,https://www.lake-ridge.com/,appetizers and small plates,Dinner,Lobster Betty,âButter poached lobster tail served over braised greens finished with a shallot sherry cream sauce.,$22.95
+Lake Ridge,https://www.lake-ridge.com/,appetizers and small plates,Dinner,Pretzel Crusted Crab Cake & Lobster Cake,"âJumbo lump crabmeat and lobster with green onion, bell pepper, celery and our house seasoning. Served with curry mango aioli.",$19.95
+Lake Ridge,https://www.lake-ridge.com/,appetizers and small plates,Dinner,Shrimp Cocktail,âFour jumbo shrimp served with a traditional cocktail sauce.,$18.95
+Lake Ridge,https://www.lake-ridge.com/,salads,Dinner,House Salad*,"Fresh baby greens mixed with red leaf lettuce and arugula served with tomatoes, radishes and cucumber served with your choice of house dressing.",$9.95
+Lake Ridge,https://www.lake-ridge.com/,salads,Dinner,Summer Salad,"âMixed greens, cucumbers and red onion, strawberries and dried figs, blueberries topped with crumbled goat cheese. Served with a lime chipolte ranch dressing.",$10.95
+Lake Ridge,https://www.lake-ridge.com/,salads,Dinner,Chopped Salad*,"âChopped baby iceberg, Belgian endive, radicchio, red onion, tomato, candied espresso walnut, dried cranberries, avocado and tossed in garlic sesame vinaigrette.",$10.95
+Lake Ridge,https://www.lake-ridge.com/,salads,Dinner,Caesar Salad*,âHearts of romaine lettuce tossed in our own caesar dressing with flat bread croutons and shaved parmesan cheese.,$10.95
+Lake Ridge,https://www.lake-ridge.com/,entrees,Dinner,Veal Tenderloin,"Grilled veal tenderloin, sliced and finished with a mushroom brandy cream sauce.",$40.95
+Lake Ridge,https://www.lake-ridge.com/,entrees,Dinner,Herb Crusted Swordfish,"âEncrusted with fresh herbs and panko crumbs, pan seared and served with a lemon caper beurre blanc.",$38.95
+Lake Ridge,https://www.lake-ridge.com/,entrees,Dinner,Pecan Pork Chop,"âBoneless fourteen ounce pork chop encrusted in pecans, pan roasted and finished with a tart cherry demi glace.",$38.95
+Lake Ridge,https://www.lake-ridge.com/,entrees,Dinner,Greek Chicken,"Buttermilk marinated airline chicken breast pan roasted with artichokes, grape tomatoes and olives in a lemon butter sauce.",$36.95
+Lake Ridge,https://www.lake-ridge.com/,entrees,Dinner,Filet Mignon,âEight ounce filet grilled and topped with roasted shallot red wine demi glace. Also available as au poivre with bourbon peppercorn sauce.,$49.95 / $51.95
+Lake Ridge,https://www.lake-ridge.com/,entrees,Dinner,Red Curry Seafood Bolognese,"âSauteed shrimp, scallops and lump crabmeat in a red curry bolognese style sauce tossed with pappardelle pasta.",$42.95
+Lake Ridge,https://www.lake-ridge.com/,entrees,Dinner,Sauteed Veal & Crab,"âMedallions of veal sautÃ©ed with shallots, garlic, crabmeat, mushrooms and green onions in a lemon tarragon cream sauce.",$41.95
+Lake Ridge,https://www.lake-ridge.com/,entrees,Dinner,Hanger Steak Chimichurri,âGrilled marinated hanger steak (Butchers Cut) sliced and topped with roasted red peppers and a charred poblano chimichurri sauce.,$39.95
+Lake Ridge,https://www.lake-ridge.com/,entrees,Dinner,Chicken and Sausage Campanelle,"âPan seared chicken and Andouille sausage tossed with campaanelle pasta, roasted red peppers and spinach in a garlic cream sauce.",$35.95
+Lake Ridge,https://www.lake-ridge.com/,entrees,Dinner,"Goat Cheese, Walnut & Fig Crusted Salmon","âOven roasted salmon topped with goat cheese, walnuts and dried figs finished with raspberry arugula vinaigrette.",$38.95
+Lake Ridge,https://www.lake-ridge.com/,dessert,Desserts,Chocolate Walnut,âSimilar to Pecan Pie. Similar to a warm chocolate cookie. The best of both!,$10.00
+Lake Ridge,https://www.lake-ridge.com/,dessert,Desserts,Salted Carmel Cheesecake,âCreamy cheesecake on a graham cracker crust with a caramel topping and sprinkle of salt.,$12.00
+Lake Ridge,https://www.lake-ridge.com/,dessert,Desserts,Ultimate Carrot Cake,"âThis unique cake includes layers of carrot cake, french vanilla cheesecake and pineapple all under the cream cheese frosting. Garnished with chopped walnuts and toasted coconut.",$12.00
+Lake Ridge,https://www.lake-ridge.com/,dessert,Desserts,Chocolate Decedance,âA flourless dense truffle torte with Grand Marnier chocolate mousse and covered with luscious chocolate ganache.,$12.00
+Lake Ridge,https://www.lake-ridge.com/,Champagnes &Â  Sparkling Wines,Spirits,Cavazza Prosecco,Italy,$34.00
+Lake Ridge,https://www.lake-ridge.com/,Champagnes &Â  Sparkling Wines,Spirits,Marques de Caceres Brut Cave,Spain,$35.00
+Lake Ridge,https://www.lake-ridge.com/,Champagnes &Â  Sparkling Wines,Spirits,Gloria Ferrar Blanc d Blanc Sparkling Wine,"âSonoma, California",$42.00
+Lake Ridge,https://www.lake-ridge.com/,Champagnes &Â  Sparkling Wines,Spirits,Korbel Brut Rose California Champagne,California,$48.00
+Lake Ridge,https://www.lake-ridge.com/,White Wines,Spirits,Angove Nine Vines Moscato,"2021, Australia",$30.00
+Lake Ridge,https://www.lake-ridge.com/,White Wines,Spirits,Nik Weis Urban Riesling Mosel,"2020, Germany",$38.00
+Lake Ridge,https://www.lake-ridge.com/,White Wines,Spirits,Banfi La Rime Pinot Grigio,"Toscana, 2018, Italy",$38.00
+Lake Ridge,https://www.lake-ridge.com/,White Wines,Spirits,Kono Sauvignon Blanc,"â Marlbough, 2021, New Zealand",$32.00
+Lake Ridge,https://www.lake-ridge.com/,rose wines,Spirits,Daou Rose Rose,"Paso Robles, 2021, California",$38.00
+Lake Ridge,https://www.lake-ridge.com/,rose wines,Spirits,Chateau Campugent Tradition Rose,"Provence, 2020, France",$34.00
+Lake Ridge,https://www.lake-ridge.com/,red wines,Spirits,Firesteed Pinot Noir,"â2018, Oregon",$40.00
+Lake Ridge,https://www.lake-ridge.com/,red wines,Spirits,Rose Rock Pinot Noir,"âEola-Amity Hills, 2018, Oregon",$68.00
+Lake Ridge,https://www.lake-ridge.com/,red wines,Spirits,Forestville Merlot,"âSonoma Reserve, 2019. California",$32.00
+Lake Ridge,https://www.lake-ridge.com/,red wines,Spirits,Balasco Llama Old Vine Malbec,"Mendoza, 2019, Argentina",$36.00
+Lake Ridge,https://www.lake-ridge.com/,red wines,Spirits,Famille Perrin Reserve Cotes Du Rhone,"2018, France",$36.00
+Lake Ridge,https://www.lake-ridge.com/,red wines,Spirits,Horseplay Cabernet Sauvignon,"âPaso Robles, 2018, California",$50.00
+Lake Ridge,https://www.lake-ridge.com/,red wines,Spirits,Investor Red Blend Stag's Leap,"âNapa Valley, 2018, California",$95.00
+Lake Ridge,https://www.lake-ridge.com/,red wines,Spirits,Joseph Phelps Cabernet Sauvignon,"âNapa Valley, 2019, California",$135.00
+Lake Ridge,https://www.lake-ridge.com/,beer,Spirits,Heineken 00 NA,,
+Lake Ridge,https://www.lake-ridge.com/,beer,Spirits,Budweiser,,
+Lake Ridge,https://www.lake-ridge.com/,beer,Spirits,Budweiser Light,,
+Lake Ridge,https://www.lake-ridge.com/,beer,Spirits,Coors Light,,
+Lake Ridge,https://www.lake-ridge.com/,beer,Spirits,Corona Light,,
+Lake Ridge,https://www.lake-ridge.com/,beer,Spirits,Stella Artois,,
+Lake Ridge,https://www.lake-ridge.com/,beer,Spirits,Heineken,,
+Lake Ridge,https://www.lake-ridge.com/,beer,Spirits,Samuel Adams Boston Lager,,
+Lake Ridge,https://www.lake-ridge.com/,beer,Spirits,Sierra Nevada Pale Ale,,
+Lake Ridge,https://www.lake-ridge.com/,beer,Spirits,Guinness,,
+Lake Ridge,https://www.lake-ridge.com/,beer,Spirits,Founders All Day IPA,,
+Lake Ridge,https://www.lake-ridge.com/,beer,Spirits,Franziskener Weisbar,,
+Lake Ridge,https://www.lake-ridge.com/,beer,Spirits,Great Lakes Porter,,
+Lake Ridge,https://www.lake-ridge.com/,beer,Spirits,21st. Amendment Brew Free Or Die IPA,,
+Lake Ridge,https://www.lake-ridge.com/,Cocktail Specials,Spirits,Coconut Margarita,"1800 Coconut Tequila with sour mix, splash of orange liqueur, hint of lime. Shake it! Salt the rim!",
+Lake Ridge,https://www.lake-ridge.com/,Cocktail Specials,Spirits,Dark Cherry Sour,Smirnoff CherryVodka with Pama Liqueur and sour mix.,
+Lake Ridge,https://www.lake-ridge.com/,Cocktail Specials,Spirits,Titoâs Kickinâ American Mule,Titoâs Texas Vodka and Crabbieâs Ginger Beer and St. Germain with splash of lime.,
+Lake Ridge,https://www.lake-ridge.com/,Cocktail Specials,Spirits,Huckleberry Lemonade,44 North Huckleberry Vodka and lemonade.,
+Lake Ridge,https://www.lake-ridge.com/,Compari on the Rocks,Spirits,Negroni,"âEqual parts of Campari, Gin and Sweet Vermouth. Twist of lemon.",
+Lake Ridge,https://www.lake-ridge.com/,Compari on the Rocks,Spirits,Boulevardier,"Markers Mark Bourbon, Sweet Vermouth and Campari. Orange Slice.",
+Lake Ridge,https://www.lake-ridge.com/,"Martinis, Cosmopolitans & Up Drinks",Spirits,Peach Martini,"âStoli Peach Vodka, splash of apple pucker and blend of orange and cranberry juices.",
+Lake Ridge,https://www.lake-ridge.com/,"Martinis, Cosmopolitans & Up Drinks",Spirits,Maple Manhattan,âTraditional with splash of sweet vermouth and bitters. Crown Royal Whiskey.,
+Lake Ridge,https://www.lake-ridge.com/,"Martinis, Cosmopolitans & Up Drinks",Spirits,Honey Old Fashion,"âBarenjeger German Honey Bourbon muddled with orange, cherry and bitters. Served on the rocks.",
+Lake Ridge,https://www.lake-ridge.com/,"Martinis, Cosmopolitans & Up Drinks",Spirits,Espresso Martini,"âVan Gogh Espresso Vodkas, and a splash of Dark CrÃ¨me de Cocoa.",
+Lake Ridge,https://www.lake-ridge.com/,"Martinis, Cosmopolitans & Up Drinks",Spirits,Baileys Chocolate Martini,âBaileys Original Irish CrÃ¨me with Godivia Chocolate Liqueur.,
+Lake Ridge,https://www.lake-ridge.com/,"Martinis, Cosmopolitans & Up Drinks",Spirits,Mango Cosmo,âAbsolut Mango Vodka and Cranberry.,
+Lake Ridge,https://www.lake-ridge.com/,Coffee Drinks,Spirits,Mocha Coffee,Kahlua coffee liqueur and chocolate vodka.,
+Lake Ridge,https://www.lake-ridge.com/,Coffee Drinks,Spirits,Chocolate Dreams,âGodiva Dark and White Chocolate liqueur.,
+Lake Ridge,https://www.lake-ridge.com/,Coffee Drinks,Spirits,Irish Coffee,âJameson Irish Whiskey.,
+Lake Ridge,https://www.lake-ridge.com/,Coffee Drinks,Spirits,Spanish Coffee,âKorbel Brandy and Tia Maria.,
+Lake Ridge,https://www.lake-ridge.com/,Coffee Drinks,Spirits,Nutty Coffee,âAmaretto and Frangelico liqueurs.,
+Lake Ridge,https://www.lake-ridge.com/,Coffee Drinks,Spirits,Caramel Cream,"âBailey's Original Irish Cream liqueur, and Van Gogh Dutch Caramel Vodka.",
+Lake Ridge,https://www.lake-ridge.com/,whiskey,Spirits,Thomas Handy Sazerac Straight Rye,,
+Lake Ridge,https://www.lake-ridge.com/,whiskey,Spirits,Jack Daniels Single Barrel Rye,,
+Lake Ridge,https://www.lake-ridge.com/,whiskey,Spirits,Crown Royal,,
+Lake Ridge,https://www.lake-ridge.com/,whiskey,Spirits,Crown Royal Reserve,,
+Lake Ridge,https://www.lake-ridge.com/,whiskey,Spirits,Suntori Toki,,
+Lake Ridge,https://www.lake-ridge.com/,whiskey,Spirits,Tullamore Dew,,
+Lake Ridge,https://www.lake-ridge.com/,whiskey,Spirits,Jack Daniels,,
+Lake Ridge,https://www.lake-ridge.com/,whiskey,Spirits,Gentelman Jack,,
+Lake Ridge,https://www.lake-ridge.com/,whiskey,Spirits,Widow Jane Rye,,
+Lake Ridge,https://www.lake-ridge.com/,whiskey,Spirits,Builett 95 Rye,,
+Lake Ridge,https://www.lake-ridge.com/,whiskey,Spirits,Writer's Tears Copper Pot Irish,,
+Lake Ridge,https://www.lake-ridge.com/,whiskey,Spirits,Clonakilty Single Batch Irish,,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Bulleit,Bulleit,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Bulleit 10 yr,Bulleit 10 yr,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Bookers,Bookers,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Angel's Envy,Angel's Envy,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,George T. Stag,George T. Stag,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Jim Beam,Jim Beam,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Eagle Rare,Eagle Rare,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Knob Creek,Knob Creek,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Makers Mark,Makers Mark,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Woodford Reserves,Woodford Reserves,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,1972 Ridgemont Reserve,1972 Ridgemont Reserve,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Basil Hayden,Basil Hayden,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Van Pappy Old Van Winkle 10 Year,Van Pappy Old Van Winkle 10 Year,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Widow Jane,Widow Jane,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Van Pappy 12 Year,Van Pappy 12 Year,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Blanton's,Blanton's,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Van Pappy 15 Year,Van Pappy 15 Year,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Buffalo Trace,Buffalo Trace,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Van Pappy 20 Year,Van Pappy 20 Year,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Elmer T. Lee Single Barrel,Elmer T. Lee Single Barrel,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,Weller Peated Bourbon Antique 107  - Special reserve  - 12 Year,Weller Peated Bourbon Antique 107  - Special reserve  - 12 Year,
+Lake Ridge,https://www.lake-ridge.com/,Bourbons,Spirits,George T. Stagg Straight Bourbon,George T. Stagg Straight Bourbon,
+Lake Ridge,https://www.lake-ridge.com/,Blended Scotch,Spirits,Chivas,Chivas,
+Lake Ridge,https://www.lake-ridge.com/,Blended Scotch,Spirits,Dewars,Dewars,
+Lake Ridge,https://www.lake-ridge.com/,Blended Scotch,Spirits,Compass Box Asyla,Compass Box Asyla,
+Lake Ridge,https://www.lake-ridge.com/,Blended Scotch,Spirits,Johnny Walker Red,Johnny Walker Red,
+Lake Ridge,https://www.lake-ridge.com/,Blended Scotch,Spirits,Compass Box Great King Street,Compass Box Great King Street,
+Lake Ridge,https://www.lake-ridge.com/,Blended Scotch,Spirits,Johnny Walker Black,Johnny Walker Black,
+Lake Ridge,https://www.lake-ridge.com/,Single Malt Scotch,Spirits,Macallan,Macallan $12.00,$12.00
+Lake Ridge,https://www.lake-ridge.com/,Single Malt Scotch,Spirits,Glenlivet,Glenlivet $12.00,$12.00
+Lake Ridge,https://www.lake-ridge.com/,Single Malt Scotch,Spirits,Balvenie Double Wood,Balvenie Double Wood $12.00,$12.00
+Lake Ridge,https://www.lake-ridge.com/,Single Malt Scotch,Spirits,Oban,Oban â$14.00,$14.00
+Lake Ridge,https://www.lake-ridge.com/,Single Malt Scotch,Spirits,Talisker,Talisker â$10.00,$10.00
+Lake Ridge,https://www.lake-ridge.com/,Single Malt Scotch,Spirits,Lagavulin,Lagavulin â$16.00,$16.00
+Lake Ridge,https://www.lake-ridge.com/,Single Malt Scotch,Spirits,Ardberg,Ardberg â$10.00,$10.00
+Lake Ridge,https://www.lake-ridge.com/,Single Malt Scotch,Spirits,Laphroaig,Laphroaig,
+Lake Ridge,https://www.lake-ridge.com/,Single Malt Scotch,Spirits,Glenmorangie 10 Yr Original,Glenmorangie 10 Yr Original,
+Lake Ridge,https://www.lake-ridge.com/,Single Malt Scotch,Spirits,Glenmorangie Nectar D Or,Glenmorangie Nectar D Or,

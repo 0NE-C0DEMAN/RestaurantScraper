@@ -1,0 +1,95 @@
+restaurant_name,restaurant_url,menu_name,menu_type,name,description,price
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Coffee,Drip,,$1.75
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Coffee,Cold brew,,$3.50
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Coffee,Pour over,,$3.50
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Flavors,Vanilla,,+35¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Flavors,Hazelnut,,+35¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Flavors,Lavender,,+35¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Flavors,White Chocolate,,+35¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Flavors,Peppermint,,+35¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Flavors,Mocha,,+35¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Flavors,Caramel,,+35¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Flavors,Coconut,,+35¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Flavors,Wildflower honey,,+35¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Flavors,Mango Honey,,+35¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Flavors,Nutella,,+35¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Flavors,Pistachio,,+35¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Flavors,Caramel Apple Butter,,+35¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Flavors,Local Maple Syrup,,+55¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Espresso,Espresso,,$2.75
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Espresso,Flat White,,$4.00
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Espresso,Latte,,$4.00
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Espresso,Cappuccino,,$4.00
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Espresso,Cortado,,$3.50
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Espresso,Red Eye,,$3.75
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Espresso,Americano,,$3.25
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Espresso,Macchiato (traditional),,$3.50
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Espresso,Breve,,$4.25
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Espresso,Cafe Au Lait,(All pricing starts at 8oz & increases by 25¢ each size),$3.00
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,SEASONAL Specials,Peppermint Mocha,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,SEASONAL Specials,Pine & Rosemary*,(house made),
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,SEASONAL Specials,Eggnog Latte,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,Sourdough,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,Plain Bagel,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,Everything Bagel,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,English Muffin,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,Ciabatta,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,Croissant,(+$2.50),
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,Bacon,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,Sausage (pork),,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,Chorizo (pork),,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,Steak,(+$1),
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,Ham,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,American,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,Cheddar,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,Pepper Jack,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,Swiss,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Sandwich,Mozzarella,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Breakfast,At The Steak,"Scrambled eggs, shaved steak, peppers & onions, swiss cheese & chipotle aioli served on ciabatta",$10
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Breakfast,Avocado Toast,Freshly mashed avocado with a Himalayan garlic salt & pepper served on sourdough bread,$5.45
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Breakfast,Ham & Swiss Croissant,Thick cut ham & swiss cheese served on a sourdough croissant,$7.25
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Breakfast,Sasquatch,"Two fried eggs, bacon, ham, sausage, cheddar cheese & your choice of bread",$10
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Breakfast,The Kickstarter (Plated),"Two eggs of your choice, Meat of your choice & Sourdough toast",$9
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Breakfast,Chorizo Tacos (Three tacos),"Scrambled eggs, cheddar cheese, pork chorizo sausage & lime crema served on a flour tortilla",$9.50
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Breakfast,Pesto Besto,"Fried egg, Spinach, Mozzarella cheese with a pesto spread served on ciabatta",$7.50
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Breakfast,Honey Bucket,"Scrambled egg, Cream cheese, Avocado, Arugula & hot honey served on an English muffin",$7.75
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Lunch,Classic BLT,It's a BLT...Yes it has mayo.,$10
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Lunch,LET IT BRIE,"Bacon, brie cheese, arugula, apple slices & habanero honey mustard served on ciabatta",$9.75
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Lunch,DONT GIVE A HAM,"Ham, mozzarella cheese, roasted red peppers, spinach & pesto mayo served on ciabatta",$9.50
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Lunch,AVOCADO BUFFALO CHICKEN MELT,"Buffalo chicken, avocado & cheddar cheese served on ciabatta",$9.75
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Lunch,BUFFALO CHICKEN WRAP,"Buffalo chicken, shredded lettuce, cheddar cheese & your choice of blue cheese or ranch",$9.25
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Burrito or Bowl,Bacon,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Burrito or Bowl,Sausage (pork),,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Burrito or Bowl,Chorizo (pork),,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Burrito or Bowl,Steak,(+$1),
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Burrito or Bowl,Ham,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Burrito or Bowl,American,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Burrito or Bowl,Cheddar,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Burrito or Bowl,Pepper Jack,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Burrito or Bowl,Swiss,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Build Your Own Breakfast Burrito or Bowl,Mozzarella,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Add Ons,Hash brown,,$1
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Add Ons,Avocado,,$1
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Add Ons,Peppers & Onions,,75¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Add Ons,Hot honey,,50¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Add Ons,Tomato,,75c
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Add Ons,Spinach,,75¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Add Ons,Arugula,,75¢
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Add Ons,Salsa,,
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Special,The Sleighwich,"Sausage, scrammbled egg, white cheddar, arugula & cranberry-sage aioli served on ciabatta",
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Teas,SPA CITY EARL GREY,"(Black tea, bergamot & vanilla)",$3.25
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Teas,CRIMSON BERRY,"(Currant, Cranberry, Hibiscus & Elderberry)",$3.25
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Teas,BLOOD ORANGE HIBISCUS,"(Orange zest, Hibiscus, lemongrass, elderberry, apple & rooibos)",$3.25
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Teas,WOOD DRAGON,(Oolong & maple),$3.25
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Teas,CHINA GREEN JADE,(Green tea),$3.25
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Teas,ENGLISH BREAKFAST,(Black tea),$3.25
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Teas,FOCUS POCUS,"(Ashwagandha, tulsi, brahmin & yerba mate)",$3.25
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Teas,FLU SHOT,"(Lemon peel, ginger, lemongrass, verbena, turmeric & sarsaparilla)",$3.25
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Teas,YADDO ROSE GARDEN,"(White tea, rose petals, mint & lavender)",$3.25
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Other,Matcha Latte,,$4.35
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Other,London Fog,,$3.75
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Other,Chai Latte,,$3.85
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Other,Dirty Chai Latte,,$4.35
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Other,Hot Chocolate,,$3.25
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Other,Steamer,(Choice of flavor),$2.90
+Kickstart Coffee Company,https://kickstartcoffeecompany.com/,Menu,Special,Eggnog Chai Latte,,

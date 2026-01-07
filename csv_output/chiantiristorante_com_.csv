@@ -1,0 +1,242 @@
+restaurant_name,restaurant_url,menu_name,menu_type,name,description,price
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Insalate,Lattughella,"Boston lettuce, Gorgonzola, crispy prosciutto, white balsamic vinaigrette",$16.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Insalate,Cesare,"Wedged romaine, house-crafted Cesare dressing, crostini crumble, Grana Padano",$15.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Insalate,Romana Cacio e Pepe,"Romaine heart, sliced Grana Padano & pecorino cheese, cracked black pepper, white balsamic vinaigrette",$15.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Insalate,Rucola Carciofi e Grana,"Grilled artichokes, crisp arugula dressed with olive oil and lemon, shaved Grana Padano",$16.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Insalate,Erbe Amare,"Veronese & Castelfranco radicchio, arugula, ricotta salata, citrus vinaigrette",$14.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Antipasti,Bruschetta Contadina,"Grilled and toasted housemade ciabatta bread topped with smashed oven roasted tomatoes, shaved Grana Padano",$16.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Antipasti,Calamaretti Fritti,"Fried calamari, delicately spiced tomato sauce",$18.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Antipasti,Gamberoni Al Lardo Croccante,"Pan-seared shrimp wrapped with crispy pancetta, cannellini beans, salmoriglio",$22.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Antipasti,Zuppa Di Pesce,"Assorted seafood, delicately spiced tomato broth",$28.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Antipasti,B&B,"Whipped burrata, slow roasted beets, cilantro pesto, toasted salted pepitas",$19.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Antipasti,Ital-Korean BBQ,"Chianti's own Bulgogi-style marinated beef, a la plancha, grilled polenta",$23.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Antipasti,Bufala Caprese,"Imported mozzarella di bufala, heirloom tomatoes, prosciutto, basil oil",$24.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Antipasti,"Scarola, Alici e Fagioli","Sautéed escarole, garlic and oil, gently salted Italian anchovies, cannellini beans, crostoni",$18.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Carpacci,Classico,"Thinly sliced filet, Grana Padano, arugula, lemon, capers",$22.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Carpacci,Del Chianti,"Thinly sliced filet, Gorgonzola fondue, truffle oil",$22.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Carpacci,Michelangelo,"Thinly sliced pepper crusted filet over arugula, goat cheese, truffle salt",$24.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Carpacci,Grande,"Sharing portion, choose from Del Chianti or Classico",$32.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Pasta,Capellini Alla Checca,"Angel hair, garlic, diced tomatoes, basil, olive oil",$24.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Pasta,Mezzanine Alla Vodka,"Penne, fresh tarragon, prosciutto, vodka pink sauce",$23.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Pasta,Penne Senesi,"Penne, sautéed spinach ""aglio e olio"", Gorgonzola, crushed red pepper flakes, breadcrumbs, toasted almonds",$24.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Pasta,Spaghetti Oro di Cabras,"Artisanal spaghetti, sautéed scallops, baby clams, white wine, garlic, and oil, a touch of spice, and ""bottarga ""seasoning",$35.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Pasta,Capellini Salsa Aragosta,"Angel hair, shrimp, lobster grappa reduction, touch of cream",$28.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Pasta,Orecchiette alla Norma,"Orechiette, sautéed eggplant, sausage, mozzarella, crushed tomato",$26.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Pasta,Spaghetti Ai Frutti Di Mare,"Thin spaghetti, assorted seafood, olive oil, garlic, lightly spiced tomato sauce",$36.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Pasta,Ragu Porchettato,"Orecchiette, handcut pork shoulder and guanciale ragu, pecorino",$26.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Pasta,Paccheri Calabrese,"Artisanal crafted Paccheri noodles, house-made sausage, spicy Calabrian 'nduja, burrata, tomato",$29.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Pasta,Tagliatelle Bolognese,"House-made fettucine, beef bolognese ragù",$26.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Pasta,Tomarelli Cacio e Pepe,"House-made spaghetti, pecorino and Grana Padano fondue, black pepper",$25.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Risotto,Risotto Amarone,"Seared scallops, Veronese style, red wine, Grana Padano, shallots, crispy prosciutto",$29.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Risotto,Risotto Con Funghi,"Medley of oyster, porcini, honey mushrooms ""Trifolati,"" Grana Padano",$28.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Risotto,Risotto De'Medici,"Filet mignon bites, truffle oil, Grana Padano, rosemary",$29.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Secondi,Filetto,Served with a seasonal selection of accompaniments,$55.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Secondi,Filetto,"Beef tenderloin, choice of brandied green peppercorn sauce or gorgonzola fondue",$55.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Secondi,Magretto All' Amarena,"Roasted Hudson Valley duck breast,amarena and chianti glaze",$43.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Secondi,Biancostato Savoia,"Braised boneless beef short rib, mirepoix, red wine, Italian herbs, served with polenta & vegetable of the day",$43.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Secondi,Maialino Casereccio,"Center-cut pork tenderloin, pan-roasted, coated with butcher spices, rosemary, sage, garlic, nutmeg, white wine glaze",$38.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Secondi,Costolette di Agnello,"Colorado lamb chops, balsamic shallots agrodolce",$52.00
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Secondi,Pesce Del Giorno,Fresh catch of the day,M. P.
+Chianti Ristorante,https://chiantiristorante.com/,Dinner,Secondi,Dry-Aged Chianti Select,Chianti's dry-aged steaks. Check with your server for availability,M. P.
+Chianti Ristorante,https://chiantiristorante.com/,Bar,The Classics,Negroni,"Gin, Carpano Antica Vermouth, Orange Wheel, Dash of Bitters",$14.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,The Classics,Aperol Spritz,"Aperol, Lamberti Prosecco, Orange Wheel",$14.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,The Classics,The Spicy Marg,"Cucumber Jalapeno Tequila, Lime Juice, Agave, Ancho Reyes Liqueur, Ginger Beer, Lime",$15.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,The Classics,The Espresso Martini,"Espresso Vodka, Vanilla Vodka, Coffee Liqueur, Chocolate Liqueur, Fresh Espresso",$16.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,The Classics,Bold Fashioned,"Bulliet Bourbon, Amarena Cherry, Simple Syrup, Bitters, Orange Peel",$16.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,Champagne Cocktails,Limon Spritz,"Limoncello, Prosecco, Lemon Twist",$15.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,Champagne Cocktails,Il Hugo,"Gin, Elderflower Liqueur, Prosecco, Mint",$15.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,Specialty Cocktails,Holiday Punch,"Orange Vodka, Cabernet, Dark Cherry Juice, Simple Syrup",$14.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,Specialty Cocktails,Sweet & Smokey,"Mezcal, Cointreau, Orange Bitters, Dark Cherry Juice",$16.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,Specialty Cocktails,Spiced Fashioned,"Redemption Bourbon, Orange Bitters, Gingerbread Syrup",$16.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,Specialty Cocktails,Poma-Tini,"Vodka, Pomegranate Liqueur, Orange Liqueur, Lemon Twist",$15.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,Specialty Cocktails,Gingernog Martini,"Captain Morgan, Vanilla Vodka, Irish Cream, Gingerbread Syrup",$15.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,Specialty Cocktails,Snowed In,"Coconut Rum, White Chocolate Liqueur, Coconut Cream, Pineapple Juice",$14.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,Specialty Cocktails,Arctic Bloom,"Empress Elderflower Rose Gin, White Cranberry Juice, Simple Syrup, Prosecco",$15.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,Specialty Cocktails,Italian Paloma,"21 Seeds Grapefruit Hibiscus Tequila, Aperol, Pineapple Juice, Club Soda",$14.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,Specialty Cocktails,Spiked Apple Pie,"Crown Royal Apple, Lemon Sweet & Sour, Cinnamon Sugar Rim",$16.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,Mocktails,Cherry Citrus Frost,"Dark Cherry Juice, Orange Juice, Choice of: Club Soda or Sprite",$8.00
+Chianti Ristorante,https://chiantiristorante.com/,Bar,Mocktails,Ivory Ginger Spark,"White Cranberry Juice, Ginger Beer, Lime Juice",$8.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bar Insalata,Lattughella,"Boston lettuce, white balsamic vinaigrette, crumbled gorgonzola, crispy prosciutto",$10.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bar Insalata,Romana Cacio e Pepe,"Romaine heart, sliced Grana Padano & pecorino cheese, cracked black pepper, white balsamic vinaigrette",$10.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bar Carpaccio,Carpaccio Del Chianti,"Thinly sliced filet, gorgonzola fondue, truffle oil",$11.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bar Carpaccio,Carpaccio Classico,"Thinly sliced filet, Grana Padano, arugula, lemon, capers",$11.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bar Stuzzichini,IL Canto Del Gallo,"Braised short rib tips, baked egg sunny side up, cayenne & roasted garlic aioli",$10.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bar Stuzzichini,Maialino Scotatto,"Bites of pork tenderloin, marinated in olive oil, paprika, garlic, lemon, dash of cayenne, canellini beans",$12.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bar Stuzzichini,Mezzo Calamari,"Calamari rings and tentacles, spicy marinara, lemon",$12.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bar Stuzzichini,Bistecchina,"4oz NY Strip Steak, red wine, shallots, braised Turkish figs",$13.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bar Stuzzichini,Pizza Fritta Montanara,"Neapolitan traditional fried pizza, pomodoro, burrata",$8.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bar Stuzzichini,Chianti Street Tacos,"(2) Hand-made heirloom blue corn tortillas, braised short rib, poblano-tomatillo salsa, radicchio Chiffonade, ricotta salata",$10.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bar Pasta,Mezzanine Alla Vodka,"Penne, fresh tarragon, prosciutto, pink sauce",$12.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bar Pasta,Spaghetti Al Pomodoro,"Thin spaghetti, crushed tomato sauce, basil",$12.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bar Pasta,Spaghetti Bolognese,"Thin spaghetti, filet bolognese sauce",$13.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Vini,Fetzer Chardonnay,,$7.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Vini,Melini Chianti,,$7.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Vini,Ca'Donini Pinot Grigio,,$7.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Vini,Ca'Donini Cabernet Sauvignon,,$7.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bevande,Cosmpolitan,"Vodka, triple sec, splash of cranberry juice",$10.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bevande,Margarita,"Tequila, cointreau, lime, agave, salted rim",$10.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bevande,Aperol Spritz,"Aperol, prosecco, oranges wheel, skewered olives",$10.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bevande,Raspberry Lemon Drop,"Raspberry Vodka, Chambord, Lemon Juice",$10.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bevande,Negroni,"Gin, Campari, Antica Vermouth, orange wheel, dash of bitters",$11.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bevande,Crisp Orchard Sangria,"Raspberry Vodka, Chambord, Lemon Juice",$10.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Bevande,Spiked Apple Pie,"Crown Royal Apple, Lemon Sweet & Sour, Cinnamon Sugar Rim",$10.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Birra,Seasonal IPA,Ask your server or bartender about our current beer selection,$6.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Birra,Seasonal IPA,Rotating seasonal IPA draft,$6.00
+Chianti Ristorante,https://chiantiristorante.com/,Aperitivo,Birra,RicharDZ Brew,"Beer with a purpose. A West Coast IPA, pale and bright with intense aromatics and hop flavor, brewed in collaboration with Wolf Hollow Brewing Company. Proceeds from this beer will benefit the Richard Bambara Memorial Fund at Albany Med",$6.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Antipasti E Insalate,Italiana Moderna,"House-made blend of arugula, radicchio, roasted quinoa, lemon juice, olive oil, shaved Ricotta Salata",$60.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Antipasti E Insalate,Lattughella,"Boston lettuce, gorgonzola, crispy prosciutto, white balsamic vinaigrette",$65.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Antipasti E Insalate,Bruschetta Contadina,"Grilled and toasted housemade ciabatta bread topped with smashed oven roasted tomatoes, shaved Grana Padano",$60.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Antipasti E Insalate,Gamberoni Al Lardo Croccante,"Pan-seared shrimp wrapped with crispy pancetta, cannellini beans, salmoriglio",$85.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Primi E Secondi,Mezzanine Alla Vodka,"Penne, fresh tarragon, prosciutto, vodka pink sauce",$85.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Primi E Secondi,Orecchiette Alla Norma,"Penne, sautéed eggplant, sausage, mozzarella, crushed tomato",$85.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Primi E Secondi,Penne Pomodoro,"Penne, crushed tomato, basil rustic sauce",$75.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Primi E Secondi,Bolognese,"Orecchiette, filet bolognese sauce",$90.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Primi E Secondi,Penne Senesi,"Penne, wilted spinach ""aglio e olio"", gorgonzola, crushed red pepper flakes, breadcrumbs, toasted almonds",$80.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Primi E Secondi,Penne Alla Checca,"Penne, garlic, roasted cherry tomatoes, basil, olive oil",$75.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Primi E Secondi,Chicken Limone,"Roasted lemon chicken, rosemary, shallots",$90.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Primi E Secondi,Ragu Porchettato,"Orecchiette, hand-cut pork shoulder and guanciale ragu, pecorino",$90.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Primi E Secondi,Penne Aragosta,"Penne, shrimp in a lobster grappa reduction, touch of cream",$115.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Primi E Secondi,Filetto,"Beef tenderloin, choice of brandied green peppercorn sauce or gorgonzola fondue",MP
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Primi E Secondi,Pesce Del Giorni,Fish of the day,MP
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Sides,Patate Del Giorno,Potato of the day,$50.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Sides,Vegetali Del Giorno,Vegetables of the day,$50.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Dolci,Tiramisu,Artisanal prepped tiramisu,$60.00
+Chianti Ristorante,https://chiantiristorante.com/,DZ at Home,Dolci,Profitteroles Al Cioccolato,Puff pastry filled with vanilla cream covered in chocolate ganache,$60.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Piemonte,"'20 Dolcetto D'Alba, Pertinace",Bin 151,$42.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Piemonte,"'22 Nebbiolo, Podere Ruggeri Corsini",Bin 160,$52.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Piemonte,"'21 Barbera D'Alba, Podere Ruggeri Corsini ""Armujan""",Bin 162,$65.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Piemonte,"'19 Barolo, Gianni Gagliardo",Bin 164,$125.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Piemonte,"'20 Barbaresco, Pertinace",Bin 165,$94.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Piemonte,"'21 Barolo, Podere Ruggeri Corsini, ""San Pietro""",Bin 170,$105.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Piemonte,"'20 Barolo, Podere Ruggeri Corsini ""Bussia""",Bin 172,$130.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Piemonte,"'19 Barolo, Pio Cesare",Bin 180,$180.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Piemonte,"'21 Barbera Del Monferrato ""Maraia""",Bin 185,$45.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Veneto,"'19 Valpolicella Ripasso, Santi Solane",Bin 202,$45.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Veneto,"'20 Valpolicella Superiore, Santi Ventale",Bin 203,$48.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Veneto,"'19 Amarone della Valpolicella, Santi ""Santico""",Bin 210,$92.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Veneto,"'19 Orzada ""Odfjell"", Chile",Bin 213,$50.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Veneto,"'16 Amarone Sartori ""Corte Bra""",Bin 220,$120.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Veneto,"'19 Amarone Masi ""Costasera""",Bin 224,$130.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Chianti,"'19 Classico, Calvo",Bin 250,$39.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Chianti,"'22 Superiore, Antinori ""Santa Cristina""",Bin 253,$42.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Chianti,"'23 Superiore, Ruffino",Bin 254,$48.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Chianti,"'21 Classico, Poderi Melini ""Granaio Vineyard""",Bin 261,$50.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Chianti,"'21 Classico Riserva, Tenuta Di Nozzole",Bin 268,$58.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Chianti,"'19 Classico, Fattorie Melini ""La Selvanella""",Bin 270,$68.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Chianti,"'20 Classico Riserva, Tenuta Di Monsanto",Bin 275,$70.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Chianti,"'19 Classico Riserva Ruffino ""Ducale Gold""",Bin 284,$110.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'23 Rosso, Fattoria dei Barbi",Bin 300,$64.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'23 Rosso, Castello Banfi",Bin 304,$60.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'22 Rosso, Il Poggione",Bin 313,$75.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'18 Brunello, Le Chiuse",Bin 317,$195.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'19 Brunello, Fattoria dei Barbi",Bin 318,$145.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'19 Brunello, Castello Banfi",Bin 322,$175.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'18 Brunello, Castelgiocondo",Bin 323,$170.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'17 Brunello, Il Poggione",Bin 324,$180.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'18 Brunello, Il Poggione",Bin 326,$190.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'19 Brunello, Il Poggione",Bin 327,$190.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'10 Brunello, Renieri Invetro",Bin 800,$250.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'10 Brunello, Argiano",Bin 802,$300.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'10 Brunello, Il Poggione",Bin 803,$280.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'10 Brunello, Le Chiuse",Bin 804,$330.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'10 Brunello, Castello Banfi",Bin 805,$110.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Montalcino,"'18 Brunello, Argiano",Bin 808,$185.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Marchesi di Barolo Collection,'14 Barolo Del Comune di Barolo,Bin 441,$140.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Marchesi di Barolo Collection,'16 Barolo Del Comune di Barolo,Bin 443,$160.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Marchesi di Barolo Collection,'18/'20 Marchesi Di Barolo Tradizione,Bin 166,$125.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Trentino,"'21 Pinot Nero Glener, Castelfeder, Alto Adige",Bin 244,$71.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Abruzzo,"'22 Montepulciano, Arché",Bin 336,$42.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Abruzzo,"'22 Montepulciano, Barone ""Cornacchia""",Bin 338,$42.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'19 Renieri Invetro,Bin 360,$48.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'20 Castello di Monsanto Monrosso,Bin 362,$48.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'21 La Mozza I Perazzi Sangiovese,Bin 363,$49.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'20 Sempre Ricordare Due Uve,Bin 365,$68.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'21 Querciabella Mongrana,Bin 367,$66.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'21 Castello Banfi Cum Laude,Bin 368,$95.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'15 Lanciola Terricci,Bin 370,$110.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,"'21 Tenuta di Biserno ""Il Pino di Biserno""",Bin 372,$120.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'19 Castello Banfi Summus,Bin 373,$140.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'17 Tenuta San Guido Sassicaia,Bin 385,$400.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'18 Tenuta San Guido Sassicaia,Bin 387,$410.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'19 Tenuta San Guido Sassicaia,Bin 389,$425.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'20 Tenuta San Guido Sassicaia,Bin 390,$425.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'21 Tenuta San Guido Sassicaia,Bin 391,$450.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'98 Ornellaia,Bin 392,$600.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'97 Solaia Marchesi Antinori,Bin 394,$700.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'22 Tignanello,Bin 397,$330.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Toscana,'22 Tenuta San Guido Sassicaia,Bin 398,$440.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Puglia,"'23 Primitivo, Castello Monaci ""Piluna""",Bin 400,$45.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Sardegna,"'22 Cannonau, Pedres",Bin 407,$44.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Sardegna,"'17 Red Blend, Agricola Punica ""Barrua""",Bin 408,$95.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Sicilia,"'20 Syrah, Rapitala ""Nadir""",Bin 409,$45.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Sicilia,"'23 Nero D'Avola, Rapitala ""Alto Reale""",Bin 410,$50.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Sicilia,"'22 Etna Rosso, Monteleone",Bin 411,$62.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Angelo Gaja Collection,"'13 Sori' Tildin, Piemonte",Bin 434,$950.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Angelo Gaja Collection,"'14 Sori' San Lorenzo, Piemonte",Bin 435,"$1,000.00"
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Pinot Noir,"'21 MacMurray, Central Coast, CA",Bin 652,$49.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Pinot Noir,"'22 Black Magnolia, Willamette Valley, OR",Bin 653,$53.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Pinot Noir,"'21 Laetitia Estate, Santa Barbara County, CA",Bin 654,$53.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Pinot Noir,"'23 Hess ""Shirtail Ranches,"" Central Coast, CA",Bin 655,$54.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Pinot Noir,"'23 J. Lohr ""Fog's Reach,"" Arroyo Seco, CA",Bin 662,$70.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Pinot Noir,"'22 Bethel Heights, Eola-Amily Hills, OR",Bin 672,$99.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Pinot Noir,"'20 Las Alturas ""Belle Glos,"" Monterey, CA",Bin 674,$105.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Pinot Noir,"'22 Merry Edwards, Russian River Valley, CA",Bin 675,$130.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Pinot Noir,"'21 Lavinea, Eola-Amily Hills, OR",Bin 677,$100.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Malbec,"'22 Belasco Llama ""Old Vine,"" Agrelo, Argentina",Bin 504,$39.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Malbec,"'24 Cuma ""Organic,"" Salta, Argentina",Bin 506,$38.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Malbec,"'22 Terrazas ""Reserva,"" Mendoza, Argentina",Bin 507,$56.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Blends / Meritage,"'22 Hess ""Lion Tamer,"" Napa, CA",Bin 478,$95.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Blends / Meritage,"'21 Orin Swift ""Papillon,"" Napa, CA",Bin 479,$165.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Blends / Meritage,"'15 Boyanci, Napa, CA",Bin 481,$140.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Blends / Meritage,"'21 Bordeaux Blend, Dominus ""Napanook,"" Napa, CA",Bin 482,$210.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Spain,"'94 Red Blend, Vega Sicilia ""Unico,"" Ribera del Duero",Bin 463,$500.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,France,"'23 Beaujolais Villages, Louis Jadot, Burgundy",Bin 465,$46.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,France,"'22 Moulin A-Vent, Chateau St. Jacques, Burgundy",Bin 467,$70.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,France,"'20 Gevrey Chambertin, Dom Faiveley, Burgundy",Bin 470,$135.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,France,"'17 Domaine Faiveley Pommard 1er Cru, Les Rugiens Burgundy",Bin 471,$280.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,France,"'15 Pauillac, Chateau Lynch Bages, Bordeaux",Bin 476,$300.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'22 Twenty Rows, North Coast, CA",Bin 558,$54.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'22 Hess ""Allomi,"" Napa, CA",Bin 562,$85.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'21 The Calling, Alexander Valley, CA",Bin 564,$75.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'21 Robert Mondavi, Napa, CA",Bin 575,$96.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'19 Ellman ""Jemma"", Napa, CA",Bin 580,$480.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'21 Sequoia Grove, Napa, CA",Bin 590,$120.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'19 O'Shaughnessy, Napa, CA",Bin 595,$180.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'22 Frank Family, Napa, CA",Bin 600,$128.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'21 Heitz Cellar, Napa, CA",Bin 612,$150.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'21 Cakebread, Napa, CA",Bin 618,$165.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'22 Caymus, Napa, CA",Bin 619,$210.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'21 Chimney Rock, Napa, CA",Bin 620,$230.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'17 Melka, Napa, CA",Bin 624,$150.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'22 Nickel & Nickel ""Branding Iron,"" Oakville, CA",Bin 628,$210.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'21 Cade, Napa, CA",Bin 633,$275.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'21 PlumpJack, Napa, CA",Bin 637,$300.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'15 La Sirena, Napa, CA",Bin 639,$280.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'19 Robert Craig ""Howell Mountain,"" Napa, CA",Bin 641,$230.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'18 Patrimony, Paso Robles, CA",Bin 644,$425.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'19 PlumpJack, Napa, CA",Bin 647,$320.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'06 Shafer ""Hillside Select,"" Stag Leap, CA",Bin 648,$375.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'21 Monte Bello, Santa Cruz CA",Bin 649,$440.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Cabernet Sauvignon,"'07 Lewis Cellars, Napa, CA",Bin 650,$200.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Other Reds,"'21 Zinfandel, The Federalist, Lodi, CA",Bin 684,$42.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Other Reds,"'22 Zinfandel, Baca ""Double Dutch,"" Paso Robles, CA",Bin 688,$70.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Other Reds,"'19 Merlot, Kunde, Sonoma Valley, CA",Bin 704,$48.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Other Reds,"'19 Merlot, Chateau St. Michelle, ""Indian Wells,"" Woodinville, WA",Bin 705,$56.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Other Reds,"'21 Merlot, Cakebread, Napa, CA",Bin 736,$135.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Other Reds,"'20 Syrah, Montes Alpha, Colchagua, Chile",Bin 755,$58.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,The Montelena Estate,"'08 Chateau Montelena, Napa, CA",Cabernet Sauvignon,$200.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,The Montelena Estate,"'08 Chateau Montelena, Napa, CA",Bin 900,$200.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,The Montelena Estate,"'09 Chateau Montelena, Napa, CA",Bin 901,$200.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,The Montelena Estate,"'10 Chateau Montelena, Napa, CA",Bin 902,$200.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,The Montelena Estate,"'11 Chateau Montelena, Napa, CA",Bin 903,$200.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Opus One Collection,"'01 Opus One, Napa, CA",Cabernet Sauvignon,$485.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Opus One Collection,"'01 Opus One, Napa, CA",Bin 810,$485.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Opus One Collection,"'05 Opus One, Napa, CA",Bin 814,$420.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Joseph Phelps Collection,"'02 Joseph Phelps ""Insignia,"" Napa, CA",Cabernet Sauvignon,$530.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Joseph Phelps Collection,"'02 Joseph Phelps ""Insignia,"" Napa, CA",Bin 818,$530.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Joseph Phelps Collection,"'07 Joseph Phelps ""Insignia,"" Napa, CA",Bin 820,$600.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Joseph Phelps Collection,"'08 Joseph Phelps ""Insignia,"" Napa, CA",Bin 822,$500.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Larkmead Collection,"'08 Larkmead, Napa, CA",Cabernet Sauvignon,$240.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Larkmead Collection,"'08 Larkmead, Napa, CA",Bin 832,$240.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Larkmead Collection,"'08 Larkmead ""Firebelle,"" Napa, CA",Bin 834,$240.00
+Chianti Ristorante,https://chiantiristorante.com/,Wine,Larkmead Collection,"'09 Larkmead, Napa, CA",Bin 836,$240.00

@@ -1,0 +1,193 @@
+restaurant_name,restaurant_url,menu_name,menu_type,section,name,description,price
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,In House,,BRUSCHETTA,"TOMATO, RED ONION, BASIL, BALSAMIC",$11.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,In House,,CALAMARI,OLD SCHOOL OR SPICY ARRABBIATA,$18.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,In House,,BAKED CLAMS,"BREAD CRUMBS, LEMON",$17.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,In House,,EGGPLANT ROLLATINI,"RICOTTA AND SPINACH STUFFING, TOMATO SAUCE, MELTED MOZZARELLA",$16.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,In House,,ZUPPA DI CLAMS OR MUSSELS,"WHITE WINE & GARLIC OR LIGHT TOMATO SAUCE, HOUSEMADE BREAD BOWL",$19.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,In House,,MEATBALL SLIDERS,"CLASSIC ITALIAN MEATBALLS, HOUSEMADE BREAD",$12.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,In House,,CRISPY ZUCCHINI STICKS,WITH LEMON WEDGES,$11.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,In House,,CRISPY MOZZARELLA,WITH VODKA AND TOMATO SAUCE,$16.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,In House,,CAPRESE,"FRESH MOZZARELLA, HEIRLOOM TOMATOES, BASIL, BALSAMIC",$15.75
+Nové Italian Restaurant,http://www.novesaratoga.com/,salads,In House,,JUNE,"ICEBERG, TOMATO, RED ONION, PEPPERS, OLIVES, RED WINE VINEGAR VINAIGRETTE",$13.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,salads,In House,,CHOPPED,"JUNE SALAD, CHOPPED",$14.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,salads,In House,,CAESAR,"ROMAINE, PARMIGIANO, HOUSEMADE CROUTONS, CAESAR DRESSING",$15.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,salads,In House,,MISTO,"MIXED GREENS, SLICED APPLE, CANDIED WALNUTS, GORGONZOLA, RASPBERRY VINAIGRETTE",$16.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,salads,In House,,ARUGULA,"SHAVED PARMIGIANO REGGIANO, HEIRLOOM TOMATOES, CITRUS VINAIGRETTE. Add-ons: ADD CHICKEN $7.95 / ADD THREE U-10 SHRIMP $10.95",$17.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,In House,,RIGATONI ROMANO,"CRUMBLED SWEET ITALIAN SAUSAGE, PINK SAUCE",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,In House,,PAPPARDELLE BOLOGNESE,"TOMATO, MEAT SAUCE",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,In House,,PENNE VODKA,"TOMATO SAUCE, PROSCIUTTO, CREAM, VODKA",$26.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,In House,,SPICY RIGATONI VODKA,"TOMATO SAUCE, PROSCIUTTO, CREAM, VODKA, CALABRIAN CHILI PASTE",$26.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,In House,,SPAGHETTI & MEATBALLS,"CLASSIC ITALIAN MEATBALLS, RED SAUCE",$25.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,In House,,FETTUCCINE ALFREDO,"PARMIGIANO, CREAM",$26.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,In House,,PENNE PANNA,"PARMIGIANO, CREAM, PROSCIUTTO, ONIONS, PEAS",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,In House,,ORECCHIETTE,"BROCCOLI RABE, SWEET ITALIAN SAUSAGE",$26.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,In House,,LASAGNA,"RICOTTA, MOZZARELLA, TOMATO SAUCE, MEAT RAGÙ",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,In House,,LINGUINI WITH CLAM SAUCE,WHITE OR RED,$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,In House,,GNOCCHI SORRENTINA,"HOUSEMADE PASTA, TOMATO SAUCE, MOZZARELLA",$26.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,In House,,RIGATONI NORMA,"TOMATO SAUCE, EGGPLANT, RICOTTA SALATA, BASIL",$26.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,In House,,RIGATONI POMODORO,"TOMATO SAUCE, BASIL",$20.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,In House,,NOVÉ SUNDAY SAUCE (SUNDAY ONLY),"SUNDAY SAUCE SLOW BRAISED WITH PORK, RIBS, ITALIAN SAUSAGE, BRACIOLE AND MEATBALLS, SERVED WITH RIGATONI",$33.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,In House,,CHICKEN PARMIGIANA,"BREADED CHICKEN CUTLET, TOMATO SAUCE, MELTED MOZZARELLA, WITH SPAGHETTI",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,In House,,CHICKEN MARSALA,"MUSHROOMS, MARSALA WINE",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,In House,,CHICKEN MARIO,"PARMIGIANO, ASPARAGUS, SUN-DRIED TOMATOES, WHITE WINE",$28.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,In House,,CHICKEN FRANCESE,"WHITE WINE, LEMON",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,In House,,CHICKEN NOVÉ,"BREADED CHICKEN CUTLET, TOMATO, RED ONION, BASIL, BALSAMIC",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,In House,,CHICKEN SCARPARIELLO,"PIECES ON THE BONE, SWEET ITALIAN SAUSAGE, PEPPERS, POTATOES",$28.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,In House,,EGGPLANT PARMIGIANA,"TOMATO SAUCE, MELTED MOZZARELLA, WITH SPAGHETTI",$24.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,In House,,FRUTTI DI MARE,"MIXED SEAFOOD: JUMBO SHRIMP, CLAMS, MUSSELS, CALAMARI, OVER SPAGHETTI MARINARA",$33.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,In House,,SOLE FRANCESE,"WHITE WINE, LEMON",$30.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,In House,,SHRIMP SCAMPI,"FIVE U-10 SHRIMP, LEMON SAUCE, OVER LINGUINE",$31.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,In House,,SHRIMP LUCIANO,"FIVE U-10 SHRIMP, RED SAUCE, WINE, SPINACH, OVER LINGUINE",$31.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,In House,,VEAL PARMIGIANA,"BREADED VEAL CUTLET, TOMATO SAUCE, MELTED MOZZARELLA, WITH SPAGHETTI",$31.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,In House,,VEAL MILANESE,"BREADED VEAL CUTLET, ARUGULA, CHERRY TOMATOES, RED ONION",$31.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,In House,,VEAL SCALLOPINI MARSALA,"MUSHROOMS, MARSALA WINE",$32.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,In House,,VEAL SCALLOPINI FRANCESE,"WHITE WINE, LEMON",$32.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,sides,In House,,MEATBALLS,"TWO LARGE CLASSIC ITALIAN MEATBALLS, RICOTTA",$14.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,sides,In House,,"""BURNT"" BRUSSELS SPROUTS",NOVÉ'S WAY...DELICIOUS!,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,sides,In House,,ESCAROLE & BEANS,"GARLIC, OLIVE OIL (SEASONAL)",$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,sides,In House,,BROCCOLI RABE,"GARLIC, OLIVE OIL",$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,sides,In House,,PEAS & PROSCIUTTO,WITH ONIONS,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,sides,In House,,HOMESTYLE POTATOES,WITH ONIONS,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,In House,,CANNOLI,,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,In House,,NUTELLA ZEPPOLI,,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,In House,,FLOURLESS CHOCOLATE CAKE,,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,In House,,ITALIAN CHEESECAKE,,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,In House,,RAINBOW COOKIE CAKE,,$10.05
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,In House,,PISTACHIO RICOTTA CAKE,,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,In House,,SORBETTO,LEMON OR ORANGE,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,In House,,TIRAMISU,,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,In House,,TARTUFO,,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"brick oven pizza 12""",In House,,MARGHERITA,"FRESH MOZZARELLA, TOMATO SAUCE, BASIL",$16.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"brick oven pizza 12""",In House,,RABIOLA,"RICOTTA, MOZZARELLA, WHITE TRUFFLE OIL",$16.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"brick oven pizza 12""",In House,,BIANCO,"FRESH MOZZARELLA, RICOTTA, PROVOLONE, PARMIGIANO, BASIL",$18.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"brick oven pizza 12""",In House,,MELANZANA,"FRESH MOZZARELLA, TOMATO SAUCE, EGGPLANT, BASIL",$18.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"brick oven pizza 12""",In House,,CALABRESE,"FRESH MOZZARELLA, SUN-DRIED TOMATOES, BROCCOLI RABE, HOT CHERRY PEPPERS",$18.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"pizza 18""",In House,,NEAPOLITAN,"18"" NEW YORK STYLE CLASSIC, MOZZARELLA, TOMATO SAUCE",$22.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"pizza 18""",In House,,GRANDMA,"THIN CRUST, SQUARE, MOZZARELLA, PLUM TOMATO SAUCE, BASIL",$22.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"pizza 18""",In House,,"""UPSIDE-DOWN"" BROOKLYN","THICK CRUST, SQUARE, MOZZARELLA, TOPPED WITH SWEET TOMATO SAUCE",$24.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"pizza 18""",In House,,SICILIAN,"THICK CRUST, SQUARE, SWEET TOMATO SAUCE, TOPPED WITH MOZZARELLA",$24.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"pizza 18""",In House,,NOVÉ SICILIAN,"SICILIAN PIZZA WITH SAUSAGE, PEPPERONI, ONIONS",$29.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,signature cocktails,Cocktails,,LOVE POTION,"PROSECCO, ST. GERMAIN ELDERFLOWER LIQUER, FABBRI BLACK CHERRY",
+Nové Italian Restaurant,http://www.novesaratoga.com/,signature cocktails,Cocktails,,LA DOLCE VITA SPRITZ,"PROSECCO, APEROL, GRAPEFRUIT JUICE, CLUB SODA",
+Nové Italian Restaurant,http://www.novesaratoga.com/,signature cocktails,Cocktails,,NOVÉ ESPRESSO MARTINI,"KAHLÚA, STOLI VANILA VODKA, ESPRESSO",
+Nové Italian Restaurant,http://www.novesaratoga.com/,signature cocktails,Cocktails,,THE MARIO MARTINI,"APPLETON RUM, VANILLA, PEACH SCHNAPPS, BLUE CURAÇAO, PINEAPPLE JUICE",
+Nové Italian Restaurant,http://www.novesaratoga.com/,signature cocktails,Cocktails,,HORSE SOLDIER OLD FASHIONED,"SMALL BATCH BOURBON, BITTERS, ORANGE, MARASCHINO CHERRY",
+Nové Italian Restaurant,http://www.novesaratoga.com/,signature cocktails,Cocktails,,X-RATED,"PASSION FRUIT LIQUEUR, LEMONADE",
+Nové Italian Restaurant,http://www.novesaratoga.com/,signature cocktails,Cocktails,,G-LAZZ MARTINI,"X-RATED PASSION FRUIT VODKA, GREY GOOSE VODKA, LIME JUICE, PROSECCO FLOAT",
+Nové Italian Restaurant,http://www.novesaratoga.com/,signature cocktails,Cocktails,,ELDERFLOWER GIN FIZZ,"GIN, LEMON JUICE, ST-GERMAIN ELDERFLOWER LIQUEUR, CLUB SODA",
+Nové Italian Restaurant,http://www.novesaratoga.com/,signature cocktails,Cocktails,,GRAPEFRUIT MARGARITA,"CASAMIGOS BLANCO TEQUILA, GRAPEFRUIT JUICE, TRIPLE SEC, PINCH OF CHILE",
+Nové Italian Restaurant,http://www.novesaratoga.com/,signature cocktails,Cocktails,,NOVÉ MULE,"ABSOLUT VODKA, GINGER BEER, CRANBERRY JUICE, LIME",
+,,,,cordials,Amaretto Disaronno,,
+,,,,cordials,Amaro Averna,,
+,,,,cordials,Amaro Montenegro,,
+,,,,cordials,Baileys Irish Cream,,
+,,,,cordials,B&B,,
+,,,,cordials,Drambuie,,
+,,,,cordials,Fernet-Branca,,
+,,,,cordials,Frangelico,,
+,,,,cordials,Galliano,,
+,,,,cordials,Grand Marnier,,
+,,,,cordials,Green Chartreuse,,
+,,,,cordials,Kahlúa,,
+,,,,cordials,Molinari Sambuca,,
+,,,,cordials,Ramazzotti,,
+,,,,cordials,Sambuca Romano,,
+,,,,cordials,Sambuca Black Romano,,
+,,,,cordials,Strega,,
+,,,,cordials,Tuaca,,
+,,,,cordials,Tia Maria,,
+,,,,cordials,Tuaca,,
+,,,,scotch,Aberlour 16,,
+,,,,scotch,Glenfiddich 12,,
+,,,,scotch,Glenlivet 12,,
+,,,,scotch,Glenlivet 15,,
+,,,,scotch,Glenmorangie “La Santa” 12,,
+,,,,scotch,Johnnie Walker Blue,,
+,,,,scotch,Lagavulin 16,,
+,,,,scotch,Macallan 12,,
+,,,,scotch,Macallan 18,,
+,,,,scotch,Oban 14,,
+,,,,scotch,Old Rip Van Winkle 10,,
+,,,,scotch,Talisker 18,,
+,,,,scotch,Royal Salute 21,,
+,,,,scotch,Old Rip Van Winkle 10,,
+,,,,port wine,Taylor Fladgate 10,,
+,,,,port wine,Taylor Fladgate 20,,
+,,,,port wine,Fonseca Bin 27,,
+,,,,desserts,Cannoli,,
+,,,,desserts,Italian Cheesecake,,
+,,,,desserts,Tiramisu,,
+,,,,desserts,Rainbow Cookie Cake,,
+,,,,desserts,Pistachio Ricotta Cake,,
+,,,,desserts,Nutella  ♥ Zeppole,,
+,,,,desserts,Flourless Chocolate Cake,,
+,,,,desserts,Lemon Sorbetto - Orange Sorbetto,,
+Nové Italian Restaurant,http://www.novesaratoga.com/,desserts,Cocktails,,Tartufo,,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,Takeout,,BRUSCHETTA,"TOMATO, RED ONION, BASIL, BALSAMIC",$11.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,Takeout,,CALAMARI,OLD SCHOOL OR SPICY ARRABBIATA,$18.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,Takeout,,BAKED CLAMS,"BREAD CRUMBS, LEMON",$17.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,Takeout,,EGGPLANT ROLLATINI,"RICOTTA AND SPINACH STUFFING, TOMATO SAUCE, MELTED MOZZARELLA",$16.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,Takeout,,ZUPPA DI CLAMS OR MUSSELS,"WHITE WINE & GARLIC OR LIGHT TOMATO SAUCE, HOUSEMADE BREAD BOWL",$19.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,Takeout,,MEATBALL SLIDERS,"CLASSIC ITALIAN MEATBALLS, HOUSEMADE BREAD",$12.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,Takeout,,CRISPY ZUCCHINI STICKS,WITH LEMON WEDGES,$11.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,Takeout,,CRISPY MOZZARELLA,WITH VODKA AND TOMATO SAUCE,$16.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,appetizers,Takeout,,CAPRESE,"FRESH MOZZARELLA, HEIRLOOM TOMATOES, BASIL, BALSAMIC",$15.75
+Nové Italian Restaurant,http://www.novesaratoga.com/,salads,Takeout,,JUNE,"ICEBERG, TOMATO, RED ONION, PEPPERS, OLIVES, RED WINE VINEGAR VINAIGRETTE",$13.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,salads,Takeout,,CHOPPED,"JUNE SALAD, CHOPPED",$14.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,salads,Takeout,,CAESAR,"ROMAINE, PARMIGIANO, HOUSEMADE CROUTONS, CAESAR DRESSING",$15.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,salads,Takeout,,MISTO,"MIXED GREENS, SLICED APPLE, CANDIED WALNUTS, GORGONZOLA, RASPBERRY VINAIGRETTE",$16.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,salads,Takeout,,ARUGULA,"SHAVED PARMIGIANO REGGIANO, HEIRLOOM TOMATOES, CITRUS VINAIGRETTE. Add-ons: ADD CHICKEN $7.95 / ADD THREE U-10 SHRIMP $10.95",$17.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,Takeout,,RIGATONI ROMANO,"CRUMBLED SWEET ITALIAN SAUSAGE, PINK SAUCE",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,Takeout,,PAPPARDELLE BOLOGNESE,"TOMATO, MEAT SAUCE",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,Takeout,,PENNE VODKA,"TOMATO SAUCE, PROSCIUTTO, CREAM, VODKA",$26.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,Takeout,,SPICY RIGATONI VODKA,"TOMATO SAUCE, PROSCIUTTO, CREAM, VODKA, CALABRIAN CHILI PASTE",$26.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,Takeout,,SPAGHETTI & MEATBALLS,"CLASSIC ITALIAN MEATBALLS, RED SAUCE",$25.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,Takeout,,FETTUCCINE ALFREDO,"PARMIGIANO, CREAM",$26.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,Takeout,,PENNE PANNA,"PARMIGIANO, CREAM, PROSCIUTTO, ONIONS, PEAS",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,Takeout,,ORECCHIETTE,"BROCCOLI RABE, SWEET ITALIAN SAUSAGE",$26.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,Takeout,,LASAGNA,"RICOTTA, MOZZARELLA, TOMATO SAUCE, MEAT RAGÙ",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,Takeout,,LINGUINI WITH CLAM SAUCE,WHITE OR RED,$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,Takeout,,GNOCCHI SORRENTINA,"HOUSEMADE PASTA, TOMATO SAUCE, MOZZARELLA",$26.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,Takeout,,RIGATONI NORMA,"TOMATO SAUCE, EGGPLANT, RICOTTA SALATA, BASIL",$26.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,Takeout,,RIGATONI POMODORO,"TOMATO SAUCE, BASIL",$20.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,pasta,Takeout,,NOVÉ SUNDAY SAUCE (SUNDAY ONLY),"SUNDAY SAUCE SLOW BRAISED WITH PORK, RIBS, ITALIAN SAUSAGE, BRACIOLE AND MEATBALLS, SERVED WITH RIGATONI",$33.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,Takeout,,CHICKEN PARMIGIANA,"BREADED CHICKEN CUTLET, TOMATO SAUCE, MELTED MOZZARELLA, WITH SPAGHETTI",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,Takeout,,CHICKEN MARSALA,"MUSHROOMS, MARSALA WINE",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,Takeout,,CHICKEN MARIO,"PARMIGIANO, ASPARAGUS, SUN-DRIED TOMATOES, WHITE WINE",$28.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,Takeout,,CHICKEN FRANCESE,"WHITE WINE, LEMON",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,Takeout,,CHICKEN NOVÉ,"BREADED CHICKEN CUTLET, TOMATO, RED ONION, BASIL, BALSAMIC",$27.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,Takeout,,CHICKEN SCARPARIELLO,"PIECES ON THE BONE, SWEET ITALIAN SAUSAGE, PEPPERS, POTATOES",$28.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,Takeout,,EGGPLANT PARMIGIANA,"TOMATO SAUCE, MELTED MOZZARELLA, WITH SPAGHETTI",$24.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,Takeout,,FRUTTI DI MARE,"MIXED SEAFOOD: JUMBO SHRIMP, CLAMS, MUSSELS, CALAMARI, OVER SPAGHETTI MARINARA",$33.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,sides,Takeout,,MEATBALLS,"TWO LARGE CLASSIC ITALIAN MEATBALLS, RICOTTA",$14.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,sides,Takeout,,"""BURNT"" BRUSSELS SPROUTS",NOVÉ'S WAY...DELICIOUS!,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,sides,Takeout,,ESCAROLE & BEANS,"GARLIC, OLIVE OIL (SEASONAL)",$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,sides,Takeout,,BROCCOLI RABE,"GARLIC, OLIVE OIL",$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,sides,Takeout,,PEAS & PROSCIUTTO,WITH ONIONS,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,sides,Takeout,,HOMESTYLE POTATOES,WITH ONIONS,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,Takeout,,SOLE FRANCESE,"WHITE WINE, LEMON",$30.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,Takeout,,SHRIMP SCAMPI,"FIVE U-10 SHRIMP, LEMON SAUCE, OVER LINGUINE",$31.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,Takeout,,SHRIMP LUCIANO,"FIVE U-10 SHRIMP, RED SAUCE, WINE, SPINACH, OVER LINGUINE",$31.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,Takeout,,VEAL PARMIGIANA,"BREADED VEAL CUTLET, TOMATO SAUCE, MELTED MOZZARELLA, WITH SPAGHETTI",$31.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,Takeout,,VEAL MILANESE,"BREADED VEAL CUTLET, ARUGULA, CHERRY TOMATOES, RED ONION",$31.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,Takeout,,VEAL SCALLOPINI MARSALA,"MUSHROOMS, MARSALA WINE",$32.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,main course,Takeout,,VEAL SCALLOPINI FRANCESE,"WHITE WINE, LEMON",$32.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,Takeout,,CANNOLI,,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,Takeout,,NUTELLA ZEPPOLI,,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,Takeout,,FLOURLESS CHOCOLATE CAKE,,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,Takeout,,ITALIAN CHEESECAKE,,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,Takeout,,RAINBOW COOKIE CAKE,,$10.05
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,Takeout,,PISTACHIO RICOTTA CAKE,,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,Takeout,,SORBETTO,LEMON OR ORANGE,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,Takeout,,TIRAMISÙ,,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,dessert,Takeout,,TARTUFO,,$10.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"brick oven pizza 12""",Takeout,,MARGHERITA,"FRESH MOZZARELLA, TOMATO SAUCE, BASIL",$16.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"brick oven pizza 12""",Takeout,,RABIOLA,"RICOTTA, MOZZARELLA, WHITE TRUFFLE OIL",$16.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"brick oven pizza 12""",Takeout,,BIANCO,"FRESH MOZZARELLA, RICOTTA, PROVOLONE, PARMIGIANO, BASIL",$18.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"brick oven pizza 12""",Takeout,,MELANZANA,"FRESH MOZZARELLA, TOMATO SAUCE, EGGPLANT, BASIL",$18.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"brick oven pizza 12""",Takeout,,CALABRESE,"FRESH MOZZARELLA, SUN-DRIED TOMATOES, BROCCOLI RABE, HOT CHERRY PEPPERS",$18.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"pizza 18""",Takeout,,NEAPOLITAN,"18"" NEW YORK STYLE CLASSIC, MOZZARELLA, TOMATO SAUCE",$22.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"pizza 18""",Takeout,,GRANDMA,"THIN CRUST, SQUARE, MOZZARELLA, PLUM TOMATO SAUCE, BASIL",$22.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"pizza 18""",Takeout,,"""UPSIDE-DOWN"" BROOKLYN","THICK CRUST, SQUARE, MOZZARELLA, TOPPED WITH SWEET TOMATO SAUCE",$24.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"pizza 18""",Takeout,,SICILIAN,"THICK CRUST, SQUARE, SWEET TOMATO SAUCE, TOPPED WITH MOZZARELLA",$24.95
+Nové Italian Restaurant,http://www.novesaratoga.com/,"pizza 18""",Takeout,,NOVÉ SICILIAN,"SICILIAN PIZZA WITH SAUSAGE, PEPPERONI, ONIONS",$29.95

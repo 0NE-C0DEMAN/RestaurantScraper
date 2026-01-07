@@ -1,0 +1,228 @@
+restaurant_name,restaurant_url,menu_name,menu_type,name,description,price
+Kindred,https://kindredsaratoga.com/,Food Menu,shareables,marinated olives,,$6
+Kindred,https://kindredsaratoga.com/,Food Menu,shareables,glazed nuts,,$6
+Kindred,https://kindredsaratoga.com/,Food Menu,shareables,house made foccacia,"black garlic mushroom butter, evoo, fig balsamic",$7
+Kindred,https://kindredsaratoga.com/,Food Menu,shareables,bacon wrapped dates,"house smoked gruyere, 'nduja sauce",$15
+Kindred,https://kindredsaratoga.com/,Food Menu,shareables,salt and vinegar chips,"smoked trout roe, creme fraiche",$16
+Kindred,https://kindredsaratoga.com/,Food Menu,shareables,crispy brussels sprouts,"fig balsamic glaze, green mayo, smoked hazelnut",$16
+Kindred,https://kindredsaratoga.com/,Food Menu,shareables,burrata toast,"burrata, foccacia, garlic confit, hot honey
+arugula, maldon sea salt",$16
+Kindred,https://kindredsaratoga.com/,Food Menu,shareables,chicken liver pate toast,"fruit compote, foccacia, chives",$13
+Kindred,https://kindredsaratoga.com/,Food Menu,shareables,anchovy toast,"grated heirloom tomato, maldon, evoo, foccacia,
+anchovies, fennel pollen",$15
+Kindred,https://kindredsaratoga.com/,Food Menu,shareables,fried fingerling potatoes,"truffle aioli, parm, garlic chips, cornichons,
+pickled red onion",$16
+Kindred,https://kindredsaratoga.com/,Food Menu,shareables,charcuterie board,"daily selection of six meats and cheeses, house compote,
+truffle honey, whole grain mustard, foccacia toast",$34
+Kindred,https://kindredsaratoga.com/,Food Menu,shareables,baked camembert,"seasonal fruit, pistachios, honey, foccacia toast",$21
+Kindred,https://kindredsaratoga.com/,Food Menu,shareables,braised iberian pork belly,"pickled red cabbage, scallions, mustard jus",$20
+Kindred,https://kindredsaratoga.com/,Food Menu,flatbreads,burrata margherita,"fresh basil, marinara",$19
+Kindred,https://kindredsaratoga.com/,Food Menu,flatbreads,"spiced creme, proscuitto, gruyere, red onion, scallions",,$20
+Kindred,https://kindredsaratoga.com/,Food Menu,flatbreads,"lamb ragu, shaved fennel, harissa crema, mint",,$21
+Kindred,https://kindredsaratoga.com/,Food Menu,salads,kindred house salad,"mixed greens, pickled red onions, cucumber, radish,
+sunflower seeds, house vinaigrette",$15
+Kindred,https://kindredsaratoga.com/,Food Menu,salads,romaine caesar,"croutons, cracked black pepper, lemon",$16
+Kindred,https://kindredsaratoga.com/,Food Menu,salads,apple burrata salad,"spring greens, honecrisp apple, pickled red onions,
+proscuitto, glazed nuts, fennel, apple cider vinaigrette
+Add-ons: add grilled chicken - $6 / add burrata - $6 / add shrimp - $9",$24
+Kindred,https://kindredsaratoga.com/,Food Menu,entrees,kindred burger,"two 4 oz patties, cheddar, garic aioli, bacon jam,
+lettuce, tomato, onion, salt & vinegar chips, brioche",$24
+Kindred,https://kindredsaratoga.com/,Food Menu,entrees,woodfired maitake mushroom,"pumpkin seed pesto, confit golden tomatoes, herbs",$38
+Kindred,https://kindredsaratoga.com/,Food Menu,entrees,four cheese ravioli,"butternut squash sauce, lion's mane mushrooms,
+pepitas, balsamic pearls, delicata chips
+Add-ons: add grilled chicken - $6 / add shrimp - $9",$32
+Kindred,https://kindredsaratoga.com/,Food Menu,entrees,steak frites,"prime flat iron, chimichurri, hand-cut potato wedges,
+garlic aoli",$36
+Kindred,https://kindredsaratoga.com/,Food Menu,entrees,moroccan half chicken,"sweet potato purée, herb salad, chicken jus",$38
+Kindred,https://kindredsaratoga.com/,Food Menu,entrees,wood-fired swordfish,"charred broccolini, spicy tomato broth, white wine,
+leeks, cherry peppers",$36
+Kindred,https://kindredsaratoga.com/,Food Menu,entrees,ny prime strip steak,"sauce soubise, crispy fingerlings,
+seasonal mushrooms, black garlic mushroom butter",$58
+Kindred,https://kindredsaratoga.com/,Brunch Menu,snacks and greens,marinated olives and marcona almonds,,$12
+Kindred,https://kindredsaratoga.com/,Brunch Menu,snacks and greens,caesar salad,"croutons, cracked black pepper, lemon",$16
+Kindred,https://kindredsaratoga.com/,Brunch Menu,snacks and greens,kindred house salad,"mixed greens, pickled red onions, cucumber, radish, sunflower seeds, house vinaigrette",$15
+Kindred,https://kindredsaratoga.com/,Brunch Menu,sandwiches and toasts,kindred breakfast sandwich,"scrambled egg, cheddar, herb aioli, choice of bacon, sausage, rosemary ham, grilled tomato slab",$15
+Kindred,https://kindredsaratoga.com/,Brunch Menu,sandwiches and toasts,fried chicken sandwich,"fried chicken, pickled cabbage slaw, sunnyside egg, cranberry-chipotle aioli, brioche bun",$18
+Kindred,https://kindredsaratoga.com/,Brunch Menu,sandwiches and toasts,burrata toast,"burrata, foccacia, garlic confit, hot honey, arugula, maldon sea salt",$16
+Kindred,https://kindredsaratoga.com/,Brunch Menu,sandwiches and toasts,avocado toast,"smashed avocado, beetroot-pickled egg, radish, microgreens, sweet potato puree",$15
+Kindred,https://kindredsaratoga.com/,Brunch Menu,breakfast classics,lox plate,"smoked salmon, everything bagel, scallion cream cheese, pickled red onions, capers, microgreens",$18
+Kindred,https://kindredsaratoga.com/,Brunch Menu,breakfast classics,kindred breakfast,"two eggs any style, two sides, mixed greens",$15
+Kindred,https://kindredsaratoga.com/,Brunch Menu,breakfast classics,eggs bennedict,"rosemary ham, griddled english muffin, poached eggs, hollandaise, scallions.",$16
+Kindred,https://kindredsaratoga.com/,Brunch Menu,breakfast classics,veggie hash bowl,"two potato hash, seasonal veggies, arugula, harissa crema",$16
+Kindred,https://kindredsaratoga.com/,Brunch Menu,breakfast classics,verde shakshuka,"tomatillo sauce, 'nduja baked eggs, cotija, cilantro, and chili oil with toasted foccacia",$20
+Kindred,https://kindredsaratoga.com/,Brunch Menu,sides,sausage,,$5
+Kindred,https://kindredsaratoga.com/,Brunch Menu,sides,bacon,,$5
+Kindred,https://kindredsaratoga.com/,Brunch Menu,sides,ham,,$5
+Kindred,https://kindredsaratoga.com/,Brunch Menu,sides,bagel,,$5
+Kindred,https://kindredsaratoga.com/,Brunch Menu,sides,side caesar,,$7
+Kindred,https://kindredsaratoga.com/,Brunch Menu,sides,potatoes,,$5
+Kindred,https://kindredsaratoga.com/,Brunch Menu,sides,toast,,$5
+Kindred,https://kindredsaratoga.com/,Brunch Menu,sides,fruit,,$6
+Kindred,https://kindredsaratoga.com/,Brunch Menu,sides,side house,,$6
+Kindred,https://kindredsaratoga.com/,Brunch Menu,omelettes,bacon and cheese,"applewood smoked bacon, cheddar, chives",$14
+Kindred,https://kindredsaratoga.com/,Brunch Menu,omelettes,seasonal veggie,"squash, arugula, tomato confit, pepita pesto",$15
+Kindred,https://kindredsaratoga.com/,Brunch Menu,flatbreads,spiced creme flatbread,"proscuitto, gruyere, red onion, scallions,",$20
+Kindred,https://kindredsaratoga.com/,Brunch Menu,flatbreads,breakfast flatbread,"sausage, bacon, cheddar, eggs, maple aioli",$20
+Kindred,https://kindredsaratoga.com/,Brunch Menu,cocktails and mimosas,prosecco bottle,includes one juice of your choice,$24
+Kindred,https://kindredsaratoga.com/,Brunch Menu,cocktails and mimosas,classic mimosa,"prosecco, just a lil' juice (orange, blood orange, grapefruit, cranberry)",$10
+Kindred,https://kindredsaratoga.com/,Brunch Menu,cocktails and mimosas,kindred bloody mary,"house bloody mix *vegan*, vodka",$14
+Kindred,https://kindredsaratoga.com/,Brunch Menu,cocktails and mimosas,michelada,bloody mix and Whitman Brewing Dick Murphy lite,$10
+Kindred,https://kindredsaratoga.com/,Brunch Menu,cocktails and mimosas,cava lemonata,"vodka, citruscello, lemon, topped with cava",$15
+Kindred,https://kindredsaratoga.com/,Brunch Menu,cocktails and mimosas,toasted coconut espresso martini,"coconut rum, kru cold brew, demerara, coffee liqueur",$15
+Kindred,https://kindredsaratoga.com/,Brunch Menu,snacks and greens,kindred house salad,"mixed greens, pickled red onions, cucumber, radish, sunflower seeds, house vinaigrette
+Add-ons: add chicken - $6 / add shrimp - $9",$15
+Kindred,https://kindredsaratoga.com/,Brunch Menu,sandwiches and toasts,avocado toast,"smashed avocado, beetroot-pickled egg, radish, microgreens, sweet potato puree
+Add-ons: add bacon - $5",$15
+Kindred,https://kindredsaratoga.com/,Brunch Menu,breakfast classics,veggie hash bowl,"two potato hash, seasonal veggies, arugula, harissa crema
+Add-ons: add egg - $3",$16
+Kindred,https://kindredsaratoga.com/,Drink Menu,Snacks,marinated olives,,$5
+Kindred,https://kindredsaratoga.com/,Drink Menu,Snacks,warm bread,"focaccia, mushroom butter, evoo, saba",$5
+Kindred,https://kindredsaratoga.com/,Drink Menu,Snacks,bacon-wrapped dates,"house smoked gruyere, 'nduja sauce",$6
+Kindred,https://kindredsaratoga.com/,Drink Menu,Snacks,salt and vinegar chips,"smoked trout roe, creme fraiche",$10
+Kindred,https://kindredsaratoga.com/,Drink Menu,Snacks,fried fingerling potatoes,"truffle oil, parm, garlic chips, cornichons, pickled red onion",$10
+Kindred,https://kindredsaratoga.com/,Drink Menu,Snacks,crispy brussel sprouts,"fig balsamic, green mayo, smoked hazelnuts",$10
+Kindred,https://kindredsaratoga.com/,Drink Menu,Snacks,house salad,"mixed greens, pickled red onions, cucumber, radish, sunflower seeds, house vinaigrette",$10
+Kindred,https://kindredsaratoga.com/,Drink Menu,Snacks,spiced creme flatbread,"prosciutto, gruyere, red onion, scallions",$15
+Kindred,https://kindredsaratoga.com/,Drink Menu,Snacks,cheeseburger,"single 4oz patty, american cheese, bacon jam, pickles, brioche bun",$9
+Kindred,https://kindredsaratoga.com/,Drink Menu,Wine,"Bellafina Prosecco / Veneto, Italy",grape: glera,$7
+Kindred,https://kindredsaratoga.com/,Drink Menu,Wine,"Berger / Niedrosterreich, Austria",grape: gruner vetliner,$7
+Kindred,https://kindredsaratoga.com/,Drink Menu,Wine,"Salchetto / Tuscany, Italy","grape: sangiovese, canaiolo, mammolo, merlot",$7
+Kindred,https://kindredsaratoga.com/,Drink Menu,Wine,"Laffitte Laujac / Bordeaux, France","grape: cabernet sauvignon, merlot",$7
+Kindred,https://kindredsaratoga.com/,Drink Menu,Classic Cocktails,Negroni,,$9
+Kindred,https://kindredsaratoga.com/,Drink Menu,Classic Cocktails,Old Fashioned,,$9
+Kindred,https://kindredsaratoga.com/,Drink Menu,Classic Cocktails,Manhattan,,$9
+Kindred,https://kindredsaratoga.com/,Drink Menu,Classic Cocktails,Martini,,$9
+Kindred,https://kindredsaratoga.com/,Drink Menu,Classic Cocktails,Espresso Martini,,$9
+Kindred,https://kindredsaratoga.com/,Drink Menu,Classic Cocktails,Cosmopolitan,,$9
+Kindred,https://kindredsaratoga.com/,Drink Menu,Classic Cocktails,Margarita,,$9
+Kindred,https://kindredsaratoga.com/,Drink Menu,Classic Cocktails,Paloma,,$9
+Kindred,https://kindredsaratoga.com/,Drink Menu,Beer,Whitman Brewing Dick Murphy Lite,,$5
+Kindred,https://kindredsaratoga.com/,Drink Menu,Beer,Zero Gravity Conehead IPA,,$6
+Kindred,https://kindredsaratoga.com/,Drink Menu,Cocktails,Plum Eclipse,"blanco tequila, dry curacao, lime cordial, plum, orange and clove shrub, splash of bubbles",$18
+Kindred,https://kindredsaratoga.com/,Drink Menu,Cocktails,Pear Pressure,"pear liqueur, vermouth, lime juice, ginger syrup, fee foam, topped with cava",$16
+Kindred,https://kindredsaratoga.com/,Drink Menu,Cocktails,Empire State of Mind,"applejack whiskey, elderflower liqueur, lemon juice, Faccia Brutto Apertivo, honey syrup",$16
+Kindred,https://kindredsaratoga.com/,Drink Menu,Cocktails,Purple Yamborghini,"spiced black tea- infused rum, ube coconut milk, bergamot liqueur *contains dairy*",$16
+Kindred,https://kindredsaratoga.com/,Drink Menu,Cocktails,Smoldering Fire,"mezcal, spicy triple sec, acid-adjusted blood orange juice, cinnamon syrup",$16
+Kindred,https://kindredsaratoga.com/,Drink Menu,Cocktails,Waffle Haus,"toasted pecan bourbon, amaro nardini, brown butter demerera *contains treenuts and dairy*",$16
+Kindred,https://kindredsaratoga.com/,Drink Menu,Cocktails,Silent Orchard,"barrel-aged gin, bergamot liqueur, cranberry cardamom syrup, lemon, splash of bubbles",$16
+Kindred,https://kindredsaratoga.com/,Drink Menu,Cocktails,Hot Temptation,"ramp gin, black pepper vodka, house hot sauce, pickle juice",$18
+Kindred,https://kindredsaratoga.com/,Drink Menu,Cocktails,Absinthe Colada,"light rum, absinthe, pineapple liqueur, acid-adjusted pineapple juice, coconut cream. milk clarified *contains dairy*",$18
+Kindred,https://kindredsaratoga.com/,Drink Menu,Cocktails,Montenegro Mocha,"spicy montenegro, creme de cacao, coffee liqueur, cold brew",$16
+Kindred,https://kindredsaratoga.com/,Drink Menu,Zero-Proof,"Funkelwürtz Zero / Zeltingen, Germany","dealcoholized sparkling wine grapes: muskateller, rivaner bright, juicy white fruit, refreshing",$12 / 42
+Kindred,https://kindredsaratoga.com/,Drink Menu,Zero-Proof,The Pathfinder Hemp Root Spirit,,$10
+Kindred,https://kindredsaratoga.com/,Drink Menu,Zero-Proof,Guiness Zero,,$6
+Kindred,https://kindredsaratoga.com/,Drink Menu,Zero-Proof,Athletic Free Wave N/A IPA,,$7
+Kindred,https://kindredsaratoga.com/,Drink Menu,Zero-Proof,N/A Negroni,,$10
+Kindred,https://kindredsaratoga.com/,Drink Menu,Zero-Proof,Forbidden Fruit,"pineapple juice, orgeat, all spice dem, coco bitters *contains treenuts*",$12
+Kindred,https://kindredsaratoga.com/,Drink Menu,Zero-Proof,N/A Amaro Spritz,"n/a pathfinder herbal spirit, splash of bubbles, topped with funkelwurtz n/a sparkling wine",$12
+Kindred,https://kindredsaratoga.com/,Drink Menu,Spritz Menu,Sambuca Spritz,"sambuca, splash of bubbles, topped with prosecco",$14
+Kindred,https://kindredsaratoga.com/,Drink Menu,Spritz Menu,Hugo Spritz,"elderflower liqueur, splash of bubbles, topped with prosecco",$15
+Kindred,https://kindredsaratoga.com/,Drink Menu,Spritz Menu,Pineapple Passionfruit Spritz,"acid-adjusted pineapple juice, vanilla vodka, chinola, splash of bubbles, topped with cava",$15
+Kindred,https://kindredsaratoga.com/,Drink Menu,Rose,"Salchetto Rosato Unfiltered / Tuscany, Italy","grape: sangiovese, canaiolo, mammolo, merlot
+wild strawberries, pomegranate, flint",$12/42
+Kindred,https://kindredsaratoga.com/,Drink Menu,Rose,"Ravines / Finger Lakes, NY","grape: Pinot noir
+white peach and fresh herbs, watermelon rind and minerality",$15/54
+Kindred,https://kindredsaratoga.com/,Drink Menu,Rose,Bodega Garzon Reserve (1.5 L) / Uruguay,"grape: Pinot noir
+notes of fresh cherries, strawberries, and wild flowers",$130
+Kindred,https://kindredsaratoga.com/,Drink Menu,Dessert,"Cascina Valle Asinari Moscato d'Asti/Piedmont, Italy",ripe peach and fresh white flowers,$15/54
+Kindred,https://kindredsaratoga.com/,Drink Menu,Dessert,"Kopke Fine Tawny Porto / Duoro, Portugal",ripe and honeyed fruit with fragrant vanilla notes,$16
+Kindred,https://kindredsaratoga.com/,Drink Menu,Dessert,"Pineau des Charentes / Cognac, France","grape: cognac blend
+honey, stewed prunes, vanilla",$16
+Kindred,https://kindredsaratoga.com/,Drink Menu,Dessert,"G.D. Vajra Barolo Chinato / Piedmont, Italy","grape: nebbiolo
+ripe cherries, mountain herbs, blood orange peel",$18
+Kindred,https://kindredsaratoga.com/,Drink Menu,Dessert,"Francoli Antico Vermouth Noveis / Piedmont, Italy","dessert wine with balanced sweetness, good weight and notes
+of lemon, orange zest, wormwood, ginger raisin and ginseng",$16
+Kindred,https://kindredsaratoga.com/,Drink Menu,Dessert,"Chateau Laubade VSOP / Bas Armagnac, France","grape: ugni blanc blend
+ripe fruits, plum, pastry, vanilla and citrus aromas",$16
+Kindred,https://kindredsaratoga.com/,Drink Menu,Dessert,"Chateau Laubade XO / Bas Armagnac, France","grape: ugni blanc blend
+orchard fruit, vanilla, cinnamon, cocoa, orange zest",$28
+Kindred,https://kindredsaratoga.com/,Drink Menu,Beer Menu,Whitman Brewing Dick Murphy Lite,,$6
+Kindred,https://kindredsaratoga.com/,Drink Menu,Beer Menu,Zero Gravity Conehead IPA,,$8
+Kindred,https://kindredsaratoga.com/,Drink Menu,Beer Menu,Guinness Stout,,$8
+Kindred,https://kindredsaratoga.com/,Drink Menu,Beer Menu,Seasonal Drafts,ask your server for the current selection,$8
+Kindred,https://kindredsaratoga.com/,Drink Menu,Red,"L' de Laffitte Laujac/ Bordeaux, France","grape: cabernet sauvignon, merlot
+ripe red fruit, menthol, soft spiced oak",12/42
+Kindred,https://kindredsaratoga.com/,Drink Menu,Red,"Ribera del Duero / Castilla y Leon, Spain","grape: tempranillo
+blackberry, blueberry, light toastiness, spice",13/46
+Kindred,https://kindredsaratoga.com/,Drink Menu,Red,"Les Granits Bleus (chilled) / Burgundy, France","grape: gamay
+black currant and raspberry, light tannic structure",14/50
+Kindred,https://kindredsaratoga.com/,Drink Menu,Red,"Collusion/Columbia Valley, Washington","grape: cabernet sauvignon
+juicy blue fruits, violets, leafy tobacco",15/54
+Kindred,https://kindredsaratoga.com/,Drink Menu,Red,"EZY TGR/Willamette Valley, Oregon","grape: pinot noir
+strawberry, cherry cola, dried roses",16/58
+Kindred,https://kindredsaratoga.com/,Drink Menu,Red,"Dominio de las Abejas / Baja California, Mexico","grape: nebbiolo
+red fruit, hint of black tea, spice, light tannins",22/80
+Kindred,https://kindredsaratoga.com/,Drink Menu,Red,"Colombaio Di Cencio Chianti Classico / Tuscany, It","grape: sangiovese
+fruity notes of rose and violet, balanced tannins and acidity",22/80
+Kindred,https://kindredsaratoga.com/,Drink Menu,Red,"G.D. Vajra Albe Barolo / Piedmont, Italy","grape: nebbiolo
+cranberries and raspberries, rose petal, notes of black fig",25/92
+Kindred,https://kindredsaratoga.com/,Drink Menu,Red,"Chateau Peyros Greenwich 43N / Madiran, France","grape: tannat
+eucalyptus and licorice, dark candied fruit, velvety tannins",110
+Kindred,https://kindredsaratoga.com/,Drink Menu,Red,"Beeslaar / Stellenbosch, South Africa","grape: pinotage
+stewed ripe red fruit, tobacco, light smoke background",115
+Kindred,https://kindredsaratoga.com/,Drink Menu,Red,"Hendry Napa Valley Vineyards / Napa Valley, Ca","grape: cabernet sauvignon
+dark fruit, tea leaves, smokey oak",175
+Kindred,https://kindredsaratoga.com/,Drink Menu,Red,"Rioja Alta Rioja 904 Gran Reserva / Rioja, Spain","grape: tempranillo, graciano
+plum and coffee, wild strawberry and cinnamon blossom",225
+Kindred,https://kindredsaratoga.com/,Drink Menu,Flight Menu,Berger / Austria,"crunchy and bright orchard fruit, crisp",$15
+Kindred,https://kindredsaratoga.com/,Drink Menu,Flight Menu,Parceleros / Chile,tropical fruits with light buttery oak,
+Kindred,https://kindredsaratoga.com/,Drink Menu,Flight Menu,Zephyr / New Zealand,"zesty lime skin, lemongrass, fennel seed",
+Kindred,https://kindredsaratoga.com/,Drink Menu,Flight Menu,Apollo's Praise / New York,"grapefruit, blood orange, minerality",
+Kindred,https://kindredsaratoga.com/,Drink Menu,Flight Menu,Les Granits Bleus / France,"black currant, raspberry, light tannins",$15
+Kindred,https://kindredsaratoga.com/,Drink Menu,Flight Menu,Ribera del Duero / Spain,"blackberry, blueberry, spice",
+Kindred,https://kindredsaratoga.com/,Drink Menu,Flight Menu,L' de Laffitte Laujac / France,"ripe red fruit, menthol, spiced oak",
+Kindred,https://kindredsaratoga.com/,Drink Menu,Flight Menu,EZY TGR/Oregon,"strawberries, cherry cola, dried roses",
+Kindred,https://kindredsaratoga.com/,Drink Menu,Flight Menu,Pali / California,"apricot, honey suckle, yuzu",$17
+Kindred,https://kindredsaratoga.com/,Drink Menu,Flight Menu,El Zorrito / Argentina,"floral, white fruit, orange peel",
+Kindred,https://kindredsaratoga.com/,Drink Menu,Flight Menu,Macabeo / France,"jasmine tea, bergamot, orange zest",
+Kindred,https://kindredsaratoga.com/,Drink Menu,Flight Menu,Octagano / Mexico,"tropical fruit, dry, lots of funk",
+Kindred,https://kindredsaratoga.com/,Drink Menu,Flight Menu,staff picks,"a surprise selection of one of each of the following
+Sparking
+Skin Contact
+White
+Red",$15
+Kindred,https://kindredsaratoga.com/,Drink Menu,Bubbles,"Lucchetti Pet Nat Rose / Marche, Italy","grape: lacrima
+vibrant white peach, strawberry, floral notes, crisp acidity",12/42
+Kindred,https://kindredsaratoga.com/,Drink Menu,Bubbles,"Bellafina Prosecco / Veneto, Italy","grape: glera
+crisp yellow apples, white peaches, pear, white flowers",12/42
+Kindred,https://kindredsaratoga.com/,Drink Menu,Bubbles,"Faustino Brut Cava / Catalonia, Spain","grape: macabeo, chardonnay
+floral aroma with melon, apple, and pastry notes",14/50
+Kindred,https://kindredsaratoga.com/,Drink Menu,Bubbles,"Silverthread Pet Nat / Seneca Lake, New York","grape: field blend
+grapefruit, brioche, candied watermelon",16/58
+Kindred,https://kindredsaratoga.com/,Drink Menu,Bubbles,"Laurent-Perrier (375 ml) / Champagne, France","grape: chardonnay
+peach and white fruit, fresh, light acidity",25/44
+Kindred,https://kindredsaratoga.com/,Drink Menu,Bubbles,"Red Tail Ridge/Finger Lakes, New York","grape: riesling
+dry crisp orchard fruit, light bubbles",76
+Kindred,https://kindredsaratoga.com/,Drink Menu,Bubbles,"Pertois-Moriset L'Assemblage Brut/Champagne, France","grape: chardonnay, pinot noir
+fresh minerality, notes of red fruits and cherry blossoms",125
+Kindred,https://kindredsaratoga.com/,Drink Menu,White,"Berger (1L) / Niederosterrich, Austria","grape: gruner veltliner
+crunchy and bright orchard fruit, mineral, crisp, light",12/50
+Kindred,https://kindredsaratoga.com/,Drink Menu,White,"Parceleros/Aconcagua, Chile","grape: chardonnay
+tropical fruits with light buttery oak nuance",12/42
+Kindred,https://kindredsaratoga.com/,Drink Menu,White,"Zephyr / Marlborough, New Zealand","grape: sauvignon blanc
+zesty lime skin, pure lemongrass, salted lemon, fennel seed",14/50
+Kindred,https://kindredsaratoga.com/,Drink Menu,White,"Apollo's Praise / Seneca Lake, New York","grape: riesling
+smokey grapefruit, blood orange, rich orchard fruit, minerality",14/50
+Kindred,https://kindredsaratoga.com/,Drink Menu,White,"Legado del Conde Albarino / Galicia, Spain","grape: albarino
+pear, jasmine, apple, ocean air",15/54
+Kindred,https://kindredsaratoga.com/,Drink Menu,White,"Domaine Reverdy-Ducroux Sancerre / Loire Valley, Fr","grape: sauvignon blanc
+flint, white fruit, fresh finish",22/80
+Kindred,https://kindredsaratoga.com/,Drink Menu,White,Saints Hills Le Chiffre/Croatia,"grape: chardonnay
+summer peaches and bergamot flowers,
+creamy texture and bright acidity",25/92
+Kindred,https://kindredsaratoga.com/,Drink Menu,White,"De Wetshof Bateleaur/Western Cape, South Africa","grape: chardonnay
+semi-dry, aromatic florals, tropical fruit, minerality",115
+Kindred,https://kindredsaratoga.com/,Drink Menu,White,"Chateneuf-du-Pape Blanc / Rhone Valley, France","grape: grenache blanc, clairette, roussane
+crisp apple and pear, orange blossom, anise seed",175
+Kindred,https://kindredsaratoga.com/,Drink Menu,Orange,"El Zorrito / Mendoza, Argentina","grape: chardonnay
+floral, white fruit, orange peel",14/50
+Kindred,https://kindredsaratoga.com/,Drink Menu,Orange,"Pali Wild Series / Central Coast, California","grape: gewurztraminer, pinot noir
+wild flowers, apricot, honeysuckle, yuzu citrus",15/54
+Kindred,https://kindredsaratoga.com/,Drink Menu,Orange,"Domaine Cazes Macabeo Amber / Loire Valley, Fr","grape: macabeu
+jasmine tea, bergamot, orange peel",15/54
+Kindred,https://kindredsaratoga.com/,Drink Menu,Orange,Big Salt Orange Rose / Oregon,"grape: pinot gris, muscat, gewurztraminer
+tangerine, hibiscus, ginger, banana, herbal salinity",16/58
+Kindred,https://kindredsaratoga.com/,Drink Menu,Orange,"Love You Bunches / Santa Barbara, California","grape: muscat, pinot gris, mourvedre
+grapefruit, pineapple, woody notes and light minerality",18/66
+Kindred,https://kindredsaratoga.com/,Drink Menu,Orange,"Octagano Blanco / Guanajuato, Mexico","grape: moscato, semillon
+tropical fruit, honeydew melon, medium acidity",23/80
