@@ -1,0 +1,252 @@
+[
+  {
+    "name": "STANDARD",
+    "description": "With butter.",
+    "price": "$5.06",
+    "section": "BREAKFAST",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "BUMM BURNER",
+    "description": "Two Eggs, Bacon, Pepper Jack Cheese, Homefries, Spicy Mayo",
+    "price": "$8.29",
+    "section": "BREAKFAST",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "CHUNKADUNK",
+    "description": "Two Eggs, Bacon, Sausage",
+    "price": "$12.19",
+    "section": "BREAKFAST",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "DELUXE",
+    "description": "Two Eggs, Cheese, Choice of: Bacon, Ham, Sausage",
+    "price": "$7.75",
+    "section": "BREAKFAST",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "SWINFINS",
+    "description": "Lox Spread, Tomato, Red Onion",
+    "price": "$7.29",
+    "section": "BREAKFAST",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "THESKINNY",
+    "description": "Three Egg Whites, Swiss Cheese, Spinach, Tomato",
+    "price": "$7.18",
+    "section": "BREAKFAST",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "LIGHTEN-UP FRANCIS!",
+    "description": "Lox, Cream Cheese",
+    "price": "$8.95",
+    "section": "BREAKFAST",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "BUBBENOSH",
+    "description": "Lox, Cream Cheese, Tomato, Capers, Onion",
+    "price": "$11.74",
+    "section": "BREAKFAST",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "THESCOTTY",
+    "description": "Three Eggs, Ham, Avocado, Cucumber",
+    "price": "$9.96",
+    "section": "BREAKFAST",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "BAGELS",
+    "description": "Plain, Everything, Sesame, Poppy, Onion, Garlic, Egg Everything, Jalapeno Cheddar +$1, Cinnamon Raisin +$1, French Toast +$1, 9 Grain, 9 Grain Everything, Pumpernickel",
+    "price": "$1.14",
+    "section": "BAGELS",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "BAGELS"
+  },
+  {
+    "name": "Cream Cheese",
+    "description": "Plain, Garden Veggie, Olive Pimento, Roasted Garlic Herb, Scallion, Bacon Scallion, Chive, Jalapeno, Maple Walnut, Chocolate Chip, Strawberry",
+    "price": null,
+    "section": "CREAM CHEESE",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "CREAM CHEESE"
+  },
+  {
+    "name": "LOX CC",
+    "description": null,
+    "price": "$9.96",
+    "section": "CREAM CHEESE",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "CREAM CHEESE"
+  },
+  {
+    "name": "1/2 LB CC",
+    "description": null,
+    "price": "$6.06",
+    "section": "CREAM CHEESE",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "CREAM CHEESE"
+  },
+  {
+    "name": "1/4 LB BUTTER",
+    "description": null,
+    "price": "$2.84",
+    "section": "CREAM CHEESE",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "CREAM CHEESE"
+  },
+  {
+    "name": "YAZEN",
+    "description": null,
+    "price": "$6.24",
+    "section": "BAGELS",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "BAGELS"
+  },
+  {
+    "name": "1/2 ZEN",
+    "description": null,
+    "price": "$12.84",
+    "section": "BAGELS",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "BAGELS"
+  },
+  {
+    "name": "WITH CREAM CHEESE",
+    "description": null,
+    "price": "$3.90",
+    "section": "BAGELS",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "BAGELS"
+  },
+  {
+    "name": "WITH BUTTER",
+    "description": null,
+    "price": "$2.23",
+    "section": "BAGELS",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "BAGELS"
+  },
+  {
+    "name": "GLUTEN FREE!",
+    "description": "Cinnamon Raisin, Everything, Plain",
+    "price": "$3.12",
+    "section": "BAGELS",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "BAGELS"
+  },
+  {
+    "name": "BLAZIN SADDLES",
+    "description": "Roast Beef, Horseradish Mayo, Jalapenos, Provolone, Onions + Peppers",
+    "price": "$12.52",
+    "section": "LUNCH",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "LUNCH"
+  },
+  {
+    "name": "TWISTED BACON CLUB",
+    "description": "Cheddar, Turkey-Ham, Chive Schmer, LTO",
+    "price": "$13.30",
+    "section": "LUNCH",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "LUNCH"
+  },
+  {
+    "name": "PURPLE CHICKEN",
+    "description": "Grilled Chicken, Garlic Herb Schmer, Swiss, Beets",
+    "price": "$12.52",
+    "section": "LUNCH",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "LUNCH"
+  },
+  {
+    "name": "\"WHAT SAID\"",
+    "description": "Bacon, Lettuce, Tomatoes, Spicy Mayo, Swiss Cheese",
+    "price": null,
+    "section": "LUNCH",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "LUNCH"
+  },
+  {
+    "name": "PATTY BURGER",
+    "description": "Beef Patty, American, Bacon, Pickles, Ketchup, LTO",
+    "price": "$13.30",
+    "section": "LUNCH",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "LUNCH"
+  },
+  {
+    "name": "PB+J:",
+    "description": "Fluffer",
+    "price": null,
+    "section": "LUNCH",
+    "restaurant_name": "The Twisted Bagel Company",
+    "restaurant_url": "https://the-twisted-bagel-company.com-place.com/",
+    "menu_type": "Menu",
+    "menu_name": "LUNCH"
+  }
+]

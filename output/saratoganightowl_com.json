@@ -1,0 +1,1722 @@
+[
+  {
+    "name": "HURRICANE",
+    "description": "black rum, pineapple, passionfruit, black cherry, pomegranate, lime",
+    "price": "$16",
+    "section": "Summer Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Summer Cocktails"
+  },
+  {
+    "name": "TALL JULEP",
+    "description": "bourbon, mint, ginger, vanilla, & cardamom, topped with seltzer",
+    "price": "$15",
+    "section": "Summer Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Summer Cocktails"
+  },
+  {
+    "name": "PAINKILLER",
+    "description": "smith & cross, appleton rum, coruba, coconut, OJ, pineapple, nutmeg",
+    "price": "$16",
+    "section": "Summer Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Summer Cocktails"
+  },
+  {
+    "name": "PINK flamingo",
+    "description": "reposado tequila, guava, agave strawberry, lime, cardamom",
+    "price": "$16",
+    "section": "Summer Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Summer Cocktails"
+  },
+  {
+    "name": "PIMMS cup",
+    "description": "gin, sweet vermouth, lemon, lime, ginger, mint, & cucumber",
+    "price": "$15",
+    "section": "Summer Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Summer Cocktails"
+  },
+  {
+    "name": "blue HAWAii",
+    "description": "rum, vodka, mint, lime, pineapple, blue curacao, topped with seltzer",
+    "price": "$16",
+    "section": "Summer Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Summer Cocktails"
+  },
+  {
+    "name": "Share a PINEAPPLE for 2!!",
+    "description": "",
+    "price": "$25",
+    "section": "Summer Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Summer Cocktails"
+  },
+  {
+    "name": "A NIGHT OWL SOUVENIR CUP!",
+    "description": "",
+    "price": "$30",
+    "section": "Summer Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Summer Cocktails"
+  },
+  {
+    "name": "Summer BREEZE",
+    "description": "seedlip, apple cordial, & lemon bitters",
+    "price": "$12",
+    "section": "N/A MOCKTAILS",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "N/A MOCKTAILS"
+  },
+  {
+    "name": "Sober NEGRONI",
+    "description": "st. agrestis n/a negroni",
+    "price": "$12",
+    "section": "N/A MOCKTAILS",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "N/A MOCKTAILS"
+  },
+  {
+    "name": "RUM old-fashioned",
+    "description": "rum, ginger, coffee syrup, cardamaro, with cocoa bitters",
+    "price": "$16",
+    "section": "Summer Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Summer Cocktails"
+  },
+  {
+    "name": "APPLE martini",
+    "description": "vodka, apple juice, chonauer apple, leopold apple, lime, clove, & red cherry",
+    "price": "$16",
+    "section": "Summer Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Summer Cocktails"
+  },
+  {
+    "name": "CLOVER club royale",
+    "description": "gin, px sherry, raspberry puree, lemon, lime & grenadine, topped with prosecco",
+    "price": "$15",
+    "section": "Summer Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Summer Cocktails"
+  },
+  {
+    "name": "ESPRESSO martini",
+    "description": "blanco tequila, coffee liqueur, & vanilla liqueur",
+    "price": "$16",
+    "section": "Summer Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Summer Cocktails"
+  },
+  {
+    "name": "MILLER LITE & OL GRAND DAD",
+    "description": "",
+    "price": "$10",
+    "section": "the boilmakers: A SHOT & A BEER",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "the boilmakers: A SHOT & A BEER"
+  },
+  {
+    "name": "ROTHAUS PILSNER & FERNET",
+    "description": "",
+    "price": "$12",
+    "section": "the boilmakers: A SHOT & A BEER",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "the boilmakers: A SHOT & A BEER"
+  },
+  {
+    "name": "IPA & MEZCAL",
+    "description": "",
+    "price": "$14",
+    "section": "the boilmakers: A SHOT & A BEER",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "the boilmakers: A SHOT & A BEER"
+  },
+  {
+    "name": "X-MAS VACATION",
+    "description": "CIDER COCKTAIL scarlet ibis, cider, pimento dram, coruba, lemon, & cinnamon syrup",
+    "price": "$15",
+    "section": "Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "CLUB PARADISE",
+    "description": "CHAI MARTINI vodka, chai, coco, & meletti",
+    "price": "$16",
+    "section": "Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "TRADING PLACES",
+    "description": "A BOULEVARDIER TWIST rye whiskey, montenegro, sweet vermouth, cinnamon syrup, kerry thomas bitters, & an orange peel",
+    "price": "$16",
+    "section": "Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "YUKON CORNELIUS",
+    "description": "THE GOLD RUSH bourbon, lemon & chamomile, with a honey rim",
+    "price": "$15",
+    "section": "Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "THE SHINING",
+    "description": "PEAR MARTINI gin, pear, lillet, simple syrup & lemon, with a lemon twist",
+    "price": "$15",
+    "section": "Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "MS. PEARLY",
+    "description": "MANDARINE SOUR aperol, strega, mandarine, simple syrup, & lemon",
+    "price": "$16",
+    "section": "Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "THE NIGHT OWL espresso martini",
+    "description": "blanco tequila, coffee liqueur, & vanilla liqueur",
+    "price": "$17",
+    "section": "Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "THE WET BANDIT",
+    "description": "PROSECCO FIZZ st. germaine, grapefruit, & simple syrup, topped with prosecco",
+    "price": "$15",
+    "section": "Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "DIE HARD",
+    "description": "MEZCAL THAI ICED TEA mezcal, campari, condensed milk, thai tea, & lime, nutmeg garnish",
+    "price": "$15",
+    "section": "Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "TRUMAN VODKA freezer martinis",
+    "description": "DIRTY / CLASSIC / VESPER 3:1",
+    "price": "$17",
+    "section": "Cocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Cocktails"
+  },
+  {
+    "name": "SOBER NEGRONI",
+    "description": "st. agrestis n/a negroni",
+    "price": "$12",
+    "section": "Non-Alcoholic Mocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Non-Alcoholic Mocktails"
+  },
+  {
+    "name": "WINTER CHILL",
+    "description": "seedlip, pear cordial, & lemon bitters",
+    "price": "$12",
+    "section": "Non-Alcoholic Mocktails",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "Non-Alcoholic Mocktails"
+  },
+  {
+    "name": "tito's",
+    "description": "",
+    "price": "$10",
+    "section": "VODKA",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "VODKA"
+  },
+  {
+    "name": "ketel one",
+    "description": "",
+    "price": "$11",
+    "section": "VODKA",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "VODKA"
+  },
+  {
+    "name": "grey goose",
+    "description": "",
+    "price": "$13",
+    "section": "VODKA",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "VODKA"
+  },
+  {
+    "name": "ketel cucumber",
+    "description": "",
+    "price": "$11",
+    "section": "VODKA",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "VODKA"
+  },
+  {
+    "name": "stoli flavors",
+    "description": "",
+    "price": "$11",
+    "section": "VODKA",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "VODKA"
+  },
+  {
+    "name": "captain morgan",
+    "description": "",
+    "price": "$10",
+    "section": "RUM",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "RUM"
+  },
+  {
+    "name": "coconut rum",
+    "description": "",
+    "price": "$10",
+    "section": "RUM",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "RUM"
+  },
+  {
+    "name": "coruba dark",
+    "description": "",
+    "price": "$10",
+    "section": "RUM",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "RUM"
+  },
+  {
+    "name": "cadenhead's",
+    "description": "",
+    "price": "$14",
+    "section": "RUM",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "RUM"
+  },
+  {
+    "name": "appleton reserve",
+    "description": "",
+    "price": "$11",
+    "section": "RUM",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "RUM"
+  },
+  {
+    "name": "clement vsop rhum",
+    "description": "",
+    "price": "$13",
+    "section": "RUM",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "RUM"
+  },
+  {
+    "name": "amaro montenegro",
+    "description": "",
+    "price": "$10",
+    "section": "COGNAC + LIQUEURS",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "COGNAC + LIQUEURS"
+  },
+  {
+    "name": "hennessy vs",
+    "description": "",
+    "price": "$14",
+    "section": "COGNAC + LIQUEURS",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "COGNAC + LIQUEURS"
+  },
+  {
+    "name": "bailey's",
+    "description": "",
+    "price": "$10",
+    "section": "COGNAC + LIQUEURS",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "COGNAC + LIQUEURS"
+  },
+  {
+    "name": "campari",
+    "description": "",
+    "price": "$10",
+    "section": "COGNAC + LIQUEURS",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "COGNAC + LIQUEURS"
+  },
+  {
+    "name": "aperol",
+    "description": "",
+    "price": "$10",
+    "section": "COGNAC + LIQUEURS",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "COGNAC + LIQUEURS"
+  },
+  {
+    "name": "fernet",
+    "description": "",
+    "price": "$10",
+    "section": "COGNAC + LIQUEURS",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "COGNAC + LIQUEURS"
+  },
+  {
+    "name": "fireball",
+    "description": "",
+    "price": "$9",
+    "section": "COGNAC + LIQUEURS",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "COGNAC + LIQUEURS"
+  },
+  {
+    "name": "jager",
+    "description": "",
+    "price": "$10",
+    "section": "COGNAC + LIQUEURS",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "COGNAC + LIQUEURS"
+  },
+  {
+    "name": "sambuca",
+    "description": "",
+    "price": "$10",
+    "section": "COGNAC + LIQUEURS",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "COGNAC + LIQUEURS"
+  },
+  {
+    "name": "amaretto",
+    "description": "",
+    "price": "$10",
+    "section": "COGNAC + LIQUEURS",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "COGNAC + LIQUEURS"
+  },
+  {
+    "name": "screwball",
+    "description": "",
+    "price": "$10",
+    "section": "COGNAC + LIQUEURS",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "COGNAC + LIQUEURS"
+  },
+  {
+    "name": "tanqueray",
+    "description": "",
+    "price": "$11",
+    "section": "GIN",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "GIN"
+  },
+  {
+    "name": "sipsmith",
+    "description": "",
+    "price": "$13",
+    "section": "GIN",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "GIN"
+  },
+  {
+    "name": "hendricks",
+    "description": "",
+    "price": "$14",
+    "section": "GIN",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "GIN"
+  },
+  {
+    "name": "old raj 110",
+    "description": "",
+    "price": "$14",
+    "section": "GIN",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "GIN"
+  },
+  {
+    "name": "lalo blanco",
+    "description": "",
+    "price": "$11",
+    "section": "TEQUILA",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "TEQUILA"
+  },
+  {
+    "name": "tequila ocho blanco",
+    "description": "",
+    "price": "$13",
+    "section": "TEQUILA",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "TEQUILA"
+  },
+  {
+    "name": "casamigos blanco",
+    "description": "",
+    "price": "$13",
+    "section": "TEQUILA",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "TEQUILA"
+  },
+  {
+    "name": "ocho reposado",
+    "description": "",
+    "price": "$14",
+    "section": "TEQUILA",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "TEQUILA"
+  },
+  {
+    "name": "casamigos reposado",
+    "description": "",
+    "price": "$15",
+    "section": "TEQUILA",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "TEQUILA"
+  },
+  {
+    "name": "don julio 1942",
+    "description": "",
+    "price": "$50",
+    "section": "TEQUILA",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "TEQUILA"
+  },
+  {
+    "name": "casamigos anejo",
+    "description": "",
+    "price": "$16",
+    "section": "TEQUILA",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "TEQUILA"
+  },
+  {
+    "name": "mezcal",
+    "description": "",
+    "price": "$10",
+    "section": "TEQUILA",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "TEQUILA"
+  },
+  {
+    "name": "jameson",
+    "description": "",
+    "price": "$12",
+    "section": "WHISKEY",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WHISKEY"
+  },
+  {
+    "name": "crown",
+    "description": "",
+    "price": "$14",
+    "section": "WHISKEY",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WHISKEY"
+  },
+  {
+    "name": "bulleit bourbon",
+    "description": "",
+    "price": "$11",
+    "section": "WHISKEY",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WHISKEY"
+  },
+  {
+    "name": "johnny walker black",
+    "description": "",
+    "price": "$15",
+    "section": "WHISKEY",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WHISKEY"
+  },
+  {
+    "name": "jack daniels honey-fire",
+    "description": "",
+    "price": "$10",
+    "section": "WHISKEY",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WHISKEY"
+  },
+  {
+    "name": "old overhold bonded rye",
+    "description": "",
+    "price": "$10",
+    "section": "WHISKEY",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WHISKEY"
+  },
+  {
+    "name": "macallan 12yr",
+    "description": "",
+    "price": "$16",
+    "section": "WHISKEY",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WHISKEY"
+  },
+  {
+    "name": "macallan 18yr",
+    "description": "",
+    "price": "$50",
+    "section": "WHISKEY",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WHISKEY"
+  },
+  {
+    "name": "lagavulin 16yr",
+    "description": "",
+    "price": "$20",
+    "section": "WHISKEY",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WHISKEY"
+  },
+  {
+    "name": "laphroaig 10yr",
+    "description": "",
+    "price": "$16",
+    "section": "WHISKEY",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WHISKEY"
+  },
+  {
+    "name": "heineken",
+    "description": "",
+    "price": "$7",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "modelo",
+    "description": "",
+    "price": "$7",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "miller lite",
+    "description": "",
+    "price": "$5",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "happy dad seltzer",
+    "description": "",
+    "price": "$8",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "local ipa can",
+    "description": "",
+    "price": "$9",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "hudson valley sour",
+    "description": "",
+    "price": "$10",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "rothaus german pilsner",
+    "description": "",
+    "price": "$9",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "st. bernadus wit",
+    "description": "",
+    "price": "$9",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "guinness",
+    "description": "",
+    "price": "$8",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "nine pin cider",
+    "description": "",
+    "price": "$9",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "bud light",
+    "description": "",
+    "price": "$7",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "high noon",
+    "description": "",
+    "price": "$10",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "surfside",
+    "description": "",
+    "price": "$10",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "red stripe",
+    "description": "",
+    "price": "$7",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "local draft ipa",
+    "description": "",
+    "price": "$10",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "heinekin NA",
+    "description": "",
+    "price": "$7",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "Red Bull: original, SF & yellow",
+    "description": "",
+    "price": "$5",
+    "section": "CANS + BOTTLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "CANS + BOTTLES"
+  },
+  {
+    "name": "cabernet sauvignon",
+    "description": "",
+    "price": "$12 glass | $40 bottle",
+    "section": "WINES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WINES"
+  },
+  {
+    "name": "pinot noir",
+    "description": "",
+    "price": "$12 glass | $40 bottle",
+    "section": "WINES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WINES"
+  },
+  {
+    "name": "rose",
+    "description": "",
+    "price": "$12 glass | $40 bottle",
+    "section": "WINES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WINES"
+  },
+  {
+    "name": "prosecco",
+    "description": "",
+    "price": "$12 glass | $40 bottle",
+    "section": "WINES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WINES"
+  },
+  {
+    "name": "sauvignon blanc",
+    "description": "",
+    "price": "$12 glass | $40 bottle",
+    "section": "WINES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WINES"
+  },
+  {
+    "name": "pinot grigio",
+    "description": "",
+    "price": "$12 glass | $40 bottle",
+    "section": "WINES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WINES"
+  },
+  {
+    "name": "chardonnay",
+    "description": "",
+    "price": "$12 glass | $40 bottle",
+    "section": "WINES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WINES"
+  },
+  {
+    "name": "reisling",
+    "description": "",
+    "price": "$12 glass | $40 bottle",
+    "section": "WINES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "WINES"
+  },
+  {
+    "name": "veuve",
+    "description": "",
+    "price": "$175",
+    "section": "BUBBLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "BUBBLES"
+  },
+  {
+    "name": "veuve rose",
+    "description": "",
+    "price": "$200",
+    "section": "BUBBLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "BUBBLES"
+  },
+  {
+    "name": "ruinart rose",
+    "description": "",
+    "price": "$300",
+    "section": "BUBBLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "BUBBLES"
+  },
+  {
+    "name": "ruinart blanc de blanc",
+    "description": "",
+    "price": "$275",
+    "section": "BUBBLES",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "BUBBLES"
+  },
+  {
+    "name": "ketel one",
+    "description": "",
+    "price": "$11",
+    "section": "vodka",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "vodka"
+  },
+  {
+    "name": "grey goose",
+    "description": "",
+    "price": "$13",
+    "section": "vodka",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "vodka"
+  },
+  {
+    "name": "ketel cucumber",
+    "description": "",
+    "price": "$11",
+    "section": "vodka",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "vodka"
+  },
+  {
+    "name": "stoli flavors",
+    "description": "",
+    "price": "$11",
+    "section": "vodka",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "vodka"
+  },
+  {
+    "name": "truman vodka",
+    "description": "",
+    "price": "$13",
+    "section": "vodka",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "vodka"
+  },
+  {
+    "name": "captain morgan",
+    "description": "",
+    "price": "$10",
+    "section": "rum",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "rum"
+  },
+  {
+    "name": "coconut rum",
+    "description": "",
+    "price": "$10",
+    "section": "rum",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "rum"
+  },
+  {
+    "name": "coruba dark",
+    "description": "",
+    "price": "$10",
+    "section": "rum",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "rum"
+  },
+  {
+    "name": "cadenhead's",
+    "description": "",
+    "price": "$14",
+    "section": "rum",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "rum"
+  },
+  {
+    "name": "appleton reserve",
+    "description": "",
+    "price": "$11",
+    "section": "rum",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "rum"
+  },
+  {
+    "name": "clement vsop rhum",
+    "description": "",
+    "price": "$13",
+    "section": "rum",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "rum"
+  },
+  {
+    "name": "amaro montenegro",
+    "description": "",
+    "price": "$10",
+    "section": "cognac & liqueurs",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cognac & liqueurs"
+  },
+  {
+    "name": "hennessy vs",
+    "description": "",
+    "price": "$14",
+    "section": "cognac & liqueurs",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cognac & liqueurs"
+  },
+  {
+    "name": "bailey's",
+    "description": "",
+    "price": "$10",
+    "section": "cognac & liqueurs",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cognac & liqueurs"
+  },
+  {
+    "name": "campari",
+    "description": "",
+    "price": "$10",
+    "section": "cognac & liqueurs",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cognac & liqueurs"
+  },
+  {
+    "name": "aperol",
+    "description": "",
+    "price": "$10",
+    "section": "cognac & liqueurs",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cognac & liqueurs"
+  },
+  {
+    "name": "fernet",
+    "description": "",
+    "price": "$10",
+    "section": "cognac & liqueurs",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cognac & liqueurs"
+  },
+  {
+    "name": "fireball",
+    "description": "",
+    "price": "$9",
+    "section": "cognac & liqueurs",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cognac & liqueurs"
+  },
+  {
+    "name": "jager",
+    "description": "",
+    "price": "$10",
+    "section": "cognac & liqueurs",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cognac & liqueurs"
+  },
+  {
+    "name": "amaretto",
+    "description": "",
+    "price": "$10",
+    "section": "cognac & liqueurs",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cognac & liqueurs"
+  },
+  {
+    "name": "tanqueray",
+    "description": "",
+    "price": "$11",
+    "section": "gin",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "gin"
+  },
+  {
+    "name": "sipsmith",
+    "description": "",
+    "price": "$13",
+    "section": "gin",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "gin"
+  },
+  {
+    "name": "hendricks",
+    "description": "",
+    "price": "$14",
+    "section": "gin",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "gin"
+  },
+  {
+    "name": "old raj 110",
+    "description": "",
+    "price": "$14",
+    "section": "gin",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "gin"
+  },
+  {
+    "name": "lalo blanco",
+    "description": "",
+    "price": "$11",
+    "section": "tequila",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "tequila"
+  },
+  {
+    "name": "casamigos blanco",
+    "description": "",
+    "price": "$13",
+    "section": "tequila",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "tequila"
+  },
+  {
+    "name": "ocho blanco",
+    "description": "",
+    "price": "$12",
+    "section": "tequila",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "tequila"
+  },
+  {
+    "name": "ocho reposado",
+    "description": "",
+    "price": "$14",
+    "section": "tequila",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "tequila"
+  },
+  {
+    "name": "casamigos reposado",
+    "description": "",
+    "price": "$15",
+    "section": "tequila",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "tequila"
+  },
+  {
+    "name": "don julio 1942",
+    "description": "",
+    "price": "$50",
+    "section": "tequila",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "tequila"
+  },
+  {
+    "name": "casamigos anejo",
+    "description": "",
+    "price": "$16",
+    "section": "tequila",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "tequila"
+  },
+  {
+    "name": "jameson",
+    "description": "",
+    "price": "$12",
+    "section": "whiskey",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "crown",
+    "description": "",
+    "price": "$14",
+    "section": "whiskey",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "bulleit bourbon",
+    "description": "",
+    "price": "$11",
+    "section": "whiskey",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "johnny walker black",
+    "description": "",
+    "price": "$15",
+    "section": "whiskey",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "jack daniels honey-fire",
+    "description": "",
+    "price": "$10",
+    "section": "whiskey",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "old overhold bonded rye",
+    "description": "",
+    "price": "$10",
+    "section": "whiskey",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "macallan 12yr",
+    "description": "",
+    "price": "$16",
+    "section": "whiskey",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "macallan 18yr",
+    "description": "",
+    "price": "$50",
+    "section": "whiskey",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "laphroiag 10yr",
+    "description": "",
+    "price": "$16",
+    "section": "whiskey",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "whiskey"
+  },
+  {
+    "name": "heineken",
+    "description": "",
+    "price": "$7",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "modelo",
+    "description": "",
+    "price": "$7",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "miller lite",
+    "description": "",
+    "price": "$5",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "happy dad seltzer",
+    "description": "",
+    "price": "$8",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "local ipa can",
+    "description": "",
+    "price": "$9",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "hudson valley sour",
+    "description": "",
+    "price": "$10",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "rothaus german pilsner",
+    "description": "",
+    "price": "$9",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "st. bernadus wit",
+    "description": "",
+    "price": "$9",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "guinness",
+    "description": "",
+    "price": "$8",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "nine pin cider",
+    "description": "",
+    "price": "$9",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "bud light",
+    "description": "",
+    "price": "$7",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "high noon",
+    "description": "",
+    "price": "$10",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "surfside",
+    "description": "",
+    "price": "$10",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "red stripe",
+    "description": "",
+    "price": "$7",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "local draft ipa",
+    "description": "",
+    "price": "$10",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "heinekin NA",
+    "description": "",
+    "price": "$7",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "red bull 06, SF & yellow",
+    "description": "",
+    "price": "$6",
+    "section": "cans + bottles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "cans + bottles"
+  },
+  {
+    "name": "cabernet sauvignon",
+    "description": "",
+    "price": "$12 Glass | $40 Bottle",
+    "section": "wines",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "wines"
+  },
+  {
+    "name": "pinot noir",
+    "description": "",
+    "price": "$12 Glass | $40 Bottle",
+    "section": "wines",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "wines"
+  },
+  {
+    "name": "rose",
+    "description": "",
+    "price": "$12 Glass | $40 Bottle",
+    "section": "wines",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "wines"
+  },
+  {
+    "name": "prosecco",
+    "description": "",
+    "price": "$12 Glass | $40 Bottle",
+    "section": "wines",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "wines"
+  },
+  {
+    "name": "sauvignon blanc",
+    "description": "",
+    "price": "$12 Glass | $40 Bottle",
+    "section": "wines",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "wines"
+  },
+  {
+    "name": "pinot grigio",
+    "description": "",
+    "price": "$12 Glass | $40 Bottle",
+    "section": "wines",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "wines"
+  },
+  {
+    "name": "chardonnay",
+    "description": "",
+    "price": "$12 Glass | $40 Bottle",
+    "section": "wines",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "wines"
+  },
+  {
+    "name": "reisling",
+    "description": "",
+    "price": "$12 Glass | $40 Bottle",
+    "section": "wines",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "wines"
+  },
+  {
+    "name": "veuve",
+    "description": "",
+    "price": "$175",
+    "section": "bubbles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "bubbles"
+  },
+  {
+    "name": "veuve rose",
+    "description": "",
+    "price": "$200",
+    "section": "bubbles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "bubbles"
+  },
+  {
+    "name": "ruinart rose",
+    "description": "",
+    "price": "$300",
+    "section": "bubbles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "bubbles"
+  },
+  {
+    "name": "ruinart blanc de blanc",
+    "description": "",
+    "price": "$300",
+    "section": "bubbles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "bubbles"
+  },
+  {
+    "name": "krug",
+    "description": "",
+    "price": "$500",
+    "section": "bubbles",
+    "restaurant_name": "The Night Owl Saratoga",
+    "restaurant_url": "http://www.saratoganightowl.com/",
+    "menu_type": "Fall & Winter Menu '25-'26",
+    "menu_name": "bubbles"
+  }
+]

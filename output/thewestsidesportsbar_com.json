@@ -1,0 +1,622 @@
+[
+  {
+    "name": "Eggs Anyway:",
+    "description": "Choice of scrambled, over easy, or poached  served with seasoned home fries and choice of white or rye toast. Add-ons: sausage, bacon, or Canadian bacon +$4",
+    "price": "$8",
+    "section": "BREAKFAST",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "Biscuits & Gravy:",
+    "description": "Chefs homemade gravy and ground sausage with crisp flaky buttermilk biscuits. Add-ons: any choice of eggs +$3",
+    "price": "$13",
+    "section": "BREAKFAST",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "Breakfast Sandwich:",
+    "description": "Choice of bread, white, rye, plain bagel, or an English muffin. Choose either sausage, bacon, or Canadian bacon. Topped with a fried egg and your choice of melted cheese",
+    "price": "$10",
+    "section": "BREAKFAST",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "Eggs Benedict:",
+    "description": "Poached egg on an english muffin, with spinach, Canadian bacon drizzled in hollandaise sauce, served with seasoned home fries",
+    "price": "$12",
+    "section": "BREAKFAST",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "The Hangover Skillet:",
+    "description": "Scrambled eggs, peppers, onions, chopped bacon, shredded cheese blend and seasoned home fries",
+    "price": "$12",
+    "section": "BREAKFAST",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "Pancake Trifecta:",
+    "description": "3 pancakes with your choice of plain or blueberry smothered in luscious maple syrup and drenched in butter",
+    "price": "$14",
+    "section": "BREAKFAST",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "Super Fluffy Omelette:",
+    "description": "Choice of sausage, bacon, or Canadian bacon, between peppers, onions, and topped with shredded cheese blend cooked to perfection. Served with seasoned home fries",
+    "price": "$13",
+    "section": "BREAKFAST",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "Flatbread Breakfast Pizza:",
+    "description": "We start with house made cheese sauce drizzled on the crisp flatbread, then layer it with scrambled eggs, chopped bacon, ground sausage, peppers, onions, then smother it with a shredded cheese blend melted over it",
+    "price": "$14",
+    "section": "BREAKFAST",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "Breakfast Burrito:",
+    "description": "Choice of sausage, bacon, or Canadian bacon, scrambled eggs, peppers, onions, and shredded cheese blend all wrapped up just the way you like it. Served with seasoned home fries",
+    "price": "$13",
+    "section": "BREAKFAST",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "Seasoned home fries",
+    "description": "",
+    "price": "$3",
+    "section": "BREAKFAST",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "BREAKFAST"
+  },
+  {
+    "name": "Get Me to the Greek:",
+    "description": "Fresh grilled breast of chicken, Kalamata olives, artichoke hearts, roasted red peppers, red onions, diced tomato, feta cheese, house feta dressin",
+    "price": "$17",
+    "section": "SALADS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "Cranberry Cashew (Locals Approved!):",
+    "description": "Fresh grilled breast of chicken, cranberries, cashews, red onions, crumbled bleu cheese, roasted red peppers, honey mustard dressing",
+    "price": "$17",
+    "section": "SALADS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "Steak Salad:",
+    "description": "Grilled USDA choice strip, cucumbers, carrots, tomato & croutons",
+    "price": "$17",
+    "section": "SALADS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "California Cobb:",
+    "description": "Fresh grilled breast of chicken, guacamole, diced tomatoes, bacon, crumbled bleu cheese",
+    "price": "$17",
+    "section": "SALADS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "Asian Salad:",
+    "description": "Fresh crispy or grilled breast of chicken, romaine, mandarin oranges, almonds, sesame noodles, sesame ginger dressing",
+    "price": "$17",
+    "section": "SALADS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "West Side Chopped:",
+    "description": "Grilled breast of chicken, bacon, crumbled bleu cheese, diced tomatoes tossed in Caesar dressing",
+    "price": "$17",
+    "section": "SALADS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "Buffalo Chicken:",
+    "description": "Fresh grilled or crispy breast of chicken, diced tomatoes, celery, red onions, crumbled bleu cheese, tortilla strips, house made bleu cheese dressing",
+    "price": "$17",
+    "section": "SALADS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "Chicken Caesar:",
+    "description": "Fresh grilled breast of chicken, chopped romaine, shaved parmesan, croutons, Caesar dressing. Add-ons: Grilled Atlantic Salmon +$7. Add-ons: NY Strip Steak +$7",
+    "price": "$17",
+    "section": "SALADS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SALADS"
+  },
+  {
+    "name": "French Onion",
+    "description": "",
+    "price": "$9",
+    "section": "SOUP",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SOUP"
+  },
+  {
+    "name": "Soup du Jour:",
+    "description": "Cup  or Bowl",
+    "price": "Cup $7 | Bowl $9",
+    "section": "SOUP",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SOUP"
+  },
+  {
+    "name": "Boneless Chicken Wings:",
+    "description": "Tossed in our wing sauce, celery, carrot sticks, side of ranch or bleu cheese",
+    "price": "$15",
+    "section": "HOUSE FAVORITE",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "HOUSE FAVORITE"
+  },
+  {
+    "name": "Fresh Cut Chicken Wings:",
+    "description": "Cooked to perfection, served with celery, carrots & bleu cheese ()",
+    "price": "Ten $19 | Twenty $33",
+    "section": "HOUSE FAVORITE",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "HOUSE FAVORITE"
+  },
+  {
+    "name": "West Side’s Award-Winning House Made Chunky Bleu Cheese Dressing:",
+    "description": "Take it to-go 12oz",
+    "price": "$15",
+    "section": "HOUSE FAVORITE",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "HOUSE FAVORITE"
+  },
+  {
+    "name": "Brussel Sprouts:",
+    "description": "Fried, drizzled with honey & a balsamic glaze",
+    "price": "$14",
+    "section": "APPETIZERS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "Potato Skins:",
+    "description": "Topped with melted cheese, bacon",
+    "price": "$10",
+    "section": "APPETIZERS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "Loaded Skillet Fries:",
+    "description": "House cut fries with bacon, cheddar & scallions",
+    "price": "$14",
+    "section": "APPETIZERS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "Fried Pickles:",
+    "description": "With ranch dressing",
+    "price": "$13",
+    "section": "APPETIZERS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "Steamers:",
+    "description": "Little neck clams freshly steamed with classic crawn butter & crisp bread",
+    "price": "$17",
+    "section": "APPETIZERS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "Sautéed Pot Sticker:",
+    "description": "Pork-filled & seasoned with authentic Asian spices, served with Szechuan sauce",
+    "price": "$14",
+    "section": "APPETIZERS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "Pretzel Sticks:",
+    "description": "Soft baked pretzels, cheese sauce or honey mustard",
+    "price": "$15",
+    "section": "APPETIZERS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "Mozzarella Sticks:",
+    "description": "Raspberry sauce or marinara. Add-ons: chicken or beef +$5",
+    "price": "$13",
+    "section": "APPETIZERS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "The Dilla:",
+    "description": "Build your own with chicken, steak, or shrimp. Loaded with cheese w/salsa/sour cream & tortilla chips",
+    "price": "Chicken $16 | Steak $18 | Shrimp $18",
+    "section": "APPETIZERS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "House Made Saratoga Chips:",
+    "description": "Fresh sliced potatoes, crispy fried & lightly seasoned. Add-ons: signature side +$2",
+    "price": "$8",
+    "section": "APPETIZERS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "Calamari (West Side Original Recipe!):",
+    "description": "Flour dusted, scallion, cherry peppers, balsamic glaze reduction, parmesan cheese",
+    "price": "$18",
+    "section": "APPETIZERS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "Buffalo Calamari (West Side Original Recipe!):",
+    "description": "Tossed in house buffalo sauce. Bleu cheese crumbles & scallions",
+    "price": "$18",
+    "section": "APPETIZERS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "APPETIZERS"
+  },
+  {
+    "name": "Shrimp Tacos (Featured on America’s Best Restaurants):",
+    "description": "Shrimp soaked in our own tequila lime marinade, sautéed to perfection, served on soft-shell tacos with our fresh pineapple mango salsa & your choice of side",
+    "price": "$18",
+    "section": "platters",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "platters"
+  },
+  {
+    "name": "Pawtucket Clam Strip Basket:",
+    "description": "Golden fried clam strips with house made tartar sauce",
+    "price": "$17",
+    "section": "platters",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "platters"
+  },
+  {
+    "name": "Fish & Chips:",
+    "description": "Beer battered crispy haddock fillet, coleslaw, choice of side, cocktail or tartar sauce",
+    "price": "$20",
+    "section": "platters",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "platters"
+  },
+  {
+    "name": "Slider Trio:",
+    "description": "Classic beef sliders with slaw and French fries on slider roll",
+    "price": "$19",
+    "section": "platters",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "platters"
+  },
+  {
+    "name": "The Signature West Side",
+    "description": "",
+    "price": "$17",
+    "section": "BURGERS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "BURGERS"
+  },
+  {
+    "name": "The Jack Daniels:",
+    "description": "Half-pound fresh Angus burger, cheddar cheese, sautéed onions, bacon with house made Jack Daniels bourbon sauce",
+    "price": "$19",
+    "section": "BURGERS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "BURGERS"
+  },
+  {
+    "name": "Breakfast Burger:",
+    "description": "Half-pound fresh Angus burger, cheddar cheese, crisp bacon, lettuce, tomato hash brown & fried egg",
+    "price": "$19",
+    "section": "BURGERS",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "BURGERS"
+  },
+  {
+    "name": "Cowboy Chicken:",
+    "description": "Grilled breast of chicken with cheddar cheese, BBQ sauce, jalapenos, bacon",
+    "price": "$17",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Philly Cheese Steak:",
+    "description": "Shaved steak, peppers, onions, provolone, hoagie roll  French Dip",
+    "price": "$17",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Buffalo Chicken:",
+    "description": "Crispy or grilled breast of chicken, buffalo sauce, lettuce, tomato, homemade bleu cheese, or ranch",
+    "price": "$17",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Kick’in Chicken (Dairy Free):",
+    "description": "Marinated breast of chicken, golden fried, house savory seasoning, lettuce, cajun, bacon, dijon aioli, brioche bun",
+    "price": "$18",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Big Mac Crunch Wrap:",
+    "description": "Classic chopped beef, lettuce, Russian, pickles, onion, cheddar cheese",
+    "price": "$18",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "NY Apple of My Eye:",
+    "description": "Grilled breast of chicken, aged cheddar cheese, sliced apples, honey mustard, flatbread",
+    "price": "$17",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Italian Grilled Cheese:",
+    "description": "Ripe tomato, fresh basil & fresh mozzarella on white bread",
+    "price": "$17",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "BLT Dogs:",
+    "description": "Crisp applewood smoked bacon, seasoned tomatoes in crisp lettuce boats",
+    "price": "$17",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Reuben:",
+    "description": "Turkey or corned beef, Swiss cheese, sauerkraut, Russian dressing, rye bread",
+    "price": "$17",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "The Spa Clubhouse:",
+    "description": "Fresh oven roasted turkey, bacon, lettuce, tomato, choice of toasted bread",
+    "price": "$17",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Short Rib Burrito:",
+    "description": "Our tender & succulent braised beef short ribs served in a burrito with cheese, lettuce & tomato. Served with our fresh pineapple mango salsa & chips",
+    "price": "$18",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Hot Dogs:",
+    "description": "2 all beef franks, served with our fresh cut fries",
+    "price": "$13",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Chicken Parmesan:",
+    "description": "Fresh chicken breast, trimmed, breaded & topped with mozzarella & marinara sauce",
+    "price": "$22",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Norwegian Salmon:",
+    "description": "Chef’s daily salmon special. Served with seasonal vegetables & baked potato",
+    "price": "$24",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Stadium Mac & Cheese:",
+    "description": "Chef’s weekly mac & cheese creation",
+    "price": "$20",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Famous Meatballs with Spaghetti:",
+    "description": "Signature house made meatballs in marinara over classic spaghetti with garlic bread",
+    "price": "$21",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "NY Strip Steak Grilled:",
+    "description": "14oz grilled black Angus sirloin with daily vegetables & baked potato",
+    "price": "$28",
+    "section": "SANDWICHES",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "SANDWICHES"
+  },
+  {
+    "name": "Three Cheese:",
+    "description": "Mozzarella, provolone & parmesan",
+    "price": "$14",
+    "section": "FLATBREAD PIZZA",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "FLATBREAD PIZZA"
+  },
+  {
+    "name": "Buffalo Chicken:",
+    "description": "Shredded chicken, Frank’s hot sauce, mozzarella topped with scallions",
+    "price": "$17",
+    "section": "FLATBREAD PIZZA",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "FLATBREAD PIZZA"
+  },
+  {
+    "name": "Pepperoni, Jalapeno with Hot Honey:",
+    "description": "Pepperoni, jalapeno, hot honey & mozzarella",
+    "price": "$16",
+    "section": "FLATBREAD PIZZA",
+    "restaurant_name": "The West Side Sports Bar & Grill",
+    "restaurant_url": "http://www.thewestsidesportsbar.com/",
+    "menu_type": "Menu",
+    "menu_name": "FLATBREAD PIZZA"
+  }
+]

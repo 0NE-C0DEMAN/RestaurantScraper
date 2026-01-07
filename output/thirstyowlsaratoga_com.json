@@ -1,0 +1,652 @@
+[
+  {
+    "name": "CHARCUTERIE*",
+    "description": "Selection of specialty cheeses & cured meats",
+    "price": "FOR TWO: $25 | FOR FOUR: $45",
+    "section": "Starters",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "WARM MEDITERRANEAN OLIVES*",
+    "description": "Warm sizzling olives, sautéed in garlic and olive oil, served with grilled pita and tapenade",
+    "price": "FOR TWO: $18 | FOR FOUR: $32",
+    "section": "Starters",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "SOUP OF THE DAY",
+    "description": null,
+    "price": "CUP: $8 | BOWL: $11",
+    "section": "Starters",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "CRAB AND CORN CHOWDER (GF)",
+    "description": null,
+    "price": "CUP: $9 | BOWL: $12",
+    "section": "Starters",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Starters"
+  },
+  {
+    "name": "PRETZEL STICKS",
+    "description": "Served with a creamy cheese sauce",
+    "price": "$15",
+    "section": "Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "MOZZARELLA STICKS",
+    "description": "Served with marinara sauce",
+    "price": "$15",
+    "section": "Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "CRAB CAKES",
+    "description": "Served over greens with remoulade sauce",
+    "price": "$22",
+    "section": "Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "PORK BELLY MUSSELS",
+    "description": "Finished in a garlic cream sauce and topped with crispy pork belly",
+    "price": "$17",
+    "section": "Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "DUCK DRUMMERS",
+    "description": "Duck wings topped with a sweet thai chili sauce, served over mixed greens",
+    "price": "$22",
+    "section": "Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "BANG BANG SHRIMP",
+    "description": "Jumbo shrimp lightly fried and tossed with a sriracha aioli, served over mixed greens",
+    "price": "$19",
+    "section": "Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "FRIED CALAMARI TWO WAYS",
+    "description": "Lightly fried and served with marinara sauce OR banana peppers, pork belly, & sriracha aioli",
+    "price": "$19",
+    "section": "Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "BOURBON SCALLOPS TWO WAYS",
+    "description": "Pan seared, lightly cajuned jumbo scallops served over fried spinach, topped with a bourbon cream sauce OR corn-pork belly hash",
+    "price": "$24",
+    "section": "Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Small Plates"
+  },
+  {
+    "name": "CLASSIC CAESAR SALAD",
+    "description": "Romaine, Asiago cheese, and garlic croutons tossed in our own creamy Caesar dressing",
+    "price": "$16",
+    "section": "Bowls",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Bowls"
+  },
+  {
+    "name": "BEET AND WALNUT SALAD (GF)",
+    "description": "Fresh baby spinach, sliced beets, walnuts, and feta cheese in a balsamic vinaigrette",
+    "price": "$18",
+    "section": "Bowls",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Bowls"
+  },
+  {
+    "name": "APPLE QUINOA SALAD (GF)",
+    "description": "Mixed greens, quinoa, sliced apple, dried cranberries, and gorgonzola cheese in a apple-maple vinaigrette",
+    "price": "$18",
+    "section": "Bowls",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Bowls"
+  },
+  {
+    "name": "CLASSIC FIELD GREENS SALAD (GF)",
+    "description": "Mixed greens, cucumbers, cherry tomatoes, carrots, and marinated onions in a balsamic vinaigrette",
+    "price": "$15",
+    "section": "Bowls",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Bowls"
+  },
+  {
+    "name": "VEGGIE FLATBREAD (GF)",
+    "description": "Cauliflower flatbread topped with spinach, roasted red pepper, artichokes, and mozzarella cheese with a balsamic glaze\nAdd chicken $4",
+    "price": "$18",
+    "section": "Lunch Favorites",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Lunch Favorites"
+  },
+  {
+    "name": "PESTO SALMON (GF)",
+    "description": "Pan seared salmon served with pesto sauce, green beans and grape tomatoes",
+    "price": "$29",
+    "section": "Lunch Favorites",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Lunch Favorites"
+  },
+  {
+    "name": "FISH AND CHIPS",
+    "description": "Battered cod, served with tartar sauce and french fries",
+    "price": "$23",
+    "section": "Lunch Favorites",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Lunch Favorites"
+  },
+  {
+    "name": "THIRSTY OWL BURGER*",
+    "description": "Grilled burger topped with cheddar cheese and bacon, served on a brioche bun with a side of dijon aioli and choice of fries or salad",
+    "price": "$19",
+    "section": "Lunch Favorites",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Lunch Favorites"
+  },
+  {
+    "name": "CHICKEN BACON RANCH SANDWICH*",
+    "description": "Grilled chicken topped with shredded mozzarella and bacon with a side of ranch dressing, served on a brioche bun with choice of fries or salad",
+    "price": "$19",
+    "section": "Lunch Favorites",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Lunch Favorites"
+  },
+  {
+    "name": "CHARCUTERIE*",
+    "description": "Selection of specialty cheeses and cured meats, served with seasonal accompaniments",
+    "price": "FOR TWO: $25 | FOR FOUR: $45",
+    "section": "Boards",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Boards"
+  },
+  {
+    "name": "WARM MEDITERRANEAN OLIVES*",
+    "description": "Warm sizzling olives sautéed in garlic and olive oil, served with grilled pita and olive tapenade",
+    "price": "FOR TWO: $18 | FOR FOUR: $32",
+    "section": "Boards",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Boards"
+  },
+  {
+    "name": "SOUP OF THE DAY",
+    "description": null,
+    "price": "CUP: $8 | BOWL: $11",
+    "section": "Soup & Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Soup & Small Plates"
+  },
+  {
+    "name": "CRAB AND CORN CHOWDER (GF)",
+    "description": null,
+    "price": "CUP: $9 | BOWL: $12",
+    "section": "Soup & Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Soup & Small Plates"
+  },
+  {
+    "name": "PRETZEL STICKS",
+    "description": "Served with a creamy cheese sauce",
+    "price": "$15",
+    "section": "Soup & Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Soup & Small Plates"
+  },
+  {
+    "name": "MOZZARELLA STICKS",
+    "description": "Served with marinara sauce",
+    "price": "$15",
+    "section": "Soup & Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Soup & Small Plates"
+  },
+  {
+    "name": "CRAB CAKES",
+    "description": "Served over greens with remoulade sauce",
+    "price": "$22",
+    "section": "Soup & Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Soup & Small Plates"
+  },
+  {
+    "name": "PORK BELLY MUSSELS",
+    "description": "Finished in a garlic cream sauce and topped with crispy pork belly",
+    "price": "$17",
+    "section": "Soup & Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Soup & Small Plates"
+  },
+  {
+    "name": "DUCK DRUMMERS",
+    "description": "Duck wings topped with a sweet thai chili sauce, served over mixed greens",
+    "price": "$22",
+    "section": "Soup & Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Soup & Small Plates"
+  },
+  {
+    "name": "BANG BANG SHRIMP",
+    "description": "Jumbo shrimp lightly fried and tossed with a sriracha aioli, served over mixed greens",
+    "price": "$19",
+    "section": "Soup & Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Soup & Small Plates"
+  },
+  {
+    "name": "FRIED CALAMARI TWO WAYS",
+    "description": "Lightly fried and served with marinara sauce OR banana peppers, pork belly, & sriracha aioli",
+    "price": "$19",
+    "section": "Soup & Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Soup & Small Plates"
+  },
+  {
+    "name": "BOURBON SCALLOPS TWO WAYS",
+    "description": "Pan seared, lightly cajuned jumbo scallops served over fried spinach, topped with a bourbon cream sauce OR corn-pork belly hash",
+    "price": "$24",
+    "section": "Soup & Small Plates",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Soup & Small Plates"
+  },
+  {
+    "name": "CLASSIC CAESAR SALAD",
+    "description": "Romaine, Asiago cheese, and garlic croutons tossed in our own creamy Caesar dressing",
+    "price": "$16",
+    "section": "Salads",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "BEET AND WALNUT SALAD (GF)",
+    "description": "Fresh baby spinach, sliced beets, walnuts, and feta cheese in a balsamic vinaigrette",
+    "price": "$18",
+    "section": "Salads",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "APPLE QUINOA SALAD (GF)",
+    "description": "Mixed greens, quinoa, sliced apple, dried cranberries, and gorgonzola cheese in a apple-maple vinaigrette",
+    "price": "$18",
+    "section": "Salads",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "CLASSIC FIELD GREENS SALAD (GF)",
+    "description": "Mixed greens, cucumbers, cherry tomatoes, carrots, and marinated onions in a balsamic vinaigrette",
+    "price": "$15",
+    "section": "Salads",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "ADD TO ANY SALAD:",
+    "description": null,
+    "price": "Chicken ($8) | Shrimp ($8) | Salmon ($14)",
+    "section": "Salads",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "THIRSTY OWL BURGER*",
+    "description": "Grilled burger topped with cheddar cheese and bacon, served on a brioche bun with a side of dijon aioli and fries",
+    "price": "$19",
+    "section": "ENTREES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "ENTREES"
+  },
+  {
+    "name": "EGGPLANT TRIO",
+    "description": "Breaded eggplant cutlets topped with roasted red peppers, spinach, tomatoes, and mozzarella, served with fettuccine a la vodka",
+    "price": "$28",
+    "section": "ENTREES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "ENTREES"
+  },
+  {
+    "name": "MAPLE GLAZED ROASTED CHICKEN (GF)",
+    "description": "Roasted half chicken in a maple glaze, served with choice of starch and vegetable",
+    "price": "$29",
+    "section": "ENTREES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "ENTREES"
+  },
+  {
+    "name": "CEDAR PLANK SALMON (GF)",
+    "description": "Maple glazed salmon served on a cedar plank with choice of starch and vegetable",
+    "price": "$36",
+    "section": "ENTREES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "ENTREES"
+  },
+  {
+    "name": "HALIBUT (GF)",
+    "description": "Fresh broiled halibut in a lemon caper sauce with grape tomatoes, served with choice of starch and vegetable",
+    "price": "$42",
+    "section": "ENTREES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "ENTREES"
+  },
+  {
+    "name": "PESTO SHRIMP AND SCALLOPS*",
+    "description": "Jumbo shrimp and fresh scallops in a pesto cream sauce over fettuccine",
+    "price": "$39",
+    "section": "ENTREES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "ENTREES"
+  },
+  {
+    "name": "PORK SCHNITZEL",
+    "description": "Fried pork schnitzel topped with a garlic cream sauce, served with choice of starch and vegetable",
+    "price": "$36",
+    "section": "ENTREES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "ENTREES"
+  },
+  {
+    "name": "NY STRIP STEAK (GF)",
+    "description": "Grilled 12 oz NY strip topped with a garlic demi, served with choice of starch and vegetable",
+    "price": "$49",
+    "section": "ENTREES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "ENTREES"
+  },
+  {
+    "name": "Field Greens Salad",
+    "description": null,
+    "price": null,
+    "section": "COURSE ONE CHOICES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COURSE ONE CHOICES"
+  },
+  {
+    "name": "Soup of the Day",
+    "description": null,
+    "price": null,
+    "section": "COURSE ONE CHOICES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COURSE ONE CHOICES"
+  },
+  {
+    "name": "Crab and Corn Chowder (GF) ($5 upcharge)",
+    "description": null,
+    "price": null,
+    "section": "COURSE ONE CHOICES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COURSE ONE CHOICES"
+  },
+  {
+    "name": "Maple Glazed Chicken",
+    "description": "Roasted Half Chicken in a Maple Glaze, served with choice of Starch and Vegetable",
+    "price": null,
+    "section": "COURSE TWO CHOICES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COURSE TWO CHOICES"
+  },
+  {
+    "name": "Cedar Planked Salmon",
+    "description": "Maple Glazed Salmon served on a Cedar Plank with choice of Starch and Vegetable",
+    "price": null,
+    "section": "COURSE TWO CHOICES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COURSE TWO CHOICES"
+  },
+  {
+    "name": "Pork Schnitzel",
+    "description": "Fried Pork Schnitzel topped with a Garlic Cream Sauce, served with choice of Starch and Vegetable",
+    "price": null,
+    "section": "COURSE TWO CHOICES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COURSE TWO CHOICES"
+  },
+  {
+    "name": "Eggplant Trio",
+    "description": "Breaded Eggplant Cutlets topped with Roasted Red Peppers, Spinach, Tomatoes, and Mozzarella, served with Fettuccine a la Vodka",
+    "price": null,
+    "section": "COURSE TWO CHOICES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COURSE TWO CHOICES"
+  },
+  {
+    "name": "Flourless Chocolate Torte",
+    "description": null,
+    "price": "$8",
+    "section": "DESSERT CHOICES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "DESSERT CHOICES"
+  },
+  {
+    "name": "Seasonal Bread Pudding",
+    "description": null,
+    "price": "$8",
+    "section": "DESSERT CHOICES",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "DESSERT CHOICES"
+  },
+  {
+    "name": "OLD FASHIONED",
+    "description": "Bourbon, angostura bitters, sugar, cherry, orange",
+    "price": "$14",
+    "section": "COCKTAILS",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "MOSCOW MULE",
+    "description": "Vodka, ginger beer, fresh lime juice",
+    "price": "$14",
+    "section": "COCKTAILS",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "BLOODY MARY",
+    "description": "Vodka, tomato juice, horseradish, lemon, olives",
+    "price": "$16",
+    "section": "COCKTAILS",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "COSMOPOLITAN",
+    "description": "Vodka, cranberry juice, fresh lime juice",
+    "price": "$18",
+    "section": "COCKTAILS",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "DIRTY MARTINI",
+    "description": "Vodka or gin, olive juice, olives",
+    "price": "$18",
+    "section": "COCKTAILS",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "ESPRESSO MARTINI",
+    "description": "Vodka, espresso, Bourbon Cream",
+    "price": "$18",
+    "section": "COCKTAILS",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "LEMON DROP MARTINI",
+    "description": "Vodka, le Moné liquor, lemon",
+    "price": "$18",
+    "section": "COCKTAILS",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "GIN GIMLET MARTINI",
+    "description": "Gin, simple syrup, fresh lime juice",
+    "price": "$18",
+    "section": "COCKTAILS",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "CUBA LIBRE",
+    "description": "Rum, cola, fresh lime juice",
+    "price": "$14",
+    "section": "COCKTAILS",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COCKTAILS"
+  },
+  {
+    "name": "SANGRIA (RED OR WHITE)",
+    "description": "Made with Tailspin (red) or Diamond (white)",
+    "price": "$15",
+    "section": "COCKTAILS",
+    "restaurant_name": "Thirsty Owl Saratoga",
+    "restaurant_url": "http://www.thirstyowlsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "COCKTAILS"
+  }
+]

@@ -1,0 +1,2562 @@
+[
+  {
+    "name": "Continental Options",
+    "description": null,
+    "price": "12-15 $35 | 15-30 $65",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Mini Danish, Mini Bagel & Mini Muffin Platter",
+    "description": null,
+    "price": "12-15 $35 | 15-30 $65",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Sliced Fruit Platter with Yogurt Dip",
+    "description": null,
+    "price": "12-15 $35 | 15-30 $75",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Seasonal Fruit Bowl",
+    "description": null,
+    "price": "12-15 $35 | 15-30 $65",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Classic Bruschetta Platter",
+    "description": null,
+    "price": "12-15 $40 | 15-30 $70",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Assorted Cheese & Cracker/Flat Bread Platter",
+    "description": null,
+    "price": "12-15 $35 | 15-30 $45",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Seasonal Vegetable Platter with House Ranch Dip",
+    "description": null,
+    "price": "12-15 $35 | 15-30 $45",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Individual Orange or Apple Juice (priced per item)",
+    "description": null,
+    "price": "$3",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Bottled Water (priced per item)",
+    "description": null,
+    "price": "$1.50",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Regular/Decaf Coffee Hot Box w/all accompaniments",
+    "description": null,
+    "price": "$18 / $18",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Breakfast Extravaganza",
+    "description": "Scrambled eggs, home fries, french toast, bacon, sausage, mini danishes, mini bagels, fruit salad, coffee (All condiments and paper products supplied if needed)",
+    "price": "$22/guest (10 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Boxed Lunches",
+    "description": "Choice of ½ wrap, seasonal side or bag of chips, a cookie and a bottle of water",
+    "price": "$15/guest",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Included Salad:",
+    "description": "Garden or Caesar",
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Baked Salmon",
+    "description": "(Bourbon BBQ, pesto or with mango salsa)",
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Chicken Piccata",
+    "description": null,
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Chicken Marsala",
+    "description": null,
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Roasted Pork Loin",
+    "description": null,
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Vegetable “Bolognese”",
+    "description": "(over couscous)",
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Penne a la Vodka",
+    "description": null,
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Primavera",
+    "description": null,
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Pesto",
+    "description": null,
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Marinara",
+    "description": null,
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Tortellini Alfredo",
+    "description": null,
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Seasonal Roasted Vegetables",
+    "description": null,
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Sweet Honey Chili or Garlic & Olive Oil Green Beans",
+    "description": null,
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Garlic Mashed Potatoes",
+    "description": null,
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Yukon Gold Lemon Parsley Potatoes",
+    "description": null,
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Potato Salad",
+    "description": null,
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Pasta Salad",
+    "description": null,
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Cucumber Feta & Tomato Salad",
+    "description": null,
+    "price": "$35/guest (20 minimum)",
+    "section": "1-2-3 Luncheon",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "1-2-3 Luncheon"
+  },
+  {
+    "name": "Ariel's Favorite Celebrations",
+    "description": null,
+    "price": "$38/guest* (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Pulled Roasted Chicken",
+    "description": "(with bibb lettuce, tomato jam & queso fresco)",
+    "price": "$38/guest* (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Braised Short Rib",
+    "description": "(with pepper salad & manchego)",
+    "price": "$38/guest* (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Seared Shrimp",
+    "description": "(with summer slaw & shaved aged cheddar)",
+    "price": "$38/guest* (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Jicama Wrap",
+    "description": "(with cucumber, pickled tomato & grilled)",
+    "price": "$38/guest* (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Ropa Vieja",
+    "description": "(Puerto Rican style pot roast with traditional pairing of white rice)",
+    "price": "$38/guest* (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Pernil",
+    "description": "(slow roasted marinated pork shoulder)",
+    "price": "$38/guest* (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Spanish Style Chicken",
+    "description": "(with rice)",
+    "price": "$38/guest* (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Spiced Cabbage Salad",
+    "description": null,
+    "price": "$38/guest* (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Chorizo Red Beans and Rice",
+    "description": null,
+    "price": "$38/guest* (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Backyard BBQ",
+    "description": null,
+    "price": "$45/guest (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Brisket, Sausage & Peppers",
+    "description": null,
+    "price": "$45/guest (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "BBQ Bone-In Chicken",
+    "description": null,
+    "price": "$45/guest (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Pulled Pork",
+    "description": null,
+    "price": "$45/guest (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Pasta Salad",
+    "description": null,
+    "price": "$45/guest (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Potato Salad",
+    "description": null,
+    "price": "$45/guest (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Black Bean Salad",
+    "description": "(with fire roasted corn and bell pepper)",
+    "price": "$45/guest (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Corn on the Cob",
+    "description": null,
+    "price": "$45/guest (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Coleslaw",
+    "description": null,
+    "price": "$45/guest (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Tossed Salad",
+    "description": null,
+    "price": "$45/guest (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Watermelon Slices",
+    "description": null,
+    "price": "$45/guest (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Mac n' Cheese",
+    "description": null,
+    "price": "$45/guest (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Baked Beans",
+    "description": "(with maple bacon)",
+    "price": "$45/guest (50 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Tossed Salad with house vinaigrette",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Chicken Tortilla Soup",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Italian Wedding Soup",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Butternut Squash Bisque",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Ropa Vieja",
+    "description": "(with white rice)",
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Roasted Pork Loin",
+    "description": "(with brandied apples or pan gravy)",
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Grilled Salmon",
+    "description": "(Pesto or maple bourbon BBQ)",
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Chicken Piccata",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Chicken Marsala",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Eggplant Rollatini",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Sliced, Marinated Flank Steak",
+    "description": "(with chimichurri)",
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Beef Brisket",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Vegetarian “Bolognese”",
+    "description": "(over couscous)",
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Fire Roasted Corn Salad",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "String Beans",
+    "description": "(with sweet honey chili sauce)",
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Spanish Style Yellow or Red Beans and Rice",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Our Famous Mac n' Cheese",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Garlic Smashed Potatoes",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Rigatoni",
+    "description": "(pesto, a la vodka or tomato basil cream)",
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Roasted Sweet Potatoes",
+    "description": "(with candied walnuts)",
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Seasonal Roasted Vegetable Medley",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Balsamic Bacon Brussels Sprouts",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Lemon Parsley Yukon Potatoes",
+    "description": null,
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Platters of Cookies and Brownies",
+    "description": "(station or per table)",
+    "price": "$38/guest* (25 minimum)",
+    "section": "Buffet-Style Dining",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Buffet-Style Dining"
+  },
+  {
+    "name": "Cocktail Mixers",
+    "description": null,
+    "price": "$25/guest* (40 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Seasonal Grazing Table Included",
+    "description": null,
+    "price": "$25/guest* (40 minimum)",
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Lemongrass Marinated Chicken Satay",
+    "description": null,
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Southwest Tortilla Cup",
+    "description": "with fire-roasted corn, bell pepper, red onion and black bean salad",
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Open Faced BBQ Pulled Pork",
+    "description": "on a grilled crostini topped with firecracker slaw",
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Stuffed Mushrooms",
+    "description": "spinach & parmesan or sausage",
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Mini Crunchy Street Cart Tacos",
+    "description": "beef, chicken or black bean",
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Jambalaya Cup",
+    "description": null,
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Roasted Parmesan Carrot \"Fries\"",
+    "description": "with spicy crema",
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Our Signature Meatball \"Lollipops\"",
+    "description": "BBQ, marinara or Swedish style",
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Spanakopita",
+    "description": null,
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Mini Open Faced Reuben",
+    "description": "with corned beef, sauerkraut & thousand island on rye",
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Seasonal Cucumber Canapés",
+    "description": null,
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Signature Bruschetta on Toasted Crostini",
+    "description": "with tomato, red onion and garlic",
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Mac N' Cheese Cups",
+    "description": null,
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Berry Mascarpone Grilled Naan Flatbread",
+    "description": "with mascarpone, blueberries, local honey and basil",
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Peach Balsamic Grilled Naan Flatbread",
+    "description": "with ricotta, grilled peaches, balsamic reduction and mint",
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Tabbouleh, Grilled Eggplant and Feta Salad Cup",
+    "description": null,
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Watermelon, Feta & Mint Bites",
+    "description": null,
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Eggplant Caponata Phyllo Cup",
+    "description": null,
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Mini Grilled Caprese Triangles",
+    "description": "with fresh mozzarella, roasted peppers & pesto spread",
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Beef Brisket Skewer",
+    "description": "with peach BBQ",
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Chili Lime Chicken Kabob",
+    "description": "with crema",
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Bacon Cheddar Tater Keg",
+    "description": null,
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Kale & Vegetable Dumpling",
+    "description": null,
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Chicken & Waffles",
+    "description": null,
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Cajun Shrimp & Southern Style Cheese Grits",
+    "description": null,
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Spanish Style Creamed Street Corn",
+    "description": "with cogita cheese & sliced brisket",
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Elevated Bruschetta on Toasted Crostini",
+    "description": "with avocado, feta, tomato, red onion & garlic",
+    "price": null,
+    "section": "PRIVATE DINING",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "PRIVATE DINING"
+  },
+  {
+    "name": "Adirondak Brew Pub Pretzel Bar",
+    "description": "Large Warm Soft Pretzels and Warm Pretzel Bites / Brown's Brewery Maple Stout Sauce / Druthers Pale Ale Cheddar Sauce / Bare Naked Amber Ale Mustard",
+    "price": "$8/guest",
+    "section": "Great Additions",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Great Additions"
+  },
+  {
+    "name": "Warm & Toasty",
+    "description": "Artichoke, Spinach and Romano Cheese Dip / Caramelized Baked Onion Dip / Buffalo Chicken Dip",
+    "price": "$6/guest",
+    "section": "Great Additions",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Great Additions"
+  },
+  {
+    "name": "Taqueria",
+    "description": "Stationary or Passed. Pulled Roasted Chicken, Bibb Lettuce, Tomato Jam & Queso Fresco / Braised Short Rib, Pepper Salad & Manchego / Seared Shrimp, Summer Slaw & Shaved Aged Cheddar / Cucumber, Pickled Tomato & Grilled Corn on a Jicama Wrap / Tortilla Chips and Salsa. Sour Cream, honey chipotle aioli, avocado crema & hot sauce included on the side with all*",
+    "price": "$10/guest",
+    "section": "Great Additions",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Great Additions"
+  },
+  {
+    "name": "Slider Madness",
+    "description": "Stationary or Passed. Beef Slider* with lettuce, tomato and onion / Beef Slider* with lettuce, tomato, onion and American cheese / Ground Turkey Slider with cheddar, greens and cranberry aioli / Pulled Pork Slider with our Signature BBQ & Slaw / Caprese Slider with fresh mozzarella, roasted red peppers and pesto spread on grilled Italian bread. *Meat alternative available.",
+    "price": "$8/guest",
+    "section": "Great Additions",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Great Additions"
+  },
+  {
+    "name": "Mac n' Cheese Bar",
+    "description": "Our Award Winning Mac n' Cheese / Bacon, Tomatoes, Broccoli, Chorizo & Assorted Cheeses",
+    "price": "$6/guest",
+    "section": "Great Additions",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Great Additions"
+  },
+  {
+    "name": "Bite-Sized BBQ",
+    "description": "Stationary or Passed. Beef Brisket Skewers with Peach BBQ / Braised Short Ribs with Bacon Bites / Corn Bread topped with Pulled Pork & Firecracker Slaw / Watermelon, Feta & Mint Bites",
+    "price": "$8/guest",
+    "section": "Great Additions",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Great Additions"
+  },
+  {
+    "name": "Breakfast Extravaganza",
+    "description": "Scrambled eggs, home fries, french toast, seasoned home fries, mini danishes, mini bagels, fruit salad, coffee (All condiments and paper products supplied if needed)",
+    "price": "$22 per person (10 minimum)",
+    "section": "Breakfast & Brights",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Breakfast & Brights"
+  },
+  {
+    "name": "Scrambled Eggs",
+    "description": "",
+    "price": "1/2 PAN (serves 12) $40 | FULL PAN (serves 25) $75",
+    "section": "Breakfast & Brights",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Breakfast & Brights"
+  },
+  {
+    "name": "Seasoned Home Fries",
+    "description": "",
+    "price": "1/2 PAN (serves 12) $25 | FULL PAN (serves 25) $45",
+    "section": "Breakfast & Brights",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Breakfast & Brights"
+  },
+  {
+    "name": "French Toast or Pancakes",
+    "description": "",
+    "price": "1/2 PAN (serves 12) $30 | FULL PAN (serves 25) $55",
+    "section": "Breakfast & Brights",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Breakfast & Brights"
+  },
+  {
+    "name": "Sausage",
+    "description": "",
+    "price": "1/2 PAN (serves 12) $60 | FULL PAN (serves 25) $95",
+    "section": "Breakfast & Brights",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Breakfast & Brights"
+  },
+  {
+    "name": "Bacon",
+    "description": "",
+    "price": "1/2 PAN (serves 12) $60 | FULL PAN (serves 25) $120",
+    "section": "Breakfast & Brights",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Breakfast & Brights"
+  },
+  {
+    "name": "Pastry Platter",
+    "description": "Mini danishes, mini bagels & mini muffins",
+    "price": "SMALL (serves 12) $40 | LARGE (serves 25) $75",
+    "section": "Breakfast & Brights",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Breakfast & Brights"
+  },
+  {
+    "name": "Sliced Fruit Platter",
+    "description": "",
+    "price": "$95 (serves 30-40)",
+    "section": "Breakfast & Brights",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Breakfast & Brights"
+  },
+  {
+    "name": "Fruit Bowl",
+    "description": "",
+    "price": "$45 (serves 15-20)",
+    "section": "Breakfast & Brights",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Breakfast & Brights"
+  },
+  {
+    "name": "Traditional Potato Salad",
+    "description": "",
+    "price": "SMALL (serves 15) $65 | LARGE (serves 25) $90",
+    "section": "Deli Salad Sides",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Deli Salad Sides"
+  },
+  {
+    "name": "Pasta Salad",
+    "description": "",
+    "price": "SMALL (serves 15) $65 | LARGE (serves 25) $90",
+    "section": "Deli Salad Sides",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Deli Salad Sides"
+  },
+  {
+    "name": "Macaroni Salad",
+    "description": "",
+    "price": "SMALL (serves 15) $65 | LARGE (serves 25) $90",
+    "section": "Deli Salad Sides",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Deli Salad Sides"
+  },
+  {
+    "name": "4 Bean Salad",
+    "description": "",
+    "price": "SMALL (serves 15) $65 | LARGE (serves 25) $90",
+    "section": "Deli Salad Sides",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Deli Salad Sides"
+  },
+  {
+    "name": "Pesto Tortellini Salad",
+    "description": "",
+    "price": "SMALL (serves 15) $65 | LARGE (serves 25) $90",
+    "section": "Deli Salad Sides",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Deli Salad Sides"
+  },
+  {
+    "name": "Crunchy Mix Broccoli Salad",
+    "description": "",
+    "price": "SMALL (serves 15) $65 | LARGE (serves 25) $90",
+    "section": "Deli Salad Sides",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Deli Salad Sides"
+  },
+  {
+    "name": "Cole Slaw",
+    "description": "",
+    "price": "SMALL (serves 15) $65 | LARGE (serves 25) $90",
+    "section": "Deli Salad Sides",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Deli Salad Sides"
+  },
+  {
+    "name": "Firecracker Slaw",
+    "description": "",
+    "price": "SMALL (serves 15) $65 | LARGE (serves 25) $90",
+    "section": "Deli Salad Sides",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Deli Salad Sides"
+  },
+  {
+    "name": "Fire Roasted Corn & Black Bean Salad",
+    "description": "",
+    "price": "SMALL (serves 15) $65 | LARGE (serves 25) $90",
+    "section": "Deli Salad Sides",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Deli Salad Sides"
+  },
+  {
+    "name": "Garden Salad",
+    "description": "Baby greens, tomato, onion, shredded carrots and your choice of dressing",
+    "price": "SMALL (serves 8-10) $35 | LARGE (serves 14-20) $50",
+    "section": "Classic Salads",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Classic Salads"
+  },
+  {
+    "name": "Classic Caesar Salad",
+    "description": "",
+    "price": "SMALL (serves 8-10) $35 | LARGE (serves 14-20) $50",
+    "section": "Classic Salads",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Classic Salads"
+  },
+  {
+    "name": "Summer Celebration Salad",
+    "description": "Mixed greens, feta, sunflower seeds, seasonal berries, lemon basil vinaigrette",
+    "price": "SMALL (serves 8-10) $60 | LARGE (serves 14-20) $95",
+    "section": "Classic Salads",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Classic Salads"
+  },
+  {
+    "name": "Winter Celebration Salad",
+    "description": "Mixed greens, poached pears, dried cranberries, pecans, red onion, goat cheese & apple cider vinaigrette",
+    "price": "SMALL (serves 8-10) $60 | LARGE (serves 14-20) $95",
+    "section": "Classic Salads",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Classic Salads"
+  },
+  {
+    "name": "Roast Beef",
+    "description": "",
+    "price": "SMALL (serves 8-10) $75 | LARGE (serves 14-20) $125",
+    "section": "Assorted Wraps",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Assorted Wraps"
+  },
+  {
+    "name": "Turkey",
+    "description": "",
+    "price": "SMALL (serves 8-10) $75 | LARGE (serves 14-20) $125",
+    "section": "Assorted Wraps",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Assorted Wraps"
+  },
+  {
+    "name": "Corned Beef",
+    "description": "",
+    "price": "SMALL (serves 8-10) $75 | LARGE (serves 14-20) $125",
+    "section": "Assorted Wraps",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Assorted Wraps"
+  },
+  {
+    "name": "Ham",
+    "description": "",
+    "price": "SMALL (serves 8-10) $75 | LARGE (serves 14-20) $125",
+    "section": "Assorted Wraps",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Assorted Wraps"
+  },
+  {
+    "name": "Chicken Caesar",
+    "description": "",
+    "price": "SMALL (serves 8-10) $75 | LARGE (serves 14-20) $125",
+    "section": "Assorted Wraps",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Assorted Wraps"
+  },
+  {
+    "name": "Tuna Salad",
+    "description": "",
+    "price": "SMALL (serves 8-10) $75 | LARGE (serves 14-20) $125",
+    "section": "Assorted Wraps",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Assorted Wraps"
+  },
+  {
+    "name": "Veggie",
+    "description": "",
+    "price": "SMALL (serves 8-10) $40 | LARGE (serves 14-20) $70",
+    "section": "Assorted Wraps",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Assorted Wraps"
+  },
+  {
+    "name": "Classic Bruschetta",
+    "description": "",
+    "price": "SMALL (serves 15) $35 | LARGE (serves 30) $55",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Cheese Platter",
+    "description": "",
+    "price": "SMALL (serves 15) $60 | LARGE (serves 30) $95",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Vegetable Platter",
+    "description": "Choose from blue cheese, balsamic or house ranch dip",
+    "price": "SMALL (serves 15) $35 | LARGE (serves 30) $65",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Olive Crostini",
+    "description": "",
+    "price": "$50 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Buffalo Chicken Wontons",
+    "description": "",
+    "price": "$95 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Teriyaki Bites",
+    "description": "",
+    "price": "$95 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Spanakopita",
+    "description": "",
+    "price": "$95 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Lemongrass Chicken Satay",
+    "description": "",
+    "price": "$150 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Stuffed Mushrooms",
+    "description": "Vegetarian",
+    "price": "$75 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Fried Wontons",
+    "description": "",
+    "price": "$95 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Spring Rolls",
+    "description": "",
+    "price": "$95 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Antipasto Skewers",
+    "description": "",
+    "price": "$175 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Classic Bruschetta Platter",
+    "description": "",
+    "price": "$50 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Avocado Bruschetta",
+    "description": "",
+    "price": "$75 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Meatballs",
+    "description": "Signature or Marinara",
+    "price": "$95 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Shrimp Cocktail",
+    "description": "",
+    "price": "Market Price",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Peach BBQ Beef Brisket Skewer Cuban",
+    "description": "",
+    "price": "$175 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Cigar Spring Roll",
+    "description": "",
+    "price": "$110 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Chili Lime Chicken Kabob",
+    "description": "",
+    "price": "$110 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Eggplant Caponata Phyllo Cups",
+    "description": "Vegan",
+    "price": "$90 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Kale & Vegetable Dumplings",
+    "description": "Gluten Free",
+    "price": "$95 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Braised Short Ribs & Bacon",
+    "description": "",
+    "price": "$175 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Crustless Quiche",
+    "description": "Bacon, spinach, and Swiss",
+    "price": "$150 (50 pieces per order)",
+    "section": "Appetizers",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Appetizers"
+  },
+  {
+    "name": "Penne",
+    "description": "With your choice of garlic & oil, alfredo, tomato basil cream sauce or pesto",
+    "price": "1/2 PAN (serves 10-12) $45 | FULL (serves 15-20) $80",
+    "section": "Plentiful Pasta",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Plentiful Pasta"
+  },
+  {
+    "name": "Baked Penne",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $55 | FULL (serves 15-20) $95",
+    "section": "Plentiful Pasta",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Plentiful Pasta"
+  },
+  {
+    "name": "Tortellini Alfredo",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $75 | FULL (serves 15-20) $100",
+    "section": "Plentiful Pasta",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Plentiful Pasta"
+  },
+  {
+    "name": "Baked Macaroni & Cheese",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $65 | FULL (serves 15-20) $110",
+    "section": "Plentiful Pasta",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Plentiful Pasta"
+  },
+  {
+    "name": "Butternut Squash Ravioli",
+    "description": "With sage & brown butter",
+    "price": "1/2 PAN (serves 10-12) $95 | FULL (serves 15-20) $170",
+    "section": "Plentiful Pasta",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Plentiful Pasta"
+  },
+  {
+    "name": "Chicken Parmigiana",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $65 | FULL (serves 15-20) $120",
+    "section": "Party By The Pan",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Party By The Pan"
+  },
+  {
+    "name": "Chicken Marsala",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $65 | FULL (serves 15-20) $125",
+    "section": "Party By The Pan",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Party By The Pan"
+  },
+  {
+    "name": "Chicken Piccata",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $65 | FULL (serves 15-20) $120",
+    "section": "Party By The Pan",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Party By The Pan"
+  },
+  {
+    "name": "Herb Roasted Chicken (Bone-in)",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $55 | FULL (serves 15-20) $85",
+    "section": "Party By The Pan",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Party By The Pan"
+  },
+  {
+    "name": "BBQ Half Chicken (Bone-in)",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $55 | FULL (serves 15-20) $85",
+    "section": "Party By The Pan",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Party By The Pan"
+  },
+  {
+    "name": "Stuffed Chicken Breast",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $65 | FULL (serves 15-20) $110",
+    "section": "Party By The Pan",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Party By The Pan"
+  },
+  {
+    "name": "Sausage and Peppers",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $65 | FULL (serves 15-20) $110",
+    "section": "Party By The Pan",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Party By The Pan"
+  },
+  {
+    "name": "Pulled Pork",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $70 | FULL (serves 15-20) $120",
+    "section": "Party By The Pan",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Party By The Pan"
+  },
+  {
+    "name": "Herb Encrusted Pork Loin",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $65 | FULL (serves 15-20) $100",
+    "section": "Party By The Pan",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Party By The Pan"
+  },
+  {
+    "name": "Sliced Roast Beef",
+    "description": "",
+    "price": "FULL (serves 15-20) $165",
+    "section": "Party By The Pan",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Party By The Pan"
+  },
+  {
+    "name": "Beef Tenderloin Tips Sliced",
+    "description": "",
+    "price": "FULL (serves 15-20) $210",
+    "section": "Party By The Pan",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Party By The Pan"
+  },
+  {
+    "name": "Brisket",
+    "description": "",
+    "price": "FULL (serves 15-20) $210",
+    "section": "Party By The Pan",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Party By The Pan"
+  },
+  {
+    "name": "Scallop & Crab Stuffed Sole",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $125 | FULL (serves 15-20) $195",
+    "section": "Party By The Pan",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Party By The Pan"
+  },
+  {
+    "name": "Eggplant Rollatini",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $45 | FULL (serves 15-20) $85",
+    "section": "Party By The Pan",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "Party By The Pan"
+  },
+  {
+    "name": "New Orleans Red Beans & Rice",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $35 | FULL (serves 15-20) $65",
+    "section": "SENSATIONAL SIDES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "SENSATIONAL SIDES"
+  },
+  {
+    "name": "Spanish Rice",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $35 | FULL (serves 15-20) $65",
+    "section": "SENSATIONAL SIDES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "SENSATIONAL SIDES"
+  },
+  {
+    "name": "Rice Pilaf",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $35 | FULL (serves 15-20) $65",
+    "section": "SENSATIONAL SIDES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "SENSATIONAL SIDES"
+  },
+  {
+    "name": "Roasted Red Potatoes",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $35 | FULL (serves 15-20) $65",
+    "section": "SENSATIONAL SIDES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "SENSATIONAL SIDES"
+  },
+  {
+    "name": "Yukon Gold Lemon Parsley",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $35 | FULL (serves 15-20) $65",
+    "section": "SENSATIONAL SIDES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "SENSATIONAL SIDES"
+  },
+  {
+    "name": "Potatoes Garlic Mashed Potatoes",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $35 | FULL (serves 15-20) $65",
+    "section": "SENSATIONAL SIDES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "SENSATIONAL SIDES"
+  },
+  {
+    "name": "Au Gratin Potatoes",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $55 | FULL (serves 15-20) $95",
+    "section": "SENSATIONAL SIDES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "SENSATIONAL SIDES"
+  },
+  {
+    "name": "Roasted Sweet Potatoes",
+    "description": "with candied pecans",
+    "price": "1/2 PAN (serves 10-12) $45 | FULL (serves 15-20) $65",
+    "section": "SENSATIONAL SIDES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "SENSATIONAL SIDES"
+  },
+  {
+    "name": "Seasonal Mixed Vegetables",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $40 | FULL (serves 15-20) $60",
+    "section": "SENSATIONAL SIDES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "SENSATIONAL SIDES"
+  },
+  {
+    "name": "Glazed Roasted Carrots",
+    "description": "",
+    "price": "1/2 PAN (serves 10-12) $40 | FULL (serves 15-20) $60",
+    "section": "SENSATIONAL SIDES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "SENSATIONAL SIDES"
+  },
+  {
+    "name": "Brownie & Cookie Platters",
+    "description": "",
+    "price": "SMALL (serves 10-12) $39 | LARGE (serves 15-20) $59",
+    "section": "DESSERTS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "DESSERTS"
+  },
+  {
+    "name": "Mini Seasonal Pies",
+    "description": "",
+    "price": "$4 each (24 minimum)",
+    "section": "DESSERTS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "DESSERTS"
+  },
+  {
+    "name": "Coffee-To-Go",
+    "description": "Cream and sugar included",
+    "price": "$20 (serves 10)",
+    "section": "HOT & COLD BEVERAGES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "HOT & COLD BEVERAGES"
+  },
+  {
+    "name": "Orange or Cranberry Juice",
+    "description": "Singles",
+    "price": "$3 each",
+    "section": "HOT & COLD BEVERAGES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "HOT & COLD BEVERAGES"
+  },
+  {
+    "name": "Bottled Water",
+    "description": "",
+    "price": "$1 each",
+    "section": "HOT & COLD BEVERAGES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Cafe Menu",
+    "menu_name": "HOT & COLD BEVERAGES"
+  },
+  {
+    "name": "Kiddie Cone",
+    "description": "",
+    "price": "$4.50",
+    "section": "CONES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "CONES"
+  },
+  {
+    "name": "Small",
+    "description": "",
+    "price": "$5.00",
+    "section": "CONES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "CONES"
+  },
+  {
+    "name": "Medium",
+    "description": "",
+    "price": "$6.00",
+    "section": "CONES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "CONES"
+  },
+  {
+    "name": "Large",
+    "description": "Waffle Cones +$1. Cups Available on Request",
+    "price": "$7.00",
+    "section": "CONES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "CONES"
+  },
+  {
+    "name": "Chocolate",
+    "description": "",
+    "price": "Single $4.50",
+    "section": "HARD ICE CREAM",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "HARD ICE CREAM"
+  },
+  {
+    "name": "Cookie Dough",
+    "description": "",
+    "price": "Double $6.00",
+    "section": "HARD ICE CREAM",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "HARD ICE CREAM"
+  },
+  {
+    "name": "Cookies & Cream",
+    "description": "",
+    "price": "Triple $7.50",
+    "section": "HARD ICE CREAM",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "HARD ICE CREAM"
+  },
+  {
+    "name": "Mint-Ting-A-Ling",
+    "description": "",
+    "price": "Triple $7.50",
+    "section": "HARD ICE CREAM",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "HARD ICE CREAM"
+  },
+  {
+    "name": "Panda Paws",
+    "description": "",
+    "price": null,
+    "section": "HARD ICE CREAM",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "HARD ICE CREAM"
+  },
+  {
+    "name": "Peanut Butter Cup",
+    "description": "",
+    "price": null,
+    "section": "HARD ICE CREAM",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "HARD ICE CREAM"
+  },
+  {
+    "name": "Strawberry",
+    "description": "",
+    "price": null,
+    "section": "HARD ICE CREAM",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "HARD ICE CREAM"
+  },
+  {
+    "name": "Vanilla",
+    "description": "",
+    "price": null,
+    "section": "HARD ICE CREAM",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "HARD ICE CREAM"
+  },
+  {
+    "name": "Chocolate",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Vanilla",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Twist",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Amaretto",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Banana",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Black Cherry",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Black Raspberry",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Blackberry",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Blue Raspberry",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Butter Pecan",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Cake Batter",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Caramel",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Cheesecake",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Coconut",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Cotton Candy",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Crème de Menthe",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Espresso Coffee",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Maple Nut",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Mango",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Mocha",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Orange",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Peach",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Peanut Butter",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Pineapple",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Pina Colada",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Rum Flavor",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Salted Caramel",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Strawberry",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "Tutti Fruity",
+    "description": "",
+    "price": null,
+    "section": "FLAVORS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "FLAVORS"
+  },
+  {
+    "name": "LET'S GET UGLY",
+    "description": "Vanilla Ice Cream, Hot Fudge, Oreo Crumble, Wiggly Worms, Brownie, Peanuts, Whipped Cream & Cherry",
+    "price": "$10",
+    "section": "UGLY SUNDAES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "UGLY SUNDAES"
+  },
+  {
+    "name": "PINA COLADA",
+    "description": "Coconut Ice Cream, Pineapple Sauce, Whipped Cream & Cherry, Toasted Coconut",
+    "price": "$9",
+    "section": "UGLY SUNDAES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "UGLY SUNDAES"
+  },
+  {
+    "name": "BROWNIE SUNDAE",
+    "description": "Vanilla Ice Cream, Hot Fudge, Brownie, Peanuts, Whipped Cream & Cherry",
+    "price": "$10",
+    "section": "UGLY SUNDAES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "UGLY SUNDAES"
+  },
+  {
+    "name": "TROPICAL SUNRISE",
+    "description": "Mango & Vanilla Ice Cream, Toasted Coconut, Whipped Cream & Cherry",
+    "price": "$9",
+    "section": "UGLY SUNDAES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "UGLY SUNDAES"
+  },
+  {
+    "name": "UPSTATE APPLE PIE",
+    "description": "Apple Pie Filling, Streusel Crumble, Caramel Drizzle, Whipped Cream",
+    "price": "$9",
+    "section": "UGLY SUNDAES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "UGLY SUNDAES"
+  },
+  {
+    "name": "BEACH BOMB",
+    "description": "Blue Raspberry Ice Cream, Cherry Ice Cream, Vanilla Ice Cream, Whipped Cream & Cherry",
+    "price": "$9",
+    "section": "UGLY SUNDAES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "UGLY SUNDAES"
+  },
+  {
+    "name": "SANDY STROLL",
+    "description": "Vanilla Ice Cream, Strawberry Sauce, Strawberry-Vanilla Wafer Crunch",
+    "price": "$9",
+    "section": "UGLY SUNDAES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "UGLY SUNDAES"
+  },
+  {
+    "name": "PB & J",
+    "description": "Peanut Butter Ice Cream, Melba Sauce, Whipped Cream & Cherry, Peanuts",
+    "price": "$9",
+    "section": "UGLY SUNDAES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "UGLY SUNDAES"
+  },
+  {
+    "name": "ALMOND JOY",
+    "description": "Coconut Ice Cream, Toasted Almond, Toasted Coconut, Chocolate Dip, Whipped Cream & Cherry",
+    "price": "$9",
+    "section": "UGLY SUNDAES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "UGLY SUNDAES"
+  },
+  {
+    "name": "BANANA SPLIT",
+    "description": "3 Scoops of Ice Cream, Banana, Pineapple Sauce, Strawberry Sauce, Fudge Drizzle, Peanuts, Whipped Cream & Cherry",
+    "price": "$12.50",
+    "section": "UGLY SUNDAES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "UGLY SUNDAES"
+  },
+  {
+    "name": "BUILD-YOUR-OWN",
+    "description": "Choose: 1 Ice Cream, 1 Dip or Drizzle, 1 Topping, Whipped Cream & Cherry",
+    "price": "$9",
+    "section": "UGLY SUNDAES",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "UGLY SUNDAES"
+  },
+  {
+    "name": "MILKSHAKES",
+    "description": "Any Flavor Ice Cream. 1 Topping ($1 for additional toppings)",
+    "price": "$8",
+    "section": "DRINKS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "DRINKS"
+  },
+  {
+    "name": "FRESH-SQUEEZED LEMONADE",
+    "description": "Just fresh-squeezed lemons, sugar, and water!",
+    "price": "$8",
+    "section": "DRINKS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "DRINKS"
+  },
+  {
+    "name": "STRAWBERRY LEMONADE",
+    "description": "Our famous lemonade with homemade strawberry mix shaken in!",
+    "price": "$9",
+    "section": "DRINKS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "DRINKS"
+  },
+  {
+    "name": "VARIOUS COOLER DRINKS",
+    "description": "",
+    "price": "$3",
+    "section": "DRINKS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "DRINKS"
+  },
+  {
+    "name": "BOTTLED WATER",
+    "description": "",
+    "price": "$2.50",
+    "section": "DRINKS",
+    "restaurant_name": "The Ugly Rooster",
+    "restaurant_url": "https://www.theuglyrooster.com/",
+    "menu_type": "Ice Cream Menu",
+    "menu_name": "DRINKS"
+  }
+]

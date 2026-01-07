@@ -1,0 +1,502 @@
+[
+  {
+    "name": "garden",
+    "description": "roasted red pepper, artichoke heart, spinach, mozzarella, basil pesto aioli on herb foccacia",
+    "price": null,
+    "section": "Sandwiches",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "ratatouille",
+    "description": "basil pesto, roasted zucchini, squash, tomato, eggplant, onion red pepper, garlic, goat cheese on herb foccacia",
+    "price": null,
+    "section": "Sandwiches",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "ballstonian",
+    "description": "roasted turkey, bacon, roasted red pepper, basil pesto aioli, mozzarella on ciabatta",
+    "price": null,
+    "section": "Sandwiches",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "turkey, cranberry, & brie",
+    "description": "roasted turkey, brie, cranberry sauce on ciabatta",
+    "price": null,
+    "section": "Sandwiches",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "apricot, ham, & brie",
+    "description": "bacon, ham, apricot jam, brie on ciabatta",
+    "price": null,
+    "section": "Sandwiches",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "turkey avocado",
+    "description": "roasted turkey, mozzarella, guacamole, tomato, sundried tomato pesto on herb foccaccia",
+    "price": null,
+    "section": "Sandwiches",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "buffalo chicken",
+    "description": "chicken, bacon, spinach, buffalo hot sauce, bleu cheese on ciabatta",
+    "price": null,
+    "section": "Sandwiches",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "chipotle chicken",
+    "description": "chicken, spinach, tomato, chipotle sauce, mozzarella on ciabatta",
+    "price": null,
+    "section": "Sandwiches",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "apple, bacon, & 3 cheese",
+    "description": "green apple, bacon, brie, mozzarella, bleu cheese, honey on ciabatta",
+    "price": null,
+    "section": "Sandwiches",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "eggplant",
+    "description": "breaded & fried eggplant, mozzarella, roasted red peppers, spinach, sundried tomato pesto on focaccia (contains nuts)",
+    "price": null,
+    "section": "Sandwiches",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "club sandwich",
+    "description": "roasted turkey, bacon, greens, mozzarella, tomato, garlic aioli on toasted wheat",
+    "price": null,
+    "section": "Sandwiches",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sandwiches"
+  },
+  {
+    "name": "blt",
+    "description": "brie, mozzarella, bacon, lettuce, tomato, pesto aioli",
+    "price": null,
+    "section": "Scone-wich",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Scone-wich"
+  },
+  {
+    "name": "ham & swiss",
+    "description": "ham, swiss, apricot jam",
+    "price": null,
+    "section": "Scone-wich",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Scone-wich"
+  },
+  {
+    "name": "tomato & arugula",
+    "description": "tomato, arugula, fresh mozzarella, basil pesto, balsamic glaze",
+    "price": null,
+    "section": "Scone-wich",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Scone-wich"
+  },
+  {
+    "name": "veggie & goat cheese",
+    "description": "goat cheese, roasted onion, garlic, tomato, eggplant, red pepper, squash, zucchini, basil pesto",
+    "price": null,
+    "section": "Scone-wich",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Scone-wich"
+  },
+  {
+    "name": "spicy tuna & tomato",
+    "description": "tuna salad with red onion & celery, tomato, mozzarella, chipotle sauce",
+    "price": null,
+    "section": "Scone-wich",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Scone-wich"
+  },
+  {
+    "name": "ham, roasted red pepper, and cheddar",
+    "description": null,
+    "price": null,
+    "section": "Quiche",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Quiche"
+  },
+  {
+    "name": "broccoli & three cheese",
+    "description": null,
+    "price": null,
+    "section": "Quiche",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Quiche"
+  },
+  {
+    "name": "lobster bisque",
+    "description": null,
+    "price": null,
+    "section": "Soup",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Soup"
+  },
+  {
+    "name": "roasted red pepper & smoked gouda",
+    "description": null,
+    "price": null,
+    "section": "Soup",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Soup"
+  },
+  {
+    "name": "sweet potato, black bean, and quinoa chili",
+    "description": null,
+    "price": null,
+    "section": "Soup",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Soup"
+  },
+  {
+    "name": "nutty monkey",
+    "description": "nutella chocolate hazelnut spread, bananas. allergen: contains nuts",
+    "price": null,
+    "section": "Sweet Crepes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sweet Crepes"
+  },
+  {
+    "name": "bananas foster",
+    "description": "bananas carmelized in butter, brown sugar & rum, house-made scone cream, caramel",
+    "price": null,
+    "section": "Sweet Crepes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sweet Crepes"
+  },
+  {
+    "name": "cherry cheesecake",
+    "description": "cherry compote, scone cream",
+    "price": null,
+    "section": "Sweet Crepes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sweet Crepes"
+  },
+  {
+    "name": "peaches & cream",
+    "description": "cinnamon spiced peaches and house-made scone cream",
+    "price": null,
+    "section": "Sweet Crepes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sweet Crepes"
+  },
+  {
+    "name": "berries & cream",
+    "description": "mixed berries and our house-made scone cream",
+    "price": null,
+    "section": "Sweet Crepes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sweet Crepes"
+  },
+  {
+    "name": "lemon cream burst",
+    "description": "lemon curd served with our house-made scone cream",
+    "price": null,
+    "section": "Sweet Crepes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sweet Crepes"
+  },
+  {
+    "name": "caramel apple",
+    "description": "cinnamon spiced apples, caramel sauce",
+    "price": null,
+    "section": "Sweet Crepes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sweet Crepes"
+  },
+  {
+    "name": "berries & nutella",
+    "description": "baked mixed berries & nutella chocolate hazelnut. allergen: contains nuts",
+    "price": null,
+    "section": "Sweet Crepes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Sweet Crepes"
+  },
+  {
+    "name": "ratatouille",
+    "description": "basil pesto, roasted eggplant, zucchini, squash, red pepper, tomato, onion, garlic, goat cheese",
+    "price": null,
+    "section": "Savory Crepes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Savory Crepes"
+  },
+  {
+    "name": "turkey, cranberry, and brie",
+    "description": "turkey, cranberry sauce, brie cheese",
+    "price": null,
+    "section": "Savory Crepes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Savory Crepes"
+  },
+  {
+    "name": "farmers crepe",
+    "description": "spinach, bacon, basil pesto, tomato, artichoke heart, fresh mozzarella",
+    "price": null,
+    "section": "Savory Crepes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Savory Crepes"
+  },
+  {
+    "name": "chicken, bacon, and roasted red pepper",
+    "description": "roasted chicken, bacon, roasted red pepper, basil pesto, mozzarella",
+    "price": null,
+    "section": "Savory Crepes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Savory Crepes"
+  },
+  {
+    "name": "crepe monsieur",
+    "description": "ham, swiss, dill pickles, dijon aioli",
+    "price": null,
+    "section": "Savory Crepes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Savory Crepes"
+  },
+  {
+    "name": "chicken cordon bleu",
+    "description": "chicken, ham, swiss, bleu, dijon aioli",
+    "price": null,
+    "section": "Savory Crepes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Savory Crepes"
+  },
+  {
+    "name": "asian chicken",
+    "description": "greens, almond, carrot, chicken, scallion, edamame, mandarin, chow mein noodle, black sesame seed, with an oriental honey ginger dressing on the side. allergen: contains nuts",
+    "price": null,
+    "section": "Salads",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "goat cheese",
+    "description": "greens, goat cheese, grapes, butter toffee almond, red onion, served with a balsamic vinaigrette on the side. allergen: contains nuts",
+    "price": null,
+    "section": "Salads",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "kettle house salad",
+    "description": "greens, red cabbage, carrot, cucumber, tomato, served with a balsamic vinaigrette on the side.",
+    "price": null,
+    "section": "Salads",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "cobb",
+    "description": "greens, chicken, bacon, cucumber, red cabbage, carrot, hard boiled egg, tomato, red onion, bleu cheese crumbles, with a buttermilk ranch dressing on the side",
+    "price": null,
+    "section": "Salads",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "greek",
+    "description": "greens, tomato, red onion, kalamata olive, cucumber, hummus, goat cheese, toasted naan",
+    "price": null,
+    "section": "Salads",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "vegan grape and almond",
+    "description": "greens, red onion, slivered almond, grape, vegan cheese",
+    "price": null,
+    "section": "Salads",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "Tuna",
+    "description": "greens, red cabbage, carrot, cucumber, tomato, chopped green apple, chopped dill pickles, crispy fried onions, tuna salad with red onion & celery",
+    "price": null,
+    "section": "Salads",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Salads"
+  },
+  {
+    "name": "fruits of the forest scone",
+    "description": "mixed berries, served with cream and preserves",
+    "price": null,
+    "section": "Scones and Cakes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Scones and Cakes"
+  },
+  {
+    "name": "lemon drop scone",
+    "description": "served with cream and preserves",
+    "price": null,
+    "section": "Scones and Cakes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Scones and Cakes"
+  },
+  {
+    "name": "almond blueberry with lemon glaze scone",
+    "description": "allergen: contains nuts",
+    "price": null,
+    "section": "Scones and Cakes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Scones and Cakes"
+  },
+  {
+    "name": "savory herb & sour cream scone",
+    "description": null,
+    "price": null,
+    "section": "Scones and Cakes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Scones and Cakes"
+  },
+  {
+    "name": "flourless chocolate cake",
+    "description": null,
+    "price": null,
+    "section": "Scones and Cakes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Scones and Cakes"
+  },
+  {
+    "name": "carrot cake",
+    "description": "allergen: contains nuts",
+    "price": null,
+    "section": "Scones and Cakes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Scones and Cakes"
+  },
+  {
+    "name": "lemon berry mascarpone cake",
+    "description": null,
+    "price": null,
+    "section": "Scones and Cakes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Scones and Cakes"
+  },
+  {
+    "name": "godiva chocolate cheesecake",
+    "description": null,
+    "price": null,
+    "section": "Scones and Cakes",
+    "restaurant_name": "The Whistling Kettle",
+    "restaurant_url": "https://www.thewhistlingkettle.com/",
+    "menu_type": "Menu",
+    "menu_name": "Scones and Cakes"
+  }
+]

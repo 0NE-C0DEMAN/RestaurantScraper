@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Misfit Espresso Martini",
+    "description": "Available Black, Creamy, Peanut Butter or Pumpkin",
+    "price": "$17.00",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIGNATURE COCKTAILS"
+  },
+  {
+    "name": "Jessica Rabbit",
+    "description": "Vodka-Lime-Strawberry-Balsamic",
+    "price": "$13.00",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIGNATURE COCKTAILS"
+  },
+  {
+    "name": "Purple Rain",
+    "description": "Empress Gin-Lemon-Mint Reduction",
+    "price": "$14.00",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIGNATURE COCKTAILS"
+  },
+  {
+    "name": "Boujie Bitch",
+    "description": "Vodka or Gin, St Germain-Lime-Bubbles",
+    "price": "$14.00",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIGNATURE COCKTAILS"
+  },
+  {
+    "name": "Clockwork Orange",
+    "description": "Vodka-Blood Orange-Ginger Beer-Lime",
+    "price": "$13.00",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIGNATURE COCKTAILS"
+  },
+  {
+    "name": "Naughty Nurse",
+    "description": "Mezcal-Honey-Ginger-Lime",
+    "price": "$13.00",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIGNATURE COCKTAILS"
+  },
+  {
+    "name": "El Mariachi",
+    "description": "Tequila-Passionfruit-Tajin",
+    "price": "$13.00",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIGNATURE COCKTAILS"
+  },
+  {
+    "name": "Misfit Mule",
+    "description": "Vodka-Ginger-Lime-Serrano",
+    "price": "$12.00",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIGNATURE COCKTAILS"
+  },
+  {
+    "name": "Dazed and Confused",
+    "description": "Bourbon-Antica Carpano-Benedictine, Maple-Smoke",
+    "price": "$15.00",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIGNATURE COCKTAILS"
+  },
+  {
+    "name": "Knight Rider",
+    "description": "Bourbon-Black Currant-Lemon-Hazelnut",
+    "price": "$13.00",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIGNATURE COCKTAILS"
+  },
+  {
+    "name": "Last of the Margaritas",
+    "description": "Tequila-Green Chartreuse-Maraschino Cucumber-Lime",
+    "price": "$13.00",
+    "section": "SIGNATURE COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SIGNATURE COCKTAILS"
+  },
+  {
+    "name": "We Didn't Start The Fire",
+    "description": "Anejo Tequila-Mezcal-Lime-Egg White",
+    "price": "$15.00",
+    "section": "SEASONAL COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SEASONAL COCKTAILS"
+  },
+  {
+    "name": "Gimme S'more",
+    "description": "Baileys-Vanilla Vodka-Toasted Marshmellow-Chocolate-Frangelico-Cream-S'more Rim",
+    "price": "$15.00",
+    "section": "SEASONAL COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SEASONAL COCKTAILS"
+  },
+  {
+    "name": "Winter Old Fashioned",
+    "description": "Bourbon-Rosemary-Pomegranate-Cinnamon-Orange Bitters",
+    "price": "$15.00",
+    "section": "SEASONAL COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SEASONAL COCKTAILS"
+  },
+  {
+    "name": "Not My Gumdrop Buttons",
+    "description": "Bourbon-Brown Sugar Gingerbread-Eggnog-Frangelico-Maple-Frosting Rim",
+    "price": "$15.00",
+    "section": "SEASONAL COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SEASONAL COCKTAILS"
+  },
+  {
+    "name": "Winter Wonder",
+    "description": "Vanilla Vodka-Cran/Rosemary-Ginger-Lime-Ginger Ale",
+    "price": "$15.00",
+    "section": "SEASONAL COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SEASONAL COCKTAILS"
+  },
+  {
+    "name": "GINgle Bells",
+    "description": "Gin-Pom/Cinnamon-Sorrel-Orange Bitters",
+    "price": "$15.00",
+    "section": "SEASONAL COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SEASONAL COCKTAILS"
+  },
+  {
+    "name": "Ho-Ho-Cocoa",
+    "description": "Hot Cocoa and Peppermint Vodka (Also available as a mocktail)",
+    "price": "$13.00",
+    "section": "SEASONAL COCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "SEASONAL COCKTAILS"
+  },
+  {
+    "name": "Snowflake",
+    "description": "Vanilla-Pom/Cinnamon-Lime-Ginger Ale",
+    "price": "$8.00",
+    "section": "MOCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "MOCKTAILS"
+  },
+  {
+    "name": "Punky Brewster",
+    "description": "Strawberry-Balsamic-Lime-Soda",
+    "price": "$8.00",
+    "section": "MOCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "MOCKTAILS"
+  },
+  {
+    "name": "Lavender Sky",
+    "description": "Blueberry-Lavender-Lemon",
+    "price": "$8.00",
+    "section": "MOCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "MOCKTAILS"
+  },
+  {
+    "name": "Mockwork Orange",
+    "description": "Blood Orange - Ginger Beer - Lime",
+    "price": "$8.00",
+    "section": "MOCKTAILS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "MOCKTAILS"
+  },
+  {
+    "name": "Miller Lite",
+    "description": "Milwaukee, WI-4.2% ABV-16 oz",
+    "price": "$5.00",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BOTTLES & CANS"
+  },
+  {
+    "name": "Surfside",
+    "description": "Hard Tea",
+    "price": "$10.00",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BOTTLES & CANS"
+  },
+  {
+    "name": "Allagash, White Belgian Wheat",
+    "description": "Portland, ME-5.2% ABV-16 oz",
+    "price": "$9.00",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BOTTLES & CANS"
+  },
+  {
+    "name": "Sierra Nevada Pale Ale",
+    "description": "Chico, CA-5.6% ABV-16 oz",
+    "price": "$7.00",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BOTTLES & CANS"
+  },
+  {
+    "name": "Ommegang, Rare Vos Belgian Ale",
+    "description": "Cooperstown, NY-6.5% ABV-16 oz",
+    "price": "$8.00",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BOTTLES & CANS"
+  },
+  {
+    "name": "Guinness Draught Stout",
+    "description": "Ireland-4.2% ABV-14.9 oz",
+    "price": "$12.00",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BOTTLES & CANS"
+  },
+  {
+    "name": "Fiddlehead IPA",
+    "description": "Shelburne, VT-6.2% ABV-16 oz",
+    "price": "$9.00",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BOTTLES & CANS"
+  },
+  {
+    "name": "Sloop, Juice Bomb NEIPA",
+    "description": "East Fishkill, NY-6.5% ABV-12 oz",
+    "price": "$6.00",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BOTTLES & CANS"
+  },
+  {
+    "name": "Modelo Especial",
+    "description": "Mexico-4.5% ABV-12 oz",
+    "price": "$6.00",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BOTTLES & CANS"
+  },
+  {
+    "name": "Maine, Lunch IPA",
+    "description": "Freeport, ME-7.0% ABV-500 mL",
+    "price": "$18.00",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BOTTLES & CANS"
+  },
+  {
+    "name": "Untitled Art, Juicy Haze IPA Non-Alcoholic",
+    "description": "Wanaukee, WI-<.5% ABV-12 oz",
+    "price": "$8.00",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BOTTLES & CANS"
+  },
+  {
+    "name": "High Noon Vodka Soda, 3 Flavors",
+    "description": "Modesto, CA-4.5% ABV-12 oz",
+    "price": "$8.00",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BOTTLES & CANS"
+  },
+  {
+    "name": "White Claw Hard Seltzer, 2 Flavors",
+    "description": "Chicago, IL-5.0% ABV-16 oz",
+    "price": "$7.00",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BOTTLES & CANS"
+  },
+  {
+    "name": "Original Sin, McIntosh Unfiltered Cider",
+    "description": "New York, NY-6.0% ABV-12 oz",
+    "price": "$6.00",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BOTTLES & CANS"
+  },
+  {
+    "name": "Guinness",
+    "description": "Ireland-4.2% ABV-14.9 oz",
+    "price": "$7.00",
+    "section": "BOTTLES & CANS",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BOTTLES & CANS"
+  },
+  {
+    "name": "Benvolio, Prosecco",
+    "description": "Veneto, IT",
+    "price": "Glass $11.00 | Bottle $42.00",
+    "section": "BUBBLES",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BUBBLES"
+  },
+  {
+    "name": "Moët & Chandon, Imperial NV",
+    "description": "Champagne, FR",
+    "price": "$120.00",
+    "section": "BUBBLES",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BUBBLES"
+  },
+  {
+    "name": "Veuve Clicquot, Brut Rose NV",
+    "description": "Champagne, FR",
+    "price": "$150.00",
+    "section": "BUBBLES",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BUBBLES"
+  },
+  {
+    "name": "Dom Perignon, Brut Cuvée 2012",
+    "description": "Champagne, FR",
+    "price": "$450.00",
+    "section": "BUBBLES",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "BUBBLES"
+  },
+  {
+    "name": "Chloe, Pinot Grigio",
+    "description": "Valdadige, IT",
+    "price": "Glass $11.00 | Bottle $42.00",
+    "section": "WHITE",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "WHITE"
+  },
+  {
+    "name": "Squealing Pig, Sauvignon Blanc",
+    "description": "Marlborough, NZ",
+    "price": "Glass $11.00 | Bottle $42.00",
+    "section": "WHITE",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "WHITE"
+  },
+  {
+    "name": "Dr. Konstantin Frank, Dry Riesling",
+    "description": "Finger Lakes, NY",
+    "price": "Glass $13.00 | Bottle $50.00",
+    "section": "WHITE",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "WHITE"
+  },
+  {
+    "name": "Cave de Lugny, Unoaked Chardonnay",
+    "description": "Maconnais, FR",
+    "price": "Glass $12.00 | Bottle $46.00",
+    "section": "WHITE",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "WHITE"
+  },
+  {
+    "name": "Juliette, Grenache & Syrah",
+    "description": "Provence, FR",
+    "price": "Glass $13.00 | Bottle $50.00",
+    "section": "ROSÉ",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "ROSÉ"
+  },
+  {
+    "name": "Rascal, Pinot Noir",
+    "description": "Willamette Valley, OR",
+    "price": "Glass $11.00 | Bottle $42.00",
+    "section": "RED",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "RED"
+  },
+  {
+    "name": "If You See Kay, Red Blend",
+    "description": "Paso Robles, CA",
+    "price": "Glass $14.00 | Bottle $54.00",
+    "section": "RED",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "RED"
+  },
+  {
+    "name": "Lifevine, Cabernet Sauvignon",
+    "description": "California, USA",
+    "price": "Glass $12.00 | Bottle $46.00",
+    "section": "RED",
+    "restaurant_name": "The Misfit Saratoga",
+    "restaurant_url": "http://www.themisfitsaratoga.com/",
+    "menu_type": "Menu",
+    "menu_name": "RED"
+  }
+]

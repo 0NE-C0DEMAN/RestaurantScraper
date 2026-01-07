@@ -1,0 +1,892 @@
+[
+  {
+    "name": "PANINIS PARTY BOX",
+    "description": "SERVES 12. Choice of 3 of our pressed to order speciality paninis all cut and ready for your next big party. Choose 3 varieties to please the crowd!",
+    "price": "$138.00",
+    "section": "FAMILY STYLE + PARTY BOXES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE + PARTY BOXES"
+  },
+  {
+    "name": "SALAD + GRAIN BOWLS PARTY BOX",
+    "description": "SERVES 8. Choice of 2 of our half size salads + grain bowls, boxed and ready for your next big party. Choose 2 varieties to please the crowd!",
+    "price": "$115.00",
+    "section": "FAMILY STYLE + PARTY BOXES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE + PARTY BOXES"
+  },
+  {
+    "name": "SMOOTHIE BOWL PARTY BOX",
+    "description": "SERVES 12. Choice of 3 of our FAMOUS smoothie bowls - ready for your next big party. Choose 3 varieties to please the crowd!",
+    "price": "$204.00",
+    "section": "FAMILY STYLE + PARTY BOXES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE + PARTY BOXES"
+  },
+  {
+    "name": "TOAST PARTY BOX",
+    "description": "SERVES 8. Choice of 2 of our famous speciality toasts all cut and ready for your next big party. Choose 2 varieties to please the crowd!",
+    "price": "$70.00",
+    "section": "FAMILY STYLE + PARTY BOXES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE + PARTY BOXES"
+  },
+  {
+    "name": "SMOKED SALMON GRAIN BOWL (FAMILY STYLE)",
+    "description": "SERVES 8: Spinach + Quinoa + Smoked Salmon + Pickled Onions + Hard-Boiled Egg + Avocado + Cherry Tomatoes + Capers + Black Sesame Seeds + Lemon Citronette",
+    "price": "$179.50",
+    "section": "FAMILY STYLE GRAIN BOWLS + SALADS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE GRAIN BOWLS + SALADS"
+  },
+  {
+    "name": "SANTA FE CHICKEN GRAIN BOWL (FAMILY STYLE)",
+    "description": "SERVES 8: Roasted Chicken + Quinoa + Avocado + Roasted Corn / Black Bean Salsa + Cherry Tomatoes + Roasted Peppers + Feta + Pickled Onions + Pepitas + Chipotle Vinaigrette",
+    "price": "$162.50",
+    "section": "FAMILY STYLE GRAIN BOWLS + SALADS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE GRAIN BOWLS + SALADS"
+  },
+  {
+    "name": "MEDITERRANEAN GRAIN BOWL (FAMILY STYLE)",
+    "description": "SERVES 8: Quinoa + Baby Kale + Chickpea Salad + Kalamata Olives + Cherry Tomatoes + Avo + Feta + Hummus + Tzatziki + Greek Vinaigrette / EVOO",
+    "price": "$160.00",
+    "section": "FAMILY STYLE GRAIN BOWLS + SALADS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE GRAIN BOWLS + SALADS"
+  },
+  {
+    "name": "GARDEN HARVEST GRAIN BOWL (FAMILY STYLE)",
+    "description": "Arugula + Quinoa + Pickled Onions + Cherry Tomatoes + Olives + Roasted Red Peppers + Hummus + Avocado + Pepitas + Green Goddess Dressing",
+    "price": "$148.00",
+    "section": "FAMILY STYLE GRAIN BOWLS + SALADS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE GRAIN BOWLS + SALADS"
+  },
+  {
+    "name": "BUFFALO CHICKEN COBB SALAD (FAMILY STYLE)",
+    "description": "SERVES 8: Mixed Greens + Buffalo Chicken + Pickled Onions + Hard-Boiled Egg + Harissa Bacon + Cherry Tomatoes + Roasted Corn / Black Bean Salsa + Blue Cheese + Avocado + Green Goddess Dressing",
+    "price": "$155.00",
+    "section": "FAMILY STYLE GRAIN BOWLS + SALADS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE GRAIN BOWLS + SALADS"
+  },
+  {
+    "name": "CHICKEN BLT CAESAR SALAD (FAMILY STYLE)",
+    "description": "SERVES 8: Roasted Chicken + Baby Kale + Harissa Bacon + Cherry Tomatoes + Shaved Parmesan + Candied Walnuts + Sourdough Croutons + Tahini Caesar Dressing",
+    "price": "$155.00",
+    "section": "FAMILY STYLE GRAIN BOWLS + SALADS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE GRAIN BOWLS + SALADS"
+  },
+  {
+    "name": "STRAWBERRY POPPY SALAD (FAMILY STYLE)",
+    "description": "SERVES 8: Mixed Greens + Strawberries + Avocado + Pickled Onions + Feta + Almonds + Pistachio + Strawberry Poppy Dressing",
+    "price": "$155.00",
+    "section": "FAMILY STYLE GRAIN BOWLS + SALADS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE GRAIN BOWLS + SALADS"
+  },
+  {
+    "name": "SMOOTHIE 4 PACK",
+    "description": "Pick your favorite smoothie and we will quadruple it for the best 4 pack ever. Sorry - no mixing and matching. See our \"Individual\" section of the menu to mix and match. Each smoothie is 20oz.",
+    "price": "$42.00",
+    "section": "SMOOTHIE + JUICE BUNDLES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "SMOOTHIE + JUICE BUNDLES"
+  },
+  {
+    "name": "JUICE 6 PACK",
+    "description": "Pick your favorite smoothie and we will times it by 6 it for the best 6 pack ever (other than abs). Sorry - no mixing and matching. See our \"Individual\" section of the menu to mix and match.",
+    "price": "$55.00",
+    "section": "SMOOTHIE + JUICE BUNDLES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "SMOOTHIE + JUICE BUNDLES"
+  },
+  {
+    "name": "AVOCADO + TOAST (FAMILY STYLE)",
+    "description": "SERVES 8: Sourdough + Avo Mash + Avo Oil + TR Seasoning",
+    "price": "$70.00",
+    "section": "FAMILY STYLE TOASTS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE TOASTS"
+  },
+  {
+    "name": "AVOCADO + BRUNCH (FAMILY STYLE)",
+    "description": "SERVES 8: Ancient Grain + Avo Mash + Fried Egg + Arugula + Pickled Onions + Feta + Lemon Citronette + TR Seasoning",
+    "price": "$81.00",
+    "section": "FAMILY STYLE TOASTS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE TOASTS"
+  },
+  {
+    "name": "AVOCADO + BLT (FAMILY STYLE)",
+    "description": "SERVES 8: Sourdough + Avo Mash + Cherry Tomatoes + Bacon + Arugula + Basil Olive Oil",
+    "price": "$90.00",
+    "section": "FAMILY STYLE TOASTS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE TOASTS"
+  },
+  {
+    "name": "AVOCADO + VEGGIE (FAMILY STYLE)",
+    "description": "SERVES 8: Ancient Grain + Avo Mash + Arugula + Cherry Tomatoes + Pickled Onions + Pistachio + Green Goddess Dressing",
+    "price": "$90.00",
+    "section": "FAMILY STYLE TOASTS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE TOASTS"
+  },
+  {
+    "name": "AVOCADO + SALMON (FAMILY STYLE)",
+    "description": "SERVES 8: Sourdough + Avo Mash + Smoked Salmon + Pickled Onions + Capers + Hard-Boiled Egg + Lemon Citronette + Sesame Seeds",
+    "price": "$117.00",
+    "section": "FAMILY STYLE TOASTS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE TOASTS"
+  },
+  {
+    "name": "PB&J + TOAST (FAMILY STYLE)",
+    "description": "SERVES 8: Ancient Grain + Peanut Butter + Strawberry Jam + Strawberries + Chia Seeds",
+    "price": "$57.00",
+    "section": "FAMILY STYLE TOASTS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE TOASTS"
+  },
+  {
+    "name": "ALMOND BANANA + TOAST (FAMILY STYLE)",
+    "description": "SERVES 8: Ancient Grain + Almond Butter + Banana + Honey + Walnuts",
+    "price": "$57.00",
+    "section": "FAMILY STYLE TOASTS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "FAMILY STYLE TOASTS"
+  },
+  {
+    "name": "SINGLE THREAT SMOOTHIE BOWL BAR",
+    "description": "Includes: 1 Choice of Bases with Gluten Free Granola 2 Choice of Fruits 2 Choice of Toppings 1 Choice of Nut Butters",
+    "price": "$102.00",
+    "section": "BUILD YOUR OWN SMOOTHIE BOWL BAR",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "BUILD YOUR OWN SMOOTHIE BOWL BAR"
+  },
+  {
+    "name": "DOUBLE THREAT SMOOTHIE BOWL BAR",
+    "description": "Includes: 2 Choice of Bases with Gluten Free Granola 4 Choice of Fruits 4 Choice of Toppings 2 Choice of Nut Butters",
+    "price": "$115.00",
+    "section": "BUILD YOUR OWN SMOOTHIE BOWL BAR",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "BUILD YOUR OWN SMOOTHIE BOWL BAR"
+  },
+  {
+    "name": "TRIPLE THREAT SMOOTHIE BOWL BAR",
+    "description": "Includes: 3 Choice of Bases with Gluten Free Granola 6 Choice of Fruits 6 Choice of Toppings 3 Choice of Nut Butters",
+    "price": "$127.00",
+    "section": "BUILD YOUR OWN SMOOTHIE BOWL BAR",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "BUILD YOUR OWN SMOOTHIE BOWL BAR"
+  },
+  {
+    "name": "SINGLE THREAT TOAST BAR",
+    "description": "Includes: 1 Choice of Bread with Avocado 1 Choice of Toppings 1 Seasoning or Oil",
+    "price": "$68.00",
+    "section": "BUILD YOUR OWN TOAST BAR",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "BUILD YOUR OWN TOAST BAR"
+  },
+  {
+    "name": "DOUBLE THREAT TOAST BAR",
+    "description": "Includes: 2 Choice of Breads with Avocado 1 Choice of Toppings 1 Choice of Premium Toppings 2 Seasoning or Oil",
+    "price": "$80.00",
+    "section": "BUILD YOUR OWN TOAST BAR",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "BUILD YOUR OWN TOAST BAR"
+  },
+  {
+    "name": "TRIPLE THREAT TOAST BAR",
+    "description": "Includes: 3 Choice of Breads with Avocado 2 Choice of Toppings 1 Choice of Premium Toppings 3 Seasoning or Oil",
+    "price": "$93.00",
+    "section": "BUILD YOUR OWN TOAST BAR",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "BUILD YOUR OWN TOAST BAR"
+  },
+  {
+    "name": "PEANUT BUTTER PROTEIN BITES (",
+    "description": "Serves 8: Peanut Butter + Vanilla + GF Oats + Coconut + Chocolate + Vanilla",
+    "price": "$49.50",
+    "section": "SNACKS FOR A CROWD",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "SNACKS FOR A CROWD"
+  },
+  {
+    "name": "MEDITERRANEAN PLATTER",
+    "description": "SERVES 8: Inspired platter of the Mediterranean region, perfect for crowds.",
+    "price": "$99.00",
+    "section": "SNACKS FOR A CROWD",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "SNACKS FOR A CROWD"
+  },
+  {
+    "name": "KRU COLD BREW CARAFE",
+    "description": "Serves 8: Literally the BEST Cold Brew we've ever had. From our friends at Kru Coffee.",
+    "price": "$40.00",
+    "section": "DRINKS FOR A CROWD",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "DRINKS FOR A CROWD"
+  },
+  {
+    "name": "KRU HOT DRIP COFFEE CARAFE",
+    "description": "Serves 8: Hot coffee for your next event, from our friends at Kru Coffee.",
+    "price": "$33.00",
+    "section": "DRINKS FOR A CROWD",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "DRINKS FOR A CROWD"
+  },
+  {
+    "name": "FRESH LEMONADE PITCHER",
+    "description": "Serves 8: Pitcher of freshly squeezed lemonade for your next party.",
+    "price": "$36.00",
+    "section": "DRINKS FOR A CROWD",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "DRINKS FOR A CROWD"
+  },
+  {
+    "name": "UNSWEETENED ICED TEA PITCHER",
+    "description": "Serves 8: Freshly brewed pitcher of unsweetened iced tea",
+    "price": "$36.00",
+    "section": "DRINKS FOR A CROWD",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "DRINKS FOR A CROWD"
+  },
+  {
+    "name": "CANNED WATER",
+    "description": "It's a bottle of water. Need we say more?",
+    "price": "$3.75",
+    "section": "DRINKS FOR A CROWD",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "DRINKS FOR A CROWD"
+  },
+  {
+    "name": "CHOCOLATE MILK",
+    "description": "Individual chocolate milk from a local farm.",
+    "price": "$3.60",
+    "section": "DRINKS FOR A CROWD",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "DRINKS FOR A CROWD"
+  },
+  {
+    "name": "TURKEY PESTO PANINI",
+    "description": "Ciabatta + Roasted Turkey + Pesto + Roasted Red Pepper + Feta + Balsamic Drizzle",
+    "price": "$15.20",
+    "section": "INDIVIDUAL PANINIS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL PANINIS"
+  },
+  {
+    "name": "SERRANO HAM + FIG PANINI",
+    "description": "Ciabatta + Serrano Ham + Cheddar + Gruyère + Fig Jam + Arugula",
+    "price": "$15.35",
+    "section": "INDIVIDUAL PANINIS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL PANINIS"
+  },
+  {
+    "name": "CAPRESE PANINI",
+    "description": "Ciabatta + Tomato + Mozzarella + Pesto + Balsamic Glaze + Basil Olive Oil + Sea Salt",
+    "price": "$12.90",
+    "section": "INDIVIDUAL PANINIS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL PANINIS"
+  },
+  {
+    "name": "APPLE + BRIE PANINI",
+    "description": "Ciabatta + Apple + Brie + Caramelized Onions + Arugula + Hot Honey",
+    "price": "$13.90",
+    "section": "INDIVIDUAL PANINIS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL PANINIS"
+  },
+  {
+    "name": "CALIFORNIA CLUB PANINI",
+    "description": "Ciabatta + Roasted Turkey + Bacon + Tomato + Arugula + Avocado + Cheddar + Garlic Aioli",
+    "price": "$16.40",
+    "section": "INDIVIDUAL PANINIS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL PANINIS"
+  },
+  {
+    "name": "BLT PANINI",
+    "description": "Ciabatta + Bacon + Arugula + Tomato + Garlic Aioli + Basil Olive Oil Drizzle + Salt/Pepper",
+    "price": "$15.20",
+    "section": "INDIVIDUAL PANINIS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL PANINIS"
+  },
+  {
+    "name": "ROASTED EGGPLANT PANINI",
+    "description": "Ciabatta + Roasted Eggplant + Roasted Red Peppers + Arugula + Mozzarella + Pesto + Basil Olive Oil + Balsamic Drizzle",
+    "price": "$13.90",
+    "section": "INDIVIDUAL PANINIS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL PANINIS"
+  },
+  {
+    "name": "CLASSIC GRILLED CHEESE",
+    "description": "Ciabatta + Gouda + Cheddar",
+    "price": "$11.85",
+    "section": "INDIVIDUAL PANINIS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL PANINIS"
+  },
+  {
+    "name": "BUFFALO CHICKEN COBB SALAD",
+    "description": "Mixed Greens + Buffalo Chicken + Pickled Onions + Hard-Boiled Egg + Harissa Bacon + Cherry Tomatoes + Roasted Corn / Black Bean Salsa + Blue Cheese + Avocado + Green Goddess Dressing",
+    "price": "$16.45",
+    "section": "INDIVIDUAL SALADS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SALADS"
+  },
+  {
+    "name": "CHICKEN BLT CAESAR SALAD",
+    "description": "Roasted Chicken + Baby Kale + Harissa Bacon + Cherry Tomatoes + Shaved Parmesan + Candied Walnuts + Sourdough Croutons + Tahini Caesar Dressing",
+    "price": "$16.45",
+    "section": "INDIVIDUAL SALADS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SALADS"
+  },
+  {
+    "name": "STRAWBERRY POPPY SALAD",
+    "description": "Mixed Greens + Strawberries + Avocado + Pickled Onions + Feta + Almonds + Pistachio + Strawberry Poppy Dressing",
+    "price": "$14.40",
+    "section": "INDIVIDUAL SALADS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SALADS"
+  },
+  {
+    "name": "SMOKED SALMON GRAIN BOWL",
+    "description": "Spinach + Quinoa + Smoked Salmon + Pickled Onions + Hard-Boiled Egg + Avocado + Cherry Tomatoes + Capers + Black Sesame Seeds + Lemon Citronette",
+    "price": "$17.25",
+    "section": "INDIVIDUAL GRAIN BOWLS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL GRAIN BOWLS"
+  },
+  {
+    "name": "SANTA FE CHICKEN GRAIN BOWL",
+    "description": "Roasted Chicken + Quinoa + Arugula + Avocado + Roasted Corn / Black Bean Salsa + Cherry Tomatoes + Roasted Peppers + Feta + Pickled Onions + Pepitas + Chipotle Vinaigrette",
+    "price": "$16.45",
+    "section": "INDIVIDUAL GRAIN BOWLS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL GRAIN BOWLS"
+  },
+  {
+    "name": "MEDITERRANEAN GRAIN BOWL",
+    "description": "Quinoa + Baby Kale + Chickpea Salad + Kalamata Olives + Cherry Tomatoes + Avo + Feta + Hummus + Tzatziki + Greek Vinaigrette / EVOO",
+    "price": "$16.45",
+    "section": "INDIVIDUAL GRAIN BOWLS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL GRAIN BOWLS"
+  },
+  {
+    "name": "GARDEN HARVEST GRAIN BOWL",
+    "description": "Arugula + Quinoa + Pickled Onions + Cherry Tomatoes + Olives + Roasted Red Peppers + Hummus + Avocado + Pepitas + Green Goddess Dressing",
+    "price": "$14.40",
+    "section": "INDIVIDUAL GRAIN BOWLS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL GRAIN BOWLS"
+  },
+  {
+    "name": "PINK BOWL",
+    "description": "BASE: Pitaya + Mango + Strawberry + Lime + Pineapple Coconut Water TOPPINGS: Banana + Pineapple + Blackberries + Toasted Coconut + Goji Berries + GF Granola + Peanut Butter + Agave Drizzle",
+    "price": "$17.00",
+    "section": "INDIVIDUAL SMOOTHIE BOWLS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIE BOWLS"
+  },
+  {
+    "name": "CLASSIC ACAI BOWL",
+    "description": "BASE: Acai + Strawberries + Banana + Agave + Almond Milk TOPPINGS: Strawberries + Blackberries + Banana + GF Granola + Shredded Coconut + Almond Butter + Agave Drizzle",
+    "price": "$17.00",
+    "section": "INDIVIDUAL SMOOTHIE BOWLS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIE BOWLS"
+  },
+  {
+    "name": "TROPICAL BERRY BOWL",
+    "description": "BASE: Strawberry + Blueberry + Avocado + Agave + Oat Milk TOPPINGS: Strawberry + Blackberry + Pineapple + Toasted Coconut + GF Granola + Peanut Butter + Agave Drizzle",
+    "price": "$17.00",
+    "section": "INDIVIDUAL SMOOTHIE BOWLS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIE BOWLS"
+  },
+  {
+    "name": "PB+J ACAI BOWL",
+    "description": "BASE: Acai + Strawberries + Blueberries + Bananas + PB&J + Almond Milk TOPPINGS: Strawberries + Blackberries + GF Granola + Toasted Coconut + Peanut Butter + Goji Berries + Cacao Nibs + Agave Drizzle",
+    "price": "$17.00",
+    "section": "INDIVIDUAL SMOOTHIE BOWLS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIE BOWLS"
+  },
+  {
+    "name": "NUTELLA ACAI BOWL",
+    "description": "BASE: Acai + Banana + Blueberry + Cocoa + Maple Syrup + Oat Milk TOPPINGS: Blueberry + Banana + GF Granola + Toasted Coconut + Graham Cracker + Shaved Chocolate + Nutella + Agave Drizzle",
+    "price": "$17.00",
+    "section": "INDIVIDUAL SMOOTHIE BOWLS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIE BOWLS"
+  },
+  {
+    "name": "PEANUT BUTTER CRAVE",
+    "description": "BASE: Banana + Peanut Butter + Cocoa + Maple Syrup + Oat Milk TOPPINGS: Strawberry + Banana + GF Granola + Toasted Coconut + Shaved Chocolate + Graham Cracker + Peanut Butter + Honey Drizzle",
+    "price": "$17.00",
+    "section": "INDIVIDUAL SMOOTHIE BOWLS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIE BOWLS"
+  },
+  {
+    "name": "BERRY BLISS BOWL",
+    "description": "BASE: Strawberry + Blueberry + Banana + Apple Juice TOPPINGS: Strawberries + Blueberries + Blackberries + Toasted Coconut + GF Granola + Almond Butter + Honey Drizzle",
+    "price": "$17.00",
+    "section": "INDIVIDUAL SMOOTHIE BOWLS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIE BOWLS"
+  },
+  {
+    "name": "AVOCADO + TOAST",
+    "description": "Sourdough + Avo Mash + Avo Oil + TR Seasoning",
+    "price": "$8.75",
+    "section": "INDIVIDUAL TOASTS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL TOASTS"
+  },
+  {
+    "name": "AVOCADO + BRUNCH",
+    "description": "Ancient Grain + Avo Mash + Fried Egg + Arugula + Pickled Onions + Feta + Lemon Citronette + TR Seasoning",
+    "price": "$10.25",
+    "section": "INDIVIDUAL TOASTS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL TOASTS"
+  },
+  {
+    "name": "AVOCADO + BLT",
+    "description": "Sourdough + Avo Mash + Cherry Tomatoes + Bacon + Arugula + Basil Olive Oil",
+    "price": "$11.30",
+    "section": "INDIVIDUAL TOASTS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL TOASTS"
+  },
+  {
+    "name": "AVOCADO + VEGGIE",
+    "description": "Ancient Grain + Avo Mash + Arugula + Cherry Tomatoes + Pickled Onions + Pistachio + Green Goddess Dressing",
+    "price": "$11.30",
+    "section": "INDIVIDUAL TOASTS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL TOASTS"
+  },
+  {
+    "name": "AVOCADO + SMOKED SALMON",
+    "description": "Sourdough + Avo Mash + Smoked Salmon + Pickled Onions + Capers + Hard-Boiled Egg + Lemon Citronette + Sesame Seeds",
+    "price": "$14.70",
+    "section": "INDIVIDUAL TOASTS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL TOASTS"
+  },
+  {
+    "name": "PB&J + TOAST",
+    "description": "Ancient Grain + Peanut Butter + Strawberry Jam + Strawberries + Chia Seeds",
+    "price": "$7.20",
+    "section": "INDIVIDUAL TOASTS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL TOASTS"
+  },
+  {
+    "name": "ALMOND BANANA + TOAST",
+    "description": "Ancient Grain + Almond Butter + Banana + Honey + Walnuts",
+    "price": "$7.20",
+    "section": "INDIVIDUAL TOASTS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL TOASTS"
+  },
+  {
+    "name": "B-A-N-A-N-A-S",
+    "description": "Banana + Peanut Butter + Cacao Nibs + Agave + Oat Milk",
+    "price": "$10.25",
+    "section": "INDIVIDUAL SMOOTHIES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIES"
+  },
+  {
+    "name": "OVER THE RAINBOW",
+    "description": "Blueberry + Strawberry + Banana + Apple Juice",
+    "price": "$10.25",
+    "section": "INDIVIDUAL SMOOTHIES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIES"
+  },
+  {
+    "name": "SASSY STRAWBERRY",
+    "description": "Strawberry + Banana + Pitaya + Agave + Oat Milk",
+    "price": "$10.25",
+    "section": "INDIVIDUAL SMOOTHIES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIES"
+  },
+  {
+    "name": "BERRY POWERFUL",
+    "description": "Blueberry + Strawberry + GF Oats + Agave + Flaxseed + Oat Milk",
+    "price": "$10.25",
+    "section": "INDIVIDUAL SMOOTHIES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIES"
+  },
+  {
+    "name": "MR. ROGERS",
+    "description": "Kru Cold Brew + Banana + Cacao Nibs + Almond Butter + Cacao + Coconut Sugar + Almond Milk",
+    "price": "$10.25",
+    "section": "INDIVIDUAL SMOOTHIES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIES"
+  },
+  {
+    "name": "GO AWAY DOC",
+    "description": "Carrot + Mango + Banana + Pineapple + Ginger + Lemon + Coconut Water",
+    "price": "$10.25",
+    "section": "INDIVIDUAL SMOOTHIES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIES"
+  },
+  {
+    "name": "MEAN GREEN",
+    "description": "Spinach + Mango + Pineapple + Banana + Coconut Water",
+    "price": "$10.25",
+    "section": "INDIVIDUAL SMOOTHIES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIES"
+  },
+  {
+    "name": "HOLD THE CRUST PB+J",
+    "description": "PB&J + Blueberries + Banana + Strawberries + Almond Milk",
+    "price": "$10.25",
+    "section": "INDIVIDUAL SMOOTHIES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIES"
+  },
+  {
+    "name": "KALE ME CRAZY",
+    "description": "Kale + Strawberry + Avocado + Almond Butter + Mango + Almond Milk + Agave",
+    "price": "$10.25",
+    "section": "INDIVIDUAL SMOOTHIES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIES"
+  },
+  {
+    "name": "JUST BEET IT",
+    "description": "Beets + Mango + Strawberry + Ginger + Lemon + Apple Juice",
+    "price": "$10.25",
+    "section": "INDIVIDUAL SMOOTHIES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SMOOTHIES"
+  },
+  {
+    "name": "ORGANIC FRESH START JUICE",
+    "description": "Fresh Start promises to wake you up with non-stop flavor from the initial tang of lemon to the soothing taste of ginger. This 100% juice is Living Juice's lemon pH balancer made only from organic lemon, organic apple and organic ginger.",
+    "price": "$9.25",
+    "section": "INDIVIDUAL COLD-PRESSED JUICES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL COLD-PRESSED JUICES"
+  },
+  {
+    "name": "ORGANIC CARROT KICK JUICE",
+    "description": "Made of organic carrots, oranges, and yellow beets, Carrot Kick is as colorful as it is delicious! This sweet juice is filled to the brim with Beta Carotene, essential vitamins and nutrients.",
+    "price": "$9.25",
+    "section": "INDIVIDUAL COLD-PRESSED JUICES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL COLD-PRESSED JUICES"
+  },
+  {
+    "name": "ORGANIC RED RADIANCE JUICE",
+    "description": "With a mix of organic strawberry, red apple and beet, the taste and experience of this cold-pressed Red Radiance can't be beet! Red Radiance has a taste so sweet you wouldn't believe all the minerals, vitamins and essential fatty acids that are in just one bottle.",
+    "price": "$9.25",
+    "section": "INDIVIDUAL COLD-PRESSED JUICES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL COLD-PRESSED JUICES"
+  },
+  {
+    "name": "ORGANIC PINEAPPLE PUNCH JUICE",
+    "description": "Pineapple Punch is Living Juice's sweet green juice. Bursting with organic kale, pineapple and apple this juice delivers the flavor with no added water or sugar!",
+    "price": "$9.25",
+    "section": "INDIVIDUAL COLD-PRESSED JUICES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL COLD-PRESSED JUICES"
+  },
+  {
+    "name": "ORGANIC GREEN VITALITY JUICE",
+    "description": "Packed with fresh, organic green vegetables, Green Vitality provides a powerful combination of anti-oxidizing ingredients, vitamins and minerals. This savory juice will cleanse your body, leaving you energized and feeling great!",
+    "price": "$9.25",
+    "section": "INDIVIDUAL COLD-PRESSED JUICES",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL COLD-PRESSED JUICES"
+  },
+  {
+    "name": "KRU COLD BREW",
+    "description": "Cold brew nitro coffee from our friends at kru coffee.",
+    "price": "$6.00",
+    "section": "INDIVIDUAL SOUPS + SNACKS + DRINKS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SOUPS + SNACKS + DRINKS"
+  },
+  {
+    "name": "LEMONADE",
+    "description": "Organic Lemonade with Lemon + Turmeric + Cane Sugar",
+    "price": "$4.00",
+    "section": "INDIVIDUAL SOUPS + SNACKS + DRINKS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SOUPS + SNACKS + DRINKS"
+  },
+  {
+    "name": "ICED TEA",
+    "description": "Organic Unsweet Green Tea: Green Tea + Orange Blossom + Mint",
+    "price": "$4.00",
+    "section": "INDIVIDUAL SOUPS + SNACKS + DRINKS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SOUPS + SNACKS + DRINKS"
+  },
+  {
+    "name": "ARNOLD PALMER",
+    "description": "Organic Unsweet Green Tea + Lemonade",
+    "price": "$4.00",
+    "section": "INDIVIDUAL SOUPS + SNACKS + DRINKS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SOUPS + SNACKS + DRINKS"
+  },
+  {
+    "name": "CLASSIC OVERNIGHT OATS",
+    "description": "GF Oats + Chia Seeds + Almond Butter + Maple Syrup + Oat Milk + Cinnamon + Coconut + CHOICE OF FRUIT",
+    "price": "$8.50",
+    "section": "INDIVIDUAL SOUPS + SNACKS + DRINKS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SOUPS + SNACKS + DRINKS"
+  },
+  {
+    "name": "APPLE PIE OVERNIGHT OATS",
+    "description": "Baked Apples + Pecans + GF Granola + Maple Syrup + Our Classic Overnight Oats *GF Oats + Chia Seeds + Almond Butter + Maple Syrup + Oat Milk + Cinnamon",
+    "price": "$8.50",
+    "section": "INDIVIDUAL SOUPS + SNACKS + DRINKS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SOUPS + SNACKS + DRINKS"
+  },
+  {
+    "name": "PEANUT BUTTER PROTEIN BITES",
+    "description": "Peanut Butter + GF Oats + Coconut + Chocolate + Vanilla + Agave (4ct)",
+    "price": "$6.50",
+    "section": "INDIVIDUAL SOUPS + SNACKS + DRINKS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SOUPS + SNACKS + DRINKS"
+  },
+  {
+    "name": "CREAMY TOMATO SOUP",
+    "description": "A delicious medley of cheddar, tomatoes, light cream, spices + garlic all simmered in a rich broth, with choice of bread. Vegetarian",
+    "price": "$7.20",
+    "section": "INDIVIDUAL SOUPS + SNACKS + DRINKS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SOUPS + SNACKS + DRINKS"
+  },
+  {
+    "name": "BEEF CHILI",
+    "description": "Classic chili full of chunks of beef, kidney and black beans and red, yellow and green bell peppers. Simmered in a flavorful blend of tomatoes and spices, with choice of bread. Gluten Free",
+    "price": "$7.20",
+    "section": "INDIVIDUAL SOUPS + SNACKS + DRINKS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SOUPS + SNACKS + DRINKS"
+  },
+  {
+    "name": "CHICKEN SAUSAGE + KALE SOUP",
+    "description": "Made with Chicken Italian Sausage, kale, onions, brown rice, sweet potatoes, celery, white beans and carrots. Gluten Free",
+    "price": "$7.20",
+    "section": "INDIVIDUAL SOUPS + SNACKS + DRINKS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SOUPS + SNACKS + DRINKS"
+  },
+  {
+    "name": "BROCCOLI + CHEDDAR SOUP",
+    "description": "Everyone's favorite soup made with generous pieces of broccoli, creamy sharp cheddar cheese and a touch of spice, with choice of bread. Gluten Free + Vegetarian",
+    "price": "$7.20",
+    "section": "INDIVIDUAL SOUPS + SNACKS + DRINKS",
+    "restaurant_name": "Thorn + Roots",
+    "restaurant_url": "https://www.thornandroots.com/",
+    "menu_type": "Menu",
+    "menu_name": "INDIVIDUAL SOUPS + SNACKS + DRINKS"
+  }
+]
