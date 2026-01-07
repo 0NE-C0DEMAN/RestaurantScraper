@@ -1,0 +1,134 @@
+================================================================================
+UNIFIED CSV SUMMARY
+================================================================================
+
+Total Records: 13455
+Total Restaurants: 103
+CSV File: D:\vscode\Frane\RestaurantScraper\all_restaurant_menus.csv
+Serial Numbers: 1 to 13455
+
+Columns:
+  - sr_no: Serial number (1, 2, 3, ...)
+  - restaurant_name: Name of the restaurant
+  - restaurant_url: Website URL
+  - menu_type: Menu type (Lunch, Dinner, Breakfast, etc.) from 'menu_type' or 'menu_name'
+  - section: Menu section (Appetizers, Entrees, etc.) from 'section'
+  - name: Menu item name
+  - description: Item description
+  - price: Item price
+
+Sanity Check:
+--------------------------------------------------------------------------------
+Records with menu_type: 11649 (86.6%)
+Records with section: 5945 (44.2%)
+Records with both: 4139 (30.8%)
+Records with price: 11536 (85.7%)
+Records without price: 1919 (14.3%)
+Records without description: 4384 (32.6%)
+Records without name: 6 (0.0%)
+
+Records by Restaurant:
+--------------------------------------------------------------------------------
+Boca Bistro                                           497 records
+Mazzone Hospitality                                   488 records
+9 Maple Ave.                                          471 records
+Village Pizzeria & Ristorante                         416 records
+Cantina Saratoga                                      367 records
+Sushi Thai Garden                                     314 records
+Wishing Well Restaurant                               309 records
+Jacob and Anthony's Italian                           308 records
+King's Tavern                                         308 records
+Hattie's Restaurant                                   282 records
+King Brothers Dairy                                   274 records
+Haru                                                  257 records
+The Ugly Rooster                                      256 records
+Karavalli Saratoga                                    251 records
+Chianti Ristorante                                    241 records
+Morrissey's Lounge & Bistro                           238 records
+Amigos Cantina                                        224 records
+Putnam Market                                         223 records
+Ravenswood Pub                                        217 records
+West Avenue Pizzeria                                  202 records
+Nové Italian Restaurant                               192 records
+Cardona's Market                                      182 records
+Phila Fusion                                          175 records
+The Night Owl Saratoga                                172 records
+Kindred                                               164 records
+Panza's Restaurant                                    161 records
+Spring Street Deli & Pizzeria                         160 records
+Uncommon Grounds                                      159 records
+Druthers Brewing Company                              153 records
+Taverna Novo                                          153 records
+Scallions                                             148 records
+Scotty's Truck Stop                                   134 records
+Wheatfields Restaurant & Bar                          130 records
+Dizzy Chicken Woodfired Rotisserie                    129 records
+The Merc Saratoga                                     129 records
+Forno Bistro                                          128 records
+The Local Pub and Teahouse                            128 records
+Chez Pierre Restaurant                                124 records
+Lake Ridge                                            124 records
+Burnt Hills Cafe                                      123 records
+Lakeside Farms                                        119 records
+Bailey's Cafe                                         118 records
+The Flats Restaurant & Tavern                         116 records
+Seneca                                                115 records
+42 Fusion                                             111 records
+30 Park                                               109 records
+Mama Mia's                                            108 records
+Wind Chill Factory                                    105 records
+Rhea                                                  100 records
+Kickstart Coffee Company                               94 records
+Henry Street Taproom                                   93 records
+The Coat Room                                          93 records
+Beer Wine Pizza                                        92 records
+The Country Corner Cafe                                92 records
+Horseshoe Inn Bar & Grill                              91 records
+Hills & Hollows                                        89 records
+Neighborhood Kitchen                                   89 records
+Thorn + Roots                                          89 records
+Franklin Square Market                                 88 records
+Mixed Breed Brewing                                    86 records
+Prime at Saratoga National                             86 records
+Humpty Dumpty Ice Cream                                84 records
+The End Zone Sports Pub                                81 records
+Carson's Woodside Tavern                               80 records
+9 Miles East Farm                                      79 records
+Simply Food by Maura                                   79 records
+Brasserie Benelux                                      77 records
+The Iron's Edge                                        76 records
+15 Church Restaurant                                   75 records
+Bread Basket Bakery                                    73 records
+Harvey's Restaurant and Bar                            72 records
+Eddie F's New England Seafood Restaurant               70 records
+Salt & Char                                            69 records
+Parting Glass Pub                                      66 records
+Thirsty Owl Saratoga                                   65 records
+SPoT Coffee                                            62 records
+The West Side Sports Bar & Grill                       62 records
+Sweet Mimi's Cafe & Bakery                             58 records
+Andy's Adirondack Grille                               57 records
+Saratoga City Tavern                                   57 records
+Morton's The Steakhouse                                56 records
+The Hideaway                                           55 records
+Olde Bryan Inn                                         54 records
+The Inn at Saratoga                                    51 records
+The Whistling Kettle                                   50 records
+The Misfit Saratoga                                    49 records
+Holiday Inn Saratoga Springs                           47 records
+Lucky Joe's                                            46 records
+The Galway Local                                       44 records
+Hamlet & Ghost                                         40 records
+Diamond Club Restaurant                                39 records
+58 Roosevelt Bar & Grill                               39 records
+Speckled Pig Brewing Co.                               34 records
+Fat Paulie's Deli                                      30 records
+Four Seasons Natural Foods                             29 records
+Pennell's Restaurant                                   25 records
+The Twisted Bagel Company                              25 records
+550 Waterfront by Druthers                             21 records
+BurgerFi                                               19 records
+The Cock 'n Bull                                       19 records
+Kru Coffee                                             14 records
+The Mouzon House                                       13 records
+Coffee Planet Cafe                                      6 records

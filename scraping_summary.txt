@@ -1,0 +1,114 @@
+================================================================================
+                    RESTAURANT MENU SCRAPING SUMMARY
+================================================================================
+
+Generated: 2025-01-07
+
+STATUS BREAKDOWN
+----------------
+Total Restaurants:           120
+├─ DONE:                    106  (88.3%)
+├─ NO MENU:                   6  (5.0%)
+├─ SITE UNAVAILABLE:          7  (5.8%)
+└─ SPAM:                      1  (0.8%)
+
+COMPLETION RATE
+---------------
+Completed:                  106 / 120  (88.3%)
+Remaining:                   14 / 120  (11.7%)
+
+SCRAPING METHODS USED
+---------------------
+The scrapers use different methods based on the menu format:
+
+1. GEMINI VISION API (PDF/Image Extraction)
+   - Used for: PDF menus, image-based menus, complex layouts
+   - Count: ~41 scrapers
+   - Examples: 
+     * mazzonehospitality_com.py (PDFs from Issuu)
+     * saratoga_city_tavern_com.py (PDF menu)
+     * kingstavern_ca.py (Multiple PDF menus)
+     * scottystruckstop_com.py (PDF menu)
+     * villagepizzeria_com.py (Wine menu PDF, kids menu images)
+     * holidayinn_com.py (PDF menu)
+     * wishingwellrestaurant_com.py (Main menu PDF)
+   - When to use:
+     * Menu is in PDF format
+     * Menu is embedded as images
+     * Complex layouts that HTML parsing struggles with
+     * Multi-column layouts, handwritten menus, scanned documents
+
+2. PDF PLUMBER (Structured PDF Extraction)
+   - Used for: Well-structured PDFs with extractable text
+   - Count: ~8 scrapers
+   - Examples:
+     * 15churchrestaurant_com.py
+     * amigoscantina_net.py
+     * baileyscafe_com.py
+     * beneluxny_com.py
+     * saratogabreadbasket_com.py
+     * 9mapleave_com.py
+     * franklinsqmarket_com.py
+     * hamletandghost_com.py
+   - When to use:
+     * PDF has selectable text (not scanned images)
+     * PDF has consistent structure
+     * Text can be extracted programmatically
+     * Faster than Gemini for simple PDFs
+
+3. HTML PARSING (BeautifulSoup)
+   - Used for: HTML-based menus, dynamic content
+   - Count: ~80 scrapers
+   - Examples:
+     * thegalwaylocalny_com.py (Multiple HTML pages)
+     * thecoatroom_com.py (SpotOn ordering page)
+     * 550waterfrontbydruthers_com.py (Playwright + HTML)
+     * wheatfields_com.py (Multiple locations)
+     * uncommongrounds_com.py (Multiple locations)
+     * villagepizzeria_com.py (Main menu HTML)
+     * wishingwellrestaurant_com.py (Wine, cocktails, specials HTML)
+     * westavepizza_com.py (JSON API)
+   - When to use:
+     * Menu is embedded in HTML
+     * Menu is loaded via JavaScript (use Playwright)
+     * Menu is available via API (JSON/XML)
+     * Simple structured HTML menus
+
+4. PLAYWRIGHT (Browser Automation)
+   - Used for: JavaScript-rendered content, Cloudflare protection
+   - Count: Multiple scrapers use it
+   - Examples:
+     * thecoatroom_com.py (Cloudflare bypass)
+     * 550waterfrontbydruthers_com.py (Dynamic content)
+     * mazzonehospitality_com.py (Issuu PDF downloads)
+     * villagepizzeria_com.py (Main menu page)
+   - When to use:
+     * Content requires JavaScript to load
+     * Cloudflare or bot protection
+     * Dynamic content loading
+     * Need to interact with page (click buttons, etc.)
+
+METHOD SELECTION GUIDE
+----------------------
+┌─────────────────────┬─────────────────────────────────────────────┐
+│ Menu Format         │ Recommended Method                          │
+├─────────────────────┼─────────────────────────────────────────────┤
+│ PDF (scanned/image) │ Gemini Vision API                           │
+│ PDF (text-based)    │ PDF Plumber (if structured) or Gemini      │
+│ HTML (static)       │ BeautifulSoup                               │
+│ HTML (dynamic/JS)   │ Playwright + BeautifulSoup                  │
+│ Images              │ Gemini Vision API                           │
+│ JSON API            │ requests + json parsing                     │
+│ Cloudflare protected│ Playwright (headless or headful)            │
+└─────────────────────┴─────────────────────────────────────────────┘
+
+NOTES
+-----
+- Some scrapers use multiple methods (e.g., HTML parsing + Gemini for PDFs)
+- Playwright is used in headless mode for automation, headful for debugging
+- Gemini API calls include 5-second delays to respect rate limits
+- All scrapers handle multi-price, multi-size, and add-ons
+- Output format: JSON with restaurant_name, restaurant_url, name, description, price
+
+================================================================================
+
