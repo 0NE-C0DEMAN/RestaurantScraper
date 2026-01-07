@@ -1,0 +1,458 @@
+[
+  {
+    "name": "TAVERN NACHOS",
+    "description": "Smothered in cheddar cheese, onion, tomatoes, jalapenos, and olives\nServed with a side of salsa and sour cream. Add chicken",
+    "price": "$9",
+    "section": "APPETIZERS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "MOZZERELLA STICKS & MARINARA",
+    "description": null,
+    "price": "$6",
+    "section": "APPETIZERS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "POTATO SKINS",
+    "description": "Loaded with cheddar and bacon. Served with sour cream\nOr try them with broccoli and cheddar",
+    "price": "$9",
+    "section": "APPETIZERS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "CHICKEN FINGERS & TOTS",
+    "description": "Try them buffalo or bbq style",
+    "price": "$8",
+    "section": "APPETIZERS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "SPINACH ARTICHOKE DIP",
+    "description": "Served with our tortillas and our homemade bread sticks",
+    "price": "$10",
+    "section": "APPETIZERS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "WINGS",
+    "description": "Buffalo, bbq, or teriyaki",
+    "price": "$0.50 EA",
+    "section": "APPETIZERS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "POPCORN CHICKEN & TOTS",
+    "description": null,
+    "price": "$9",
+    "section": "APPETIZERS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "CEASAR SALAD",
+    "description": "Romaine, croutons, parmesan, and ceasar dressing",
+    "price": "$7",
+    "section": "SALADS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "GARDEN",
+    "description": "Romaine, carrots, red onion, celery, olives, cucumbers, tomatoes",
+    "price": "$7",
+    "section": "SALADS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "BUFFALO CHICKEN",
+    "description": "Our garden salad topped with buffalo chicken strips",
+    "price": "$9",
+    "section": "SALADS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "GREEK",
+    "description": "Romaine, chicken, feta, kalamatta olives, red onion",
+    "price": "$9",
+    "section": "SALADS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "TAVERN",
+    "description": "Romaine, Chicken, Black Beans, Avocado, Cheddar,\nTomato, Red Onion, Bacon",
+    "price": "$11",
+    "section": "SALADS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "ADD CHICKEN, BLUE CHEESE OR BACON TO ANY SALAD",
+    "description": null,
+    "price": "$2",
+    "section": "SALADS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "BASKET 'O' TOTS",
+    "description": null,
+    "price": "$5",
+    "section": "TOTS, TOTS & TOTS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "BACON AND CHEDDAR TOTS",
+    "description": null,
+    "price": "$8",
+    "section": "TOTS, TOTS & TOTS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "LOADED TOTS",
+    "description": "Smothered with cheddar, bacon, jalapenos, tomatoes, and onions\nServed with a side of ketchup and sour cream",
+    "price": "$10",
+    "section": "TOTS, TOTS & TOTS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "BUFFALO TOTS",
+    "description": "Red onions, tomatoes drizzled with buffalo sauce, blue cheese\nServed with a celery and carrots. Add chicken",
+    "price": "$8",
+    "section": "TOTS, TOTS & TOTS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "SLOPPY TOTS",
+    "description": "Our loaded tots, covered in sloppy joe mix.\nServed with sour cream and a pile of knapkins",
+    "price": "$9",
+    "section": "TOTS, TOTS & TOTS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "RANCH TOTS",
+    "description": "Red onion, tomatoes, and bacon drizzled with ranch\nAdd Chicken",
+    "price": "$8",
+    "section": "TOTS, TOTS & TOTS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "MEATBALL PARMESAN",
+    "description": "Homemade meatballs, marinara, mozzarella",
+    "price": "$8",
+    "section": "SANDWICHES",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "BBQ CHICKEN",
+    "description": "Sweet baby ray's bbq sauce, chicken, red onion, lettuce, tomato, your\nchoice of cheese",
+    "price": "$9",
+    "section": "SANDWICHES",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "CHICKEN PARMESAN",
+    "description": "Chicken, marinara, mozzarella",
+    "price": "$9",
+    "section": "SANDWICHES",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "BACON LETTUCE & TOMATO",
+    "description": null,
+    "price": "$7",
+    "section": "SANDWICHES",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "BUFFALO CHICKEN",
+    "description": "Chicken, buffalo sauce, mozzarella, lettuce, tomato, and your choice of\ncheese. Served with BC or Ranch",
+    "price": "$9",
+    "section": "SANDWICHES",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "SAUSAGE, PEPPER, & ONIONS",
+    "description": "Also served Parmesan style",
+    "price": "$8",
+    "section": "SANDWICHES",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "CHICKEN SALAD",
+    "description": "Our homemade chicken salad, lettuce, and tomato.\nThe best around!!",
+    "price": "$9",
+    "section": "SANDWICHES",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "THE REUBEN",
+    "description": "An Irish Classic. Corned beef, sauerkraut, Russian dressing, swiss",
+    "price": "$9",
+    "section": "SANDWICHES",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "PULLED PORK",
+    "description": "Pulled pork soaked in Sweet Baby Ray's bbq sauce, lettuce and tomato\nYour choice of cheese",
+    "price": "$9",
+    "section": "SANDWICHES",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "THE SLOPPY JOE",
+    "description": "An American Classic. Just like mom used to make.\nWith or without cheese",
+    "price": "$7",
+    "section": "SANDWICHES",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "CHICKEN CORDON BLUE",
+    "description": "Chicken tenders, ham, swiss, honey mustard, lettuce, tomato",
+    "price": "$9",
+    "section": "SANDWICHES",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "STEAK & CHEESE",
+    "description": "Thinly Sliced Steak with creamy horseradish sauce or nacho cheese\nWith or without peppers and onions",
+    "price": "$8",
+    "section": "SANDWICHES",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "CLASSIC",
+    "description": "Lettuce, tomato, and onion\nYour choice of cheese",
+    "price": "$8",
+    "section": "TAVERN BURGERS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "THE ITALIAN",
+    "description": "Marinara, pepperoni, mozzarella",
+    "price": "$9",
+    "section": "TAVERN BURGERS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "SOUTH OF THE BORDER",
+    "description": "Salsa, pepperjack, lettuce, tomato, onion",
+    "price": "$9",
+    "section": "TAVERN BURGERS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "THE RODEO",
+    "description": "Cheddar, sautéed onion, sweet baby rays, lettuce, tomato",
+    "price": "$9",
+    "section": "TAVERN BURGERS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "THAT'S A SPICY A MEATBALL!",
+    "description": "Pepperjack cheese, jalapenos, red onion, lettuce, pepper relish",
+    "price": "$9",
+    "section": "TAVERN BURGERS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "THE BUFFALO",
+    "description": "Buffalo sauce, mozzarella, tomato, lettuce, blue cheese crumbles",
+    "price": "$9",
+    "section": "TAVERN BURGERS",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "THE ORIGINAL",
+    "description": "Just cheese...nothing tricky here",
+    "price": "$6",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "CHICKEN",
+    "description": "Original, plus grilled chicken",
+    "price": "$8",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "BACON & BLUE",
+    "description": "Bacon, & Blue Cheese",
+    "price": "$9",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "RODEO",
+    "description": "Cheese, chicken, bbq sauce, red onion, tomato",
+    "price": "$9",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "THE TONY D",
+    "description": "Cheese, pepperoni, sausage, red sauce",
+    "price": "$8",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "JHM3",
+    "description": "Steak, cheese, mushrooms",
+    "price": "$9",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "SNAKE",
+    "description": "Cheese, chicken, bacon, ranch",
+    "price": "$9",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "PULLED PORK",
+    "description": "Pulled Pork, cheese, bbq sauce, tomato",
+    "price": "$10",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "THE PISTOL",
+    "description": "Cheese, broccoli, chicken, feta",
+    "price": "$9",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "HOMETOWN",
+    "description": "Chicken, cheese, buffalo sauce, blue cheese or ranch",
+    "price": "$9",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "MRS. JETER",
+    "description": "Roasted peppers, goat cheese, mozzarella, tomatoes, olives",
+    "price": "$9",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "THE AJ",
+    "description": "Corned beef, sauerkraut, swiss, Russian",
+    "price": "$9",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "THE \"151\"",
+    "description": "Chicken, cheese, bacon, pineapple, bbq sauce",
+    "price": "$9",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "KATHY M",
+    "description": "Apples, caramel sauce, cinnamon, sugar",
+    "price": "$8",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "THE BELLA",
+    "description": "Chicken parmesan in a dilla",
+    "price": "$8",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "WANDILLA",
+    "description": "Taco meat, cheese, tomato, lettuce",
+    "price": "$7",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "THE J-BONE",
+    "description": "Gorgonzola, mozzarella, garlic, sausage",
+    "price": "$8",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "LOM",
+    "description": "Chicken salad and cheese",
+    "price": "$8",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "AAAMANDAAA",
+    "description": "Chicken, avocado, black beans, bacon, cheese",
+    "price": "$9",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  },
+  {
+    "name": "THE HAWAIIAN",
+    "description": "Ham, pineapple, mozzarella",
+    "price": "$8",
+    "section": "Quesadillas",
+    "restaurant_name": "Saratoga City Tavern",
+    "restaurant_url": "https://www.saratogaspringsmenus.com/saratoga_city_tavern_menu.pdf"
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "name": "BREAKFAST SANDWICH",
+    "description": "Jireh Farm’s Egg and Cheese on a Kaiser roll w/ Bacon or Sausage +$2 AND/OR make it a double +$2. Add-ons: +$2",
+    "price": "$5",
+    "section": "Breakfast Menu",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "BAGEL",
+    "description": "Plain, Everything, Cinnamon Raisin, or Sesame Seed w/ Cream Cheese +$1 New York Style: Smoked Salmon, Cream Cheese, Capers, Tomatoes and Red Onion +$4. Add-ons: +$1 | +$4",
+    "price": "$4",
+    "section": "Breakfast Menu",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "BREAKFAST PLATE",
+    "description": "Two Jireh Farm’s eggs, toast, and homefries w/ Bacon or Sausage +$2. Add-ons: +$2",
+    "price": "$8",
+    "section": "Breakfast Menu",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "PANCAKES",
+    "description": "Fluffy buttermilk pancakes. Served with Nightingale’s Farm maple syrup. Add chocolate chips or blueberries +$1. Add-ons: +$1",
+    "price": "$9",
+    "section": "Breakfast Menu",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "COUNTRY FRENCH TOAST",
+    "description": "Made with our French Boule and served with fresh berries, whipped cream and Nightingale’s Farm maple syrup",
+    "price": "$10",
+    "section": "Breakfast Menu",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "BELGIAN STYLE WAFFLE",
+    "description": "Fluffy and light. Served with fresh berries, whipped cream and Nightingale’s Farm maple syrup",
+    "price": "$10",
+    "section": "Breakfast Menu",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "Side of Bacon or Sausage",
+    "description": "",
+    "price": "$2",
+    "section": "Breakfast Menu - Add On’s",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "FILTER COFFEE",
+    "description": "A good old cup of joe, using our private label blend “The Galway Grind.” Made specially for us by Chris’ Coffee in Latham. Regular or decaf, with free refills OR To go | $3/$4. Add-ons: +$3 | +$4",
+    "price": "$3",
+    "section": "Drink Menu - Speciality Coffee",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "ICED COFFEE",
+    "description": "Brewed by us daily using our private label blend “The Galway Grind”, or our decaf blend “Unplugged” (20 oz). Add-ons: +$20",
+    "price": "$4",
+    "section": "Drink Menu - Speciality Coffee",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "ESPRESSO",
+    "description": "One or two shots of our delicious private label “Up Late Upstate” whole espresso beans, ground fresh on the spot",
+    "price": "$4 / $5",
+    "section": "Drink Menu - Speciality Coffee",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "CAPPUCCINO",
+    "description": "One shot of our espresso topped with steamed milk and foam (8 oz). Add flavor shot +1. Add-ons: +$8 | +$1",
+    "price": "$5",
+    "section": "Drink Menu - Speciality Coffee",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "LATTE",
+    "description": "One or two shots of our espresso topped with steamed milk and flavor shot of your choice, with or without whipped cream Regular (12 oz) or Large (16 oz). Add-ons: +$12 | +$16",
+    "price": "$5 / $6",
+    "section": "Drink Menu - Speciality Coffee",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "ICED LATTE",
+    "description": "Espresso poured over ice with milk of your choice (16 oz). Add-ons: +$16",
+    "price": "$5",
+    "section": "Drink Menu - Speciality Coffee",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "MAKE IT FANCY",
+    "description": "With your choice of flavor shot and/or whipped cream (16 oz). Add-ons: +$16",
+    "price": "$1",
+    "section": "Drink Menu - Speciality Coffee",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "SOFT DRINKS",
+    "description": "Choose from Coke, Diet Coke, Root Beer, Sprite, Ginger Ale, or Pink Lemonade, with free refills. Regular(12 oz) or Large(16 oz). Add-ons: +$12 | +$16",
+    "price": "$4",
+    "section": "Drink Menu - COLD DRINKS",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "ICED TEA",
+    "description": "“Arizona” Iced Tea - choose Sweet or Unsweetened, with free refills. TO GO Large (20 oz). Add-ons: +$20",
+    "price": "$4",
+    "section": "Drink Menu - COLD DRINKS",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "JUICE",
+    "description": "Orange, Apple or Cranberry Regular (8 oz) or Large (12 oz). Add-ons: +$8 | +$12",
+    "price": "$3 / $5",
+    "section": "Drink Menu - COLD DRINKS",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "MILK",
+    "description": "From King Brother’s Dairy, choose whole or chocolate Regular (8 oz) or Large (12 oz). Add-ons: +$8 | +$12",
+    "price": "$3 / $4",
+    "section": "Drink Menu - COLD DRINKS",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "POT OF BLACK TEA",
+    "description": "Choose from Bigelow English Breakfast, Earl Grey or Constant Comment (decaf)",
+    "price": "$3",
+    "section": "Drink Menu - HOT DRINKS",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "POT OF HERBAL TEA",
+    "description": "Choose from Bigelow Camomile, Lemon and Ginger, Mint or Green Tea",
+    "price": "$3",
+    "section": "Drink Menu - HOT DRINKS",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "HOT CHOCOLATE",
+    "description": "We make ours posh with whipped cream and Nightingale’s Farm maple sugar Regular (8 oz) or Large (12 oz). Add-ons: +$8 | +$12",
+    "price": "$3 / $5",
+    "section": "Drink Menu - HOT DRINKS",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "CAPRESE",
+    "description": "Mozzarella, Fresh Basil and Tomato with Balsamic Glaze and Extra Virgin Olive Oil on a Ciabatta Roll",
+    "price": "$9",
+    "section": "Lunch Menu - Sandwiches",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "CHEESE TOASTIE",
+    "description": "Grilled White American on white bread, classic for a reason! Add tomato or ham +$1 | Add bacon +$2. Add-ons: +$1 | +$2",
+    "price": "$9",
+    "section": "Lunch Menu - Sandwiches",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "THE SPANIARD",
+    "description": "Prosciutto and Tomato with Extra Virgin Olive Oil on a Ciabatta Roll",
+    "price": "$9",
+    "section": "Lunch Menu - Sandwiches",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "THE PARISIEN",
+    "description": "Cherrywood Smoked Ham, Swiss Cheese, Lettuce and Tomato with Mayonnaise on a Ciabatta Roll",
+    "price": "$9",
+    "section": "Lunch Menu - Sandwiches",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "ALL AMERICAN",
+    "description": "Sliced Turkey Breast, White American Cheese, Lettuce and Tomato with Mayonnaise on a Sub Roll",
+    "price": "$9",
+    "section": "Lunch Menu - Sandwiches",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "YACHT WIFE",
+    "description": "Our homemade Tuna Salad with Lettuce on our squidgy Sub Roll",
+    "price": "$9",
+    "section": "Lunch Menu - Sandwiches",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "FARMHAND",
+    "description": "Our homemade Egg Salad with Lettuce and Tomato on a Sub Roll",
+    "price": "$9",
+    "section": "Lunch Menu - Sandwiches",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "FUHGEDDABOUDIT",
+    "description": "Our Italian Mix of Capicola, Smoked Ham, Prosciutto, Salami and Provolone with Lettuce, Tomato, Red Onion and Chopped Hot Peppers with a Balsamic Vinaigrette on our pillowy Ciabatta Roll",
+    "price": "$12",
+    "section": "Lunch Menu - Specialty Sandwiches",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "TUNA MELT",
+    "description": "Our freshly made in-house, Tuna Salad and White American Cheese on our fabulously thick Rye Bread, Grilled",
+    "price": "$12",
+    "section": "Lunch Menu - Specialty Sandwiches",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "BLT",
+    "description": "Our delicious and crispy Bacon with Lettuce, Tomato and Mayonnaise on White Toast",
+    "price": "$12",
+    "section": "Lunch Menu - Specialty Sandwiches",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "THE VERMONTER",
+    "description": "Goats Cheese, Tomato, and Basil Pesto with a Maple Balsamic Vinaigrette on a Ciabatta Roll",
+    "price": "$12",
+    "section": "Lunch Menu - Specialty Sandwiches",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "MOB WIFE",
+    "description": "Prosciutto, Mozzarella, Tomato, and Basil Pesto with Balsamic Glaze and Extra Virgin Olive Oil on a Ciabatta Roll",
+    "price": "$12",
+    "section": "Lunch Menu - Specialty Sandwiches",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "CAESAR",
+    "description": "Romaine Lettuce, Shaved Parmesan, our classic Caesar Dressing, and topped with a homemade Crouton Crumb",
+    "price": "$9",
+    "section": "Lunch Menu - Mixed Salads",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "“SPECIAL” SALAD",
+    "description": "Not your ordinary green salad - we jazz it up with Mixed Seeds and a homemade Crouton Crumb, and top with our Champagne Vinaigrette",
+    "price": "$9",
+    "section": "Lunch Menu - Mixed Salads",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "COBB",
+    "description": "Romaine Lettuce, Tomato, Red Onion, Blue Cheese Crumble, Bacon, Chicken and Hard Boiled Egg, served with a creamy Ranch Dressing",
+    "price": "$9",
+    "section": "Lunch Menu - Mixed Salads",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "THE WEDGE",
+    "description": "Iceberg Lettuce cut into a wedge, with Tomato, Red Onion, Blue Cheese Crumble, our delicious and crispy Bacon, and creamy Blue Cheese Dressing",
+    "price": "$9",
+    "section": "Lunch Menu - Mixed Salads",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "GET ME TO THE GREEK",
+    "description": "Romaine Lettuce, Tomato, Red Onion, Feta Cheese Crumble, Olives, and Cucumbers, served with our classic Vinaigrette",
+    "price": "$9",
+    "section": "Lunch Menu - Mixed Salads",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "SMASH BURGER",
+    "description": "Our Classic made with Kilcoyne Farms’ fresh beef, served on your choice of bun or bread with lettuce, tomato, onion and pickles. Make it a double +$3. Add-ons: +$3",
+    "price": "$9",
+    "section": "Lunch Menu - Hot Plates",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "SOUP OF THE DAY",
+    "description": "Freshly made in-house and served with our Tuscan bread",
+    "price": "$4 | $6",
+    "section": "Lunch Menu - Hot Plates",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "“SUNDAY LUNCH”",
+    "description": "Classic family style comfort food, served Sundays and Mondays. Check our board or social media",
+    "price": "$15",
+    "section": "Lunch Menu - Hot Plates",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "Crumb Cake",
+    "description": "",
+    "price": "$3",
+    "section": "Dessert Menu - Soft Serve Ice Cream",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "Smith’s Apple Cider Doughnut (only Thurs/Fri/Sat!)",
+    "description": "",
+    "price": "$2",
+    "section": "Dessert Menu - Soft Serve Ice Cream",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  },
+  {
+    "name": "Smith’s Pie (only Thurs/Fri/Sat!)",
+    "description": "",
+    "price": "$4",
+    "section": "Dessert Menu - Soft Serve Ice Cream",
+    "restaurant_name": "The Galway Local",
+    "restaurant_url": "https://www.thegalwaylocalny.com/"
+  }
+]

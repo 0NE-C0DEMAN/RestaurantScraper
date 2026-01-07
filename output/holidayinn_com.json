@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Passionfruit Martini",
+    "description": "Absolut Vodka, Pineapple Juice, Passionfruit Puree (240 cal)",
+    "price": "$13",
+    "section": "COCKTAILS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Cucumber Basil Smash",
+    "description": "Beefeater Gin, Fresh Cucumber & Basil, Lemon Juice (240 cal)",
+    "price": "$13",
+    "section": "COCKTAILS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "The Eastwood",
+    "description": "Redemption Rye Whiskey, Sweet Vermouth, Orange Bitters (240 cal)",
+    "price": "$13",
+    "section": "COCKTAILS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Jack® & Coke® with Cherry",
+    "description": "Jack Daniels Whiskey, Black Cherry Puree, Coca Cola (240 cal)",
+    "price": "$14",
+    "section": "COCKTAILS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Old Fashioned",
+    "description": "House Whiskey, Simple Syrup, Angostura Bitters, Orange Peel (240 cal)",
+    "price": "$12",
+    "section": "COCKTAILS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Mule",
+    "description": "House Vodka or Whiskey, Ginger Beer, Fresh Lime Juice (240 cal)",
+    "price": "$12",
+    "section": "COCKTAILS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Margarita",
+    "description": "Tequila, Cointreau, Fresh Lime Juice, Agave Nectar (240 cal)",
+    "price": "$13",
+    "section": "COCKTAILS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Crispy Chicken Wings",
+    "description": "10 wings with choice of Citrus Teriyaki, Buffalo, or Salt & Pepper (895-1000 cal)",
+    "price": "$18",
+    "section": "SHARE",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Meat Lovers Flatbread",
+    "description": "Chorizo, Bacon, Pepperoni, Mozzarella (895-1000 cal)",
+    "price": "$12",
+    "section": "SHARE",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Doritos™ Nachos",
+    "description": "Nacho Cheese Doritos™™, Black Beans, Queso, Pickled Onion, Pico, Crema, Cilantro (1370-1445 cal). Add Roasted Chicken (140 cal) +$5",
+    "price": "$18",
+    "section": "SHARE",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Margherita Flatbread",
+    "description": "Mozzarella, Parmesan, Tomato, Marinara, Basil, Balsamic Drizzle (580 cal)",
+    "price": "$12",
+    "section": "SHARE",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Queso & Pretzel Bites",
+    "description": "Tex-Mex Queso, Pico de Gallo (940 cal)",
+    "price": "$14",
+    "section": "SHARE",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Romaine, Parmesan Crisp, Caesar Dressing (425 cal)",
+    "price": "$10",
+    "section": "TOSS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Southwest Salad",
+    "description": "Romaine, Fire Roasted Corn, Black Beans, Cheddar Jack, Pickled Red Onion, Avocado, Jalapeno Ranch (740 cal)",
+    "price": "$16",
+    "section": "TOSS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Roasted Chicken",
+    "description": null,
+    "price": "+$5",
+    "section": "TOSS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Fried Chicken",
+    "description": null,
+    "price": "+$6",
+    "section": "TOSS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Salmon",
+    "description": null,
+    "price": "+$19",
+    "section": "TOSS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Samuel Adams Seasonal Brew",
+    "description": "(various cal)",
+    "price": "$8",
+    "section": "BEERS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Stella Artois",
+    "description": "(219 cal)",
+    "price": "$8",
+    "section": "BEERS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Guinness",
+    "description": "(210 cal)",
+    "price": "$12",
+    "section": "BEERS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Fiddlehead",
+    "description": "(225 cal)",
+    "price": "$8",
+    "section": "BEERS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "White Claw Hard Seltzer",
+    "description": "(100 cal)",
+    "price": "$7",
+    "section": "BEERS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Miller Lite",
+    "description": "(110 cal)",
+    "price": "$5",
+    "section": "BEERS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Heineken 0.0",
+    "description": "(Non-alcoholic) (69 cal)",
+    "price": "$7",
+    "section": "BEERS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Corona Extra",
+    "description": "(148 cal)",
+    "price": "$7",
+    "section": "BEERS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Samuel Adams Lager 12oz",
+    "description": "(175 cal)",
+    "price": "$7",
+    "section": "BEERS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Good Fortune IPA 16oz",
+    "description": "(132 cal)",
+    "price": "$10",
+    "section": "BEERS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "All American Burger",
+    "description": "Angus Beef, Lettuce, Tomato, Onion, Pickle (545-1225 cal). Plus-Ups: Double Patty (300 cal) +$6, Cheese (90 cal) +$2, Bacon (220 cal) +$3, Avocado (60 cal) +$2",
+    "price": "$16",
+    "section": "HANDHELDS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Spicy Chicken Bacon Ranch",
+    "description": "Fried or Roasted Chicken, Brioche Bun, Bacon, Tomato, Romaine, Jalapeno Ranch (1280 cal) Non-spicy upon request",
+    "price": "$18",
+    "section": "HANDHELDS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Herb Roasted Chicken Club",
+    "description": "Roasted Chicken Breast, Bacon, Avocado, Herbed Lime Aioli, Arugula, Tomato, Pickled Red Onion (675 cal)",
+    "price": "$18",
+    "section": "HANDHELDS",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Sweet Soy Salmon*",
+    "description": "Yellow Rice, Roasted Broccoli, Sweet Soy Glaze (980 cal)",
+    "price": "$28",
+    "section": "SAVOR",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Steak & Fries",
+    "description": "8 oz Flat Iron, Arugula & Tomato Salad, Chimichurri, House Seasoned Fries (855 cal)",
+    "price": "$28",
+    "section": "SAVOR",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Crispy Half Chicken",
+    "description": "Lightly Breaded Half Chicken, Herb Roasted Sweet Potato, Roasted Broccoli (1140 cal)",
+    "price": "$18",
+    "section": "SAVOR",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Cheese Ravioli",
+    "description": "Blistered Tomato Bruschetta, Arugula, Lemon Oil (755 cal)",
+    "price": "$16",
+    "section": "SAVOR",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "House Fries",
+    "description": "(425 cal)",
+    "price": "$5",
+    "section": "COMPLEMENT",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Side Salad",
+    "description": "(110 cal)",
+    "price": "$5",
+    "section": "COMPLEMENT",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Roasted Broccoli",
+    "description": "(85 cal)",
+    "price": "$5",
+    "section": "COMPLEMENT",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Blueberry Cheesecake",
+    "description": "Crumbled Topping, White Chocolate, Lemon Curd (765 cal)",
+    "price": "$12",
+    "section": "INDULGE",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Moscato Seven Daughters, Italy",
+    "description": null,
+    "price": "$13/35",
+    "section": "WINE",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Pinot Grigio Canyon Road, CA",
+    "description": null,
+    "price": "$10/29",
+    "section": "WINE",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Pinot Noir Carmel Road, CA",
+    "description": null,
+    "price": "$13/34",
+    "section": "WINE",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Cabernet Sauvignon Canyon Road, CA",
+    "description": null,
+    "price": "$10/29",
+    "section": "WINE",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Coffee",
+    "description": "(0 cal)",
+    "price": "$3",
+    "section": "NON-ALCOHOLIC BEVERAGES",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Tea",
+    "description": "(0 cal)",
+    "price": "$3",
+    "section": "NON-ALCOHOLIC BEVERAGES",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Milk",
+    "description": "(150 cal)",
+    "price": "$3",
+    "section": "NON-ALCOHOLIC BEVERAGES",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": "Assorted Soft Drinks",
+    "description": "(0-160 cal)",
+    "price": "$3",
+    "section": "NON-ALCOHOLIC BEVERAGES",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  },
+  {
+    "name": null,
+    "description": null,
+    "price": null,
+    "section": "Dinner Menu",
+    "restaurant_name": "Holiday Inn Saratoga Springs",
+    "restaurant_url": "https://www.ihg.com/holidayinn/hotels/us/en/saratoga-springs/sgany/hoteldetail/dining"
+  }
+]

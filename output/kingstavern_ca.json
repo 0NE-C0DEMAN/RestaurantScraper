@@ -1,0 +1,2466 @@
+[
+  {
+    "name": "BACON CHEESE RICE BALLS",
+    "description": "Panko crusted risotto rice balls stuffed with smoked bacon, green onion, and cheddar cheese fried to golden brown. Served over creamy marinara sauce",
+    "price": "$14.00",
+    "section": "Main Menu - APPETIZER",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHICKEN TAQUITOS",
+    "description": "Roasted chicken, pico de gallo, cilantro and Tex-Mex cheese served with guacamole and sour cream",
+    "price": "$14.00",
+    "section": "Main Menu - APPETIZER",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BLUE CRAB CAKES",
+    "description": "Served with curry Mayonnaise",
+    "price": "$15.00",
+    "section": "Main Menu - APPETIZER",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PEROGIES",
+    "description": "Topped with sautéed onions, bacon and cheese. Served with sour cream",
+    "price": "$12.00",
+    "section": "Main Menu - APPETIZER",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "THAI CHICKEN & CHIPS",
+    "description": "Crispy Thai Chicken tenders served over lattice fries drizzled with tangy Thai-glace",
+    "price": "$15.00",
+    "section": "Main Menu - APPETIZER",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "FETA BRUSCHETTA",
+    "description": "Garlic aioli and balsamic glace",
+    "price": "$13.00",
+    "section": "Main Menu - APPETIZER",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHICKEN QUESADILLA",
+    "description": "Oven baked tortilla stuffed with Mexican spiced chicken breast, bell peppers, onions, pico de gallo. Served with sour cream and salsa.",
+    "price": "$16.00",
+    "section": "Main Menu - APPETIZER",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "COCONUT SHRIMP",
+    "description": "Served with sweet chili Thai sauce",
+    "price": "$15.00",
+    "section": "Main Menu - APPETIZER",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CRISPY CALAMARI",
+    "description": "Lightly breaded calamari, peppers and jalapeños fried to golden brown. Served with southern ranch chipotle mayo",
+    "price": "$15.00",
+    "section": "Main Menu - APPETIZER",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "GARLIC BREAD",
+    "description": "Traditional garlic butter on Italian bread. Add cheese $4 | bacon $5",
+    "price": "$8.00",
+    "section": "Main Menu - APPETIZER",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHICKEN 65",
+    "description": "Deep fried Boneless chicken with authentic Indian spices.",
+    "price": "$16.00",
+    "section": "Main Menu - APPETIZER",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "REUBEN FRITTERS",
+    "description": "Deep fried corned beef, Swiss cheese and sauerkraut. Served with horse radish and garlic aioli.",
+    "price": "$15.00",
+    "section": "Main Menu - APPETIZER",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CRACKED BLACK PEPPER & HIMALAYAN SALT DRY RIBS",
+    "description": "In house cut and marinated riblets fried and seasoned. Served with tangy Thai dipping sauce.",
+    "price": "$15.00",
+    "section": "Main Menu - APPETIZER",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SPINACH DIP",
+    "description": "Oven baked lobster meat, crab meat, onion, red peppers and cream cheese blend topped with Tex-Mex cheese. Served with tortilla chips and warm pita bread",
+    "price": "$14.00",
+    "section": "Main Menu - DIP IT",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "LOBSTER DIP",
+    "description": "A perfect blend of artichoke, spinach, onions and cream cheese. Served with tortilla chips and warm pita bread for dipping",
+    "price": "$15.00",
+    "section": "Main Menu - DIP IT",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "MOZZARELLA STICKS",
+    "description": null,
+    "price": "$13.00",
+    "section": "Main Menu - PUB APPS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "FRIED CHEESE CURDS",
+    "description": null,
+    "price": "$13.00",
+    "section": "Main Menu - PUB APPS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "STUFFED POTATO SKINS",
+    "description": null,
+    "price": "$13.00",
+    "section": "Main Menu - PUB APPS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "DILL PICKLES",
+    "description": null,
+    "price": "$12.00",
+    "section": "Main Menu - PUB APPS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CAULIFLOWER BITES",
+    "description": null,
+    "price": "$13.00",
+    "section": "Main Menu - PUB APPS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BLACKENED FISH TACO",
+    "description": "Blackened haddock on fried flour tortillas with sour cream, pico de gallo and spicy avocado aioli",
+    "price": "$17.00",
+    "section": "Main Menu - MEXICAN DELIGHT",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "JERK CHICKEN TACO",
+    "description": "Jerk chicken, and pineapple on fried flour tortillas with sour cream, pico de gallo and spicy avocado aioli",
+    "price": "$17.00",
+    "section": "Main Menu - MEXICAN DELIGHT",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "STREET BOYZ TACO",
+    "description": "Pulled pork, shrimp on fried flour tortilla with pico de gallo & spicy avocado aioli.",
+    "price": "$18.00",
+    "section": "Main Menu - MEXICAN DELIGHT",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "FAJITAS",
+    "description": "A skillet loaded with sweet onions & peppers and your choice of steak, chicken or shrimp. Served with jambalaya rice, flour tortillas, cheese, tomato, shredded lettuce, salsa and sour cream",
+    "price": "$21.00",
+    "section": "Main Menu - MEXICAN DELIGHT",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "MUSSEL LOVERS",
+    "description": "Fresh PEl mussels with bell peppers, onions and smoked bacon. Steamed with your choice of white wine gorgonzola cream sauce, coconut curry sauce or spicy tomato sauce",
+    "price": "$17.00",
+    "section": "Main Menu - MEXICAN DELIGHT",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "TAPAS GRILL",
+    "description": "Grilled chicken souvlaki, shrimp and baby squid served with Greek salad and tzatziki sauce",
+    "price": "$21.00",
+    "section": "Main Menu - MEXICAN DELIGHT",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "NACHO GRANDE",
+    "description": "Multi coloured corn chips loaded with Tex-Mex cheese, tomatoes, lettuce, green onions, black olive. Add chicken, chili or pork $6",
+    "price": "$17.00",
+    "section": "Main Menu - NACHOS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "IRISH NACHOS",
+    "description": "Crispy lattice fries loaded with Tex-Mex cheese, crispy bacon, green onion, jalapenos and tomato. Served with sour cream and guacamole",
+    "price": "$17.00",
+    "section": "Main Menu - NACHOS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "NACHO TOCHO",
+    "description": "Crispy potato tots with Tex-Mex cheese, chili, pico di gallo, drizzle with guacamole & sour cream.",
+    "price": "$17.00",
+    "section": "Main Menu - NACHOS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CLASSIC",
+    "description": "French fries, cheese curds and gravy",
+    "price": "$13.00",
+    "section": "Main Menu - POUTINE",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BACON CHEESE BURGER",
+    "description": "Traditional cheesy poutine with ground beef, bacon and cheddar cheese",
+    "price": "$17.00",
+    "section": "Main Menu - POUTINE",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BUTTER CHICKEN POUTINE",
+    "description": "Lattice fries, cheese curds and butter chicken curry",
+    "price": "$17.00",
+    "section": "Main Menu - POUTINE",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHICKEN BLT",
+    "description": "Our classic cheese curd poutine topped with chicken, bacon, caramelized onion, lettuce and tomato",
+    "price": "$17.00",
+    "section": "Main Menu - POUTINE",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PULLED PORK POUTINE",
+    "description": "Our classic cheese curd poutine topped with pulled pork and onion straws",
+    "price": "$17.00",
+    "section": "Main Menu - POUTINE",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BEEF TENDERLOIN PHILLY",
+    "description": "Sautéed bell peppers, red onion and mozzarella cheese on a ciabatta bun.",
+    "price": "$19.00",
+    "section": "Main Menu - SANDWICHES",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "STEAK MELT",
+    "description": "7 oz. New York steak grilled to perfection, topped with sautéed mushrooms, onions and melted Swiss cheese. Served on a ciabatta bun.",
+    "price": "$20.00",
+    "section": "Main Menu - SANDWICHES",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SOUTHERN FRIED CHICKEN",
+    "description": "Buttermilk marinated fried chicken, bacon, swiss cheese, chipotle mayo, lettuce, tomato and pickle on a ciabatta bun.",
+    "price": "$17.00",
+    "section": "Main Menu - SANDWICHES",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHICKEN CLUB OR TURKEY CLUB",
+    "description": "Grilled chicken or turkey breast with smoked bacon, cheddar cheese, lettuce and tomato.",
+    "price": "$17.00",
+    "section": "Main Menu - SANDWICHES",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "COCONUT CHICKEN MELT",
+    "description": "Coconut crusted chicken breast, pineapple, ham, Swiss cheese, lettuce, tomatoes, chef's mayo with toasted ciabatta bun.",
+    "price": "$17.00",
+    "section": "Main Menu - SANDWICHES",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PULLED PORK",
+    "description": "Slow roasted tender pulled pork, smothered in Guinness BBQ sauce, topped with crispy straw onions and TexMex cheese. Served on a brioche bun",
+    "price": "$16.00",
+    "section": "Main Menu - SANDWICHES",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "DELI REUBEN",
+    "description": "Shaved smoked meat topped with sauerkraut, Russian dressing and Swiss cheese, grilled to perfection on light rye bread",
+    "price": "$17.00",
+    "section": "Main Menu - SANDWICHES",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "FRENCH BEEF DIP",
+    "description": "Shaved roast beef piled high on a fresh ciabatta bun. Melted with Swiss cheese. Served with hot au jus & horse radish aioli.",
+    "price": "$17.00",
+    "section": "Main Menu - SANDWICHES",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHICKEN GOAT CHEESE WRAP",
+    "description": "Grilled balsamic chicken, spinach, roasted red peppers and goat cheese",
+    "price": "$17.00",
+    "section": "Main Menu - WRAPS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BUFFALO WRAP",
+    "description": "Chicken fingers tossed in buffalo sauce, wrapped with tomatoes, lettuce and Tex-Mex cheese",
+    "price": "$17.00",
+    "section": "Main Menu - WRAPS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SOUTHWEST CHICKEN WRAP",
+    "description": "Tex-Mex chicken, avocado, lettuce, tomato, Tex-Mex cheese and Cajun aioli",
+    "price": "$17.00",
+    "section": "Main Menu - WRAPS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHICKEN FINGER WRAP",
+    "description": "Chicken fingers wrapped with tomatoes, lettuce, Tex-Mex cheese and ranch dressing",
+    "price": "$17.00",
+    "section": "Main Menu - WRAPS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "GRILLED VEGETABLES & CHICKEN WRAP",
+    "description": "Grilled chicken & vegetables, lettuce, balsamic glaze and garlic aioli.",
+    "price": "$17.00",
+    "section": "Main Menu - WRAPS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SOUP OF THE DAY",
+    "description": "Made fresh every day. Served with a warm roll and crackers",
+    "price": "$7.00",
+    "section": "Main Menu - SOUPS & GREENS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "FRENCH ONION SOUP",
+    "description": null,
+    "price": "$8.00",
+    "section": "Main Menu - SOUPS & GREENS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CAESAR",
+    "description": "Crisp romaine lettuce tossed in a creamy garlic sauce topped with croutons and parmesan cheese",
+    "price": "Small $10.00 | Large $14.00",
+    "section": "Main Menu - SOUPS & GREENS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "GREEK",
+    "description": "Crisp romaine lettuce topped with tomatoes, cucumber, sweet bell peppers, red onion, kalamata olives and feta cheese. Served with homemade Greek dressing",
+    "price": "Small $10.00 | Large $14.00",
+    "section": "Main Menu - SOUPS & GREENS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SOUP SALAD BRUSCHETTA",
+    "description": "A bowl of our daily homemade soup. Served with your choice of Caesar, Greek or Chef salad & freshly made bruschetta Add French Onion $4",
+    "price": "$15.00",
+    "section": "Main Menu - SOUPS & GREENS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BEEF TENDERLOIN CAPRESE",
+    "description": "Fresh mix greens filled with balsamic marinated tenderloin, grape tomatoes, fresh mozzarella, red onions and fresh basil extra virgin olive oil",
+    "price": "$22.00",
+    "section": "Main Menu - SOUPS & GREENS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "JULIENNE SALAD",
+    "description": "Swiss and cheddar cheeses, peameal bacon, grilled chicken breast, hard boiled egg, tomatoes, cucumber, bell peppers and red onions. Served over a bed of crisp greens",
+    "price": "$20.00",
+    "section": "Main Menu - SOUPS & GREENS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "GRILLED VEGETABLES & WARM GOAT CHEESE SALAD",
+    "description": "House mix greens with grilled eggplant, zucchini, red peppers, green peppers and asparagus, topped with warm goat cheese and drizzled with balsamic reduction",
+    "price": "$17.00",
+    "section": "Main Menu - SOUPS & GREENS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "ROASTED SQUASH AND BEETROOT SALAD",
+    "description": "Baby spinach, warm beetroot, avocado, cherry tomatoes, red onions, roasted butternut squash, roasted walnuts and goat cheese with balsamic dressing",
+    "price": "$17.00",
+    "section": "Main Menu - SOUPS & GREENS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "TWISTED BURRATA BOWL",
+    "description": "Baby spinach, crisp romaine lettuce, cherry tomatoes, red onions, cucumbers with almonds panko fried burrata cheese.",
+    "price": "$20.00",
+    "section": "Main Menu - SOUPS & GREENS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CALIFORNIA BLACKENED SALMON SALAD",
+    "description": "Baby spinach, grilled portobello mushroom, cherry tomatoes, avocado, goat cheese and roasted walnuts with balsamic dressing topped with blackened salmon",
+    "price": "$21.00",
+    "section": "Main Menu - SOUPS & GREENS",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "DEEP FRIED PLATTER",
+    "description": "Chicken 65, Signature wings, mozzarella sticks, stuffed potato skins, dill pickles, onion rings, garlic bread with cheese, veggie sticks and dipping sauces",
+    "price": "$34",
+    "section": "Main Menu - For The Table",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SEAFOOD PLATTER",
+    "description": "Blue Crab cakes, fried calamari, coconut shrimp and fresh PEI mussels in a white wine cream sauce. Served with dips",
+    "price": "$34",
+    "section": "Main Menu - For The Table",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BEEF TENDERLOIN PIE",
+    "description": "Braised beef tenderloin tips in a portobello mushrooms demi-glace, baked with puff pastry and topped with beef gravy. Served with your choice of side",
+    "price": "$19",
+    "section": "Main Menu - Pub Fare",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BLANKET WRAP MEAT LOAF",
+    "description": "Homemade meatloaf wrapped in bacon with mushrooms and onion merlot demi. Served with mashed potatoes and steamed vegetables",
+    "price": "$19",
+    "section": "Main Menu - Pub Fare",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SHEPHERD'S PIE",
+    "description": "A seasoned mix of minced sirloin, corn, green peas, diced carrots, celery and onions topped with mashed potatoes, cheddar cheese baked until golden brown. Served with your choice of side",
+    "price": "$17",
+    "section": "Main Menu - Pub Fare",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHICKEN TENDERS",
+    "description": "Breaded, house spiced marinated chicken tenders fried to golden brown. Served with fries and plum sauce",
+    "price": "$17",
+    "section": "Main Menu - Pub Fare",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHICKEN POT PIE",
+    "description": "A blend of carrots, onions, celery, chicken in a creamy sauce and topped with golden pastry. Served with a choice of a side.",
+    "price": "$18",
+    "section": "Main Menu - Pub Fare",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BEEF STUFFED YORKSHIRE",
+    "description": "Shaved roast beef, sautéed onions, mushrooms and gravy in a homemade Yorkshire pudding. Served with a choice of side",
+    "price": "$19",
+    "section": "Main Menu - Pub Fare",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "FISH & CHIPS",
+    "description": "Beer battered haddock filet fried to golden brown. Served with French fries and coleslaw",
+    "price": "$19",
+    "section": "Main Menu - Pub Fare",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PORK SIDE RIBS",
+    "description": "BOTH SERVED WITH CHOICE OF SIDE",
+    "price": "HALF $18 | FULL $24",
+    "section": "Main Menu - Our Famous BBQ Ribs & Wings",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "WINGS, VEGGIES & DIP",
+    "description": null,
+    "price": "1LB $16 | 2LB $29",
+    "section": "Main Menu - Our Famous BBQ Ribs & Wings",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "WINGS, FRIES & DIP",
+    "description": null,
+    "price": "1LB $18",
+    "section": "Main Menu - Our Famous BBQ Ribs & Wings",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "RIB & WING COMBO",
+    "description": null,
+    "price": "$24",
+    "section": "Main Menu - Our Famous BBQ Ribs & Wings",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BOMBAY BUTTER CHICKEN",
+    "description": "Tender chicken cooked with butter chicken sauce. Served on a bed of steamed basmati rice, naan bread and fresh tomato coriander salsa",
+    "price": "$20",
+    "section": "Main Menu - Asian Delights",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHICKEN & SHRIMP PAD THAI",
+    "description": "Rice noodles with chicken, black tiger shrimp, green onions, bell peppers, bean sprouts and fried egg, tossed in a tangy pad Thai sauce and topped with crushed peanuts",
+    "price": "$21",
+    "section": "Main Menu - Asian Delights",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SPICY THAI CHICKEN STIR-FRY",
+    "description": "Grilled chicken breast, bell peppers, onions and broccoli tossed in a homemade spicy Thai sauce. Served on a bed of basmati rice or linguine noodles topped with green onion, carrot and beans sprouts mix",
+    "price": "$19",
+    "section": "Main Menu - Asian Delights",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "VEGETABLE PAD THAI",
+    "description": "Rice noodles with mushrooms, green onions, bell peppers, broccoli, carrots, bean sprouts and fried egg, tossed in a tangy pad Thai sauce and topped with crushed peanuts",
+    "price": "$17",
+    "section": "Main Menu - Asian Delights",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHICKEN CURRY",
+    "description": "Tender chicken cooked in authentic Indian curry sauce. Served on a bed of steamed basmati rice, naan bread and fresh tomato coriander salsa.",
+    "price": "$19",
+    "section": "Main Menu - Asian Delights",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHEF BURGER",
+    "description": "Aged cheddar cheese, smoked bacon, piled high with onion straws and chipotle mayo sauce",
+    "price": "$17",
+    "section": "Main Menu - Burgers",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "GRAND SLAM BURGER",
+    "description": "Double prime rib burger topped with sautéed mushroom, cheddar cheese, Swiss cheese and fried onion",
+    "price": "$21",
+    "section": "Main Menu - Burgers",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BISON BURGER",
+    "description": "Smoked bacon, fried jalapenos, cheddar cheese and crispy onion",
+    "price": "$19",
+    "section": "Main Menu - Burgers",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "LOADED SWISS BURGER",
+    "description": "Smoked bacon, sautéed mushroom, onion and Swiss cheese",
+    "price": "$17",
+    "section": "Main Menu - Burgers",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SASQUATCH BURGER",
+    "description": "Peameal bacon, fried egg and cheddar cheese",
+    "price": "$17",
+    "section": "Main Menu - Burgers",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "VEGGIE BURGER",
+    "description": "Grilled portobello, avocado and warm goat cheese",
+    "price": "$17",
+    "section": "Main Menu - Burgers",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PRIME RIB BURGER DELUXE",
+    "description": "Mix cheese and crispy bacon",
+    "price": "$17",
+    "section": "Main Menu - Burgers",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "KINGS SMASHED BURGER",
+    "description": "Double smashed patty with brie cheese, caramelized bourbon chipotle mushrooms, bacon, onions & chef mayo.",
+    "price": "$19",
+    "section": "Main Menu - Burgers",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SMASHED DOUBLE DECKER",
+    "description": "Double smashed patty with cheddar cheese, fried jalapeno, bacon, crispy onion & chef mayo.",
+    "price": "$20",
+    "section": "Main Menu - Burgers",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SMASHED BURGER GRILLED CHEESE",
+    "description": "Double smashed patty with bacon, caramelized bourbon chipotle onion, tomato, cheddar and swiss cheese. Choice of bread.",
+    "price": "$20",
+    "section": "Main Menu - Burgers",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHICKEN SOUVLAKI",
+    "description": "A double skewer of marinated chicken on a bed of pilaf rice. Served with roasted Greek potatoes, Greek salad and tzatziki",
+    "price": "$21",
+    "section": "Main Menu - Chicken",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "GARLIC JALAPEÑOS CHICKEN",
+    "description": "Breaded chicken breast in a rich garlic jalapeños cream sauce. Served with steamed basmati rice and Greek salad",
+    "price": "$21",
+    "section": "Main Menu - Chicken",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "MARSALA CHICKEN",
+    "description": "Pan sizzled chicken breast topped with bacon & wild mushrooms, marsala red wine glace. Served with Greek potatoes and steamed seasonal vegetables.",
+    "price": "$19",
+    "section": "Main Menu - Chicken",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "STEAK & LOBSTER",
+    "description": "Grilled 10oz strip-loin steak topped with Lobster tail and sautéed mushrooms, onions, peppercorn demi glace. Served with mashed potatoes and steamed vegetables",
+    "price": "$36",
+    "section": "Main Menu - Steak",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "JUST GRILLED STEAK",
+    "description": "Grilled 10oz Angus steak, red wine peppercorn demi glace, mashed potatoes and seasonal vegetables",
+    "price": "$30",
+    "section": "Main Menu - Steak",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "LIVER, BACON & ONION",
+    "description": "Served with mashed potatoes and seasonal vegetables and gravy",
+    "price": "$20",
+    "section": "Main Menu - Steak",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SURF & TURF",
+    "description": "8 oz filet mignon & bacon wrapped scallops. Topped with red wine peppercorn demi glace. Served with creamy mashed potatoes & steamed seasonal vegetables.",
+    "price": "$36",
+    "section": "Main Menu - Steak",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "LOUISIANA SEAFOOD BOWL",
+    "description": "Cuban Lobster tail, Fresh PEI mussels, black tiger shrimp, calamari and scallops in a white wine lightly spiced tomato sauce. Served with lightly toasted baguette",
+    "price": "$31",
+    "section": "Main Menu - Seafood",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "ATLANTIC SALMON AND JUMBO SCALLOP",
+    "description": "Baked Atlantic salmon with jumbo scallops and strawberry mango apple glaze. Served with pilaf rice and steamed seasonal vegetables.",
+    "price": "$25",
+    "section": "Main Menu - Seafood",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "ANGRY SALMON AND SHRIMP",
+    "description": "Linguine pasta with black tiger shrimp, bell peppers, artichoke hearts and baby spinach in a rose sauce, topped with baked spicy Cajun Atlantic Salmon",
+    "price": "$25",
+    "section": "Main Menu - Seafood",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "GORGNZOLA LOBSTER PASTA",
+    "description": "Fresh fettuccine pasta with whole lobster tail, black tiger shrimp, portobello mushrooms, baby spinach and red onions in a gorgonzola cream sauce",
+    "price": "$25",
+    "section": "Main Menu - Fresh Pasta",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "FRESH FETTUCCINE ALFREDO",
+    "description": "Fettuccine tossed in creamy alfredo sauce. Add Grilled chicken breast - 6 or Tiger shrimp - 7",
+    "price": "$14",
+    "section": "Main Menu - Fresh Pasta",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SEAFOOD LINGUINE",
+    "description": "Fresh linguine pasta with fresh mussels, tiger shrimp, jumbo scallops, baby squid and fresh lemon juice in a fresh herbs garlic tomato sauce",
+    "price": "$25",
+    "section": "Main Menu - Fresh Pasta",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SPINACH & GOAT CHEESE PENNE",
+    "description": "Portobello mushrooms, red onions, roasted red peppers, black olives & baby spinach in sundried tomato pesto cream sauce.",
+    "price": "$18",
+    "section": "Main Menu - Fresh Pasta",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SEAFOOD CURRY PASTA",
+    "description": "Fresh fettuccine with lobster tail, black tiger shrimp, scallops, green onions, red onions and roasted red peppers in a coconut curry cream sauce",
+    "price": "$25",
+    "section": "Main Menu - Fresh Pasta",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "LOBSTER MAC & CHEESE",
+    "description": "Baked with mix cheese and panko parmesan crumbles",
+    "price": "$20",
+    "section": "Main Menu - Fresh Pasta",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHICKEN CARBONARA PASTA",
+    "description": "Fresh linguine pasta with pancetta (Italian bacon), grilled chicken breast, onion and fresh tomato in a classic alfredo sauce",
+    "price": "$21",
+    "section": "Main Menu - Fresh Pasta",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SMOKED BACON MAC & CHEESE",
+    "description": "Baked with mix cheese and panko parmesan crumbles",
+    "price": "$17",
+    "section": "Main Menu - Fresh Pasta",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "JAMBALAYA",
+    "description": "Black tiger shrimp, grilled chicken breast, spicy sausage, jalapeños, onions and bell peppers in a Creole sauce. Served on a bed of basmati rice or fresh linguine noodle",
+    "price": "$21",
+    "section": "Main Menu - Fresh Pasta",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CAJUN CHICKEN PENNE",
+    "description": "Penne with grilled chicken, wild mushrooms, cherry tomatoes and baby spinach in cajun alfredo cream sauce.",
+    "price": "$21",
+    "section": "Main Menu - Fresh Pasta",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "MEAT LASAGNA",
+    "description": "Homemade 100% ground beef, baked with three cheeses and served with Caesar salad",
+    "price": "$18",
+    "section": "Main Menu - Fresh Pasta",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SCALLOP & SHRIMP LINGUINE",
+    "description": "Linguine with jumbo scallop, black tiger shrimp, red onions, cherry tomato, baby spinach, roasted red pepper in fresh garlic & basil olive oil.",
+    "price": "$23",
+    "section": "Main Menu - Fresh Pasta",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "VEAL/CHICKEN PARMESAN",
+    "description": "Served with Fettuccine in tomato or Alfredo sauce",
+    "price": "$20",
+    "section": "Main Menu - Fresh Pasta",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "FRENCH FRIES",
+    "description": null,
+    "price": "SMALL $8 | LARGE $10",
+    "section": "Main Menu - Side Kicks",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SWEET POTATO FRIES",
+    "description": null,
+    "price": "SMALL $9 | LARGE $11",
+    "section": "Main Menu - Side Kicks",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "LATTICE FRIES",
+    "description": null,
+    "price": "SMALL $9 | LARGE $11",
+    "section": "Main Menu - Side Kicks",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "ONION RINGS",
+    "description": null,
+    "price": "SMALL $8 | LARGE $10",
+    "section": "Main Menu - Side Kicks",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "FRINGS",
+    "description": null,
+    "price": "SMALL $9 | LARGE $11",
+    "section": "Main Menu - Side Kicks",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "VEGGIES & DIP",
+    "description": null,
+    "price": "$5",
+    "section": "Main Menu - Side Kicks",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "LOADED TRUFFLE FRIES",
+    "description": null,
+    "price": "$14",
+    "section": "Main Menu - Side Kicks",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BOWL OF CHILI",
+    "description": null,
+    "price": "$11",
+    "section": "Main Menu - Side Kicks",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "MEATLESS BENEDICT",
+    "description": "English muffin, poached eggs, and hollandaise sauce.",
+    "price": "$13",
+    "section": "KINGS BREAKFAST MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "EGGS BENEDICT",
+    "description": "With pemeal bacon.",
+    "price": "$15",
+    "section": "KINGS BREAKFAST MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SMOKED SALMON BENEDICT",
+    "description": "English muffin with smoked salmon & hollandaise sauce.",
+    "price": "$16",
+    "section": "KINGS BREAKFAST MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "STEAK BENEDICT",
+    "description": "7oz NY striploin, poached eggs, English muffin & hollandaise sauce.",
+    "price": "$19",
+    "section": "KINGS BREAKFAST MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CALIFORNIA EGGS FLORENTINE",
+    "description": "Sautéed spinach, tomatoes, avocado & hollandaise sauce.",
+    "price": "$16",
+    "section": "KINGS BREAKFAST MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "3 EGGS BREAKFAST",
+    "description": "3 eggs any style, ham, bacon or sausage.",
+    "price": "$11",
+    "section": "Breakfast Menu - BREAKFAST",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "ULTIMATE BREAKFAST",
+    "description": "3 eggs any style, ham, bacon & sausage.",
+    "price": "$15",
+    "section": "Breakfast Menu - BREAKFAST",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "KINGS BREAKFAST",
+    "description": "3 eggs any style, bacon, sausage & French toast.",
+    "price": "$14",
+    "section": "Breakfast Menu - BREAKFAST",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "HUNGRY BREAKFAST",
+    "description": "2 eggs any style, sausage or bacon & French toast.",
+    "price": "$13",
+    "section": "Breakfast Menu - BREAKFAST",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "STUFFED FRENCH TOAST",
+    "description": "3 French toast with berries & home fries.",
+    "price": "$15",
+    "section": "Breakfast Menu - BREAKFAST",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "STEAK & EGGS",
+    "description": "7oz NY striploin and 2 eggs any style.",
+    "price": "$20",
+    "section": "Breakfast Menu - BREAKFAST",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BREAKFAST POUTINE",
+    "description": "Home fries, bacon, sausage, & mozzarella cheese topped with fried eggs",
+    "price": "$15",
+    "section": "Breakfast Menu - BREAKFAST",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CLASSIC WESTERN SANDWICH",
+    "description": "2 eggs, ham, onions, peppers & cheddar cheese.",
+    "price": "$13",
+    "section": "Breakfast Menu - BREAKFAST",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BRIE CHEESE OMELET",
+    "description": "Avocado, fresh peppers, onions, and spinach, with melted brie cheese",
+    "price": "$17",
+    "section": "Breakfast Menu - BREAKFAST",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SPINACH & FETA OMELET",
+    "description": "3 eggs, spinach, red onion & feta cheese.",
+    "price": "$17",
+    "section": "Breakfast Menu - BREAKFAST",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "MEXICAN CHILLI OMELET",
+    "description": "3 eggs, jalapeño, bell peppers, chili & melted cheese.",
+    "price": "$17",
+    "section": "Breakfast Menu - BREAKFAST",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SALMON PICCATA",
+    "description": "Grilled Atlantic salmon with white wine, capers, and fresh lemon. Served with rice pilaf and steamed vegetables.",
+    "price": "$17",
+    "section": "Lunch Menu - LUNCH FAVOURITES",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BLUE CHEESE STEAK SALAD",
+    "description": "Spring mix, blackened NY striploin, blue cheese, tomatoes, red onions and cucumbers. Served with your choice of dressing.",
+    "price": "$17",
+    "section": "Lunch Menu - LUNCH FAVOURITES",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "LUNCH SOUVLAKI",
+    "description": "Greek marinated chicken served with rice pilaf, Greek salad, and Greek potatoes.",
+    "price": "$17",
+    "section": "Lunch Menu - LUNCH FAVOURITES",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHICKEN FINGER SALAD",
+    "description": "Romaine lettuce, mixed cheese, bruschetta mix, cucumbers, topped with chicken fingers and drizzled with ranch dressing.",
+    "price": "$17",
+    "section": "Lunch Menu - LUNCH FAVOURITES",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PINEAPPLE SALAD",
+    "description": "Mixed greens, topped with blackened chicken, grilled pineapple, avocado, walnuts, and goat cheese. Served with choice of dressing.",
+    "price": "$17",
+    "section": "Lunch Menu - LUNCH FAVOURITES",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "KINGS BURGER",
+    "description": "7oz prime rib burger, bacon, cheddar, onion rings and chipotle mayo.",
+    "price": "$15",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "DUBLIN CHEESE BURGER",
+    "description": "7oz prime rib burger, corned beef, sauerkraut, and Swiss cheese.",
+    "price": "$15",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "LOADED HOT HAMBURGER",
+    "description": "7 oz prime rib burger served on a slice of white bread, topped with mashed potatoes, sautéed onions, mushrooms and smoked bacon, served with gravy and steamed vegetables.",
+    "price": "$15",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHIPOTLE CHICKEN WRAP",
+    "description": "Cajun grilled chicken, lettuce, tomatoes, Tex-Mex cheese, and chipotle mayo.",
+    "price": "$15",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "FRENCH BEEF DIP",
+    "description": "Shaved roast beef piled high on a fresh ciabatta bun with melted Swiss cheese. Served with hot au jus.",
+    "price": "$15",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "WINGS & TENDERS",
+    "description": "Our classic chicken wings (4 pcs) tossed in your favourite wing sauce and chicken tenders (3pcs) tossed in buffalo sauce. Served with French fries.",
+    "price": "$16",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SOUVLAKI ON A PITA",
+    "description": "Marinated grilled chicken breast with wild lettuce, tomatoes, red onions, and topped with tzatziki.",
+    "price": "$15",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "HOT BEEF",
+    "description": "Shaved roast beef served on a sliced of bread, topped with sautéed onions and mushrooms. Smothered with gravy and served with choice of side.",
+    "price": "$15",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "TURKEY BURGER",
+    "description": "7 oz turkey burger, with mushroom & Swiss cheese.",
+    "price": "$15",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHILI BURGER",
+    "description": "7 oz prime rib topped with chili & mix cheese.",
+    "price": "$15",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PUB CLUB",
+    "description": "Smoked turkey, black forest ham, bacon, lettuce and tomato on a choice of a bread.",
+    "price": "$15",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "LUNCH CHICKEN CURRY",
+    "description": "Tender chicken cooked in authentic Indian curry sauce. Served on a bed of steamed basmati rice, with naan bread and fresh tomato & coriander salsa.",
+    "price": "$16",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "MEXICAN SALAD",
+    "description": "Crispy romaine, grilled chicken, smoked bacon, grilled pineapple, Tex-Mex cheese and tortilla chips.",
+    "price": "$15",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "FISH ON A BUN",
+    "description": "Baked haddock, lettuce, tomato, and tartar sauce.",
+    "price": "$15",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BBQ CHICKEN AVOCADO MELT",
+    "description": "BBQ grilled chicken with avocado & melted cheddar.",
+    "price": "$15",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "TANGY THAI STIR-FRY",
+    "description": "Grilled chicken, julienne vegetables, with tangy Thai stir fry sauce.",
+    "price": "$15",
+    "section": "KINGS LUNCH MENU",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Caramel Carrot Cheesecake",
+    "description": "A luscious cheesecake filled with chunks of moist carrot cake piled high on a graham base, a special caramel duo blend on top",
+    "price": "$9.00",
+    "section": "Desserts Menu - Desserts",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Apple Crumble",
+    "description": "House-made apple crumble served in a buttery tart shell with ice cream",
+    "price": "$9.00",
+    "section": "Desserts Menu - Desserts",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Crème Brûlée",
+    "description": "Classic French dessert consisting of custard topped with caramelized sugar",
+    "price": "$9.00",
+    "section": "Desserts Menu - Desserts",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Chocolate Brownie",
+    "description": "Baked Chocolate fudge square topped with vanilla ice cream and chocolate sauce",
+    "price": "$9.00",
+    "section": "Desserts Menu - Desserts",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Sticky Toffee Pudding",
+    "description": "Served with vanilla ice cream",
+    "price": "$9.00",
+    "section": "Desserts Menu - Desserts",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Soft Drinks",
+    "description": "(Free Refills)\nCoke, Diet Coke, Sprite, Ginger Ale, Ice Tea",
+    "price": null,
+    "section": "Kids Menu",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Milk, Chocolate Milk, Juices (Apple, Orange), Shirley Temple",
+    "description": "(No Refills)",
+    "price": "$2",
+    "section": "Kids Menu",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "DAD'S Root Beer",
+    "description": null,
+    "price": "$4",
+    "section": "Kids Menu",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Cheese Burger",
+    "description": "Choice of Side: Fries, Onion Rings, Steamed Veggies, Garden or Caesar Salad.",
+    "price": "$9",
+    "section": "Kids Menu",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Grilled Cheese",
+    "description": "Choice of Side: Fries, Onion Rings, Steamed Veggies, Garden or Caesar Salad.",
+    "price": "$9",
+    "section": "Kids Menu",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Cheese Or Pepperoni Pizza",
+    "description": "Choice of Side: Fries, Onion Rings, Steamed Veggies, Garden or Caesar Salad.",
+    "price": "$9",
+    "section": "Kids Menu",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Macaroni & Cheese",
+    "description": "Choice of Side: Fries, Onion Rings, Steamed Veggies, Garden or Caesar Salad.",
+    "price": "$9",
+    "section": "Kids Menu",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Kid's BBQ Wings",
+    "description": "Choice of Side: Fries, Onion Rings, Steamed Veggies, Garden or Caesar Salad.",
+    "price": "$9",
+    "section": "Kids Menu",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Spaghetti & Meat Balls (No Side)",
+    "description": null,
+    "price": "$9",
+    "section": "Kids Menu",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Kids Chicken Quesadilla",
+    "description": "(Chicken& Cheese)",
+    "price": "$10",
+    "section": "Kids Menu",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Chicken Tenders",
+    "description": null,
+    "price": "$10",
+    "section": "Kids Menu",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Chapman's Ice Cream",
+    "description": "(Vanilla or Chocolate)",
+    "price": null,
+    "section": "Kids Menu",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Wings & Fries",
+    "description": null,
+    "price": "$13.00",
+    "section": "Daily Specials - Monday",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Taco",
+    "description": null,
+    "price": "$5.00",
+    "section": "Daily Specials - Tuesday",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Tequilla",
+    "description": null,
+    "price": "$5.00",
+    "section": "Daily Specials - Tuesday",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Wing",
+    "description": "(All Day)",
+    "price": "$1.00",
+    "section": "Daily Specials - Wednesday",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Pint & Pound",
+    "description": null,
+    "price": "$16.00",
+    "section": "Daily Specials - Thursday",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Pitcher & 2 Pounds",
+    "description": null,
+    "price": "$35.00",
+    "section": "Daily Specials - Thursday",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Cocktails",
+    "description": null,
+    "price": "$6.00",
+    "section": "Daily Specials - Thursday",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Rib & Wings Combo",
+    "description": null,
+    "price": "$19.00",
+    "section": "Daily Specials - Friday",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Fajitas",
+    "description": "(All Day)",
+    "price": "$17.00",
+    "section": "Daily Specials - Saturday",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Pint & Pound",
+    "description": null,
+    "price": "$16.00",
+    "section": "Daily Specials - Sunday",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Pitcher & 2 Pounds",
+    "description": null,
+    "price": "$35.00",
+    "section": "Daily Specials - Sunday",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Caesar",
+    "description": "Sunday",
+    "price": "$6.00",
+    "section": "Daily Specials - Sunday",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Happy Hour Domestic Pints",
+    "description": "Everyday 11AM to 4PM",
+    "price": "$5.00",
+    "section": "Daily Specials",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "DOMESTIC",
+    "description": "Canadian, Coors Light, Budweiser, Miller Light",
+    "price": "20oz Pint $6.50 | 60oz Pitcher $19",
+    "section": "Bar Menu - Beer - On Tap",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PREMIUM",
+    "description": "Belgian Moon, Michelob Ultra, Rickards Red, Coors Original, Hop Valley Bubble Stash IPA",
+    "price": "20oz Pint $7 | 60oz Pitcher $20",
+    "section": "Bar Menu - Beer - On Tap",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Stella",
+    "description": null,
+    "price": "20oz Pint $10 | 60oz Pitcher $28",
+    "section": "Bar Menu - Beer - Import",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "DOMESTIC",
+    "description": "Canadian, Coors Light, Budweiser, Bud Light",
+    "price": "$6.00",
+    "section": "Bar Menu - Beer - Bottles",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PREMIUM",
+    "description": "MGD",
+    "price": "$6.50",
+    "section": "Bar Menu - Beer - Bottles",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "IMPORT",
+    "description": "Corona, Heineken",
+    "price": "$8.00",
+    "section": "Bar Menu - Beer - Bottles",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "DOMESTIC",
+    "description": "Canadian, Coors Light",
+    "price": "$7.00",
+    "section": "Bar Menu - Beer - Tall Cans",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "IMPORT",
+    "description": "Strongbow, Guinness",
+    "price": "$9.00",
+    "section": "Bar Menu - Beer - Tall Cans",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SELTZERS & COOLERS",
+    "description": "Vizzy Pineapple & Mango, Nutrl Vodka Soda, Turkey Shoot",
+    "price": "$9.00",
+    "section": "Bar Menu - Beer",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Jackson Triggs VQA - Cab Cab",
+    "description": null,
+    "price": "6oz. $8.00 | 9oz. $11.00 | Bottle $28.00",
+    "section": "Bar Menu - Wines - Domestic Red",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Jackson Triggs VQA - Merlot",
+    "description": null,
+    "price": "6oz. $8.00 | 9oz. $11.00 | Bottle $28.00",
+    "section": "Bar Menu - Wines - Domestic Red",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Jackson Triggs VQA - Sauvignon Blanc",
+    "description": null,
+    "price": "6oz. $8.00 | 9oz. $11.00 | Bottle $28.00",
+    "section": "Bar Menu - Wines - Domestic White",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Inniskillin VQA - Pinot Grigio",
+    "description": null,
+    "price": "6oz. $9.00 | 9oz. $12.00 | Bottle $30.00",
+    "section": "Bar Menu - Wines - Domestic White",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Open VQA - Rose",
+    "description": null,
+    "price": "6oz. $9.00 | 9oz. $12.00 | Bottle $30.00",
+    "section": "Bar Menu - Wines - Domestic White",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Woodbridge by Robert Mondavi - California Chardonnay",
+    "description": null,
+    "price": "6oz. $10.00 | 9oz. $13.00 | Bottle $34.00",
+    "section": "Bar Menu - Wines - Import Selection",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Woodbridge by Robert Mondavi - Red Blend",
+    "description": null,
+    "price": "6oz. $10.00 | 9oz. $13.00 | Bottle $34.00",
+    "section": "Bar Menu - Wines - Import Selection",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "Tom Gore Cabernet Sauvignon - California",
+    "description": null,
+    "price": "Bottle $45.00",
+    "section": "Bar Menu - Wines - Import Selection",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "J Lohr",
+    "description": null,
+    "price": "Bottle $45.00",
+    "section": "Bar Menu - Wines - Import Selection",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "AMARETTO SOUR",
+    "description": "Amaretto, Lime Mix",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "ALABAMA SLAMMER",
+    "description": "Southern Comfort, Amaretto, Orange Juice",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "APPLE JACK",
+    "description": "Jack Daniel's, Apple Juice",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BARTENDER'S ROOT BEER",
+    "description": "Kahlúa, Galliano, Coke, Soda",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BERRY GIN FIZZ",
+    "description": "Berries, 1oz Gin, Lime, Soda",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BLOODY CAESAR",
+    "description": "Vodka, Clamato Juice, Special Blend of Spices",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BLOODY MARY",
+    "description": "Vodka, Tomato Juice, Special Blend of Spices",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BLUE LAGOON",
+    "description": "Vodka, Blue Curacao, Lime Mix, Sprite",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BROWN COW",
+    "description": "Kahlúa, Milk",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BOURBON SOUR",
+    "description": "Jim Beam, Lime Juice",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CAPE COD",
+    "description": "Vodka, Cranberry Juice",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "DANCIN' ANDY",
+    "description": "Raspberry Vodka, Ginger ale",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "FUZZY NAVEL",
+    "description": "Peach Schnapps, Orange Juice, Soda",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "HARVEY WALLBANGER",
+    "description": "Vodka, Galliano, Orange Juice",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "KAMIKAZE",
+    "description": "Vodka, Triple Sec, Lime Mix",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "KILLER KOOLAID",
+    "description": "Melon Liqueur, Amaretto, Vodka, Cranberry Juice",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "LONG ISLAND ICED TEA",
+    "description": "Rum, Vodka, Triple Sec, Lime Juice, Coke",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "MANGO RUM PUNCH",
+    "description": "1/2 Malibu 1/2 Rum, Orange, Cranberry Juice, Mango Purée",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "MELON BALL",
+    "description": "Melon Liqueur, Vodka, Pineapple Juice",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PINK LEMONADE",
+    "description": "Gin, Triple Sec, Lime Mix, Grenadine",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PURPLE ORCHID",
+    "description": "Vodka, Blue Curacao, Lime Juice, Cranberry Juice",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PURPLE RAIN",
+    "description": "Rum, Blue Curacao, Cranberry Juice",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SCREWDRIVER",
+    "description": "Vodka, Orange Juice",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SEX ON THE BEACH",
+    "description": "Grand Marnier, Peach Schnapps, Cranberry/Pineapple Juice",
+    "price": "$8.00",
+    "section": "Bar Menu - Cocktails",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BLACK RUSSIAN",
+    "description": "1 1/2 Vodka, 1/2 Kahlúa",
+    "price": "$12.00",
+    "section": "Bar Menu - Cocktails & Martini's",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CLASSIC MARTINI",
+    "description": "Vodka or Gin, Vermouth",
+    "price": "$12.00",
+    "section": "Bar Menu - Cocktails & Martini's",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CHOCOLATE MARTINI",
+    "description": "1 1/2 Vodka 1/2 White Creme de Cacao",
+    "price": "$12.00",
+    "section": "Bar Menu - Cocktails & Martini's",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "COSMOPOLITAN MARTINI",
+    "description": "1 Vodka, 1 Triple Sec, Cranberry & Lime",
+    "price": "$12.00",
+    "section": "Bar Menu - Cocktails & Martini's",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CREAMSICLE MARTINI",
+    "description": "1 Orange Vodka, ½ Vanilla Vodka, 1/2 Irish Cream",
+    "price": "$12.00",
+    "section": "Bar Menu - Cocktails & Martini's",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "GODFATHER",
+    "description": "1 Scotch, 1 Amaretto",
+    "price": "$12.00",
+    "section": "Bar Menu - Cocktails & Martini's",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SHOOTERS",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "APPLE JACKS",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BANANA POPSICLE",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BAZOOKA JOE",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BLOW JOB/MUFF DIVER",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BLUE FREEZEE",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BROKEN DOWN GOLF CART",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BURT REYNOLDS",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BUTTERY NIPPLE",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "FALLING STAR",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "KRISPY KRUNCH",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "MELON BALL",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "ORGASM",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "POLAR BEAR",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PORNSTAR",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PRAIRIE FIRE",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SWEDISH BERRY",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "DROP SHOTS",
+    "description": null,
+    "price": "$10.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "DR. PEPPER",
+    "description": null,
+    "price": "$10.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "IRISH CARBOMB",
+    "description": null,
+    "price": "$10.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "JAGERBOMB",
+    "description": null,
+    "price": "$10.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SKITTLES",
+    "description": null,
+    "price": "$10.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "FLORIDA TRACKSUIT",
+    "description": null,
+    "price": "$10.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "TEQUILA BOMB",
+    "description": null,
+    "price": "$10.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "LAS VEGAS",
+    "description": null,
+    "price": "$10.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BAR RAIL",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SMIRNOFF VODKA",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CROWN ROYAL",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CAPTAIN MORGAN RUM",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "GORDON GIN",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BELL'S SCOTCH",
+    "description": null,
+    "price": "$6.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PREMIUM TOP SHELF",
+    "description": null,
+    "price": "$14.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "REMY MARTIN",
+    "description": null,
+    "price": "$14.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "DON JULIO BLANCO",
+    "description": null,
+    "price": "$14.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "DON JULIO REPOSADO",
+    "description": null,
+    "price": "$14.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "DON JULIO 1942",
+    "description": null,
+    "price": "$25.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PREMIUM SHOTS",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BACARDI WHITE",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BAILEYS",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CAPTAIN MORGAN SPICED",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CROWN ROYAL APPLE",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CROWN PEACH",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "FIREBALL",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "JACK DANIEL'S",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "JACK DANIEL'S HONEY",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "JAMESON",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "JOSE CUERVO GOLD",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "JOSE CUERVO SILVER",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "JIM BEAM (BOURBON)",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "KAHLÚA",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "TITOS",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "MALIBU",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "WISER'S",
+    "description": null,
+    "price": "$7.50",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "PREMIUM SHOOTERS",
+    "description": null,
+    "price": "$7.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "B52",
+    "description": null,
+    "price": "$7.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SLIPPERY NIPPLE",
+    "description": null,
+    "price": "$7.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BANANA JACK",
+    "description": null,
+    "price": "$7.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "LIQUID COCAINE",
+    "description": null,
+    "price": "$7.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SNAKE BITE",
+    "description": null,
+    "price": "$7.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SAMBUCA WHITE",
+    "description": null,
+    "price": "$7.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BANANA JAGER",
+    "description": null,
+    "price": "$7.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SICILIAN KISS",
+    "description": null,
+    "price": "$7.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "ROCKY MOUNTAIN BEAR CLAW",
+    "description": null,
+    "price": "$7.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "JAGERMEISTER",
+    "description": null,
+    "price": "$7.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "TOP SHELF",
+    "description": null,
+    "price": "$11.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "CIROC",
+    "description": null,
+    "price": "$11.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "GREY GOOSE",
+    "description": null,
+    "price": "$11.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "GLENFIDDICH",
+    "description": null,
+    "price": "$11.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "JOHNNY WALKER BLACK",
+    "description": null,
+    "price": "$11.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "GLENLIVET",
+    "description": null,
+    "price": "$11.00",
+    "section": "Bar Menu - Shooters & Shots",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "IRISH COFFEE",
+    "description": "1/2 oz. Jameson Irish Whiskey | 1/2 oz. Bailey's Irish Cream",
+    "price": "$9.00",
+    "section": "Bar Menu - Specialty Coffee",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "MONTE CRISTO",
+    "description": "1/2 oz. Kahlúa | 1/2 oz. Grand Marnier",
+    "price": "$9.00",
+    "section": "Bar Menu - Specialty Coffee",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BAILEY'S COFFEE",
+    "description": "1 oz. Bailey's Irish Cream",
+    "price": "$9.00",
+    "section": "Bar Menu - Specialty Coffee",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "B-52 COFFEE",
+    "description": "1/3 oz. Kahlúa | 1/3 oz. Bailey's | 1/3 oz. Grand Marnier",
+    "price": "$9.00",
+    "section": "Bar Menu - Specialty Coffee",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "SPANISH COFFEE",
+    "description": "1/2 oz. Kahlúa | 1/2 oz. Brandy",
+    "price": "$9.00",
+    "section": "Bar Menu - Specialty Coffee",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  },
+  {
+    "name": "BLUEBERRY TEA",
+    "description": "1/2 oz. Grand Marnier | 1/2 oz. Amaretto",
+    "price": "$9.00",
+    "section": "Bar Menu - Specialty Coffee",
+    "restaurant_name": "King's Tavern",
+    "restaurant_url": "https://kingstavern.ca/"
+  }
+]

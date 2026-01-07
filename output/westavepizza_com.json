@@ -1,0 +1,1618 @@
+[
+  {
+    "name": "Pizza Night Monday Special",
+    "description": "Large 18” Cheese Pizza. Monday only!",
+    "price": "$12.99",
+    "section": "Monday Special",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Pizza & Boneless Wings Monday Special",
+    "description": "Large 18” Cheese Pizza & 10 Boneless Wings. Monday only!",
+    "price": "Monday Special Boneless $19.99 | Monday Special Bone In $22.99",
+    "section": "Monday Special",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Sub-Sational! Any Two Subs Wednesday Special",
+    "description": "Steak or shrimp sub for an additional charge. Wednesday only!",
+    "price": "$17.99",
+    "section": "Wednesday Special",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Pasta Party Thrusday Special",
+    "description": "Choose 2 from spaghetti with meatballs, baked ziti, manicotti, stuffed shells, cheese ravioli, or lasagna. Served with salad and bread. Thursday only!",
+    "price": "$19.99",
+    "section": "Thursday Special",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Mozzarella Sticks",
+    "description": "Deep-fried cheese sticks. Crispy on the outside, gooey on the inside. Virtually guaranteed to be a table favorite! Served with a side of marinara sauce.",
+    "price": "$9.99",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "4 Cheese Quesadilla",
+    "description": "Romano, mozzarella, cheddar & parmesan.",
+    "price": "$10.99",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Grilled Chicken Quesadilla",
+    "description": "Marinated chicken & cheeses.",
+    "price": "$12.49",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Cheddar Fries",
+    "description": "Served with cheddar dipping sauce.",
+    "price": "$7.99",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Jalapeno Poppers",
+    "description": "Served with a side of creamy ranch.",
+    "price": "$10.49",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Onion Rings",
+    "description": "Beer battered & fried until golden.",
+    "price": "$8.49",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Macaroni & Cheese Bites",
+    "description": "Served with a side of creamy ranch.",
+    "price": "$10.49",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Fried Ravioli",
+    "description": null,
+    "price": "$10.49",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Breaded Mushrooms",
+    "description": null,
+    "price": "$10.49",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Fried Calamari",
+    "description": "Flash fried squid, crunchy on the outside and simply perfect on the inside. Kick it up a notch with a squeeze of lemon.",
+    "price": "$13.49",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Garlic Bread",
+    "description": "Bread, topped with garlic, herb seasoning, baked to perfection.",
+    "price": "$5.99",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Sicilian Garlic Bread",
+    "description": "Sliced tomato and mozzarella.",
+    "price": "$7.49",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Garlic Knots",
+    "description": "A classic snack, our garlic knots are strips of pizza dough tied in a knot, baked, and then topped with melted butter, garlic, and parsley.",
+    "price": "$9.99",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "West  Ave Sampler",
+    "description": "Mozzarella sticks, jalapeno poppers, onion rings, breaded mushrooms, chicken tenders, macaroni & cheese bites, & fried ravioli served with your choice of 2 sauces.",
+    "price": "$18.99",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Tenders",
+    "description": "Served with fries and BBQ sauce",
+    "price": "$12.49",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "French Fries",
+    "description": "Our delicious French fries are deep-fried 'till golden brown, with a crunchy exterior and a light fluffy interior. Seasoned to perfection!",
+    "price": "$6.99",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Mozzarella Sticks",
+    "description": null,
+    "price": "$10.49",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "French Fries With Cheese",
+    "description": null,
+    "price": "$7.99",
+    "section": "Appetizers",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Homemade Soup of the day (Bowl)",
+    "description": null,
+    "price": "$5.99",
+    "section": "Soups & Salad",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Garden Salad",
+    "description": "Lettuce, tomato, cucumber, onion & black olives.",
+    "price": "Small $6.25 | Large $8.50",
+    "section": "Soups & Salad",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Romaine lettuce, homemade Caesar dressing & croutons.",
+    "price": "$10.99",
+    "section": "Soups & Salad",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Caesar Salad w/Chicken",
+    "description": null,
+    "price": "$13.99",
+    "section": "Soups & Salad",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Greek Salad",
+    "description": "Our garden salad is topped with feta cheese.",
+    "price": "$11.99",
+    "section": "Soups & Salad",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chef Salad",
+    "description": "Turkey, ham, roast beef & American cheese, on top of lettuce, tomato, cucumber, onion & black olives.",
+    "price": "$11.99",
+    "section": "Soups & Salad",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Antipasto Salad",
+    "description": "Salami, pepperoni, giardiniera, capicola & provolone cheese, on top of lettuce, tomato, cucumber, onion & black olives.",
+    "price": "$11.99",
+    "section": "Soups & Salad",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Grilled Chicken Salad",
+    "description": "Fresh grilled chicken, lettuce, tomato, cucumber, onion & black olives.",
+    "price": "$12.99",
+    "section": "Soups & Salad",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Buffalo Chicken Salad",
+    "description": "Buffalo chicken on top of lettuce, tomato, cucumber, onion & black olives.",
+    "price": "$12.99",
+    "section": "Soups & Salad",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Mario's Salad",
+    "description": "Garden salad, grilled chicken, roasted red peppers, blue cheese crumbles.",
+    "price": "$12.99",
+    "section": "Soups & Salad",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Wedge Salad",
+    "description": "Wedge of iceberg lettuce, bacon, tomato, onion, blue cheese, gorgonzola.",
+    "price": "$12.99",
+    "section": "Soups & Salad",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Cobb Salad",
+    "description": "Garden salad, hard boiled egg, avocado, bacon, grilled chicken, blue cheese.",
+    "price": "$12.99",
+    "section": "Soups & Salad",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Side of Meatballs",
+    "description": "4 Pieces",
+    "price": "$10.99",
+    "section": "Sides",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Side of Sausage",
+    "description": "3 Pieces",
+    "price": "$10.99",
+    "section": "Sides",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "San Carlo Classic Potato Chips",
+    "description": "One Size",
+    "price": "$3.29",
+    "section": "Sides",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "San Carlo  tomato Potato  Chips",
+    "description": "One Size",
+    "price": "$3.29",
+    "section": "Sides",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "San Carlo Pesto Potato Chips",
+    "description": "One Size",
+    "price": "$3.29",
+    "section": "Sides",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Boneless Wings",
+    "description": null,
+    "price": "10 Pieces $12.99 | 20 Pieces $21.99",
+    "section": "Wings",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Jumbo Party Wings",
+    "description": "10 Pieces",
+    "price": "$15.99",
+    "section": "Wings",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "14 Cheese Pizza 6 cut",
+    "description": "Classic cheese or create your own pizza.",
+    "price": "$14.99",
+    "section": "Build Your Own Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "18 Cheese Pizza 8 Slices",
+    "description": null,
+    "price": "$18.99",
+    "section": "Build Your Own Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "12 x 17 Square Pizza",
+    "description": "Classic cheese or create your own pizza.",
+    "price": "$19.99",
+    "section": "Build Your Own Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "24 X 17 Square Pizza",
+    "description": null,
+    "price": "$30.99",
+    "section": "Build Your Own Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Gluten Free Pizza",
+    "description": "12 ” Classic cheese or create your own pizza.",
+    "price": "$14.99",
+    "section": "Build Your Own Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Detroit Pizza",
+    "description": null,
+    "price": "$18.99",
+    "section": "Build Your Own Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Double White Pizza",
+    "description": "Garlic, mozzarella & ricotta. 12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Buffalo Chicken Pizza",
+    "description": "Wing sauce, boneless wings & mozzarella. 12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Cheeseville Pizza",
+    "description": "Romano, parmesan, ricotta, cheddar & mozzarella.12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Lasagna Pizza",
+    "description": "Sweet Italian sausage, meatballs, loaded with mozzarella & ricotta.12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Vegetarian Pizza",
+    "description": "Onions, mixed peppers, olives, broccoli, mushrooms & mozzarella.12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Meat Lover Pizza",
+    "description": "Pepperoni, sweet sausage, meatball, bacon, ham & mozzarella.12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Hawaiian Pizza",
+    "description": "Honey glazed ham, pineapple, bacon & mozzarella.12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Steak Works Pizza",
+    "description": "Grilled steak, green peppers, onions, mushrooms & mozzarella.12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Chicken Parmigiana Pizza",
+    "description": "Marinara & chicken cutlet, loaded with mozzarella.12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Tomato , Bacon & Ranch Pizza",
+    "description": "Ranch, tomato, bacon & mozzarella.12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square The Soprano Pizza",
+    "description": "Capicola, salami, roasted reds & mozzarella. 12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square The Belize Pizza",
+    "description": "Grilled chicken, roasted reds, parmesan, romano & mozzarella. 12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Supreme Pizza",
+    "description": "Meatball, sausage, pepperoni, peppers, mushrooms & onions.12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Rustica Pizza",
+    "description": "Mozzarella, fresh tomato, provolone, garlic & oregano.12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Macaroni & Cheese Pizza",
+    "description": "Classic dish made with special cheddar sauce.12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Long Island Spinach White Pizza",
+    "description": "White pie with spinach, ricotta, romano & a touch of garlic & onion.12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square BBQ Chicken Pizza",
+    "description": "Hickory smoked BBQ chicken, pizza sauce & mozzarella.12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Margherita Pizza",
+    "description": "Garlic butter sauce, fresh mozzarella, sliced tomatoes, fresh basil, Romano cheese.12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Upside Down Pizza",
+    "description": "12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Tie Dye Pizza",
+    "description": "NYC Classic, mozzarella, pesto, vodka, and marinara sauce.12” *17” (12 Slices)",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Jake's Pie",
+    "description": "Detroit only. White garlic, crispy chicken, bacon, pesto, hot sauce.",
+    "price": "$23.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Truffle",
+    "description": "Detroit only. Mozzarella, ricotta, black truffle pate",
+    "price": "$23.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Square Vodka Upside Down Pizza",
+    "description": "12 Cut",
+    "price": "$25.99",
+    "section": "Square Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Double White Pizza",
+    "description": "Garlic, mozzarella & ricotta.",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Buffalo  Chicken Pizza",
+    "description": "Wing sauce, boneless wings & mozzarella.",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Lasagna Pizza",
+    "description": "Sweet Italian sausage, meatballs, loaded with mozzarella & ricotta.",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Veggie Lover Pizza",
+    "description": "Onions, mixed peppers, olives, broccoli, mushrooms & mozzarella.",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Meat Lover Pizza",
+    "description": "Pepperoni, sweet sausage, meatball, bacon, ham & mozzarella.",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Hawaiian Pizza",
+    "description": "Honey glazed ham, pineapple, bacon & mozzarella.",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Steak Works Pizza",
+    "description": "Grilled steak, green peppers, onions, mushrooms & mozzarella.",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Parmigiana Pizza",
+    "description": "Marinara & chicken cutlet, loaded with mozzarella.",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Tomato Bacon Ranch Pizza",
+    "description": "Ranch, tomato, bacon & mozzarella.",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Supreme Pizza",
+    "description": "Meatball, sausage, pepperoni, peppers, mushrooms & onions.",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Rustica Pizza",
+    "description": "Mozzarella, fresh tomato, provolone, garlic & oregano.",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Macaroni  & Cheese Pizza",
+    "description": "Classic dish made with special cheddar sauce",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Long Island Spinach White Pizza",
+    "description": "White pie with spinach, ricotta, romano & a touch of garlic & onion.",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Tomato Pie (12 cut only)",
+    "description": "Classic sicilian thick square pizzawith tomato sauce, grated parmesan cheese & extra virgin olive oil",
+    "price": "$25.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Upside Down (12 cut only)",
+    "description": "Clissic sicilian with mozzarella cheese on the buttom & tomato sauce on top",
+    "price": "$25.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Pepperoni & Hot Honey Pizza 12x17 (12 Slices)",
+    "description": "Sicilian square pizza with our very own cupped and charred pepperoni & ghost pepper hot honey",
+    "price": "$25.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "The Konrad Pizza",
+    "description": "Pepperoni, hot honey and pineapple.",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Alex Pizza",
+    "description": "Red sauce, tomatoes, fresh mozzarella, red onions, balsamic glaze and basil.",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Soprano Pizza",
+    "description": "Italian cold cuts and roasted red peppers",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Tie Dye (12 cut only)",
+    "description": "NYC classic pesto, vodka, and marinara",
+    "price": "$25.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Jake's Pie (Detroit only) Pizza",
+    "description": "White garlic, crispy thicken, bacon, pesto, hot sauce",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Truffle (Detroit only) Pizza",
+    "description": "Mozzarella, ricotta, black truffle pate",
+    "price": "14 Round $20.99 | 18 Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "chicken bacon ranch",
+    "description": null,
+    "price": "14\" Round $20.99 | 18\" Round $24.99 | 12x17 Square $25.99 | Gluten Free $20.99 | Detroit Style $23.99",
+    "section": "Gourmet Pizza",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Cheese Calzone",
+    "description": "One Size Only",
+    "price": "$13.99",
+    "section": "Calzones & Strombolis",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Bacon Ranch Calzone",
+    "description": "One Size Only",
+    "price": "$17.99",
+    "section": "Calzones & Strombolis",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Pepperoni Stromboli",
+    "description": "12”",
+    "price": "$11.99",
+    "section": "Calzones & Strombolis",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Broccoli Stromboli",
+    "description": "12”",
+    "price": "$11.99",
+    "section": "Calzones & Strombolis",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Meatball Parmigiana Sub",
+    "description": "Hot Subs",
+    "price": "$12.49",
+    "section": "Hot Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Sausage Parmigiana Sub",
+    "description": "Hot Subs",
+    "price": "$12.49",
+    "section": "Hot Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Eggplant  Parmigiana Sub",
+    "description": "Hot Sub",
+    "price": "$12.49",
+    "section": "Hot Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Cutlet Parmigiana Sub",
+    "description": "Hot Subs",
+    "price": "$12.49",
+    "section": "Hot Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Sorrento Sub",
+    "description": "Hot Subs",
+    "price": "$14.49",
+    "section": "Hot Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Vodka Parm Sub",
+    "description": "Chicken cutlet topped with vodka sauce and mozzarella cheese",
+    "price": "$14.49",
+    "section": "Hot Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Steak  Parmigiana Sub",
+    "description": "Hot Subs",
+    "price": "$14.49",
+    "section": "Hot Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Philly  Cheesesteak Sub",
+    "description": "Onions, mushrooms & American cheese.",
+    "price": "$14.49",
+    "section": "Hot Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Southwest Steak Sub",
+    "description": "Onions, peppers, American cheese & chipotle mayo.",
+    "price": "$14.49",
+    "section": "Hot Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Philly Sub",
+    "description": "Onions, mushrooms & American cheese",
+    "price": "$14.49",
+    "section": "Hot Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Cheese Burger Sub",
+    "description": "Lettuce, tomato, onion, American cheese & secret sauce.",
+    "price": "$14.49",
+    "section": "Hot Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Genovese Sub",
+    "description": "Chicken cutlet with lettuce, roasted red peppers, mozzarella, mayo and pesto",
+    "price": "$14.49",
+    "section": "Hot Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Cutlet Sub",
+    "description": "Build it your way with choice of dressing, any cheese, lettuce, tomato, onion. Please specify which toppings you would like.",
+    "price": "$14.49",
+    "section": "Hot Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Shrimp Parmigiana",
+    "description": null,
+    "price": "$14.49",
+    "section": "Hot Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Roasted Turkey Sub",
+    "description": "Please specify choice of lettuce, tomato, onion, cheese and dressing.",
+    "price": "$12.49",
+    "section": "Cold Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Ham & Cheese Sub",
+    "description": "Please specify choice of lettuce, tomato, onion, cheese and dressing.",
+    "price": "$12.49",
+    "section": "Cold Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Salami &  Provolone Sub",
+    "description": "Please specify choice of lettuce, tomato, onion, cheese and dressing.",
+    "price": "$12.49",
+    "section": "Cold Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Capicola Sub",
+    "description": "Please specify choice of lettuce, tomato, onion, cheese and dressing.",
+    "price": "$12.49",
+    "section": "Cold Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Roast Beef Sub",
+    "description": "Please specify choice of lettuce, tomato, onion, cheese and dressing.",
+    "price": "$12.49",
+    "section": "Cold Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "BLT Sub",
+    "description": "Classic bacon, lettuce, and tomato.",
+    "price": "$12.49",
+    "section": "Cold Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Tuna Sub",
+    "description": "Delicious tuna fish salad & veggies in a satisfying sub.",
+    "price": "$12.49",
+    "section": "Cold Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Veggie Sub",
+    "description": "Lettuce, tomato, onion, roasted reds & black olives.",
+    "price": "$12.49",
+    "section": "Cold Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Pepperoni & Provolone Sub",
+    "description": "Please specify choice of lettuce, tomato, onion and dressing.",
+    "price": "$12.49",
+    "section": "Cold Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Italian Mix Sub",
+    "description": "Salami, capicola, pepperoni & provolone. Please specify choice of lettuce, tomato, onion and dressing.",
+    "price": "$12.49",
+    "section": "Cold Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "American Mix Sub",
+    "description": "Roast beef, turkey, ham & American cheese. Please specify choice of lettuce, tomato, onion and dressing.",
+    "price": "$12.49",
+    "section": "Cold Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Grilled Chicken Sub",
+    "description": "Please specify choice of lettuce, tomato, onion, cheese and dressing.",
+    "price": "$12.49",
+    "section": "Cold Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "TBC Sub",
+    "description": "An Electric City Classic! Turkey, bacon, cheddar melt on our sub roll with secret sauce!",
+    "price": "$12.49",
+    "section": "Cold Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Buffalo Chicken Sub",
+    "description": null,
+    "price": "$12.49",
+    "section": "Cold Subs",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Turkey Bacon Wrap",
+    "description": "Please specify choice of lettuce, tomato, onion, cheese and dressing.",
+    "price": "$11.99",
+    "section": "Wraps",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Grilled Chicken Wrap",
+    "description": "Please specify choice of lettuce, tomato, onion, cheese and dressing.",
+    "price": "$11.99",
+    "section": "Wraps",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Crispy Chicken Wrap",
+    "description": "Please specify choice of lettuce, tomato, onion, cheese and dressing.",
+    "price": "$11.99",
+    "section": "Wraps",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Buffalo  Chicken Wrap",
+    "description": "Lettuce, tomato, onion, blue cheese & mozzarella.",
+    "price": "$11.99",
+    "section": "Wraps",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Tuna Wrap",
+    "description": "Please specify choice of lettuce, tomato, onion, cheese and dressing.",
+    "price": "$11.99",
+    "section": "Wraps",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Veggie Wrap",
+    "description": null,
+    "price": "$10.99",
+    "section": "Wraps",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "BLT Wrap",
+    "description": "Crisp bacon, juicy grape tomatoes, shredded lettuce, and a special sauce.",
+    "price": "$11.99",
+    "section": "Wraps",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Daily Double Wrap",
+    "description": "Turkey, ham, roasted red peppers, lettuce, provolone & choice of dressing.",
+    "price": "$11.99",
+    "section": "Wraps",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Steak it me Wrap",
+    "description": "Shaved top round steak, mushrooms & American cheese.",
+    "price": "$12.99",
+    "section": "Wraps",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Pasta with  Marinara Sauce",
+    "description": "Topped with Marinara sauce. Served with a side salad & fresh Italian bread.",
+    "price": "$14.49",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Pasta With Meatballs",
+    "description": "Served with a side salad & fresh Italian bread.",
+    "price": "$17.49",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Pasta With Sausage",
+    "description": "Served with a side salad & fresh Italian bread.",
+    "price": "$17.49",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Pasta With Garlic & Oil",
+    "description": "Served with a side salad & fresh Italian bread.",
+    "price": "$14.49",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Pasta With Chicken & Broccoli",
+    "description": "With Garlic & Oil.Served with a side salad & fresh Italian bread.",
+    "price": "$18.49",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Pasta Alla  Vodka",
+    "description": "With vodka sauce. Served with a side salad & fresh Italian bread.",
+    "price": "$17.49",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Pasta Alfredo",
+    "description": "With alfredo sauce.Served with a side salad & fresh Italian bread.",
+    "price": "$17.49",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Pasta With Pesto",
+    "description": "With Pesto sauce.Served with a side salad & fresh Italian bread.",
+    "price": "$17.49",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Pasta With Clam Sauce",
+    "description": "With White Clam Sauce.Served with a side salad & fresh Italian bread.",
+    "price": "$17.99",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Tortellini Marinara",
+    "description": "Served with a side salad & fresh Italian bread.",
+    "price": "$17.49",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Linguini",
+    "description": "with white clam sauce",
+    "price": "$18.49",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Bucatini  Carbonara",
+    "description": "Served with a side salad & fresh Italian bread.",
+    "price": "$17.49",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Riggies",
+    "description": "Utica's classic chicken, peppers, onions, olives, rigatoni, and vodka sauce.Served with a side salad & fresh Italian bread.",
+    "price": "$18.49",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Emilio's Rigatoni",
+    "description": "Sautéed chicken & sausage, peppers, mushrooms, onions, in our special sauce.Served with a side salad & fresh Italian bread.",
+    "price": "$18.49",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Baked Ziti",
+    "description": "Ziti with mozzarella and tomato sauce baked to perfection in our oven.Served with a side salad & fresh Italian bread.",
+    "price": "$16.49",
+    "section": "Oven Baked Macaroni",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Manicotti",
+    "description": "A large tube of fresh pasta stuffed with a blend of soft cheese.Served with a side salad & fresh Italian bread.",
+    "price": "$16.49",
+    "section": "Oven Baked Macaroni",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Stuffed Shells",
+    "description": "Classic ricotta stuffed shells with flavorful three cheese ricotta filling and delicious marinara sauce.Served with a side salad & fresh Italian bread.",
+    "price": "$16.49",
+    "section": "Oven Baked Macaroni",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Cheese Ravioli",
+    "description": "Ravioli stuffed with classic cheese.Served with a side salad & fresh Italian bread.",
+    "price": "$16.49",
+    "section": "Oven Baked Macaroni",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Homemade Lasagna",
+    "description": "Stacked layers of pasta packed with meat and cheese, covered in red sauce. Pro tip: Go for the crispy edge pieces.Served with a side salad & fresh Italian bread.",
+    "price": "$17.49",
+    "section": "Oven Baked Macaroni",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Meatball Parmigiana",
+    "description": "Served with Pasta ,side salad  & fresh Italian bread.",
+    "price": "$18.99",
+    "section": "Dinners",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Sausage Parmigiana",
+    "description": "Served with Pasta ,Side salad & fresh Italian bread.",
+    "price": "$19.99",
+    "section": "Dinners",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Sausage & Peppers",
+    "description": "Served with Pasta ,Side salad & fresh Italian bread.",
+    "price": "$19.99",
+    "section": "Dinners",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Eggplant Parmigiana",
+    "description": "Breaded eggplant topped with mozzarella cheese & tomato sauce served with pasta.",
+    "price": "$18.99",
+    "section": "Dinners",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Eggplant  Rollatini",
+    "description": "Sliced eggplant rolled & stuffed with ricotta & mozzarella topped with marinara.Served with Pasta ,Side salad & fresh Italian bread.",
+    "price": "$18.99",
+    "section": "Dinners",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Shrimp  Parmigiana",
+    "description": "Served with Pasta ,Side salad & fresh Italian bread.",
+    "price": "$19.99",
+    "section": "Dinners",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Shrimp  Scampi",
+    "description": "Served with Pasta ,Side salad & fresh Italian bread.",
+    "price": "$19.99",
+    "section": "Dinners",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Parmigiana",
+    "description": "Served with Pasta ,Side salad & fresh Italian bread.",
+    "price": "$19.99",
+    "section": "Dinners",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken  Sorrento",
+    "description": "Chicken & eggplant parmigiana layered together.",
+    "price": "$19.99",
+    "section": "Dinners",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Marsala",
+    "description": "Breaded chicken sauteed with mushrooms in a marsala wine sauce served with your choice of pasta.",
+    "price": "$19.99",
+    "section": "Dinners",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Piccata",
+    "description": "Sautéed chicken with a brown lemon butter sauce & capers.Served with Pasta ,Side salad & fresh Italian bread.",
+    "price": "$19.99",
+    "section": "Dinners",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Francese",
+    "description": "Sautéed chicken in a lemon butter sauce.Served with Pasta ,Side salad & fresh Italian bread.",
+    "price": "$19.99",
+    "section": "Dinners",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Shrimp  Nicole",
+    "description": "Battered shrimp in a lemon sauce with tomatoes and onions over spaghetti. Served with Pasta ,Side salad & fresh Italian bread.",
+    "price": "$19.99",
+    "section": "Dinners",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Italian  Cannoli",
+    "description": "Delicious tube of fried dough, filled with a sweet, creamy ricotta filling.",
+    "price": "$4.49",
+    "section": "Desserts",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Schenectady Famous Blue Ribbon Cheesecake",
+    "description": null,
+    "price": "$6.99",
+    "section": "Desserts",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Fried Dough",
+    "description": null,
+    "price": "$5.99",
+    "section": "Desserts",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Brownie",
+    "description": null,
+    "price": "$5.00",
+    "section": "Desserts",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Cookie",
+    "description": null,
+    "price": "$4.50",
+    "section": "Desserts",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Lemon Drop Cookies",
+    "description": null,
+    "price": "$8.99",
+    "section": "Desserts",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Spaghetti With Meatballs Lunch",
+    "description": "Served in a dish with fresh Italian bread.",
+    "price": "$10.99",
+    "section": "Lunch Menu",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Stuffed Shells Lunch",
+    "description": "Served in a dish with fresh Italian bread.",
+    "price": "$10.99",
+    "section": "Lunch Menu",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Baked Ziti Lunch",
+    "description": "Ziti with mozzarella and tomato sauce baked to perfection in our oven.Served in a dish with fresh Italian bread.",
+    "price": "$10.99",
+    "section": "Lunch Menu",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Manicotti Lunch",
+    "description": "A large tube of fresh pasta stuffed with a blend of soft cheese.Served in a dish with fresh Italian bread.",
+    "price": "$10.99",
+    "section": "Lunch Menu",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Ravioli Lunch",
+    "description": "Served in a dish with fresh Italian bread.",
+    "price": "$10.99",
+    "section": "Lunch Menu",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Cutlet Parmigiana Lunch",
+    "description": "Breaded chicken tossed in marinara sauce and covered with cheese.Served in a dish with fresh Italian bread.",
+    "price": "$10.99",
+    "section": "Lunch Menu",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Eggplant  Parmigiana Lunch",
+    "description": "Breaded eggplant topped with mozzarella cheese & tomato sauce. Served in a dish with fresh Italian bread.",
+    "price": "$10.99",
+    "section": "Lunch Menu",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Soda (20oz)",
+    "description": "We carry Pepsi products. Please mention soda in description.",
+    "price": "$2.50",
+    "section": "Beverages",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Soda 2liter",
+    "description": "We carry pepsi products. Please mention choice in notes.",
+    "price": "$3.75",
+    "section": "Beverages",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Gatorade",
+    "description": null,
+    "price": "$2.50",
+    "section": "Beverages",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Snapple",
+    "description": null,
+    "price": "$2.50",
+    "section": "Beverages",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Water",
+    "description": null,
+    "price": "$2.50",
+    "section": "Beverages",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Italian Garden Catering",
+    "description": null,
+    "price": "Half (Serves 8-10 people) $30.00 | Full (Serves 16-20 people) $50.00",
+    "section": "Salads",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Assorted Cold Antipasto Catering",
+    "description": null,
+    "price": "Half (Serves 8-10 people) $50.00 | Full (Serves 16-20 people) $80.00",
+    "section": "Salads",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Baked Ziti Catering",
+    "description": null,
+    "price": "Half (Serves 8-10 People) $45.00 | Full (Serves 16-20 People) $80.00",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Manicotti Catering",
+    "description": null,
+    "price": "Half (Serves 8-10 People) $45.00 | Full (Serves 16-20 People) $80.00",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Stuffed Shells Catering",
+    "description": null,
+    "price": "Half (Serves 8-10 People) $45.00 | Full (Serves 16-20 People) $80.00",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Lasagna Catering",
+    "description": null,
+    "price": "Half (Serves 8-10 People) $55.00 | Full (Serves 16-20 People) $100.00",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Penne Ala Vodka Catering",
+    "description": null,
+    "price": "Half (Serves 8-10 People) $55.00 | Full (Serves 16-20 People) $100.00",
+    "section": "Pasta",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Sausage and Peppers Catering",
+    "description": null,
+    "price": "Half (Serves 8-10 People) $55.00 | Full (Serves 16-20 People) $100.00",
+    "section": "Entrees",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Eggplant Parm Catering",
+    "description": null,
+    "price": "Half (Serves 8-10 People) $55.00 | Full (Serves 16-20 People) $100.00",
+    "section": "Entrees",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Eggplant Rollatini Catering",
+    "description": null,
+    "price": "Half (Serves 8-10 People) $55.00 | Full (Serves 16-20 People) $100.00",
+    "section": "Entrees",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Parm Catering",
+    "description": null,
+    "price": "Half (Serves 8-10 People) $55.00 | Full (Serves 16-20 People) $100.00",
+    "section": "Entrees",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Cacciatore Catering",
+    "description": null,
+    "price": "Half (Serves 8-10 People) $60.00 | Full (Serves 16-20 People) $110.00",
+    "section": "Entrees",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Marsala Catering",
+    "description": null,
+    "price": "Half (Serves 8-10 People) $60.00 | Full (Serves 16-20 People) $110.00",
+    "section": "Entrees",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Chicken Francaise Catering",
+    "description": null,
+    "price": "Half (Serves 8-10 People) $60.00 | Full (Serves 16-20 People) $110.00",
+    "section": "Entrees",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Roasted Chicken & Potatoes Catering",
+    "description": null,
+    "price": "Half (Serves 8-10 People) $60.00 | Full (Serves 16-20 People) $110.00",
+    "section": "Entrees",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Cold Cuts Catering (18 Tray)",
+    "description": null,
+    "price": "$100.00",
+    "section": "Platters",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Sub Platter Catering (Per Sub)",
+    "description": null,
+    "price": "$9.99",
+    "section": "Platters",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  },
+  {
+    "name": "Stuffed Breads Catering",
+    "description": null,
+    "price": "$55.00",
+    "section": "Platters",
+    "restaurant_name": "West Avenue Pizzeria",
+    "restaurant_url": "https://www.westavepizza.com/"
+  }
+]
